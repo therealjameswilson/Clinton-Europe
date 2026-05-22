@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-05-22T20:28:28.396Z",
+  "collections": [
+    {
+      "id": "255",
+      "title": "Memcons - Memoranda of Conversation",
+      "url": "https://clinton.presidentiallibraries.us/collections/show/255",
+      "type": "Memcon"
+    },
+    {
+      "id": "256",
+      "title": "Telcons - Memoranda of Telephone Conversations",
+      "url": "https://clinton.presidentiallibraries.us/collections/show/256",
+      "type": "Telcon"
+    }
+  ],
+  "collectionItemCount": 478,
+  "europeRelevantCount": 436,
+  "missingPdfCount": 10,
+  "missingDateCount": 0,
+  "failures": []
+}

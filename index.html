@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FRUS 1993-2000 Europe Assister</title>
+    <meta
+      name="description"
+      content="A compiler-facing research assister for FRUS 1993-2000 Volumes XXII, XXIII, and XXIV on Clinton-era Europe."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="FRUS Clinton Europe assister home">
+        <span class="brand-mark">42</span>
+        <span>Clinton Europe FRUS Assister</span>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#volumes">Volumes</a>
+        <a href="#statements">Statements</a>
+        <a href="#desk">Desk</a>
+        <a href="#records">Records</a>
+        <a href="#sources">Sources</a>
+        <a href="#ingest">Ingest</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="kicker">FRUS 1993-2000, Europe</p>
+          <h1 id="hero-title">A working desk for Volumes XXII, XXIII, and XXIV</h1>
+          <p class="lede">
+            A GitHub Pages research assistant for Clinton-era Europe: high-level contacts,
+            public statements, policy records, source-note reconciliation, declassification
+            tracking, and date-ordered review of Clinton Digital Library memcons and telcons.
+          </p>
+          <div class="hero-actions" aria-label="Primary actions">
+            <a class="button primary" href="#records">Browse Candidate Records</a>
+            <a class="button secondary" href="#desk">Open Compiler Desk</a>
+          </div>
+        </div>
+        <aside class="brief visual-brief" aria-label="Archive scope">
+          <img
+            class="archive-map"
+            src="assets/clinton-europe-archive-map.svg"
+            alt="Stylized archival map of Europe with markers for high-level contacts, NATO and European policy, and late-1990s policy records"
+          />
+          <p class="brief-label">Assister Scope</p>
+          <dl>
+            <div>
+              <dt>Administration</dt>
+              <dd>Clinton, 1993-2000</dd>
+            </div>
+            <div>
+              <dt>FRUS Volumes</dt>
+              <dd>XXII, XXIII, XXIV</dd>
+            </div>
+            <div>
+              <dt>Primary Corpus</dt>
+              <dd>Memcons, telcons, statements</dd>
+            </div>
+            <div>
+              <dt>Arrangement</dt>
+              <dd>Volume, section, date</dd>
+            </div>
+          </dl>
+        </aside>
+      </section>
+
+      <section class="stats" aria-label="Assister summary">
+        <div>
+          <span id="total-records">0</span>
+          <p>candidate records</p>
+        </div>
+        <div>
+          <span id="pdf-linked-count">0</span>
+          <p>records with PDF links</p>
+        </div>
+        <div>
+          <span id="high-level-count">0</span>
+          <p>high-level contact leads</p>
+        </div>
+        <div>
+          <span id="source-gap-count">0</span>
+          <p>FRUS source-note reviews</p>
+        </div>
+      </section>
+
+      <section class="section" id="volumes" aria-labelledby="volumes-title">
+        <div class="section-heading">
+          <p class="kicker">Official Volume Anchors</p>
+          <h2 id="volumes-title">The Three Europe Targets</h2>
+        </div>
+        <div id="volume-root" class="volume-grid" aria-live="polite">
+          <p class="loading">Loading volume anchors...</p>
+        </div>
+      </section>
+
+      <section class="section statements-section" id="statements" aria-labelledby="statements-title">
+        <div class="section-heading">
+          <p class="kicker">GovInfo Public Papers</p>
+          <h2 id="statements-title">Clinton Public Statements on Europe</h2>
+        </div>
+        <p class="records-intro">
+          Key presidential speeches, statements, news conferences, messages, and joint
+          declarations are harvested from GovInfo Public Papers and mapped to the three
+          FRUS Europe volumes as public context for documentary selection.
+        </p>
+        <div id="statements-root" class="statements-root" aria-live="polite">
+          <p class="loading">Loading public statements...</p>
+        </div>
+      </section>
+
+      <section class="section browse-section" id="desk" aria-labelledby="desk-title">
+        <div class="section-heading">
+          <p class="kicker">FRUS Compiler Desk</p>
+          <h2 id="desk-title">Selection and Declassification Control</h2>
+        </div>
+        <p class="records-intro">
+          The desk translates declassified Clinton Library item pages into a reviewable
+          FRUS working set: volume placement, date span, PDF availability, country/section
+          assignment, and records that still need an archival source-note pass.
+        </p>
+        <div id="desk-root" class="desk-root" aria-live="polite">
+          <p class="loading">Loading compiler metrics...</p>
+        </div>
+      </section>
+
+      <section class="section records-section" id="records" aria-labelledby="records-title">
+        <div class="section-heading">
+          <p class="kicker">Chronological Files</p>
+          <h2 id="records-title">Candidate Records</h2>
+        </div>
+        <p class="records-intro">
+          Records are harvested from the Clinton Digital Library memcon and telcon collections,
+          filtered for Europe-relevant titles or subject headings, then grouped by research
+          section and sorted by the document date shown on the item page.
+        </p>
+        <div class="records-tools" aria-label="Search and filter records">
+          <label class="search-field">
+            <span>Search records</span>
+            <input
+              id="record-search"
+              type="search"
+              placeholder="Search leaders, countries, subjects, item IDs, source notes"
+            />
+          </label>
+          <label>
+            <span>Volume</span>
+            <select id="volume-filter"></select>
+          </label>
+          <label>
+            <span>Section</span>
+            <select id="section-filter"></select>
+          </label>
+          <label>
+            <span>Type</span>
+            <select id="type-filter"></select>
+          </label>
+          <label>
+            <span>Queue</span>
+            <select id="queue-filter"></select>
+          </label>
+          <button id="clear-filters" type="button">Reset</button>
+          <p id="records-summary" class="records-summary">Loading record index...</p>
+        </div>
+        <div id="records-root" class="records-root" aria-live="polite">
+          <p class="loading">Loading candidate records...</p>
+        </div>
+      </section>
+
+      <section class="section source-section" id="sources" aria-labelledby="sources-title">
+        <div class="section-heading">
+          <p class="kicker">Official Anchors</p>
+          <h2 id="sources-title">Primary Source Paths</h2>
+        </div>
+        <div class="source-list">
+          <a href="https://history.state.gov/historicaldocuments/frus1993-00v22" rel="noreferrer">
+            FRUS 1993-2000 Volume XXII: Europe, High-Level Contacts
+          </a>
+          <a href="https://history.state.gov/historicaldocuments/frus1993-00v23" rel="noreferrer">
+            FRUS 1993-2000 Volume XXIII: Europe, Policy, 1993-1996
+          </a>
+          <a href="https://history.state.gov/historicaldocuments/frus1993-00v24" rel="noreferrer">
+            FRUS 1993-2000 Volume XXIV: Europe, Policy, 1997-2000
+          </a>
+          <a href="https://clinton.presidentiallibraries.us/collections/show/255" rel="noreferrer">
+            Clinton Digital Library: Memcons
+          </a>
+          <a href="https://clinton.presidentiallibraries.us/collections/show/256" rel="noreferrer">
+            Clinton Digital Library: Telcons
+          </a>
+          <a href="https://clinton.presidentiallibraries.us/foreign-leaders-meetings-calls" rel="noreferrer">
+            Clinton meetings and calls with foreign leaders
+          </a>
+          <a href="https://www.govinfo.gov/app/collection/ppp/president-42_Clinton,%20William%20J." rel="noreferrer">
+            GovInfo Public Papers: William J. Clinton
+          </a>
+          <a href="https://www.clintonlibrary.gov/research/guide" rel="noreferrer">
+            Clinton Presidential Library research guide
+          </a>
+          <a href="https://catalog.archives.gov/" rel="noreferrer">
+            National Archives Catalog
+          </a>
+        </div>
+      </section>
+
+      <section class="section ingest-section" id="ingest" aria-labelledby="ingest-title">
+        <div class="section-heading">
+          <p class="kicker">Build Plan</p>
+          <h2 id="ingest-title">Ingest Checklist</h2>
+        </div>
+        <ol class="timeline">
+          <li>
+            <span class="step-number">01</span>
+            <span>Run the Clinton Digital Library harvester and review any blocked, missing-date, or missing-PDF records.</span>
+          </li>
+          <li>
+            <span class="step-number">02</span>
+            <span>Assign each record to Volume XXII and its date-band policy cross-reference, XXIII or XXIV.</span>
+          </li>
+          <li>
+            <span class="step-number">03</span>
+            <span>Reconcile item-level source notes to FRUS-style archival paths using the visible PDF cover sheet and collection trail.</span>
+          </li>
+          <li>
+            <span class="step-number">04</span>
+            <span>Split regional records into country, NATO/EU, Balkans, Central Europe, and cross-volume review sections.</span>
+          </li>
+          <li>
+            <span class="step-number">05</span>
+            <span>Track withheld, partial, duplicate, and later-opened records in the queue filter before drafting a documentary chronology.</span>
+          </li>
+        </ol>
+      </section>
+    </main>
+
+    <footer>
+      <p>Published with GitHub Pages.</p>
+      <a href="https://github.com/therealjameswilson/Clinton-Europe">Repository</a>
+    </footer>
+    <script src="data/volumes.js"></script>
+    <script src="data/records.js"></script>
+    <script src="data/public-statements.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

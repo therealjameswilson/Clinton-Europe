@@ -1,0 +1,647 @@
+const VOLUMES = window.CLINTON_EUROPE_VOLUMES || [];
+const RECORDS = window.CLINTON_EUROPE_RECORDS || [];
+const PUBLIC_STATEMENTS = window.CLINTON_EUROPE_PUBLIC_STATEMENTS || [];
+
+const SECTION_ORDER = [
+  "United Kingdom",
+  "France",
+  "Germany",
+  "Italy",
+  "NATO and EU",
+  "Balkans",
+  "Central Europe",
+  "Russia and FSU Cross-Reference",
+  "Regional"
+];
+
+const STATEMENT_SECTION_ORDER = [
+  "NATO and European Security",
+  "Balkans and Kosovo",
+  "EU and Transatlantic",
+  "Central and Eastern Europe",
+  "Northern Ireland",
+  "Western Europe Bilateral",
+  "Russia Cross-Reference"
+];
+
+const QUEUE_OPTIONS = [
+  ["", "All queues"],
+  ["source-note", "FRUS source note review"],
+  ["pdf-missing", "PDF missing"],
+  ["date-missing", "Date missing"],
+  ["cross-volume", "Cross-volume review"],
+  ["balkans-volume-check", "Balkans volume check"],
+  ["russia-fsu-review", "Russia/FSU review"]
+];
+
+const volumeRoot = document.querySelector("#volume-root");
+const statementsRoot = document.querySelector("#statements-root");
+const deskRoot = document.querySelector("#desk-root");
+const recordsRoot = document.querySelector("#records-root");
+const totalRecords = document.querySelector("#total-records");
+const pdfLinkedCount = document.querySelector("#pdf-linked-count");
+const highLevelCount = document.querySelector("#high-level-count");
+const sourceGapCount = document.querySelector("#source-gap-count");
+const searchInput = document.querySelector("#record-search");
+const volumeFilter = document.querySelector("#volume-filter");
+const sectionFilter = document.querySelector("#section-filter");
+const typeFilter = document.querySelector("#type-filter");
+const queueFilter = document.querySelector("#queue-filter");
+const clearFilters = document.querySelector("#clear-filters");
+const recordsSummary = document.querySelector("#records-summary");
+
+const volumeById = new Map(VOLUMES.map((volume) => [volume.id, volume]));
+
+function formatDate(dateString) {
+  if (!dateString) return "Date pending";
+  const date = new Date(`${dateString}T00:00:00Z`);
+  if (Number.isNaN(date.getTime())) return dateString;
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+    timeZone: "UTC"
+  }).format(date);
+}
+
+function shortDate(dateString) {
+  return formatDate(dateString);
+}
+
+function uniqueSorted(values) {
+  return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b));
+}
+
+function uniqueInOrder(values) {
+  const seen = new Set();
+  return values.filter((value) => {
+    if (!value || seen.has(value)) return false;
+    seen.add(value);
+    return true;
+  });
+}
+
+function sectionRank(section) {
+  const index = SECTION_ORDER.indexOf(section);
+  return index === -1 ? SECTION_ORDER.length : index;
+}
+
+function bySectionThenDate(a, b) {
+  return (
+    sectionRank(a.section) - sectionRank(b.section) ||
+    (a.sortDate || a.date || "").localeCompare(b.sortDate || b.date || "") ||
+    (a.title || "").localeCompare(b.title || "")
+  );
+}
+
+function primaryStatementSection(statement) {
+  return statement.sections?.[0] || "Review";
+}
+
+function statementSectionRank(section) {
+  const index = STATEMENT_SECTION_ORDER.indexOf(section);
+  return index === -1 ? STATEMENT_SECTION_ORDER.length : index;
+}
+
+function byStatementSectionThenDate(a, b) {
+  const aSection = primaryStatementSection(a);
+  const bSection = primaryStatementSection(b);
+  return (
+    statementSectionRank(aSection) - statementSectionRank(bSection) ||
+    (a.date || "").localeCompare(b.date || "") ||
+    (a.title || "").localeCompare(b.title || "")
+  );
+}
+
+function displayVolume(record) {
+  return (record.volumeIds || [])
+    .map((id) => volumeById.get(id)?.number || id)
+    .join(", ");
+}
+
+function addOptions(select, values, label) {
+  if (!select) return;
+  select.replaceChildren(new Option(label, ""), ...values.map((value) => new Option(value, value)));
+}
+
+function renderVolumes() {
+  if (!volumeRoot) return;
+  const cards = VOLUMES.map((volume) => {
+    const card = document.createElement("a");
+    card.className = "volume-card";
+    card.href = volume.url;
+    card.rel = "noreferrer";
+
+    const number = document.createElement("p");
+    number.className = "volume-number";
+    number.textContent = `Volume ${volume.number}`;
+
+    const title = document.createElement("h3");
+    title.textContent = volume.title;
+
+    const subtitle = document.createElement("p");
+    subtitle.textContent = volume.subtitle;
+
+    const status = document.createElement("span");
+    status.className = `volume-status ${/planned/i.test(volume.status) ? "planned" : ""}`;
+    status.textContent = volume.status;
+
+    const role = document.createElement("p");
+    role.textContent = volume.role;
+
+    const focus = document.createElement("div");
+    focus.className = "volume-focus";
+    for (const item of volume.focus || []) {
+      const chip = document.createElement("span");
+      chip.textContent = item;
+      focus.append(chip);
+    }
+
+    card.append(number, title, subtitle, status, role, focus);
+    return card;
+  });
+  volumeRoot.replaceChildren(...cards);
+}
+
+function statementCode(statement, index) {
+  return `PS ${String(index + 1).padStart(3, "0")}`;
+}
+
+function createStatementRow(statement, index) {
+  const row = document.createElement("article");
+  row.className = "statement-row";
+
+  const dateStack = document.createElement("div");
+  dateStack.className = "record-date-stack";
+
+  const number = document.createElement("span");
+  number.className = "record-doc-number";
+  number.textContent = statementCode(statement, index);
+
+  const date = document.createElement("time");
+  date.className = "record-date";
+  if (statement.date) date.dateTime = statement.date;
+  date.textContent = shortDate(statement.date);
+  dateStack.append(number, date);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = statement.detailsUrl || statement.textUrl || statement.pdfUrl || "#";
+  title.rel = "noreferrer";
+  title.textContent = statement.title;
+
+  const sourceLine = document.createElement("p");
+  sourceLine.className = "record-source-line";
+  sourceLine.textContent = `GovInfo Public Papers / ${statement.packageId || "Clinton"}`;
+
+  const note = document.createElement("p");
+  note.className = "record-note";
+  note.textContent =
+    statement.notes ||
+    "Public statement flagged for comparison with the FRUS documentary chronology.";
+
+  const meta = createChipList(
+    [
+      statement.priority ? `${statement.priority} priority` : "",
+      ...(statement.sections || []),
+      displayVolume(statement) ? `Vol. ${displayVolume(statement)}` : ""
+    ],
+    "record-meta",
+    10
+  );
+
+  const topics = createChipList(statement.topics || [], "record-topics", 8);
+  body.append(title, sourceLine, note, meta, topics);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  for (const [label, url] of [
+    ["Details", statement.detailsUrl],
+    ["Text", statement.textUrl],
+    ["PDF", statement.pdfUrl]
+  ]) {
+    if (!url) continue;
+    const link = document.createElement("a");
+    link.href = url;
+    link.rel = "noreferrer";
+    link.textContent = label;
+    links.append(link);
+  }
+
+  row.append(dateStack, body, links);
+  return row;
+}
+
+function renderStatements() {
+  if (!statementsRoot) return;
+
+  if (!PUBLIC_STATEMENTS.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-section";
+    empty.textContent =
+      "No public statements have been generated yet. Run node scripts/harvest-clinton-public-statements.js to build the dataset.";
+    statementsRoot.replaceChildren(empty);
+    return;
+  }
+
+  const sorted = [...PUBLIC_STATEMENTS].sort(byStatementSectionThenDate);
+  const statementNumbers = new Map(sorted.map((statement, index) => [statement.id, index]));
+  const sectionNames = uniqueInOrder([
+    ...STATEMENT_SECTION_ORDER,
+    ...sorted.map(primaryStatementSection)
+  ]).filter((section) => sorted.some((statement) => primaryStatementSection(statement) === section));
+
+  const sections = sectionNames.map((sectionName) => {
+    const sectionStatements = sorted.filter(
+      (statement) => primaryStatementSection(statement) === sectionName
+    );
+    const section = document.createElement("section");
+    section.className = "record-section statement-section";
+    section.id = `statements-${sectionName.toLowerCase().replaceAll(" ", "-").replaceAll("/", "-")}`;
+
+    const header = document.createElement("div");
+    header.className = "record-section-header";
+    const heading = document.createElement("h3");
+    heading.textContent = sectionName;
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${sectionStatements.length} statements`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list statement-list";
+    for (const statement of sectionStatements) {
+      list.append(createStatementRow(statement, statementNumbers.get(statement.id) || 0));
+    }
+
+    section.append(header, list);
+    return section;
+  });
+
+  statementsRoot.replaceChildren(...sections);
+}
+
+function prepareRecords(records) {
+  return [...records]
+    .sort(bySectionThenDate)
+    .map((record, index) => ({
+      ...record,
+      compilerNumber: `CE ${String(index + 1).padStart(3, "0")}`
+    }));
+}
+
+let allRecords = prepareRecords(RECORDS);
+
+function populateFilters(records) {
+  addOptions(
+    volumeFilter,
+    VOLUMES.map((volume) => volume.id),
+    "All volumes"
+  );
+  if (volumeFilter) {
+    [...volumeFilter.options].forEach((option) => {
+      if (!option.value) return;
+      option.textContent = `Volume ${volumeById.get(option.value)?.number || option.value}`;
+    });
+  }
+  addOptions(sectionFilter, uniqueInOrder([...SECTION_ORDER, ...records.map((record) => record.section)]), "All sections");
+  addOptions(typeFilter, uniqueSorted(records.map((record) => record.type)), "All types");
+  if (queueFilter) {
+    queueFilter.replaceChildren(...QUEUE_OPTIONS.map(([value, label]) => new Option(label, value)));
+  }
+}
+
+function recordSearchText(record) {
+  return [
+    record.compilerNumber,
+    record.title,
+    record.type,
+    record.section,
+    record.releaseStatus,
+    record.itemId,
+    record.collection,
+    record.sourceNote,
+    record.notes,
+    displayVolume(record),
+    ...(record.countries || []),
+    ...(record.subjects || []),
+    ...(record.topics || []),
+    ...(record.queues || [])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function filterRecords(records) {
+  const query = searchInput?.value.trim().toLowerCase() || "";
+  const volume = volumeFilter?.value || "";
+  const section = sectionFilter?.value || "";
+  const type = typeFilter?.value || "";
+  const queue = queueFilter?.value || "";
+
+  return records.filter((record) => {
+    if (volume && !(record.volumeIds || []).includes(volume)) return false;
+    if (section && record.section !== section) return false;
+    if (type && record.type !== type) return false;
+    if (queue && !(record.queues || []).includes(queue)) return false;
+    return !query || recordSearchText(record).includes(query);
+  });
+}
+
+function setStats(records) {
+  const pdfs = records.filter((record) => record.pdfUrl).length;
+  const highLevel = records.filter((record) => (record.volumeIds || []).includes("frus1993-00v22")).length;
+  const sourceGaps = records.filter((record) => (record.queues || []).includes("source-note")).length;
+  if (totalRecords) totalRecords.textContent = records.length.toString();
+  if (pdfLinkedCount) pdfLinkedCount.textContent = pdfs.toString();
+  if (highLevelCount) highLevelCount.textContent = highLevel.toString();
+  if (sourceGapCount) sourceGapCount.textContent = sourceGaps.toString();
+}
+
+function createMetric(label, value, detail) {
+  const card = document.createElement("article");
+  card.className = "desk-card";
+  const valueNode = document.createElement("strong");
+  valueNode.textContent = value;
+  const labelNode = document.createElement("span");
+  labelNode.textContent = label;
+  const detailNode = document.createElement("p");
+  detailNode.textContent = detail;
+  card.append(valueNode, labelNode, detailNode);
+  return card;
+}
+
+function countBy(records, getter) {
+  const counts = new Map();
+  for (const record of records) {
+    const key = getter(record) || "Unspecified";
+    counts.set(key, (counts.get(key) || 0) + 1);
+  }
+  return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+}
+
+function queueButton(queue, label, count) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "queue-button";
+  button.textContent = `${label} (${count})`;
+  button.addEventListener("click", () => {
+    if (queueFilter) queueFilter.value = queue;
+    updateRecordsView();
+    document.querySelector("#records")?.scrollIntoView({ block: "start" });
+  });
+  return button;
+}
+
+function renderDesk(records) {
+  if (!deskRoot) return;
+  const sorted = [...records].sort(bySectionThenDate);
+  const dateSpan = sorted.length
+    ? `${formatDate(sorted.find((record) => record.date)?.date)} to ${formatDate([...sorted].reverse().find((record) => record.date)?.date)}`
+    : "No dated records";
+  const pdfs = records.filter((record) => record.pdfUrl);
+  const sourceReview = records.filter((record) => (record.queues || []).includes("source-note"));
+  const dateMissing = records.filter((record) => (record.queues || []).includes("date-missing"));
+  const crossVolume = records.filter((record) => (record.queues || []).includes("cross-volume"));
+
+  const metrics = document.createElement("div");
+  metrics.className = "desk-metrics";
+  metrics.append(
+    createMetric("Candidate records", records.length.toString(), "Europe-relevant memcon and telcon leads in the working set."),
+    createMetric("PDF links", `${pdfs.length}/${records.length}`, "Direct Clinton Digital Library PDF references harvested from item pages."),
+    createMetric("Source reviews", sourceReview.length.toString(), "Records that still need FRUS-style archival source-note reconciliation."),
+    createMetric("Date span", dateSpan, "Chronological control uses the item-page document date.")
+  );
+
+  const queues = document.createElement("div");
+  queues.className = "desk-panel";
+  const queuesTitle = document.createElement("h3");
+  queuesTitle.textContent = "Queue Shortcuts";
+  const queueList = document.createElement("div");
+  queueList.className = "queue-buttons";
+  for (const [queue, label] of QUEUE_OPTIONS.filter(([value]) => value)) {
+    const count = records.filter((record) => (record.queues || []).includes(queue)).length;
+    queueList.append(queueButton(queue, label, count));
+  }
+  queues.append(queuesTitle, queueList);
+
+  const sections = document.createElement("div");
+  sections.className = "desk-panel";
+  const sectionsTitle = document.createElement("h3");
+  sectionsTitle.textContent = "Section Mix";
+  const sectionList = document.createElement("ol");
+  sectionList.className = "desk-list";
+  for (const [section, count] of countBy(records, (record) => record.section)) {
+    const item = document.createElement("li");
+    item.textContent = `${section}: ${count}`;
+    sectionList.append(item);
+  }
+  sections.append(sectionsTitle, sectionList);
+
+  const split = document.createElement("div");
+  split.className = "desk-panel desk-panel-wide";
+  const splitTitle = document.createElement("h3");
+  splitTitle.textContent = "Volume Placement";
+  const splitList = document.createElement("ol");
+  splitList.className = "desk-list";
+  for (const volume of VOLUMES) {
+    const count = records.filter((record) => (record.volumeIds || []).includes(volume.id)).length;
+    const item = document.createElement("li");
+    item.textContent = `Volume ${volume.number}, ${volume.title}: ${count} linked records`;
+    splitList.append(item);
+  }
+  const dateItem = document.createElement("li");
+  dateItem.textContent = `Date review queue: ${dateMissing.length}; cross-volume review queue: ${crossVolume.length}`;
+  splitList.append(dateItem);
+  split.append(splitTitle, splitList);
+
+  deskRoot.replaceChildren(metrics, queues, sections, split);
+}
+
+function createChipList(values, className, limit = 8) {
+  const list = document.createElement("div");
+  list.className = className;
+  for (const value of uniqueInOrder(values).slice(0, limit)) {
+    const item = document.createElement("span");
+    item.textContent = value;
+    list.append(item);
+  }
+  return list;
+}
+
+function createRecordRow(record) {
+  const row = document.createElement("article");
+  row.className = "record-row";
+
+  const dateStack = document.createElement("div");
+  dateStack.className = "record-date-stack";
+
+  const number = document.createElement("span");
+  number.className = "record-doc-number";
+  number.textContent = record.compilerNumber || "CE TBD";
+
+  const date = document.createElement("time");
+  date.className = "record-date";
+  if (record.date) date.dateTime = record.date;
+  date.textContent = shortDate(record.date);
+  dateStack.append(number, date);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = record.itemUrl || record.pdfUrl || "#";
+  title.rel = "noreferrer";
+  title.textContent = record.title;
+
+  const sourceLine = document.createElement("p");
+  sourceLine.className = "record-source-line";
+  sourceLine.textContent = `${record.collection || "Clinton Digital Library"} / ${record.itemId || "item pending"}`;
+
+  const note = document.createElement("p");
+  note.className = "record-note";
+  note.textContent = record.notes || `Assigned to ${record.section || "Regional"}; review volume placement before final selection.`;
+
+  const meta = createChipList(
+    [
+      record.type,
+      record.section,
+      displayVolume(record) ? `Vol. ${displayVolume(record)}` : "",
+      record.releaseStatus,
+      ...(record.countries || [])
+    ],
+    "record-meta",
+    10
+  );
+
+  const topics = createChipList([...(record.topics || []), ...(record.subjects || [])], "record-topics", 8);
+
+  const flags = createChipList((record.queues || []).map(queueLabel), "record-flags", 6);
+
+  const sourceNote = document.createElement("details");
+  sourceNote.className = "record-source-note";
+  const summary = document.createElement("summary");
+  summary.textContent = "Source note";
+  const sourceText = document.createElement("p");
+  sourceText.className = "record-frus-source-note";
+  sourceText.textContent = record.sourceNote || "Source note pending.";
+  const subjects = document.createElement("p");
+  subjects.textContent = record.subjects?.length
+    ? `Subject headings: ${record.subjects.join("; ")}.`
+    : "Subject headings pending.";
+  sourceNote.append(summary, sourceText, subjects);
+
+  body.append(title, sourceLine, note, meta, topics, flags, sourceNote);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  for (const [label, url] of [
+    ["Item", record.itemUrl],
+    ["PDF", record.pdfUrl],
+    ["Collection", record.collectionUrl],
+    ["FRUS XXII", volumeById.get("frus1993-00v22")?.url],
+    ["Policy Vol.", record.policyVolumeId ? volumeById.get(record.policyVolumeId)?.url : ""]
+  ]) {
+    if (!url) continue;
+    const link = document.createElement("a");
+    link.href = url;
+    link.rel = "noreferrer";
+    link.textContent = label;
+    links.append(link);
+  }
+
+  row.append(dateStack, body, links);
+  return row;
+}
+
+function queueLabel(queue) {
+  return QUEUE_OPTIONS.find(([value]) => value === queue)?.[1] || queue;
+}
+
+function renderRecords(records) {
+  if (!recordsRoot) return;
+  recordsRoot.replaceChildren();
+
+  if (!records.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-section";
+    empty.textContent = allRecords.length
+      ? "No records match the current search or filters."
+      : "No records have been generated yet. Run node scripts/harvest-clinton-digital-library.js to build the first dataset.";
+    recordsRoot.append(empty);
+    return;
+  }
+
+  const selectedSection = sectionFilter?.value || "";
+  const sectionsToRender = selectedSection
+    ? [selectedSection]
+    : uniqueInOrder([...SECTION_ORDER, ...records.map((record) => record.section)]).filter((section) =>
+        records.some((record) => record.section === section)
+      );
+
+  for (const sectionName of sectionsToRender) {
+    const sectionRecords = records.filter((record) => record.section === sectionName);
+    if (!sectionRecords.length && !selectedSection) continue;
+
+    const section = document.createElement("section");
+    section.className = "record-section";
+    section.id = `section-${sectionName.toLowerCase().replaceAll(" ", "-").replaceAll("/", "-")}`;
+
+    const header = document.createElement("div");
+    header.className = "record-section-header";
+    const heading = document.createElement("h3");
+    heading.textContent = sectionName;
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${sectionRecords.length} records`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list";
+    for (const record of sectionRecords.sort(bySectionThenDate)) {
+      list.append(createRecordRow(record));
+    }
+
+    section.append(header, list);
+    recordsRoot.append(section);
+  }
+}
+
+function updateSummary(records) {
+  if (!recordsSummary) return;
+  const volume = volumeFilter?.selectedOptions?.[0]?.textContent || "All volumes";
+  const queue = queueFilter?.selectedOptions?.[0]?.textContent || "All queues";
+  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${queue}`;
+}
+
+function updateRecordsView() {
+  const filtered = filterRecords(allRecords).sort(bySectionThenDate);
+  updateSummary(filtered);
+  renderRecords(filtered);
+  renderDesk(allRecords);
+  setStats(allRecords);
+}
+
+function enableFilters() {
+  for (const control of [searchInput, volumeFilter, sectionFilter, typeFilter, queueFilter]) {
+    control?.addEventListener("input", updateRecordsView);
+    control?.addEventListener("change", updateRecordsView);
+  }
+
+  clearFilters?.addEventListener("click", () => {
+    if (searchInput) searchInput.value = "";
+    if (volumeFilter) volumeFilter.value = "";
+    if (sectionFilter) sectionFilter.value = "";
+    if (typeFilter) typeFilter.value = "";
+    if (queueFilter) queueFilter.value = "";
+    updateRecordsView();
+    searchInput?.focus();
+  });
+}
+
+renderVolumes();
+renderStatements();
+populateFilters(allRecords);
+enableFilters();
+updateRecordsView();
