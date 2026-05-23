@@ -148,4 +148,6 @@ Then open <http://127.0.0.1:4182/>.
 
 This repository includes a GitHub Pages workflow at
 `.github/workflows/deploy-pages.yml`. After pushing to `main`, set the repository
-Pages source to GitHub Actions if it is not already selected.
+Pages source to GitHub Actions if it is not already selected. The repository
+also includes `.nojekyll` so the static data and report assets are served
+without Jekyll processing.
