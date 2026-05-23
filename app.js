@@ -1,6 +1,7 @@
 const VOLUMES = window.CLINTON_EUROPE_VOLUMES || [];
 const RECORDS = window.CLINTON_EUROPE_RECORDS || [];
 const PUBLIC_STATEMENTS = window.CLINTON_EUROPE_PUBLIC_STATEMENTS || [];
+const POTENTIAL_DOCUMENTS = window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS || [];
 
 const SECTION_ORDER = [
   "United Kingdom",
@@ -24,6 +25,12 @@ const STATEMENT_SECTION_ORDER = [
   "Russia Cross-Reference"
 ];
 
+const POTENTIAL_SOURCE_ORDER = [
+  "NARA Catalog 7388808",
+  "NARA Scout",
+  "Strobe Talbott FOIA"
+];
+
 const QUEUE_OPTIONS = [
   ["", "All queues"],
   ["source-note", "FRUS source note review"],
@@ -36,12 +43,20 @@ const QUEUE_OPTIONS = [
 
 const volumeRoot = document.querySelector("#volume-root");
 const statementsRoot = document.querySelector("#statements-root");
+const potentialDocumentsRoot = document.querySelector("#potential-documents-root");
 const deskRoot = document.querySelector("#desk-root");
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
 const pdfLinkedCount = document.querySelector("#pdf-linked-count");
 const highLevelCount = document.querySelector("#high-level-count");
 const sourceGapCount = document.querySelector("#source-gap-count");
+const potentialDocumentCount = document.querySelector("#potential-document-count");
+const documentSearch = document.querySelector("#document-search");
+const documentSourceFilter = document.querySelector("#document-source-filter");
+const documentVolumeFilter = document.querySelector("#document-volume-filter");
+const documentPriorityFilter = document.querySelector("#document-priority-filter");
+const clearDocumentFilters = document.querySelector("#clear-document-filters");
+const documentSummary = document.querySelector("#document-summary");
 const searchInput = document.querySelector("#record-search");
 const volumeFilter = document.querySelector("#volume-filter");
 const sectionFilter = document.querySelector("#section-filter");
@@ -54,6 +69,7 @@ const volumeById = new Map(VOLUMES.map((volume) => [volume.id, volume]));
 
 function formatDate(dateString) {
   if (!dateString) return "Date pending";
+  if (/^\d{4}$/.test(dateString)) return dateString;
   const date = new Date(`${dateString}T00:00:00Z`);
   if (Number.isNaN(date.getTime())) return dateString;
   return new Intl.DateTimeFormat("en-US", {
@@ -113,10 +129,34 @@ function byStatementSectionThenDate(a, b) {
   );
 }
 
+function priorityRank(priority) {
+  return { High: 0, Medium: 1, Review: 2, high: 0, medium: 1, review: 2 }[priority] ?? 3;
+}
+
+function potentialSourceRank(sourceType) {
+  const index = POTENTIAL_SOURCE_ORDER.indexOf(sourceType);
+  return index === -1 ? POTENTIAL_SOURCE_ORDER.length : index;
+}
+
+function byPotentialDocument(a, b) {
+  return (
+    potentialSourceRank(a.sourceType) - potentialSourceRank(b.sourceType) ||
+    priorityRank(a.priority) - priorityRank(b.priority) ||
+    (b.score || 0) - (a.score || 0) ||
+    (a.date || "9999").localeCompare(b.date || "9999") ||
+    (a.title || "").localeCompare(b.title || "")
+  );
+}
+
 function displayVolume(record) {
   return (record.volumeIds || [])
     .map((id) => volumeById.get(id)?.number || id)
     .join(", ");
+}
+
+function displayVolumeLabels(record) {
+  if (record.volumeLabels?.length) return record.volumeLabels.map((label) => label.replace("Volume ", "")).join(", ");
+  return displayVolume(record);
 }
 
 function addOptions(select, values, label) {
@@ -358,6 +398,7 @@ function setStats(records) {
   if (pdfLinkedCount) pdfLinkedCount.textContent = pdfs.toString();
   if (highLevelCount) highLevelCount.textContent = highLevel.toString();
   if (sourceGapCount) sourceGapCount.textContent = sourceGaps.toString();
+  if (potentialDocumentCount) potentialDocumentCount.textContent = POTENTIAL_DOCUMENTS.length.toString();
 }
 
 function createMetric(label, value, detail) {
@@ -469,6 +510,224 @@ function createChipList(values, className, limit = 8) {
     list.append(item);
   }
   return list;
+}
+
+function populateDocumentFilters(documents) {
+  addOptions(
+    documentSourceFilter,
+    uniqueInOrder([...POTENTIAL_SOURCE_ORDER, ...documents.map((item) => item.sourceType)]),
+    "All sources"
+  );
+  addOptions(
+    documentVolumeFilter,
+    VOLUMES.map((volume) => volume.id),
+    "All volumes"
+  );
+  if (documentVolumeFilter) {
+    [...documentVolumeFilter.options].forEach((option) => {
+      if (!option.value) return;
+      option.textContent = `Volume ${volumeById.get(option.value)?.number || option.value}`;
+    });
+  }
+  addOptions(documentPriorityFilter, uniqueSorted(documents.map((item) => item.priority)), "All priorities");
+}
+
+function potentialDocumentSearchText(item) {
+  return [
+    item.title,
+    item.date,
+    item.sourceType,
+    item.sourceRepository,
+    item.sourceCollection,
+    item.identifier,
+    item.naid,
+    item.level,
+    item.category,
+    item.releaseStatus,
+    item.summary,
+    item.score,
+    ...(item.sections || []),
+    ...(item.volumeLabels || []),
+    ...(item.volumeIds || []),
+    ...(item.matchedQueries || []),
+    ...(item.sourceRuns || []),
+    ...(item.topics || [])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function filterPotentialDocuments(documents) {
+  const query = documentSearch?.value.trim().toLowerCase() || "";
+  const source = documentSourceFilter?.value || "";
+  const volume = documentVolumeFilter?.value || "";
+  const priority = documentPriorityFilter?.value || "";
+
+  return documents.filter((item) => {
+    if (source && item.sourceType !== source) return false;
+    if (volume && !(item.volumeIds || []).includes(volume)) return false;
+    if (priority && item.priority !== priority) return false;
+    return !query || potentialDocumentSearchText(item).includes(query);
+  });
+}
+
+function potentialDocumentCode(index) {
+  return `PD ${String(index + 1).padStart(4, "0")}`;
+}
+
+function createPotentialDocumentRow(item, index) {
+  const row = document.createElement("article");
+  row.className = "document-row";
+
+  const dateStack = document.createElement("div");
+  dateStack.className = "record-date-stack";
+
+  const number = document.createElement("span");
+  number.className = "record-doc-number";
+  number.textContent = potentialDocumentCode(index);
+
+  const date = document.createElement("time");
+  date.className = "record-date";
+  if (/^\d{4}-\d{2}-\d{2}$/.test(item.date || "")) date.dateTime = item.date;
+  date.textContent = shortDate(item.date);
+  dateStack.append(number, date);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = item.sourceUrl || item.digitalObjectUrl || item.pdfUrl || "#";
+  title.rel = "noreferrer";
+  title.textContent = item.title;
+
+  const sourceLine = document.createElement("p");
+  sourceLine.className = "record-source-line";
+  sourceLine.textContent = `${item.sourceType || "Source lead"} / ${item.identifier || item.sourceRepository || "identifier pending"}`;
+
+  const note = document.createElement("p");
+  note.className = "record-note";
+  note.textContent = item.summary || "Potential source lead queued for document-level review.";
+
+  const meta = createChipList(
+    [
+      item.priority ? `${item.priority} priority` : "",
+      item.score ? `score ${item.score}` : "",
+      ...(item.sections || []),
+      displayVolumeLabels(item) ? `Vol. ${displayVolumeLabels(item)}` : ""
+    ],
+    "record-meta",
+    12
+  );
+
+  const topics = createChipList(
+    [
+      item.level,
+      item.category,
+      item.releaseStatus,
+      item.digitalObjects ? `${item.digitalObjects} digital object${item.digitalObjects === 1 ? "" : "s"}` : "",
+      ...(item.sourceRuns || [])
+    ],
+    "record-topics",
+    8
+  );
+
+  const sourceTrail = document.createElement("details");
+  sourceTrail.className = "record-source-note";
+  const summary = document.createElement("summary");
+  summary.textContent = "Search trail";
+  const collection = document.createElement("p");
+  collection.className = "record-frus-source-note";
+  collection.textContent = item.sourceCollection || "Source collection pending.";
+  const queries = document.createElement("p");
+  queries.textContent = item.matchedQueries?.length
+    ? `Matched queries: ${item.matchedQueries.slice(0, 12).join("; ")}.`
+    : "Matched query trail pending.";
+  sourceTrail.append(summary, collection, queries);
+
+  body.append(title, sourceLine, note, meta, topics, sourceTrail);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  const linkCandidates = [
+    ["Catalog", item.catalogUrl],
+    ["PDF", item.pdfUrl],
+    ["Object", item.digitalObjectUrl],
+    ["Source", item.sourceUrl],
+    ["Report", item.sourceReports?.[0]]
+  ];
+  const seenUrls = new Set();
+  for (const [label, url] of linkCandidates) {
+    if (!url || seenUrls.has(url)) continue;
+    seenUrls.add(url);
+    const link = document.createElement("a");
+    link.href = url;
+    link.rel = "noreferrer";
+    link.textContent = label;
+    links.append(link);
+  }
+
+  row.append(dateStack, body, links);
+  return row;
+}
+
+function renderPotentialDocuments(documents) {
+  if (!potentialDocumentsRoot) return;
+  potentialDocumentsRoot.replaceChildren();
+
+  if (!documents.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-section";
+    empty.textContent = POTENTIAL_DOCUMENTS.length
+      ? "No potential source documents match the current filters."
+      : "No potential source documents have been generated yet. Run node scripts/build-potential-documents.js to build the dataset.";
+    potentialDocumentsRoot.append(empty);
+    return;
+  }
+
+  const sorted = [...documents].sort(byPotentialDocument);
+  const documentNumbers = new Map(sorted.map((item, index) => [item.id, index]));
+  const sourcesToRender = uniqueInOrder([
+    ...POTENTIAL_SOURCE_ORDER,
+    ...sorted.map((item) => item.sourceType)
+  ]).filter((source) => sorted.some((item) => item.sourceType === source));
+
+  for (const sourceName of sourcesToRender) {
+    const sourceDocuments = sorted.filter((item) => item.sourceType === sourceName);
+    const section = document.createElement("section");
+    section.className = "record-section document-section";
+    section.id = `potential-${sourceName.toLowerCase().replaceAll(" ", "-").replaceAll("/", "-")}`;
+
+    const header = document.createElement("div");
+    header.className = "record-section-header";
+    const heading = document.createElement("h3");
+    heading.textContent = sourceName;
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${sourceDocuments.length} leads`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list document-list";
+    for (const item of sourceDocuments) {
+      list.append(createPotentialDocumentRow(item, documentNumbers.get(item.id) || 0));
+    }
+
+    section.append(header, list);
+    potentialDocumentsRoot.append(section);
+  }
+}
+
+function updateDocumentSummary(documents) {
+  if (!documentSummary) return;
+  const source = documentSourceFilter?.selectedOptions?.[0]?.textContent || "All sources";
+  const volume = documentVolumeFilter?.selectedOptions?.[0]?.textContent || "All volumes";
+  documentSummary.textContent = `Showing ${documents.length} of ${POTENTIAL_DOCUMENTS.length} potential source leads / ${source} / ${volume}`;
+}
+
+function updatePotentialDocumentsView() {
+  const filtered = filterPotentialDocuments(POTENTIAL_DOCUMENTS).sort(byPotentialDocument);
+  updateDocumentSummary(filtered);
+  renderPotentialDocuments(filtered);
 }
 
 function createRecordRow(record) {
@@ -629,6 +888,11 @@ function enableFilters() {
     control?.addEventListener("change", updateRecordsView);
   }
 
+  for (const control of [documentSearch, documentSourceFilter, documentVolumeFilter, documentPriorityFilter]) {
+    control?.addEventListener("input", updatePotentialDocumentsView);
+    control?.addEventListener("change", updatePotentialDocumentsView);
+  }
+
   clearFilters?.addEventListener("click", () => {
     if (searchInput) searchInput.value = "";
     if (volumeFilter) volumeFilter.value = "";
@@ -638,10 +902,21 @@ function enableFilters() {
     updateRecordsView();
     searchInput?.focus();
   });
+
+  clearDocumentFilters?.addEventListener("click", () => {
+    if (documentSearch) documentSearch.value = "";
+    if (documentSourceFilter) documentSourceFilter.value = "";
+    if (documentVolumeFilter) documentVolumeFilter.value = "";
+    if (documentPriorityFilter) documentPriorityFilter.value = "";
+    updatePotentialDocumentsView();
+    documentSearch?.focus();
+  });
 }
 
 renderVolumes();
 renderStatements();
+populateDocumentFilters(POTENTIAL_DOCUMENTS);
+updatePotentialDocumentsView();
 populateFilters(allRecords);
 enableFilters();
 updateRecordsView();

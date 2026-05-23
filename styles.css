@@ -254,7 +254,7 @@ dd {
 
 .stats {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 12px;
   padding: 0 0 42px;
 }
@@ -265,6 +265,7 @@ dd {
 .desk-panel,
 .record-row,
 .statement-row,
+.document-row,
 .browse-note {
   background: rgba(255, 253, 248, 0.78);
   border: 1px solid var(--line);
@@ -541,7 +542,8 @@ dd {
 }
 
 .records-root,
-.statements-root {
+.statements-root,
+.potential-documents-root {
   display: grid;
   gap: 34px;
 }
@@ -579,7 +581,8 @@ dd {
 }
 
 .record-row,
-.statement-row {
+.statement-row,
+.document-row {
   display: grid;
   grid-template-columns: 132px minmax(0, 1fr) minmax(118px, auto);
   gap: 16px;
@@ -590,7 +593,8 @@ dd {
 }
 
 .record-row:hover,
-.statement-row:hover {
+.statement-row:hover,
+.document-row:hover {
   border-color: rgba(23, 50, 77, 0.34);
   box-shadow: 0 16px 32px rgba(27, 38, 52, 0.1);
 }
@@ -775,6 +779,18 @@ dd {
   background: var(--blue);
 }
 
+.source-list a:nth-child(10) {
+  background: var(--green);
+}
+
+.source-list a:nth-child(11) {
+  background: var(--red);
+}
+
+.source-list a:nth-child(12) {
+  background: var(--steel);
+}
+
 .timeline {
   display: grid;
   gap: 12px;
@@ -886,6 +902,7 @@ footer a {
   .stats,
   .record-row,
   .statement-row,
+  .document-row,
   .records-tools {
     grid-template-columns: 1fr;
   }

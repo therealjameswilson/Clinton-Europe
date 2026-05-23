@@ -19,6 +19,7 @@
       <nav aria-label="Primary navigation">
         <a href="#volumes">Volumes</a>
         <a href="#statements">Statements</a>
+        <a href="#potential-documents">Documents</a>
         <a href="#desk">Desk</a>
         <a href="#records">Records</a>
         <a href="#sources">Sources</a>
@@ -86,6 +87,10 @@
           <span id="source-gap-count">0</span>
           <p>FRUS source-note reviews</p>
         </div>
+        <div>
+          <span id="potential-document-count">0</span>
+          <p>NARA and FOIA leads</p>
+        </div>
       </section>
 
       <section class="section" id="volumes" aria-labelledby="volumes-title">
@@ -110,6 +115,46 @@
         </p>
         <div id="statements-root" class="statements-root" aria-live="polite">
           <p class="loading">Loading public statements...</p>
+        </div>
+      </section>
+
+      <section class="section potential-section" id="potential-documents" aria-labelledby="potential-documents-title">
+        <div class="section-heading">
+          <p class="kicker">NARA Scout, Catalog, and Strobe FOIA</p>
+          <h2 id="potential-documents-title">Potential Source Documents</h2>
+        </div>
+        <p class="records-intro">
+          High and medium priority source leads are deduped from the NARA Scout-style
+          searches, the full NARA Catalog sweep under NAID 7388808, and the Strobe
+          Talbott FOIA manifest. These leads need document-level review before they
+          become FRUS candidate records.
+        </p>
+        <div class="records-tools document-tools" aria-label="Search and filter potential documents">
+          <label class="search-field">
+            <span>Search documents</span>
+            <input
+              id="document-search"
+              type="search"
+              placeholder="Search titles, NAIDs, FOIA IDs, sources, sections, queries"
+            />
+          </label>
+          <label>
+            <span>Source</span>
+            <select id="document-source-filter"></select>
+          </label>
+          <label>
+            <span>Volume</span>
+            <select id="document-volume-filter"></select>
+          </label>
+          <label>
+            <span>Priority</span>
+            <select id="document-priority-filter"></select>
+          </label>
+          <button id="clear-document-filters" type="button">Reset</button>
+          <p id="document-summary" class="records-summary">Loading potential document leads...</p>
+        </div>
+        <div id="potential-documents-root" class="potential-documents-root" aria-live="polite">
+          <p class="loading">Loading potential source documents...</p>
         </div>
       </section>
 
@@ -204,6 +249,15 @@
           <a href="https://catalog.archives.gov/" rel="noreferrer">
             National Archives Catalog
           </a>
+          <a href="https://catalog.archives.gov/search-within/7388808" rel="noreferrer">
+            NARA Catalog: Clinton NSC Records Management Office
+          </a>
+          <a href="https://therealjameswilson.github.io/nara-scout/" rel="noreferrer">
+            NARA Scout
+          </a>
+          <a href="https://therealjameswilson.github.io/strobe-talbott-foia/manifest.html" rel="noreferrer">
+            Strobe Talbott FOIA manifest
+          </a>
         </div>
       </section>
 
@@ -244,6 +298,7 @@
     <script src="data/volumes.js"></script>
     <script src="data/records.js"></script>
     <script src="data/public-statements.js"></script>
+    <script src="data/potential-documents.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

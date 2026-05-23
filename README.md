@@ -17,7 +17,9 @@ Static volume anchors live in `data/volumes.js`. Candidate records live in
 `data/records.json`, with a generated `data/records.js` mirror so `index.html`
 can render directly from GitHub Pages or from the filesystem. Key public
 statements by President Clinton live in `data/public-statements.json`, mirrored
-to `data/public-statements.js` for the same static-page workflow.
+to `data/public-statements.js` for the same static-page workflow. Broader
+potential source leads live in `data/potential-documents.json`, mirrored to
+`data/potential-documents.js`.
 
 Records are harvested from:
 
@@ -61,6 +63,27 @@ writes:
 - `data/public-statements.js`
 - `reports/clinton-public-statements.json`
 - `reports/clinton-public-statements.md`
+
+To rebuild the public potential-document layer after refreshing the NARA and
+Strobe reports:
+
+```bash
+node scripts/build-potential-documents.js
+```
+
+That command dedupes high and medium priority leads from:
+
+- `reports/nara-scout-candidates.json`
+- `reports/nara-collection-7388808-candidates.json`
+- `reports/strobe-talbott-candidates.json`
+- `reports/strobe-talbott-local-candidates.json`
+
+It writes:
+
+- `data/potential-documents.json`
+- `data/potential-documents.js`
+- `reports/potential-documents.json`
+- `reports/potential-documents.md`
 
 ## Strobe Talbott FOIA Candidates
 
