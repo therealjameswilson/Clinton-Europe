@@ -2,6 +2,13 @@ const VOLUMES = window.CLINTON_EUROPE_VOLUMES || [];
 const RECORDS = window.CLINTON_EUROPE_RECORDS || [];
 const PUBLIC_STATEMENTS = window.CLINTON_EUROPE_PUBLIC_STATEMENTS || [];
 const POTENTIAL_DOCUMENTS = window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS || [];
+const COMPILER_GAPS = window.CLINTON_EUROPE_COMPILER_GAPS || { summary: {}, gaps: [], metrics: {} };
+const LIBRARY_RESEARCH = window.CLINTON_EUROPE_LIBRARY_RESEARCH || {
+  summary: {},
+  clusters: [],
+  leads: [],
+  pullStrategy: []
+};
 
 const SECTION_ORDER = [
   "United Kingdom",
@@ -44,6 +51,9 @@ const QUEUE_OPTIONS = [
 const volumeRoot = document.querySelector("#volume-root");
 const statementsRoot = document.querySelector("#statements-root");
 const potentialDocumentsRoot = document.querySelector("#potential-documents-root");
+const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
+const libraryOverviewRoot = document.querySelector("#library-overview-root");
+const libraryLeadsRoot = document.querySelector("#library-leads-root");
 const deskRoot = document.querySelector("#desk-root");
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
@@ -51,12 +61,19 @@ const pdfLinkedCount = document.querySelector("#pdf-linked-count");
 const highLevelCount = document.querySelector("#high-level-count");
 const sourceGapCount = document.querySelector("#source-gap-count");
 const potentialDocumentCount = document.querySelector("#potential-document-count");
+const compilerGapCount = document.querySelector("#compiler-gap-count");
+const libraryLeadCount = document.querySelector("#library-lead-count");
 const documentSearch = document.querySelector("#document-search");
 const documentSourceFilter = document.querySelector("#document-source-filter");
 const documentVolumeFilter = document.querySelector("#document-volume-filter");
 const documentPriorityFilter = document.querySelector("#document-priority-filter");
 const clearDocumentFilters = document.querySelector("#clear-document-filters");
 const documentSummary = document.querySelector("#document-summary");
+const librarySearch = document.querySelector("#library-search");
+const libraryClusterFilter = document.querySelector("#library-cluster-filter");
+const libraryPriorityFilter = document.querySelector("#library-priority-filter");
+const clearLibraryFilters = document.querySelector("#clear-library-filters");
+const librarySummary = document.querySelector("#library-summary");
 const searchInput = document.querySelector("#record-search");
 const volumeFilter = document.querySelector("#volume-filter");
 const sectionFilter = document.querySelector("#section-filter");
@@ -66,6 +83,7 @@ const clearFilters = document.querySelector("#clear-filters");
 const recordsSummary = document.querySelector("#records-summary");
 
 const volumeById = new Map(VOLUMES.map((volume) => [volume.id, volume]));
+const libraryClusterById = new Map((LIBRARY_RESEARCH.clusters || []).map((cluster) => [cluster.id, cluster]));
 
 function formatDate(dateString) {
   if (!dateString) return "Date pending";
@@ -399,6 +417,8 @@ function setStats(records) {
   if (highLevelCount) highLevelCount.textContent = highLevel.toString();
   if (sourceGapCount) sourceGapCount.textContent = sourceGaps.toString();
   if (potentialDocumentCount) potentialDocumentCount.textContent = POTENTIAL_DOCUMENTS.length.toString();
+  if (compilerGapCount) compilerGapCount.textContent = (COMPILER_GAPS.gaps || []).length.toString();
+  if (libraryLeadCount) libraryLeadCount.textContent = (LIBRARY_RESEARCH.leads || []).length.toString();
 }
 
 function createMetric(label, value, detail) {
@@ -434,6 +454,119 @@ function queueButton(queue, label, count) {
     document.querySelector("#records")?.scrollIntoView({ block: "start" });
   });
   return button;
+}
+
+function severityClass(severity) {
+  return `severity-${(severity || "review").toLowerCase().replaceAll(" ", "-")}`;
+}
+
+function applyRelatedFilter(filter) {
+  if (!filter?.target) return;
+
+  if (filter.target === "records") {
+    if (searchInput) searchInput.value = filter.search || "";
+    if (volumeFilter) volumeFilter.value = filter.volumeId || "";
+    if (queueFilter) queueFilter.value = filter.queue || "";
+    updateRecordsView();
+    document.querySelector("#records")?.scrollIntoView({ block: "start" });
+    return;
+  }
+
+  if (filter.target === "documents") {
+    if (documentSearch) documentSearch.value = filter.search || "";
+    if (documentVolumeFilter) documentVolumeFilter.value = filter.volumeId || "";
+    if (documentSourceFilter) documentSourceFilter.value = filter.sourceType || "";
+    if (documentPriorityFilter) documentPriorityFilter.value = filter.priority || "";
+    updatePotentialDocumentsView();
+    document.querySelector("#potential-documents")?.scrollIntoView({ block: "start" });
+  }
+}
+
+function createGapList(title, items) {
+  const wrap = document.createElement("div");
+  wrap.className = "gap-list";
+  const heading = document.createElement("h4");
+  heading.textContent = title;
+  const list = document.createElement("ul");
+  for (const item of items || []) {
+    const li = document.createElement("li");
+    li.textContent = item;
+    list.append(li);
+  }
+  wrap.append(heading, list);
+  return wrap;
+}
+
+function createGapCard(gap) {
+  const card = document.createElement("article");
+  card.className = `gap-card ${severityClass(gap.severity)}`;
+
+  const header = document.createElement("div");
+  header.className = "gap-card-header";
+
+  const severity = document.createElement("span");
+  severity.className = "gap-severity";
+  severity.textContent = gap.severity || "Review";
+
+  const area = document.createElement("span");
+  area.className = "gap-area";
+  area.textContent = gap.area || "Compiler Review";
+
+  header.append(severity, area);
+
+  const title = document.createElement("h3");
+  title.textContent = gap.title;
+
+  const risk = document.createElement("p");
+  risk.className = "gap-risk";
+  risk.textContent = gap.compilerRisk || "Compiler risk note pending.";
+
+  const body = document.createElement("div");
+  body.className = "gap-body";
+  body.append(createGapList("Evidence", gap.evidence), createGapList("Next Steps", gap.nextSteps));
+
+  const actions = document.createElement("div");
+  actions.className = "gap-actions";
+  for (const related of gap.relatedFilters || []) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = related.label;
+    button.addEventListener("click", () => applyRelatedFilter(related));
+    actions.append(button);
+  }
+
+  card.append(header, title, risk, body);
+  if (actions.children.length) card.append(actions);
+  return card;
+}
+
+function renderCompilerGaps() {
+  if (!compilerGapsRoot) return;
+  const gaps = COMPILER_GAPS.gaps || [];
+
+  if (!gaps.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-section";
+    empty.textContent = "No compiler gap analysis has been generated yet. Run node scripts/build-compiler-gaps.js to build the dataset.";
+    compilerGapsRoot.replaceChildren(empty);
+    return;
+  }
+
+  const summary = COMPILER_GAPS.summary || {};
+  const metrics = document.createElement("div");
+  metrics.className = "gap-overview";
+  metrics.append(
+    createMetric("Critical gaps", String(summary.criticalGaps || 0), "Issues that can invalidate chronology or source-note control."),
+    createMetric("High gaps", String(summary.highGaps || 0), "Coverage gaps that can skew selection or chapter balance."),
+    createMetric("Medium gaps", String(summary.mediumGaps || 0), "Scope-control risks for focused follow-up."),
+    createMetric("Generated gaps", String(summary.totalGaps || gaps.length), "Compiler-risk judgments backed by harvested counts.")
+  );
+
+  const list = document.createElement("div");
+  list.className = "gap-grid";
+  for (const gap of gaps) list.append(createGapCard(gap));
+
+  compilerGapsRoot.replaceChildren(metrics, list);
 }
 
 function renderDesk(records) {
@@ -512,6 +645,257 @@ function createChipList(values, className, limit = 8) {
   return list;
 }
 
+function populateLibraryFilters() {
+  addOptions(
+    libraryClusterFilter,
+    (LIBRARY_RESEARCH.clusters || []).map((cluster) => cluster.id),
+    "All clusters"
+  );
+  if (libraryClusterFilter) {
+    [...libraryClusterFilter.options].forEach((option) => {
+      if (!option.value) return;
+      option.textContent = libraryClusterById.get(option.value)?.title || option.value;
+    });
+  }
+  addOptions(libraryPriorityFilter, uniqueSorted((LIBRARY_RESEARCH.leads || []).map((lead) => lead.priority)), "All priorities");
+}
+
+function librarySearchText(lead) {
+  return [
+    lead.release,
+    lead.part,
+    lead.page,
+    lead.line,
+    lead.box,
+    lead.folder,
+    lead.notes,
+    lead.priority,
+    lead.score,
+    ...(lead.clusterLabels || []),
+    ...(lead.clusterIds || [])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function filterLibraryLeads(leads) {
+  const query = librarySearch?.value.trim().toLowerCase() || "";
+  const cluster = libraryClusterFilter?.value || "";
+  const priority = libraryPriorityFilter?.value || "";
+
+  return leads.filter((lead) => {
+    if (cluster && !(lead.clusterIds || []).includes(cluster)) return false;
+    if (priority && lead.priority !== priority) return false;
+    return !query || librarySearchText(lead).includes(query);
+  });
+}
+
+function createLibraryClusterCard(cluster) {
+  const card = document.createElement("article");
+  card.className = `library-cluster-card ${severityClass(cluster.priority)}`;
+
+  const header = document.createElement("div");
+  header.className = "gap-card-header";
+  const priority = document.createElement("span");
+  priority.className = "gap-severity";
+  priority.textContent = cluster.priority;
+  const section = document.createElement("span");
+  section.className = "gap-area";
+  section.textContent = cluster.section;
+  header.append(priority, section);
+
+  const title = document.createElement("h3");
+  title.textContent = cluster.title;
+
+  const rationale = document.createElement("p");
+  rationale.className = "gap-risk";
+  rationale.textContent = cluster.rationale;
+
+  const boxes = createChipList(
+    (cluster.topBoxes || []).slice(0, 8).map((box) => `OA ${box.box}: ${box.count}`),
+    "record-meta",
+    8
+  );
+
+  const list = document.createElement("ol");
+  list.className = "library-representative-list";
+  for (const lead of (cluster.representativeLeads || []).slice(0, 4)) {
+    const item = document.createElement("li");
+    item.textContent = `OA ${lead.box}: ${lead.folder}`;
+    list.append(item);
+  }
+
+  const actions = document.createElement("div");
+  actions.className = "gap-actions";
+  const button = document.createElement("button");
+  button.type = "button";
+  button.textContent = "Filter leads";
+  button.addEventListener("click", () => {
+    if (libraryClusterFilter) libraryClusterFilter.value = cluster.id;
+    updateLibraryView();
+    document.querySelector("#library-research")?.scrollIntoView({ block: "start" });
+  });
+  actions.append(button);
+
+  card.append(header, title, rationale, boxes, list, actions);
+  return card;
+}
+
+function renderLibraryOverview() {
+  if (!libraryOverviewRoot) return;
+  const summary = LIBRARY_RESEARCH.summary || {};
+  const clusters = LIBRARY_RESEARCH.clusters || [];
+
+  if (!clusters.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-section";
+    empty.textContent = "No Clinton Library research plan has been generated yet. Run node scripts/build-clinton-library-research.js to build the dataset.";
+    libraryOverviewRoot.replaceChildren(empty);
+    return;
+  }
+
+  const metrics = document.createElement("div");
+  metrics.className = "library-metrics";
+  metrics.append(
+    createMetric("Finding-aid rows", String(summary.rowsParsed || 0), "Rows parsed from the four 2013-0185-M finding-aid parts."),
+    createMetric("Pull leads", String(summary.leadCount || 0), "Europe-relevant folder leads selected for on-site review."),
+    createMetric("High priority", String(summary.highPriorityLeads || 0), "Decision, trip, briefing, and dense staff-run folders."),
+    createMetric("Clusters", String(summary.clusterCount || clusters.length), "Research batches for reading-room pull strategy.")
+  );
+
+  const strategy = document.createElement("ol");
+  strategy.className = "library-strategy";
+  for (const item of LIBRARY_RESEARCH.pullStrategy || []) {
+    const li = document.createElement("li");
+    li.textContent = item;
+    strategy.append(li);
+  }
+
+  const grid = document.createElement("div");
+  grid.className = "library-cluster-grid";
+  for (const cluster of clusters) grid.append(createLibraryClusterCard(cluster));
+
+  libraryOverviewRoot.replaceChildren(metrics, strategy, grid);
+}
+
+function createLibraryLeadRow(lead) {
+  const row = document.createElement("article");
+  row.className = "document-row library-row";
+
+  const stack = document.createElement("div");
+  stack.className = "record-date-stack";
+  const number = document.createElement("span");
+  number.className = "record-doc-number";
+  number.textContent = `OA ${lead.box}`;
+  const locator = document.createElement("span");
+  locator.className = "record-date";
+  locator.textContent = `P${lead.part} p.${lead.page}`;
+  stack.append(number, locator);
+
+  const body = document.createElement("div");
+  const title = document.createElement("h3");
+  title.className = "library-lead-title";
+  title.textContent = lead.folder;
+
+  const sourceLine = document.createElement("p");
+  sourceLine.className = "record-source-line";
+  sourceLine.textContent = `${lead.release || "2013-0185-M"} / ${lead.notes || "Office note pending"}`;
+
+  const note = document.createElement("p");
+  note.className = "record-note";
+  note.textContent = `Finding-aid part ${lead.part}, page ${lead.page}, line ${lead.line}. Pull with adjacent folders in OA ${lead.box} when time allows.`;
+
+  const meta = createChipList(
+    [
+      lead.priority ? `${lead.priority} priority` : "",
+      lead.score ? `score ${lead.score}` : "",
+      ...(lead.clusterLabels || [])
+    ],
+    "record-meta",
+    10
+  );
+
+  body.append(title, sourceLine, note, meta);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  const tag = document.createElement("span");
+  tag.textContent = "Pull folder";
+  links.append(tag);
+
+  row.append(stack, body, links);
+  return row;
+}
+
+function renderLibraryLeads(leads) {
+  if (!libraryLeadsRoot) return;
+  libraryLeadsRoot.replaceChildren();
+
+  if (!leads.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-section";
+    empty.textContent = (LIBRARY_RESEARCH.leads || []).length
+      ? "No Clinton Library finding-aid leads match the current filters."
+      : "No Clinton Library finding-aid leads have been generated yet.";
+    libraryLeadsRoot.append(empty);
+    return;
+  }
+
+  const sections = uniqueInOrder(
+    (LIBRARY_RESEARCH.clusters || []).map((cluster) => cluster.id)
+  ).filter((clusterId) => leads.some((lead) => (lead.clusterIds || []).includes(clusterId)));
+  const hasNarrowFilter = Boolean(
+    librarySearch?.value.trim() || libraryClusterFilter?.value || libraryPriorityFilter?.value
+  );
+  const leadLimit = hasNarrowFilter ? 80 : 30;
+
+  for (const clusterId of sections) {
+    const cluster = libraryClusterById.get(clusterId);
+    const clusterLeads = leads.filter((lead) => (lead.clusterIds || []).includes(clusterId));
+    const section = document.createElement("section");
+    section.className = "record-section library-lead-section";
+
+    const header = document.createElement("div");
+    header.className = "record-section-header";
+    const heading = document.createElement("h3");
+    heading.textContent = cluster?.title || clusterId;
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${clusterLeads.length} leads`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list";
+    for (const lead of clusterLeads.slice(0, leadLimit)) list.append(createLibraryLeadRow(lead));
+
+    if (clusterLeads.length > leadLimit) {
+      const truncated = document.createElement("p");
+      truncated.className = "empty-section";
+      truncated.textContent = `Showing the first ${leadLimit} ${cluster?.title || clusterId} leads. Narrow the search to see more precise pull targets.`;
+      list.append(truncated);
+    }
+
+    section.append(header, list);
+    libraryLeadsRoot.append(section);
+  }
+}
+
+function updateLibrarySummary(leads) {
+  if (!librarySummary) return;
+  const cluster = libraryClusterFilter?.selectedOptions?.[0]?.textContent || "All clusters";
+  const priority = libraryPriorityFilter?.selectedOptions?.[0]?.textContent || "All priorities";
+  librarySummary.textContent = `Showing ${leads.length} of ${(LIBRARY_RESEARCH.leads || []).length} Clinton Library pull leads / ${cluster} / ${priority}`;
+}
+
+function updateLibraryView() {
+  const filtered = filterLibraryLeads(LIBRARY_RESEARCH.leads || []).sort(
+    (a, b) => (b.score || 0) - (a.score || 0) || a.box.localeCompare(b.box) || a.folder.localeCompare(b.folder)
+  );
+  updateLibrarySummary(filtered);
+  renderLibraryLeads(filtered);
+}
+
 function populateDocumentFilters(documents) {
   addOptions(
     documentSourceFilter,
@@ -536,6 +920,7 @@ function potentialDocumentSearchText(item) {
   return [
     item.title,
     item.date,
+    item.date ? "" : "Date pending",
     item.sourceType,
     item.sourceRepository,
     item.sourceCollection,
@@ -893,6 +1278,11 @@ function enableFilters() {
     control?.addEventListener("change", updatePotentialDocumentsView);
   }
 
+  for (const control of [librarySearch, libraryClusterFilter, libraryPriorityFilter]) {
+    control?.addEventListener("input", updateLibraryView);
+    control?.addEventListener("change", updateLibraryView);
+  }
+
   clearFilters?.addEventListener("click", () => {
     if (searchInput) searchInput.value = "";
     if (volumeFilter) volumeFilter.value = "";
@@ -911,12 +1301,24 @@ function enableFilters() {
     updatePotentialDocumentsView();
     documentSearch?.focus();
   });
+
+  clearLibraryFilters?.addEventListener("click", () => {
+    if (librarySearch) librarySearch.value = "";
+    if (libraryClusterFilter) libraryClusterFilter.value = "";
+    if (libraryPriorityFilter) libraryPriorityFilter.value = "";
+    updateLibraryView();
+    librarySearch?.focus();
+  });
 }
 
 renderVolumes();
 renderStatements();
 populateDocumentFilters(POTENTIAL_DOCUMENTS);
 updatePotentialDocumentsView();
+renderCompilerGaps();
+populateLibraryFilters();
+renderLibraryOverview();
+updateLibraryView();
 populateFilters(allRecords);
 enableFilters();
 updateRecordsView();

@@ -19,7 +19,10 @@ can render directly from GitHub Pages or from the filesystem. Key public
 statements by President Clinton live in `data/public-statements.json`, mirrored
 to `data/public-statements.js` for the same static-page workflow. Broader
 potential source leads live in `data/potential-documents.json`, mirrored to
-`data/potential-documents.js`.
+`data/potential-documents.js`. Compiler-risk gaps live in
+`data/compiler-gaps.json`, mirrored to `data/compiler-gaps.js`. Clinton Library
+finding-aid pull priorities live in `data/clinton-library-research.json`,
+mirrored to `data/clinton-library-research.js`.
 
 Records are harvested from:
 
@@ -84,6 +87,32 @@ It writes:
 - `data/potential-documents.js`
 - `reports/potential-documents.json`
 - `reports/potential-documents.md`
+
+To rebuild the compiler-risk gap layer after refreshing the source datasets:
+
+```bash
+node scripts/build-compiler-gaps.js
+```
+
+That command writes:
+
+- `data/compiler-gaps.json`
+- `data/compiler-gaps.js`
+- `reports/compiler-gaps.md`
+
+To rebuild the Clinton Library visit-planning layer from the local
+`2013-0185-M_Part1.pdf` through `2013-0185-M_Part4.pdf` finding aids:
+
+```bash
+node scripts/build-clinton-library-research.js
+```
+
+The default PDF paths are the local iCloud Drive copies. You can pass alternate
+PDF paths as positional arguments. The command writes:
+
+- `data/clinton-library-research.json`
+- `data/clinton-library-research.js`
+- `reports/clinton-library-research.md`
 
 ## Strobe Talbott FOIA Candidates
 
