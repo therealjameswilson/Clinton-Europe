@@ -2,6 +2,14 @@
 
 const fs = require("node:fs/promises");
 const path = require("node:path");
+const {
+  normalizeRecord,
+  provenanceLinksForRecord,
+  provenanceNoteForRecord,
+  sourceNoteForRecord,
+  sourceNoteIssues,
+  sourceNoteStatus
+} = require("./source-note-style");
 
 const ROOT = path.resolve(__dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
@@ -314,15 +322,7 @@ function sectionRank(section) {
 }
 
 function buildSourceNote(record, partOf) {
-  return [
-    "Source: Clinton Digital Library, Declassified Documents",
-    record.collection,
-    partOf ? `release ${partOf}` : "",
-    record.itemId ? `item ${record.itemId}` : ""
-  ]
-    .filter(Boolean)
-    .join(", ")
-    .concat(". PDF cover sheet, folder title, and archival path require compiler reconciliation.");
+  return sourceNoteForRecord(record, partOf);
 }
 
 async function enrichItem(seed) {
@@ -353,6 +353,7 @@ async function enrichItem(seed) {
     itemUrl: seed.itemUrl,
     pdfUrl,
     releaseStatus: "Declassified",
+    releaseId: partOf,
     countries,
     section,
     volumeIds,
@@ -364,12 +365,22 @@ async function enrichItem(seed) {
       series: seed.collection,
       url: seed.itemUrl,
       collectionId: seed.collectionId,
-      itemId: seed.itemId
+      itemId: seed.itemId,
+      releaseId: partOf
     },
     sourceNote: "",
+    provenanceNote: "",
+    provenanceLinks: [],
+    sourceNoteStatus: "",
+    sourceNoteIssues: [],
     notes: `Harvested from the Clinton Digital Library ${seed.collection.toLowerCase()} collection.`
   };
   record.sourceNote = buildSourceNote(record, partOf);
+  record.provenanceNote = provenanceNoteForRecord(record, partOf);
+  record.provenanceLinks = provenanceLinksForRecord(record);
+  record.sourceNoteIssues = sourceNoteIssues(record, partOf);
+  record.sourceNoteStatus = sourceNoteStatus(record.sourceNoteIssues);
+  Object.assign(record, normalizeRecord(record, partOf));
   record.queues = queuesFor(record);
   return record;
 }

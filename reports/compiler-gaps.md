@@ -1,6 +1,6 @@
 # Clinton Europe Compiler Gaps
 
-Generated: 2026-05-24T13:48:34.829Z
+Generated: 2026-05-25T11:20:31.194Z
 
 ## Summary
 
@@ -10,13 +10,15 @@ Generated: 2026-05-24T13:48:34.829Z
 
 ## Gaps
 
-### Critical: Every Clinton Library row is still a draft source note
+### Critical: FRUS-style source notes still need cover-sheet verification
 
 Area: Source Integrity
 
-The memcon and telcon rows are useful selection leads, but none should be treated as final FRUS source citations until the PDF cover sheet, folder path, release number, and collection trail are reconciled.
+The memcon and telcon rows now carry clean FRUS-style candidate source notes, but none should be treated as final FRUS citations until the PDF cover sheet confirms classification, drafting or approval data, release number, and exact archival folder path.
 
 Evidence:
+- 429 of 436 Clinton Library candidate records have URL-free FRUS-style candidate source notes.
+- 7 records still need core source-note metadata such as a release identifier.
 - 436 of 436 Clinton Library candidate records carry the source-note review queue.
 - 10 Clinton Library candidate records do not have direct PDF links yet.
 - 436 records are also marked for cross-volume placement review.

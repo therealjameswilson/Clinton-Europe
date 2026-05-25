@@ -52,6 +52,20 @@ Every harvested item is treated as a preliminary source-note record. Use the PDF
 cover sheet and item provenance to reconcile each row into a final FRUS-style
 source note before using the record in a documentary chronology.
 
+To normalize the public source-note field to the FRUS-style archival-chain
+pattern while preserving item/PDF URLs in provenance notes:
+
+```bash
+node scripts/normalize-source-notes.js
+```
+
+That command writes:
+
+- `data/records.json`
+- `data/records.js`
+- `reports/source-note-style-audit.json`
+- `reports/source-note-style-audit.md`
+
 To refresh the public-statement layer:
 
 ```bash

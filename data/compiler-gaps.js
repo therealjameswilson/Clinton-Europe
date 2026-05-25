@@ -1,5 +1,5 @@
 window.CLINTON_EUROPE_COMPILER_GAPS = {
-  "generatedAt": "2026-05-24T13:48:34.829Z",
+  "generatedAt": "2026-05-25T11:20:31.194Z",
   "summary": {
     "totalGaps": 8,
     "criticalGaps": 2,
@@ -35,6 +35,8 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
         "frus1993-00v24": 265
       },
       "sourceNoteRecords": 436,
+      "frusStyleCandidateRecords": 429,
+      "sourceNoteMetadataGaps": 7,
       "missingPdfRecords": 10,
       "crossVolumeRecords": 436
     },
@@ -101,9 +103,11 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "id": "source-note-reconciliation",
       "severity": "Critical",
       "area": "Source Integrity",
-      "title": "Every Clinton Library row is still a draft source note",
-      "compilerRisk": "The memcon and telcon rows are useful selection leads, but none should be treated as final FRUS source citations until the PDF cover sheet, folder path, release number, and collection trail are reconciled.",
+      "title": "FRUS-style source notes still need cover-sheet verification",
+      "compilerRisk": "The memcon and telcon rows now carry clean FRUS-style candidate source notes, but none should be treated as final FRUS citations until the PDF cover sheet confirms classification, drafting or approval data, release number, and exact archival folder path.",
       "evidence": [
+        "429 of 436 Clinton Library candidate records have URL-free FRUS-style candidate source notes.",
+        "7 records still need core source-note metadata such as a release identifier.",
         "436 of 436 Clinton Library candidate records carry the source-note review queue.",
         "10 Clinton Library candidate records do not have direct PDF links yet.",
         "436 records are also marked for cross-volume placement review."

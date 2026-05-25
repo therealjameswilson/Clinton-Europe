@@ -380,11 +380,14 @@ function recordSearchText(record) {
     record.itemId,
     record.collection,
     record.sourceNote,
+    record.provenanceNote,
+    record.sourceNoteStatus,
     record.notes,
     displayVolume(record),
     ...(record.countries || []),
     ...(record.subjects || []),
     ...(record.topics || []),
+    ...(record.sourceNoteIssues || []),
     ...(record.queues || [])
   ]
     .filter(Boolean)
@@ -1153,6 +1156,7 @@ function createRecordRow(record) {
       record.section,
       displayVolume(record) ? `Vol. ${displayVolume(record)}` : "",
       record.releaseStatus,
+      record.sourceNoteStatus?.startsWith("FRUS-style candidate") ? "FRUS source-note candidate" : record.sourceNoteStatus,
       ...(record.countries || [])
     ],
     "record-meta",
@@ -1170,11 +1174,17 @@ function createRecordRow(record) {
   const sourceText = document.createElement("p");
   sourceText.className = "record-frus-source-note";
   sourceText.textContent = record.sourceNote || "Source note pending.";
+  const provenance = document.createElement("p");
+  provenance.textContent = record.provenanceNote || "Provenance note pending.";
+  const issues = document.createElement("p");
+  issues.textContent = record.sourceNoteIssues?.length
+    ? `Source-note checks: ${record.sourceNoteIssues.join("; ")}.`
+    : "Source-note checks: no issues flagged.";
   const subjects = document.createElement("p");
   subjects.textContent = record.subjects?.length
     ? `Subject headings: ${record.subjects.join("; ")}.`
     : "Subject headings pending.";
-  sourceNote.append(summary, sourceText, subjects);
+  sourceNote.append(summary, sourceText, provenance, issues, subjects);
 
   body.append(title, sourceLine, note, meta, topics, flags, sourceNote);
 

@@ -107,6 +107,12 @@ function main() {
   const potentialDocuments = readJson("data/potential-documents.json");
 
   const sourceNoteRecords = count(records, (record) => (record.queues || []).includes("source-note"));
+  const frusStyleCandidateRecords = count(records, (record) =>
+    /^FRUS-style candidate/.test(record.sourceNoteStatus || "")
+  );
+  const sourceNoteMetadataGaps = count(records, (record) =>
+    /^Needs source-note metadata/.test(record.sourceNoteStatus || "")
+  );
   const missingPdfRecords = count(records, (record) => !record.pdfUrl);
   const crossVolumeRecords = count(records, (record) => (record.queues || []).includes("cross-volume"));
   const undatedPotentialDocuments = count(potentialDocuments, (item) => !/^\d{4}/.test(item.date || ""));
@@ -118,10 +124,12 @@ function main() {
       id: "source-note-reconciliation",
       severity: "Critical",
       area: "Source Integrity",
-      title: "Every Clinton Library row is still a draft source note",
+      title: "FRUS-style source notes still need cover-sheet verification",
       compilerRisk:
-        "The memcon and telcon rows are useful selection leads, but none should be treated as final FRUS source citations until the PDF cover sheet, folder path, release number, and collection trail are reconciled.",
+        "The memcon and telcon rows now carry clean FRUS-style candidate source notes, but none should be treated as final FRUS citations until the PDF cover sheet confirms classification, drafting or approval data, release number, and exact archival folder path.",
       evidence: [
+        `${frusStyleCandidateRecords} of ${records.length} Clinton Library candidate records have URL-free FRUS-style candidate source notes.`,
+        `${sourceNoteMetadataGaps} records still need core source-note metadata such as a release identifier.`,
         `${sourceNoteRecords} of ${records.length} Clinton Library candidate records carry the source-note review queue.`,
         `${missingPdfRecords} Clinton Library candidate records do not have direct PDF links yet.`,
         `${crossVolumeRecords} records are also marked for cross-volume placement review.`
@@ -307,6 +315,8 @@ function main() {
         byYear: countBy(records, yearOf),
         byVolume: countBy(records, (record) => record.volumeIds || []),
         sourceNoteRecords,
+        frusStyleCandidateRecords,
+        sourceNoteMetadataGaps,
         missingPdfRecords,
         crossVolumeRecords
       },
