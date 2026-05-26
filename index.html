@@ -17,13 +17,13 @@
         <span>Clinton Europe FRUS Assister</span>
       </a>
       <nav aria-label="Primary navigation">
-        <a href="#volumes">Volumes</a>
-        <a href="#statements">Statements</a>
-        <a href="#potential-documents">Documents</a>
+        <a href="#records">Chronology</a>
+        <a href="#potential-documents">Leads</a>
         <a href="#compiler-gaps">Gaps</a>
         <a href="#library-research">Library</a>
         <a href="#desk">Desk</a>
-        <a href="#records">Records</a>
+        <a href="#volumes">Volumes</a>
+        <a href="#statements">Statements</a>
         <a href="#sources">Sources</a>
         <a href="#ingest">Ingest</a>
       </nav>
@@ -35,9 +35,10 @@
           <p class="kicker">FRUS 1993-2000, Europe</p>
           <h1 id="hero-title">A working desk for Volumes XXII, XXIII, and XXIV</h1>
           <p class="lede">
-            A GitHub Pages research assistant for Clinton-era Europe: high-level contacts,
-            public statements, policy records, source-note reconciliation, declassification
-            tracking, and date-ordered review of Clinton Digital Library memcons and telcons.
+            A GitHub Pages research assistant for Clinton-era Europe, led by the
+            date-ordered chronology of declassified Clinton Library memcons and telcons,
+            then supported by source-note review, public statements, finding-aid pulls,
+            NARA/FOIA leads, and compiler-risk tracking.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#records">Browse Candidate Records</a>
@@ -70,6 +71,49 @@
             </div>
           </dl>
         </aside>
+      </section>
+
+      <section class="section records-section" id="records" aria-labelledby="records-title">
+        <div class="section-heading">
+          <p class="kicker">Declassified Document Chronology</p>
+          <h2 id="records-title">Candidate Records by Date</h2>
+        </div>
+        <p class="records-intro">
+          Start here. Declassified Clinton Digital Library memcons and telcons are
+          filtered for Europe-relevant titles or subject headings, then grouped by
+          research section and sorted by the document date shown on the item page.
+        </p>
+        <div class="records-tools" aria-label="Search and filter records">
+          <label class="search-field">
+            <span>Search records</span>
+            <input
+              id="record-search"
+              type="search"
+              placeholder="Search leaders, countries, subjects, item IDs, source notes"
+            />
+          </label>
+          <label>
+            <span>Volume</span>
+            <select id="volume-filter"></select>
+          </label>
+          <label>
+            <span>Section</span>
+            <select id="section-filter"></select>
+          </label>
+          <label>
+            <span>Type</span>
+            <select id="type-filter"></select>
+          </label>
+          <label>
+            <span>Queue</span>
+            <select id="queue-filter"></select>
+          </label>
+          <button id="clear-filters" type="button">Reset</button>
+          <p id="records-summary" class="records-summary">Loading record index...</p>
+        </div>
+        <div id="records-root" class="records-root" aria-live="polite">
+          <p class="loading">Loading candidate records...</p>
+        </div>
       </section>
 
       <section class="stats" aria-label="Assister summary">
@@ -234,49 +278,6 @@
         </p>
         <div id="desk-root" class="desk-root" aria-live="polite">
           <p class="loading">Loading compiler metrics...</p>
-        </div>
-      </section>
-
-      <section class="section records-section" id="records" aria-labelledby="records-title">
-        <div class="section-heading">
-          <p class="kicker">Chronological Files</p>
-          <h2 id="records-title">Candidate Records</h2>
-        </div>
-        <p class="records-intro">
-          Records are harvested from the Clinton Digital Library memcon and telcon collections,
-          filtered for Europe-relevant titles or subject headings, then grouped by research
-          section and sorted by the document date shown on the item page.
-        </p>
-        <div class="records-tools" aria-label="Search and filter records">
-          <label class="search-field">
-            <span>Search records</span>
-            <input
-              id="record-search"
-              type="search"
-              placeholder="Search leaders, countries, subjects, item IDs, source notes"
-            />
-          </label>
-          <label>
-            <span>Volume</span>
-            <select id="volume-filter"></select>
-          </label>
-          <label>
-            <span>Section</span>
-            <select id="section-filter"></select>
-          </label>
-          <label>
-            <span>Type</span>
-            <select id="type-filter"></select>
-          </label>
-          <label>
-            <span>Queue</span>
-            <select id="queue-filter"></select>
-          </label>
-          <button id="clear-filters" type="button">Reset</button>
-          <p id="records-summary" class="records-summary">Loading record index...</p>
-        </div>
-        <div id="records-root" class="records-root" aria-live="polite">
-          <p class="loading">Loading candidate records...</p>
         </div>
       </section>
 
