@@ -81,8 +81,8 @@ writes:
 - `reports/clinton-public-statements.json`
 - `reports/clinton-public-statements.md`
 
-To rebuild the public potential-document layer after refreshing the NARA and
-Strobe reports:
+To rebuild the public potential-document layer after refreshing the NARA,
+Presidential Daily Diary, and Strobe reports:
 
 ```bash
 node scripts/build-potential-documents.js
@@ -92,6 +92,7 @@ That command dedupes high and medium priority leads from:
 
 - `reports/nara-scout-candidates.json`
 - `reports/nara-collection-7388808-candidates.json`
+- `reports/presidential-daily-diary-candidates.json`
 - `reports/strobe-talbott-candidates.json`
 - `reports/strobe-talbott-local-candidates.json`
 
@@ -170,6 +171,20 @@ node scripts/find-nara-collection-candidates.js --all-limit=6000 --limit=1000
 
 That command writes `reports/nara-collection-7388808-candidates.json` and
 `reports/nara-collection-7388808-candidates.md`.
+
+To search the Presidential Daily Diary collection for Europe-facing calls and
+meetings:
+
+```bash
+node scripts/find-presidential-daily-diary-candidates.js
+```
+
+That command scans the Clinton Digital Library mirror of the Ellen McCathran
+Presidential Daily Diary collection, extracts the original PDFs with
+`pdftotext`, and writes `reports/presidential-daily-diary-candidates.json` plus
+`reports/presidential-daily-diary-candidates.md`. The report preserves the
+NARA Catalog identifiers listed on the item pages, including the requested
+`2010-0083-F` diary sample set.
 
 ## Local Preview
 

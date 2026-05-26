@@ -35,6 +35,7 @@ const STATEMENT_SECTION_ORDER = [
 const POTENTIAL_SOURCE_ORDER = [
   "NARA Catalog 7388808",
   "NARA Scout",
+  "Presidential Daily Diary",
   "Strobe Talbott FOIA"
 ];
 
@@ -1025,7 +1026,7 @@ function createPotentialDocumentRow(item, index) {
   summary.textContent = "Search trail";
   const collection = document.createElement("p");
   collection.className = "record-frus-source-note";
-  collection.textContent = item.sourceCollection || "Source collection pending.";
+  collection.textContent = item.sourceNote || item.sourceCollection || "Source collection pending.";
   const queries = document.createElement("p");
   queries.textContent = item.matchedQueries?.length
     ? `Matched queries: ${item.matchedQueries.slice(0, 12).join("; ")}.`

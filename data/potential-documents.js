@@ -1,5 +1,4145 @@
 window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
   {
+    "id": "candidate-pdd-95010-52578-1998-05-06",
+    "title": "Presidential Daily Diary meeting: May 6, 1998 - Romano Prodi, Italy, NATO",
+    "date": "1998-05-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 93,
+    "identifier": "2013-0549-F diary entry 52578",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95010",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0e4c6e83936e8b80ec5165413c6caee2.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0e4c6e83936e8b80ec5165413c6caee2.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 6, 1998, Diary entry 52578. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
+    "sections": [
+      "Western Europe Bilateral",
+      "NATO and European Security"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Diary summit/session",
+      "Romano Prodi",
+      "Italy",
+      "NATO",
+      "Daily Diary entry records a meeting/summit/session involving Romano Prodi, Italy, NATO.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Albert A. Gore Jr., Vice President Robert E. Rubin, Secretary of the Treasury Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Romano Prodi, Prime Minister of Italy Lamberto Dini, Minister of Forei",
+    "topics": [
+      "Western Europe Bilateral",
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94959-20725-1994-12-05",
+    "title": "Presidential Daily Diary meeting: December 5, 1994 - Helmut Kohl, Germany, Hungary",
+    "date": "1994-12-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 90,
+    "identifier": "2013-0549-F diary entry 20725",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94959",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ab1d55e51b45d3952dbfcfd87a1418b1.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ab1d55e51b45d3952dbfcfd87a1418b1.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 5, 1994, Diary entry 20725. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
+    "sections": [
+      "Western Europe Bilateral",
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Helmut Kohl",
+      "Germany",
+      "Hungary",
+      "Boris Yeltsin",
+      "Daily Diary entry records a meeting involving Helmut Kohl, Germany, Hungary, Boris Yeltsin.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: DECEMBER 5, 1994 BUDAPEST CONVENTION CENTER BUDAPEST, REPUBLIC OF HUNGARY 12:54 p.m. MONDAY President Yeltsin Helmut Kohl, Chancellor of the Federal Republic of Germany (ERG)",
+    "topics": [
+      "Western Europe Bilateral",
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94950-13210-1994-04-10",
+    "title": "Presidential Daily Diary telephone call: April 10, 1994 - Ukraine, Russia",
+    "date": "1994-04-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 88,
+    "identifier": "2013-0549-F diary entry 13210",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94950",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/affea2394be7a3e82895b690240b9fcf.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/affea2394be7a3e82895b690240b9fcf.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 10, 1994, Diary entry 13210. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a telephone call/meeting involving Ukraine, Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Boris N. Yeltsin, President of Russia (Russian Federation). The call was not completed. 19 2 5 6 11:03 11:49 The President met with: Jane E. Holl, Director, European and Eurasian Affairs, National Security Council (NSC) John R. Beyrle, Director, Russian/Ukraine/Eurasian Affairs, National Security Council (NSC)",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95010-52239-1998-05-01",
+    "title": "Presidential Daily Diary telephone call: May 1, 1998 - Romano Prodi, Italy, Bosnia",
+    "date": "1998-05-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 87,
+    "identifier": "2013-0549-F diary entry 52239",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95010",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0e4c6e83936e8b80ec5165413c6caee2.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0e4c6e83936e8b80ec5165413c6caee2.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 1, 1998, Diary entry 52239. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
+    "sections": [
+      "Western Europe Bilateral",
+      "Balkans and Kosovo"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Romano Prodi",
+      "Italy",
+      "Bosnia",
+      "Daily Diary entry records a telephone call involving Romano Prodi, Italy, Bosnia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President flew by Marine helicopter from the South Grounds to Andrews AFB, Maryland. For attendees, see the diary appendix.\" Sylvia M. Mathews, Assistant and Deputy Chief of Staff Bruce R. Lindsey, Assistant and Deputy Counsel Robert W. McNeely, White House Photographer M. Diane Helweg, Executive Assistant to the Deputy Assistant for National Security Af",
+    "topics": [
+      "Western Europe Bilateral",
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95015-56429-1998-07-16",
+    "title": "Presidential Daily Diary meeting: July 16, 1998 - NATO, Javier Solana",
+    "date": "1998-07-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 82,
+    "identifier": "2013-0549-F diary entry 56429",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95015",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0f992f7374e157657f67b69517071412.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0f992f7374e157657f67b69517071412.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 16, 1998, Diary entry 56429. NARA Catalog ID 101784486. Clinton Digital Library item 95015.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Diary summit/session",
+      "NATO",
+      "Javier Solana",
+      "Daily Diary entry records a meeting/summit/session involving NATO, Javier Solana.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Javier Solana Madariaga, Secretary General of the North Atlantic Treaty Organization (NATO) Secretary Albright Mr. Berger Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95036-46648-1999-06-12",
+    "title": "Presidential Daily Diary telephone call: June 12, 1999 - Serbia/Yugoslavia, Albania, Poland",
+    "date": "1999-06-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 79,
+    "identifier": "2013-0549-F diary entry 46648",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95036",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 12, 1999, Diary entry 46648. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sections": [
+      "Balkans and Kosovo",
+      "Central and Eastern Europe"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Serbia/Yugoslavia",
+      "Albania",
+      "Poland",
+      "Daily Diary entry records a telephone call involving Serbia/Yugoslavia, Albania, Poland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: David Oddsson, Prime Minister of the Republic of Iceland Kajelo Bondevik, Prime Minister of the Former Yugoslav Republic of Macedonia Rexhep Mejdani, President of the Republic of Albania Jerzy Buzek, Prime Minister of the Republic of Poland The calls were not completed.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95062-65637-2000-05-31",
+    "title": "Presidential Daily Diary working meal: May 31, 2000 - Romano Prodi, European Union",
+    "date": "2000-05-31",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 78,
+    "identifier": "2013-0549-F diary entry 65637",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95062",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0f2c374d53b2851a7955bffd7e7ea77f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0f2c374d53b2851a7955bffd7e7ea77f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 31, 2000, Diary entry 65637. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
+    "sections": [
+      "Western Europe Bilateral",
+      "EU, OSCE, and Summits"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "Diary summit/session",
+      "Romano Prodi",
+      "European Union",
+      "Daily Diary entry records a working meal/summit/session involving Romano Prodi, European Union.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "the President's activities after midnight, see the Daily Diary for June MAY 31, 2000 PORTO DO GUINCHO RESTAURANT, CASCHIS, PORTUGAL 12:00 a.m. WEDNESDAY 1, 2000 APPENDICES FOR PRESIDENTIAL DIARY OF WEDNESDAY, MAY 31, 2000 U.S./EU SUMMIT PARTICIPANTS APPENDIX \"A\" May 31, 2000 Attendance not confirmed. Queluz Palace List not complete. Lisbon, Portugal ATTENDEE",
+    "topics": [
+      "Western Europe Bilateral",
+      "EU, OSCE, and Summits",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95062-60523-2000-05-27",
+    "title": "Presidential Daily Diary telephone call: May 27, 2000 - Tony Blair, United Kingdom, Bertie Ahern",
+    "date": "2000-05-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 77,
+    "identifier": "2013-0549-F diary entry 60523",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95062",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0f2c374d53b2851a7955bffd7e7ea77f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0f2c374d53b2851a7955bffd7e7ea77f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 27, 2000, Diary entry 60523. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Bertie Ahern",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Bertie Ahern, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Tony Blair, Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Bertie Ahern, Prime Minister of Ireland The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-36465-7962-1993-09-21",
+    "title": "Presidential Daily Diary telephone call: September 21, 1993 - Helmut Kohl, Germany, Ukraine",
+    "date": "1993-09-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 76,
+    "identifier": "2010-0083-F diary entry 7962",
+    "naid": "",
+    "catalogUrl": "http://catalog.archives.gov/id/17367517",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/36465",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3d65bf5736e4ba5462f3d080dbd44944.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3d65bf5736e4ba5462f3d080dbd44944.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, September 21, 1993, Diary entry 7962. NARA Catalog ID 17367517. Clinton Digital Library item 36465.",
+    "sections": [
+      "Western Europe Bilateral",
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2010-0083-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany, Ukraine, Russia."
+    ],
+    "summary": "3: 56 4: 13 The P r e s i d e n t t a l k e d o n a c o n f e r e n c e call with: President Y e l t s i n Rose E. G o t t e m o e l l e r, D i r e c t o r o f Russian, U k r a i n i a n and E u r a s i a n A f f a i r s, N a t i o n a l S e c u r i t y C o u n c i l (NSC) J o h n R. B e y r l e, D i r e c t o r, Russian/Ukraine/Eurasian Affairs, N a t i o n",
+    "topics": [
+      "Western Europe Bilateral",
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94990-35003-1997-01-09",
+    "title": "Presidential Daily Diary meeting: January 9, 1997 - NATO, Javier Solana",
+    "date": "1997-01-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 76,
+    "identifier": "2013-0549-F diary entry 35003",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94990",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e6ae2feb669e80af6b338569d1490956.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e6ae2feb669e80af6b338569d1490956.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 9, 1997, Diary entry 35003. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "NATO",
+      "Javier Solana",
+      "Daily Diary entry records a meeting involving NATO, Javier Solana.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Vice President Gore Javier Solana Madariaga, Secretary General of the North Atlantic Treaty Organization (NATO) Leon S. Fuerth, Assistant to the Vice President for National Security Affairs",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95030-70322-1999-03-15",
+    "title": "Presidential Daily Diary meeting: March 15, 1999 - NATO, Javier Solana",
+    "date": "1999-03-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 76,
+    "identifier": "2013-0549-F diary entry 70322",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95030",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 15, 1999, Diary entry 70322. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "NATO",
+      "Javier Solana",
+      "Daily Diary entry records a meeting involving NATO, Javier Solana.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with the Secretary General of the North Atlantic Treaty Organization (NATO) Javier Solana Madariaga. Members of Press in/out",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72206-1999-04-22",
+    "title": "Presidential Daily Diary meeting: April 22, 1999 - NATO, Javier Solana",
+    "date": "1999-04-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 76,
+    "identifier": "2013-0549-F diary entry 72206",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72206. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "NATO",
+      "Javier Solana",
+      "Daily Diary entry records a meeting involving NATO, Javier Solana.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with the Secretary General of the North Atlantic Treaty Organization (NATO) Javier Solana Madariaga.",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-45696-1999-04-26",
+    "title": "Presidential Daily Diary telephone call: April 26, 1999 - NATO, Javier Solana",
+    "date": "1999-04-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 76,
+    "identifier": "2013-0549-F diary entry 45696",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 26, 1999, Diary entry 45696. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "NATO",
+      "Javier Solana",
+      "Daily Diary entry records a telephone call involving NATO, Javier Solana.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Secretary General of the North Atlantic Treaty Organization (NATO) Javier Solana. The call was not completed.",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95073-74831-2000-10-17",
+    "title": "Presidential Daily Diary meeting: October 17, 2000 - Javier Solana, European Union",
+    "date": "2000-10-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 76,
+    "identifier": "2013-0549-F diary entry 74831",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95073",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c43b3f2fd1594e35b8ddd2ffbde7faaf.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c43b3f2fd1594e35b8ddd2ffbde7faaf.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 17, 2000, Diary entry 74831. NARA Catalog ID 101784486. Clinton Digital Library item 95073.",
+    "sections": [
+      "NATO and European Security",
+      "EU, OSCE, and Summits"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Javier Solana",
+      "European Union",
+      "Daily Diary entry records a meeting involving Javier Solana, European Union.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: 11:55 12:34 President Mubarak 11:55 12:34 Chairman Arafat 11:55 12:34 Javier Solana, President of European Union (EU) 11:55 12:34 King Abdullah, King of Jordan 11:55 12:34 Ambassador Annan 12:16 12:34 Prime Minister Barak OCTOBER 17, 2000 VIOLA VILLA GOLF RESORT, SHARM AL-SHEIKH, EGYPT 11:55 a.m. TUESDAY",
+    "topics": [
+      "NATO and European Security",
+      "EU, OSCE, and Summits",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94925-1731-1993-02-24",
+    "title": "Presidential Daily Diary meeting: February 24, 1993 - John Major, United Kingdom, Northern Ireland",
+    "date": "1993-02-24",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 1731",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94925",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1731. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "John Major",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving John Major, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Vice President Gore John Major, Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Members of Press in/out",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94946-15631-1994-02-12",
+    "title": "Presidential Daily Diary meeting: February 12, 1994 - John Major, United Kingdom, Northern Ireland",
+    "date": "1994-02-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 15631",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94946",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/59a6bc1e024928d9a87a43d97454f5ae.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/59a6bc1e024928d9a87a43d97454f5ae.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 12, 1994, Diary entry 15631. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "John Major",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving John Major, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Nancy E. Soderberg, Special Assistant for National Security Affairs and Staff Director, National Security Council (NSC) Jenonne R. Walker, Special Assistant for National Security Affairs 118 3 3 11:05 11:26 R The President talked on a conference call with: FEBRUARY 12, 1994 THE WHITE HOUSE WASHINGTON, D.C. 11:05 a.m. SATURDAY John Maj",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-36473-24137-1995-07-04",
+    "title": "Presidential Daily Diary telephone call: July 4, 1995 - John Major, United Kingdom, Northern Ireland",
+    "date": "1995-07-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2010-0083-F diary entry 24137",
+    "naid": "",
+    "catalogUrl": "http://catalog.archives.gov/id/17368181",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/36473",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/23c7053d678fe4368a11efc10de6d06d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/23c7053d678fe4368a11efc10de6d06d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, July 4, 1995, Diary entry 24137. NARA Catalog ID 17368181. Clinton Digital Library item 36473.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2010-0083-F",
+      "Diary telephone call",
+      "John Major",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving John Major, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by Secretary of State Warren M. Christopher. The call was not completed. 2413 8 3:40 3:42 p The President talked with Secretary Christopher. 2413 9 JULY 4, 1995 CAMP DAVID, MARYLAND 7:26 p.m. TUESDAY 7:26 7:28 p The President talked on a conference call with: John Major, Prime Minister of the United Kingdom of Great Britian and N",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94973-25285-1995-08-13",
+    "title": "Presidential Daily Diary telephone call: August 13, 1995 - John Major, United Kingdom, Northern Ireland",
+    "date": "1995-08-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 25285",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94973",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef75404c289ebc6b12ca87d1916f9d0d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef75404c289ebc6b12ca87d1916f9d0d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, August 13, 1995, Diary entry 25285. NARA Catalog ID 101784486. Clinton Digital Library item 94973.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "John Major",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving John Major, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) John Major. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94994-34507-1997-05-03",
+    "title": "Presidential Daily Diary telephone call: May 3, 1997 - John Major, United Kingdom, Northern Ireland",
+    "date": "1997-05-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 34507",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94994",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8a17e6be2a9a9b68ef89d1e2a538c4f2.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8a17e6be2a9a9b68ef89d1e2a538c4f2.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 3, 1997, Diary entry 34507. NARA Catalog ID 101784486. Clinton Digital Library item 94994.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "John Major",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving John Major, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Great Britain and Northern Ireland (UK) John Major. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94996-35569-1997-07-27",
+    "title": "Presidential Daily Diary telephone call: July 27, 1997 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1997-07-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 35569",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94996",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/dfdd415e4e2e3e0f250a593df6ba6a6a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/dfdd415e4e2e3e0f250a593df6ba6a6a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 27, 1997, Diary entry 35569. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94999-37223-1997-10-21",
+    "title": "Presidential Daily Diary telephone call: October 21, 1997 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1997-10-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 37223",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94999",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d4a41ed84f791e8e04c941c5d1ae94.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d4a41ed84f791e8e04c941c5d1ae94.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 21, 1997, Diary entry 37223. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95000-37570-1997-11-15",
+    "title": "Presidential Daily Diary telephone call: November 15, 1997 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1997-11-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 37570",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95000",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/364953cf29d22e5c62b569e792608326.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/364953cf29d22e5c62b569e792608326.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, November 15, 1997, Diary entry 37570. NARA Catalog ID 101784486. Clinton Digital Library item 95000.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-36477-37889-1997-12-09",
+    "title": "Presidential Daily Diary telephone call: December 9, 1997 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1997-12-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2010-0083-F diary entry 37889",
+    "naid": "",
+    "catalogUrl": "http://catalog.archives.gov/id/17368185",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/36477",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/6928fd9d08984176c7e7ad9f9b2b3dbb.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/6928fd9d08984176c7e7ad9f9b2b3dbb.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, December 9, 1997, Diary entry 37889. NARA Catalog ID 17368185. Clinton Digital Library item 36477.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2010-0083-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister..... of the United Kingdom of Great Britain and ~-- Northern Ireland (UK) Tony Blair. The call --... - ··~··\"' was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95008-39583-1998-04-05",
+    "title": "Presidential Daily Diary telephone call: April 5, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-04-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 39583",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95008",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 5, 1998, Diary entry 39583. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95008-39620-1998-04-09",
+    "title": "Presidential Daily Diary telephone call: April 9, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-04-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 39620",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95008",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 9, 1998, Diary entry 39620. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95008-39652-1998-04-10",
+    "title": "Presidential Daily Diary telephone call: April 10, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-04-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 39652",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95008",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 10, 1998, Diary entry 39652. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95009-39738-1998-04-24",
+    "title": "Presidential Daily Diary telephone call: April 24, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-04-24",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 39738",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95009",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/6d1ae001856a27114d3f491055fcea21.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/6d1ae001856a27114d3f491055fcea21.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 24, 1998, Diary entry 39738. NARA Catalog ID 101784486. Clinton Digital Library item 95009.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95015-08033-1998-07-31",
+    "title": "Presidential Daily Diary telephone call: July 31, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-07-31",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 08033",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95015",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0f992f7374e157657f67b69517071412.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0f992f7374e157657f67b69517071412.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 31, 1998, Diary entry 08033. NARA Catalog ID 101784486. Clinton Digital Library item 95015.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President and the First Lady motored from the East Hampton landing zone to the residence of Steven Spielberg, motion picture director and producer; and co-founder, DreamWorks 3KG, Hollywood, California. 4 0'/ Id 3:27 The President telepnoned Senator John Conyers, Jr. (D-Michigan). The call was not completed. 4 0 717 3:3; The President telephoned the Prim",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95016-40818-1998-08-06",
+    "title": "Presidential Daily Diary telephone call: August 6, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-08-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 40818",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95016",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 6, 1998, Diary entry 40818. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95017-41030-1998-08-16",
+    "title": "Presidential Daily Diary telephone call: August 16, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-08-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 41030",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95017",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e6ad9a7326216b2ded5cd79f147fd02b.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e6ad9a7326216b2ded5cd79f147fd02b.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 16, 1998, Diary entry 41030. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95017-41346-1998-08-27",
+    "title": "Presidential Daily Diary telephone call: August 27, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-08-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 41346",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95017",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e6ad9a7326216b2ded5cd79f147fd02b.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e6ad9a7326216b2ded5cd79f147fd02b.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 27, 1998, Diary entry 41346. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-41711-1998-09-11",
+    "title": "Presidential Daily Diary telephone call: September 11, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-09-11",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 41711",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 11, 1998, Diary entry 41711. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95021-42613-1998-10-24",
+    "title": "Presidential Daily Diary telephone call: October 24, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-10-24",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 42613",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95021",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 24, 1998, Diary entry 42613. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Tony Blair, Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) King Hassan II, King of the Kingdom of Morocco Crown Prince Abdallah, Islamic Republic of Pakistan Mohammed Hosni Mubarak, President of the Arab Republic of Egypt The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95022-42986-1998-11-10",
+    "title": "Presidential Daily Diary telephone call: November 10, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-11-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 42986",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95022",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 10, 1998, Diary entry 42986. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95023-43034-1998-11-13",
+    "title": "Presidential Daily Diary telephone call: November 13, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-11-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 43034",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95023",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 13, 1998, Diary entry 43034. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95023-43062-1998-11-14",
+    "title": "Presidential Daily Diary telephone call: November 14, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-11-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 43062",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95023",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43062. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and NOVEMBER 14, 199 THE WHITE HOUSE WASHINGTON, D.C. 9:10 a.m. SATUI Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95023-43124-1998-11-16",
+    "title": "Presidential Daily Diary telephone call: November 16, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-11-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 43124",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95023",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 16, 1998, Diary entry 43124. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95024-43434-1998-12-11",
+    "title": "Presidential Daily Diary telephone call: December 11, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-12-11",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 43434",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95024",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ae73a5a51358c55956c4367736eb7e44.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ae73a5a51358c55956c4367736eb7e44.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 11, 1998, Diary entry 43434. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95024-43471-1998-12-14",
+    "title": "Presidential Daily Diary telephone call: December 14, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-12-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 43471",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95024",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ae73a5a51358c55956c4367736eb7e44.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ae73a5a51358c55956c4367736eb7e44.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 14, 1998, Diary entry 43471. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95025-43484-1998-12-15",
+    "title": "Presidential Daily Diary telephone call: December 15, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-12-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 43484",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95025",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a46828e723cad2202d3b7f08260e30c0.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a46828e723cad2202d3b7f08260e30c0.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 15, 1998, Diary entry 43484. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95025-43637-1998-12-17",
+    "title": "Presidential Daily Diary telephone call: December 17, 1998 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1998-12-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 43637",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95025",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a46828e723cad2202d3b7f08260e30c0.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a46828e723cad2202d3b7f08260e30c0.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 17, 1998, Diary entry 43637. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95027-44216-1999-01-21",
+    "title": "Presidential Daily Diary telephone call: January 21, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-01-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 44216",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95027",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/71c21d19bc07f292e13d20b10275c4cb.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/71c21d19bc07f292e13d20b10275c4cb.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, January 21, 1999, Diary entry 44216. NARA Catalog ID 101784486. Clinton Digital Library item 95027.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95028-44414-1999-02-04",
+    "title": "Presidential Daily Diary telephone call: February 4, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-02-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 44414",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95028",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/d06c05b6429377b5f918650dec56b562.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/d06c05b6429377b5f918650dec56b562.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 44414. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95030-44914-1999-03-04",
+    "title": "Presidential Daily Diary telephone call: March 4, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-03-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 44914",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95030",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 4, 1999, Diary entry 44914. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95030-45006-1999-03-14",
+    "title": "Presidential Daily Diary telephone call: March 14, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-03-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 45006",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95030",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 14, 1999, Diary entry 45006. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95032-45341-1999-04-03",
+    "title": "Presidential Daily Diary telephone call: April 3, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-04-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 45341",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95032",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 3, 1999, Diary entry 45341. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-45977-1999-04-29",
+    "title": "Presidential Daily Diary telephone call: April 29, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-04-29",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 45977",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 29, 1999, Diary entry 45977. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95034-46034-1999-05-04",
+    "title": "Presidential Daily Diary telephone call: May 4, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-05-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 46034",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95034",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 4, 1999, Diary entry 46034. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Kofi Annan, Secretary General of the United Nations (UN) Tony Blair, Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK)",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95035-46292-1999-05-18",
+    "title": "Presidential Daily Diary telephone call: May 18, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-05-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 46292",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95035",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 18, 1999, Diary entry 46292. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister 5:15 of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The cal] was not completed. I 73708 The Presidential party motored from Army Nav^ 5:17 5:35 Country Club to the South Ground of the Whi House.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95035-46531-1999-05-27",
+    "title": "Presidential Daily Diary telephone call: May 27, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-05-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 46531",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95035",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46531. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call MAY 27, 1999 WHITE OAK PLANTATION YULEE, FLORIDA 9:45 a.m. THURSDAY was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95036-46488-1999-06-03",
+    "title": "Presidential Daily Diary telephone call: June 3, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-06-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 46488",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95036",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 3, 1999, Diary entry 46488. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95036-46549-1999-06-06",
+    "title": "Presidential Daily Diary telephone call: June 6, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-06-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 46549",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95036",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46549. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95036-46572-1999-06-06",
+    "title": "Presidential Daily Diary telephone call: June 6, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-06-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 46572",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95036",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46572. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-74813-1999-06-18",
+    "title": "Presidential Daily Diary meeting: June 18, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-06-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 74813",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 18, 1999, Diary entry 74813. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a meeting with the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-46902-1999-06-21",
+    "title": "Presidential Daily Diary telephone call: June 21, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-06-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 46902",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 46902. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95038-46998-1999-06-30",
+    "title": "Presidential Daily Diary telephone call: June 30, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-06-30",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 46998",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95038",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 30, 1999, Diary entry 46998. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95038-47003-1999-07-01",
+    "title": "Presidential Daily Diary telephone call: July 1, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-07-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 47003",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95038",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 1, 1999, Diary entry 47003. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister ^ 6: 38 of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95038-47014-1999-07-02",
+    "title": "Presidential Daily Diary telephone call: July 2, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-07-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 47014",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95038",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47014. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister 6:21 of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95038-47143-1999-07-12",
+    "title": "Presidential Daily Diary telephone call: July 12, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-07-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 47143",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95038",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 12, 1999, Diary entry 47143. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95042-47919-1999-09-08",
+    "title": "Presidential Daily Diary telephone call: September 8, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-09-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 47919",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95042",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/7a6649778bec381f295a8541bfb4e3f8.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/7a6649778bec381f295a8541bfb4e3f8.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, September 8, 1999, Diary entry 47919. NARA Catalog ID 101784486. Clinton Digital Library item 95042.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Tony Blair, Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Kofi Annan, Secretary General of the United Nations (UN) Jennifer Shipley, Prime Minister of New Zealand John Howard, Prime Minister of the Commonwealth of Australia The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95047-49511-1999-11-26",
+    "title": "Presidential Daily Diary telephone call: November 26, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-11-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 49511",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95047",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 26, 1999, Diary entry 49511. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Tony Blair, Prime Minister of the United Kingdom of Great Britian and Northern Ireland (UK) NOVEMBER 26, 1999 PENN NATIONAL GOLF COURSE FAYETTEVILLE, PENNSYLVANIA 11:35 a.m. FRIDAY Mr. Berger The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95052-52813-2000-01-31",
+    "title": "Presidential Daily Diary telephone call: January 31, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-01-31",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 52813",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95052",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/d19afb148a3fcc77beebc2544f3f9987.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/d19afb148a3fcc77beebc2544f3f9987.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 31, 2000, Diary entry 52813. NARA Catalog ID 101784486. Clinton Digital Library item 95052.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Prime Minister of the United Kingdom of Great Britian and Northern Ireland (UK), Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95053-54396-2000-02-08",
+    "title": "Presidential Daily Diary telephone call: February 8, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-02-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 54396",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95053",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/f0bf93574c34d4f247bb15214a1613b4.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/f0bf93574c34d4f247bb15214a1613b4.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 8, 2000, Diary entry 54396. NARA Catalog ID 101784486. Clinton Digital Library item 95053.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britian and FEBRUARY 8, 2000 THE WHITE HOUSE WASHINGTON, D.C 10:41 a.m. TUESDAY Northern Ireland, Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95056-55603-2000-03-14",
+    "title": "Presidential Daily Diary telephone call: March 14, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-03-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 55603",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95056",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 14, 2000, Diary entry 55603. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britian and Northern Ireland (UK), Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95059-57658-2000-04-19",
+    "title": "Presidential Daily Diary telephone call: April 19, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-04-19",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 57658",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95059",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/5d47104b999da4d653c8bae33a148d3e.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/5d47104b999da4d653c8bae33a148d3e.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, April 19, 2000, Diary entry 57658. NARA Catalog ID 101784486. Clinton Digital Library item 95059.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britian and Northern Ireland (UK), Tony Blair.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95060-59715-2000-05-04",
+    "title": "Presidential Daily Diary telephone call: May 4, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-05-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 59715",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95060",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a67ebf9d69b1f6020efd5185ea68b828.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a67ebf9d69b1f6020efd5185ea68b828.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 4, 2000, Diary entry 59715. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Tony Blair, Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Robert A. Bradtke, Executive Secretary, National Security Council (NSC) The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95060-59795-2000-05-10",
+    "title": "Presidential Daily Diary telephone call: May 10, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-05-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 59795",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95060",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a67ebf9d69b1f6020efd5185ea68b828.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a67ebf9d69b1f6020efd5185ea68b828.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 10, 2000, Diary entry 59795. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK), Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95061-59872-2000-05-15",
+    "title": "Presidential Daily Diary telephone call: May 15, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-05-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 59872",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95061",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce0f9752058fe1d643dbb366729e4790.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce0f9752058fe1d643dbb366729e4790.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 15, 2000, Diary entry 59872. NARA Catalog ID 101784486. Clinton Digital Library item 95061.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK), Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95067-70754-2000-07-23",
+    "title": "Presidential Daily Diary meeting: July 23, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-07-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 70754",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95067",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/b8903672b3d60983b74865eb0eae3b14.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/b8903672b3d60983b74865eb0eae3b14.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 23, 2000, Diary entry 70754. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a breakfast meeting with: Tony Blair, Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Mr. Berger Members of Press in/out",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95074-70403-2000-11-10",
+    "title": "Presidential Daily Diary telephone call: November 10, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-11-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 70403",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95074",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e965ec090fa2e78ca77fe71f7809e506.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e965ec090fa2e78ca77fe71f7809e506.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, November 10, 2000, Diary entry 70403. NARA Catalog ID 101784486. Clinton Digital Library item 95074.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland, Tony Blair. The call was NOVEMBER 10, 2000 ARMY NAVY COUNTRY CLUB, ARLINGTON, VIRGINIA 3:26 p.m. FRIDAY not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95074-72027-2000-11-23",
+    "title": "Presidential Daily Diary telephone call: November 23, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-11-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2013-0549-F diary entry 72027",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95074",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e965ec090fa2e78ca77fe71f7809e506.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e965ec090fa2e78ca77fe71f7809e506.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, November 23, 2000, Diary entry 72027. NARA Catalog ID 101784486. Clinton Digital Library item 95074.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Tony Blair, Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Fernando Cardoso, President of the Federative Republic of Brazil J. Sean Tarver, Duty Officer, White House Situation Room, National Security Council (NSC) The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-36491-76096-2000-12-13",
+    "title": "Presidential Daily Diary telephone call: December 13, 2000 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "2000-12-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 74,
+    "identifier": "2010-0083-F diary entry 76096",
+    "naid": "",
+    "catalogUrl": "http://catalog.archives.gov/id/17368203",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/36491",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/2f17e5dbc9b84f05caacf875602c0cc4.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/2f17e5dbc9b84f05caacf875602c0cc4.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2010-0083-F, December 13, 2000, Diary entry 76096. NARA Catalog ID 17368203. Clinton Digital Library item 36491.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2010-0083-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Northern Ireland, Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-36466-9943-1993-10-06",
+    "title": "Presidential Daily Diary meeting: October 6, 1993 - NATO",
+    "date": "1993-10-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 73,
+    "identifier": "2010-0083-F diary entry 9943",
+    "naid": "",
+    "catalogUrl": "http://catalog.archives.gov/id/17368174",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/36466",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/d2a88ac90a1be4ee60284a021f9aaff9.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/d2a88ac90a1be4ee60284a021f9aaff9.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, October 6, 1993, Diary entry 9943. NARA Catalog ID 17368174. Clinton Digital Library item 36466.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2010-0083-F",
+      "Diary meeting",
+      "NATO",
+      "Daily Diary entry records a meeting involving NATO.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Manfred Woerner, Secretary General of the North American Treaty Organization (NATO). For a list of other attendees, see APPENDIX \"C.\"",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-46897-1999-06-21",
+    "title": "Presidential Daily Diary telephone call: June 21, 1999 - Kosovo",
+    "date": "1999-06-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "High",
+    "score": 73,
+    "identifier": "2013-0549-F diary entry 46897",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 46897. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Kosovo",
+      "Daily Diary entry records a telephone call involving Kosovo.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Hashim Thaqi, a Kosovo Liberation Army (KLA) political leader who serves as Prime Minister of the provisional government in Pristina, Kosovo. The call was not completed.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
     "id": "nara-225358208",
     "title": "POTUS [President of the United States] Briefing Books – POTUS Trip to UK [United Kingdom] and Ireland, November 27 – December 2, 1995 [The President] [Binder] [2]",
     "date": "1995",
@@ -24,6 +4164,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -91,6 +4232,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -161,6 +4303,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -228,6 +4371,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -293,6 +4437,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -352,6 +4497,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -405,6 +4551,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -458,6 +4605,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -513,6 +4661,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -568,6 +4717,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -622,6 +4772,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -676,6 +4827,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -737,6 +4889,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -795,6 +4948,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 42,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Balkans and Kosovo"
@@ -851,6 +5005,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -903,6 +5058,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -955,6 +5111,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 35,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1008,6 +5165,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 62,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1062,6 +5220,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 36,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1116,6 +5275,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 88,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1169,6 +5329,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 44,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1222,6 +5383,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 73,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1275,6 +5437,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 75,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1327,6 +5490,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 33,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1380,6 +5544,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 81,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1433,6 +5598,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 54,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1487,6 +5653,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 138,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1550,6 +5717,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 90,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1607,6 +5775,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 44,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1657,6 +5826,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 75,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1710,6 +5880,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 100,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1763,6 +5934,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 72,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -1817,6 +5989,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -1871,6 +6044,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference",
@@ -1928,6 +6102,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -1979,6 +6154,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2037,6 +6213,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2095,6 +6272,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2151,6 +6329,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2201,6 +6380,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2254,6 +6434,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2311,6 +6492,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2367,6 +6549,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 46,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Balkans and Kosovo"
@@ -2417,6 +6600,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2474,6 +6658,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2528,6 +6713,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2582,6 +6768,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2638,6 +6825,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2691,6 +6879,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -2747,6 +6936,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Central and Eastern Europe"
@@ -2800,6 +6990,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "Balkans and Kosovo"
@@ -2853,6 +7044,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference"
@@ -2906,6 +7098,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "Western Europe Bilateral"
@@ -2959,6 +7152,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe",
       "EU, OSCE, and Summits"
@@ -3012,6 +7206,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference",
@@ -3067,6 +7262,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "EU, OSCE, and Summits"
@@ -3120,6 +7316,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "EU, OSCE, and Summits"
@@ -3173,6 +7370,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference"
@@ -3226,6 +7424,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "EU, OSCE, and Summits"
@@ -3279,6 +7478,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3330,6 +7530,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3381,6 +7582,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3432,6 +7634,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3483,6 +7686,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3534,6 +7738,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "EU, OSCE, and Summits"
@@ -3587,6 +7792,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3638,6 +7844,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3689,6 +7896,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3740,6 +7948,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3791,6 +8000,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -3842,6 +8052,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3893,6 +8104,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "Central and Eastern Europe"
@@ -3946,6 +8158,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -3997,6 +8210,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4048,6 +8262,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4099,6 +8314,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4150,6 +8366,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4201,6 +8418,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4252,6 +8470,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4303,6 +8522,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference"
@@ -4356,6 +8576,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4407,6 +8628,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4458,6 +8680,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4509,6 +8732,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4560,6 +8784,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4611,6 +8836,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4662,6 +8888,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4713,6 +8940,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4764,6 +8992,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4815,6 +9044,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4866,6 +9096,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4917,6 +9148,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -4968,6 +9200,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -5019,6 +9252,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -5070,6 +9304,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -5121,6 +9356,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -5172,6 +9408,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference"
@@ -5200,6 +9437,13190 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     ]
   },
   {
+    "id": "candidate-pdd-94925-1730-1993-02-24",
+    "title": "Presidential Daily Diary meeting: February 24, 1993 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1993-02-24",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 71,
+    "identifier": "2013-0549-F diary entry 1730",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94925",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1730. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met for briefing on his upcoming meeting with the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK) with:",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-47458-1998-02-05",
+    "title": "Presidential Daily Diary meeting: February 5, 1998 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1998-02-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 71,
+    "identifier": "2013-0549-F diary entry 47458",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47458. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met for a briefing on his upcoming meeting with the Prime Minister of the United Kingdom of Great Britain and Northern Ireland (UK). For attendees, see the diary appendix.\"",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-45648-1999-04-22",
+    "title": "Presidential Daily Diary telephone call: April 22, 1999 - Tony Blair, United Kingdom, Ireland",
+    "date": "1999-04-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 71,
+    "identifier": "2013-0549-F diary entry 45648",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 45648. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the United Kingdom of Great Britain and Nothern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95034-46103-1999-05-09",
+    "title": "Presidential Daily Diary telephone call: May 9, 1999 - France, Helmut Kohl, Germany",
+    "date": "1999-05-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 71,
+    "identifier": "2013-0549-F diary entry 46103",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95034",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 9, 1999, Diary entry 46103. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving France, Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Helmut Kohl, former Chancellor of the Federal Republic of Germany (FRG) Jacques R. Chirac, President of France",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95047-53682-1999-11-21",
+    "title": "Presidential Daily Diary meeting: November 21, 1999 - Gerhard Schroeder, Germany, Italy",
+    "date": "1999-11-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 71,
+    "identifier": "2013-0549-F diary entry 53682",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95047",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 21, 1999, Diary entry 53682. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Gerhard Schroeder",
+      "Germany",
+      "Italy",
+      "Daily Diary entry records a meeting involving Gerhard Schroeder, Germany, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Gerhard Schroeder, Chancellor of Germany NOVEMBER 21, 1999 PALAZZO VECCHIO, FLORENCE, ITALY 12:45 p.m. SUNDAY (Federal Republic of Germany) Antony J. Blinken, Special Assistant and Senior Director for European Affairs, National Security Council (NSC)",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95051-51650-2000-01-07",
+    "title": "Presidential Daily Diary telephone call: January 7, 2000 - France, Gerhard Schroeder, Germany",
+    "date": "2000-01-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 71,
+    "identifier": "2013-0549-F diary entry 51650",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95051",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/43bb03278667314b669ab01364b63397.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/43bb03278667314b669ab01364b63397.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 7, 2000, Diary entry 51650. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving France, Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Jacques R. Chirac, President of France Gerhard Schroeder, Chancellor of Germany (Federal Republic of Germany) Yasser Arafat, Chairman, Palestinian Liberation Organization (PLO) Jamil Mahuad, President of the Republic JANUARY 7, 2 0 0 0 THE WHITE HOUSE WASHINGTON, D.C, 3:50 p.m. FRIDAY of Ecuador The call",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95056-56281-2000-03-15",
+    "title": "Presidential Daily Diary telephone call: March 15, 2000 - France, Massimo D'Alema, Italy",
+    "date": "2000-03-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 71,
+    "identifier": "2013-0549-F diary entry 56281",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95056",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 15, 2000, Diary entry 56281. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Massimo D'Alema",
+      "Italy",
+      "Daily Diary entry records a telephone call involving France, Massimo D'Alema, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Jabir al-Ahmad al-Jabir Al Sabah, Amir of the State of Kuwait Abdallah bin Abd al-Aziz Al Saud, Second Deputy Prime Minister of the Kingdom of Saudi Arabia Massimo D'Alema, Prime Minister of Italy (Italian Republic) Jacques R. Chirac, President of France The calls were not completed. MARCH 15, 2000 THE W",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94925-1752-1993-02-24",
+    "title": "Presidential Daily Diary working meal: February 24, 1993 - John Major, United Kingdom, Northern Ireland",
+    "date": "1993-02-24",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 70,
+    "identifier": "2013-0549-F diary entry 1752",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94925",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1752. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "John Major",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a working meal involving John Major, United Kingdom, Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President had dinner with: FEBRUARY 24, 1993 THE WHITE HOUSE WASHINGTON, D.C. 8:20 p.m. WEDNESDAY Vice President Gore Prime Minister Major Clifton R. Wharton Jr., Deputy Secretary of State Mr. Lake Robin Renwick, Ambassador of the United Kingdom of Great Britain and Northern Ireland (UK) to the U.S. Roderic Braithwaite, Chairman of the Joint Intelligence",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94950-19243-1994-04-10",
+    "title": "Presidential Daily Diary meeting: April 10, 1994 - NATO, Bosnia",
+    "date": "1994-04-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 70,
+    "identifier": "2013-0549-F diary entry 19243",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94950",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/affea2394be7a3e82895b690240b9fcf.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/affea2394be7a3e82895b690240b9fcf.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 10, 1994, Diary entry 19243. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
+    "sections": [
+      "NATO and European Security",
+      "Balkans and Kosovo"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "NATO",
+      "Bosnia",
+      "Daily Diary entry records a meeting involving NATO, Bosnia."
+    ],
+    "summary": "The President met with administration officials to discuss the recent NATO bombing in Bosnia.",
+    "topics": [
+      "NATO and European Security",
+      "Balkans and Kosovo",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72208-1999-04-22",
+    "title": "Presidential Daily Diary summit/session: April 22, 1999 - NATO, Javier Solana",
+    "date": "1999-04-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 70,
+    "identifier": "2013-0549-F diary entry 72208",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72208. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Javier Solana",
+      "Daily Diary entry records a summit/session involving NATO, Javier Solana.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President made a statement to the press on the NATO Summit. He was accompanied by Secretary General Solana.",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94927-3291-1993-03-26",
+    "title": "Presidential Daily Diary meeting: March 26, 1993 - Helmut Kohl, Germany",
+    "date": "1993-03-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 3291",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94927",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3291. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a meeting involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Helmut Kohl, Chancellor of the Federal Republic of Germany (FRG) Anthony \"Tony\" Lake, Assistant for National Security Affairs Samuel R. \"Sandy\" Berger, Deputy Assistant for National Security Affairs Jenonne R. Walker, Special Assistant for National Security Affairs Immo Stabreit, Ambassador of the Federal Republic of Germany Peter Har",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94932-4504-1993-06-03",
+    "title": "Presidential Daily Diary telephone call: June 3, 1993 - Helmut Kohl, Germany",
+    "date": "1993-06-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 4504",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94932",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/5776bd795100bbadbeb5830e2a591a4d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/5776bd795100bbadbeb5830e2a591a4d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 3, 1993, Diary entry 4504. NARA Catalog ID 101784486. Clinton Digital Library item 94932.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by Helmut Kohl, Chancellor of the Federal Republic of Germany (FRG). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94933-5330-1993-06-26",
+    "title": "Presidential Daily Diary telephone call: June 26, 1993 - Helmut Kohl, Germany",
+    "date": "1993-06-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 5330",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94933",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/2516d7c435263233828dd58b33beebbd.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/2516d7c435263233828dd58b33beebbd.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 26, 1993, Diary entry 5330. NARA Catalog ID 101784486. Clinton Digital Library item 94933.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt Helmut Kohl, Chancellor of the Federal Republic of Germany (ERG) Boutros Boutros Ghali, Secretary General of the United Nations (UN) The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94934-5605-1993-07-02",
+    "title": "Presidential Daily Diary telephone call: July 2, 1993 - Helmut Kohl, Germany",
+    "date": "1993-07-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 5605",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94934",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/7804935573fd21eb650c576ead16fa42.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/7804935573fd21eb650c576ead16fa42.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, July 2, 1993, Diary entry 5605. NARA Catalog ID 101784486. Clinton Digital Library item 94934.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Helmut Kohl, Chancellor of the Federal Republic of Germany (FRG). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94936-7595-1993-09-07",
+    "title": "Presidential Daily Diary telephone call: September 7, 1993 - Helmut Kohl, Germany",
+    "date": "1993-09-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 7595",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94936",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/f43ee8046664148f403fe66be6079e97.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/f43ee8046664148f403fe66be6079e97.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 7, 1993, Diary entry 7595. NARA Catalog ID 101784486. Clinton Digital Library item 94936.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Helmut Kohl, Chancellor of the Federal Rupublic of Germany (FRG). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94963-23555-1995-02-09",
+    "title": "Presidential Daily Diary meeting: February 9, 1995 - Helmut Kohl, Germany",
+    "date": "1995-02-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 23555",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94963",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8155c84ac416c94339c47a6c19ae8e38.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8155c84ac416c94339c47a6c19ae8e38.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 9, 1995, Diary entry 23555. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a meeting involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Chancellor Kohl Joachim Bitterlich, Ambassador of the Federal Republic of Germany (FRG) to the U. S. Dorothea Kaltenbach, interpreter, Federal Republic of Germany (FRG) Mr. Vershbow Members of Press in/out",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94981-29712-1996-04-12",
+    "title": "Presidential Daily Diary telephone call: April 12, 1996 - Helmut Kohl, Germany",
+    "date": "1996-04-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 29712",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94981",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/b90051811371af1aa379f86d2b73bfdc.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/b90051811371af1aa379f86d2b73bfdc.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, April 12, 1996, Diary entry 29712. NARA Catalog ID 101784486. Clinton Digital Library item 94981.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (ERG) Helmut Kohl. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94990-32821-1997-01-06",
+    "title": "Presidential Daily Diary telephone call: January 6, 1997 - Helmut Kohl, Germany",
+    "date": "1997-01-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 32821",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94990",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e6ae2feb669e80af6b338569d1490956.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e6ae2feb669e80af6b338569d1490956.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 6, 1997, Diary entry 32821. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Helmut Kohl. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94999-37221-1997-10-21",
+    "title": "Presidential Daily Diary telephone call: October 21, 1997 - Helmut Kohl, Germany",
+    "date": "1997-10-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 37221",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94999",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d4a41ed84f791e8e04c941c5d1ae94.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d4a41ed84f791e8e04c941c5d1ae94.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 21, 1997, Diary entry 37221. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Helmut Kohl. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95005-39043-1998-02-23",
+    "title": "Presidential Daily Diary telephone call: February 23, 1998 - Tony Blair, France",
+    "date": "1998-02-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 39043",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95005",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/24594769bc53af16fa2de9dda51e9ebc.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/24594769bc53af16fa2de9dda51e9ebc.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 23, 1998, Diary entry 39043. NARA Catalog ID 101784486. Clinton Digital Library item 95005.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "France",
+      "Daily Diary entry records a telephone call involving Tony Blair, France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President talked on a conference call with: Prime Minister Blair Mr. Bandler Ms. McEldowney Ms. Glick Mr. Rathke Mr. 0'Shaughnessy Mr. Crowell Mr. Smith Mr. Ryu 3 9044 12: 33 The President telephoned the President of the French Republic Jacques R. Chirac. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95006-50365-1998-03-11",
+    "title": "Presidential Daily Diary meeting: March 11, 1998 - Russia, Viktor Chernomyrdin",
+    "date": "1998-03-11",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 50365",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95006",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e2ad27a4add8535cf4fbbba172346130.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e2ad27a4add8535cf4fbbba172346130.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 11, 1998, Diary entry 50365. NARA Catalog ID 101784486. Clinton Digital Library item 95006.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Russia",
+      "Viktor Chernomyrdin",
+      "Daily Diary entry records a meeting involving Russia, Viktor Chernomyrdin.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a meeting with the Prime Minister of Russia Viktor S. Chernomyrdin. For a list of attendees, see",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95007-50568-1998-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1998 - Bertie Ahern, Ireland",
+    "date": "1998-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 50568",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95007",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50568. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bertie Ahern",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Bertie Ahern, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with the Prime Minister of Ireland Bertie Ahern. For a list of other attendees, see APPENDIX \"A.\"",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95007-50592-1998-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1998 - Northern Ireland, Ireland",
+    "date": "1998-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 50592",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95007",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50592. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: David Trimble, Leader of the Ulster Unionist Party (UUP), Ireland John Taylor, Deputy Leader of the Ulster Unionist Party (UUP), Ireland Anne Smith, Representative in the U.S. Office, UUP Mr. Berger Mr. Steinberg Mr. Butler",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95008-39639-1998-04-10",
+    "title": "Presidential Daily Diary telephone call: April 10, 1998 - Northern Ireland, Ireland",
+    "date": "1998-04-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 39639",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95008",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 10, 1998, Diary entry 39639. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by David Trimble, leader of the Northern Ireland Ulster Unionist Party, Belfast, Ireland. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95014-40515-1998-07-08",
+    "title": "Presidential Daily Diary telephone call: July 8, 1998 - Helmut Kohl, Germany",
+    "date": "1998-07-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 40515",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95014",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/951b19782f8c1b145a62bab667cca7ed.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/951b19782f8c1b145a62bab667cca7ed.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 8, 1998, Diary entry 40515. NARA Catalog ID 101784486. Clinton Digital Library item 95014.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Helmut Kohl. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95016-58402-1998-08-05",
+    "title": "Presidential Daily Diary meeting: August 5, 1998 - Gerhard Schroeder, Germany",
+    "date": "1998-08-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 58402",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95016",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 5, 1998, Diary entry 58402. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a meeting involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a meeting with the Chancellor-candidate of the Federal Republic of Germany (FRG) Gerhard Schroeder For attendees, see the diary appendix.\"",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95016-40832-1998-08-07",
+    "title": "Presidential Daily Diary telephone call: August 7, 1998 - Helmut Kohl, Germany",
+    "date": "1998-08-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 40832",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95016",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 7, 1998, Diary entry 40832. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by the Chancellor of the Federal Republic of Germany (FRG) Helmut Kohl. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-59492-1998-09-04",
+    "title": "Presidential Daily Diary meeting: September 4, 1998 - John Bruton, Ireland",
+    "date": "1998-09-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 59492",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59492. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "John Bruton",
+      "Ireland",
+      "Daily Diary entry records a meeting involving John Bruton, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President motored from the Royal College 2:32 3:13 of Surgeons to the Gateway Facility. 4 14 8 9 2:41 h- -lie;- 5 94 93 The President met with the Prime Minister of 3:17 3:21 Ireland John Bruton.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95019-42063-1998-09-25",
+    "title": "Presidential Daily Diary telephone call: September 25, 1998 - Helmut Kohl, Germany",
+    "date": "1998-09-25",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 42063",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95019",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/af49ca350c1bcd7ad6cb7f883c26faca.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/af49ca350c1bcd7ad6cb7f883c26faca.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 25, 1998, Diary entry 42063. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Helmut Kohl. The call was not completed. ■tgjw",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95021-42490-1998-10-16",
+    "title": "Presidential Daily Diary telephone call: October 16, 1998 - Northern Ireland, Ireland",
+    "date": "1998-10-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 42490",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95021",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 16, 1998, Diary entry 42490. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned David Trimble, leader of the Northern Ireland Ulster Unionist Party, Belfast, Ireland. The call was not completed. 61956 ■wr - 2:53 2:55 The President motored from the Union League Club to the Chicago Hilton Hotel and Towers He was accompanied by: Anthony T. \"Tony\" Podesta, Chairman of Podesta.com; and legislative, public realtions a",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95021-42679-1998-10-26",
+    "title": "Presidential Daily Diary telephone call: October 26, 1998 - Romano Prodi, Italy",
+    "date": "1998-10-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 42679",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95021",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 26, 1998, Diary entry 42679. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Romano Prodi",
+      "Italy",
+      "Daily Diary entry records a telephone call involving Romano Prodi, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Italy (Italian Republic) Romano Prodi. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95021-42737-1998-10-29",
+    "title": "Presidential Daily Diary telephone call: October 29, 1998 - Gerhard Schroeder, Germany",
+    "date": "1998-10-29",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 42737",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95021",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 29, 1998, Diary entry 42737. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by Gerhard Schroeder, Chancellor-designate of the Federal Republic of Germany (FRG). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95030-69570-1999-03-05",
+    "title": "Presidential Daily Diary meeting: March 5, 1999 - Massimo D'Alema, Italy",
+    "date": "1999-03-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 69570",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95030",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 5, 1999, Diary entry 69570. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Massimo D'Alema",
+      "Italy",
+      "Daily Diary entry records a meeting involving Massimo D'Alema, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a meeting with the Prime Minister of Italy Massimo D'Alema MARCH 5, 1999 THE WHITE HOUSE WASHINGTON, D.C. 10:50 a.m. FRIDAY Members of Press in/out",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95031-45127-1999-03-23",
+    "title": "Presidential Daily Diary telephone call: March 23, 1999 - Gerhard Schroeder, Germany",
+    "date": "1999-03-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 45127",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95031",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 23, 1999, Diary entry 45127. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Gerhard Schroeder. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95031-45283-1999-03-30",
+    "title": "Presidential Daily Diary telephone call: March 30, 1999 - Gerhard Schroeder, Germany",
+    "date": "1999-03-30",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 45283",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95031",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 30, 1999, Diary entry 45283. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Gerhard Schroeder. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95032-45324-1999-04-01",
+    "title": "Presidential Daily Diary telephone call: April 1, 1999 - Gerhard Schroeder, Germany",
+    "date": "1999-04-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 45324",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95032",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 1, 1999, Diary entry 45324. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Gerhard Schroeder. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-45611-1999-04-19",
+    "title": "Presidential Daily Diary telephone call: April 19, 1999 - Gerhard Schroeder, Germany",
+    "date": "1999-04-19",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 45611",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 19, 1999, Diary entry 45611. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Gerhard Schroeder. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72104-1999-04-20",
+    "title": "Presidential Daily Diary meeting: April 20, 1999 - Helmut Kohl, Germany",
+    "date": "1999-04-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 72104",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 20, 1999, Diary entry 72104. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a meeting involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Helmut Kohl, former Chancellor of the Federal Republic of Germany (FRG).",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72181-1999-04-21",
+    "title": "Presidential Daily Diary meeting: April 21, 1999 - Helmut Kohl, Germany",
+    "date": "1999-04-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 72181",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 21, 1999, Diary entry 72181. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a meeting involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Helmut Kohl, former Chancellor of the Federal Republic of Germany (FRG) Lawrence E. Butler, Director, European Affairs, National Security Council (NSC) Ann A. McCoy, Special Assistant and Director of Personal Correspondence",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-45975-1999-04-29",
+    "title": "Presidential Daily Diary telephone call: April 29, 1999 - Massimo D'Alema, Italy",
+    "date": "1999-04-29",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 45975",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 29, 1999, Diary entry 45975. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Massimo D'Alema",
+      "Italy",
+      "Daily Diary entry records a telephone call involving Massimo D'Alema, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Italy Massimo D'Alema. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95034-73060-1999-05-03",
+    "title": "Presidential Daily Diary meeting: May 3, 1999 - Russia, Viktor Chernomyrdin",
+    "date": "1999-05-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 73060",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95034",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 3, 1999, Diary entry 73060. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Russia",
+      "Viktor Chernomyrdin",
+      "Daily Diary entry records a meeting involving Russia, Viktor Chernomyrdin.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Viktor Chernomyrdin, Prime Minister of Russia (Russian Federation) Vice President Gore",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95034-46162-1999-05-13",
+    "title": "Presidential Daily Diary telephone call: May 13, 1999 - Massimo D'Alema, Italy",
+    "date": "1999-05-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 46162",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95034",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 13, 1999, Diary entry 46162. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Massimo D'Alema",
+      "Italy",
+      "Daily Diary entry records a telephone call involving Massimo D'Alema, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Italy Massimo D'Alema. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95035-46434-1999-05-26",
+    "title": "Presidential Daily Diary telephone call: May 26, 1999 - Massimo D'Alema, Italy",
+    "date": "1999-05-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 46434",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95035",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 26, 1999, Diary entry 46434. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Massimo D'Alema",
+      "Italy",
+      "Daily Diary entry records a telephone call involving Massimo D'Alema, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Italy Massimo D'Alema. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95036-46486-1999-06-03",
+    "title": "Presidential Daily Diary telephone call: June 3, 1999 - Gerhard Schroeder, Germany",
+    "date": "1999-06-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 46486",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95036",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 3, 1999, Diary entry 46486. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (ERG) Gerhard Schroeder. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95036-46558-1999-06-06",
+    "title": "Presidential Daily Diary telephone call: June 6, 1999 - Massimo D'Alema, Italy",
+    "date": "1999-06-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 46558",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95036",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46558. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Massimo D'Alema",
+      "Italy",
+      "Daily Diary entry records a telephone call involving Massimo D'Alema, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Italy Massimo D'Alema. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95038-47009-1999-07-02",
+    "title": "Presidential Daily Diary telephone call: July 2, 1999 - Bertie Ahern, Ireland",
+    "date": "1999-07-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 47009",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95038",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47009. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bertie Ahern",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Bertie Ahern, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Ireland Bertie Ahern. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95038-47012-1999-07-02",
+    "title": "Presidential Daily Diary telephone call: July 2, 1999 - Northern Ireland, Ireland",
+    "date": "1999-07-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 47012",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95038",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47012. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned David Trimble, leader of the Northern Ireland Ulster JULY 2, 1999 THE WHITE HOUSE WASHINGTON, D.C. 4:55 p.m. FRIDAY Unionist Party, Belfast, Ireland. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95044-51845-1999-10-27",
+    "title": "Presidential Daily Diary meeting: October 27, 1999 - Romano Prodi, Italy",
+    "date": "1999-10-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 51845",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95044",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c08b18dc453e7c735a7eb2213823b020.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c08b18dc453e7c735a7eb2213823b020.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, October 27, 1999, Diary entry 51845. NARA Catalog ID 101784486. Clinton Digital Library item 95044.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Romano Prodi",
+      "Italy",
+      "Daily Diary entry records a meeting involving Romano Prodi, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Romano Prodi, former Prime Minister of Italy and current European Commission President.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95045-52984-1999-11-08",
+    "title": "Presidential Daily Diary meeting: November 8, 1999 - Czech Republic, Slovakia/Slovenia",
+    "date": "1999-11-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 52984",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95045",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/b353204dff0f5dd5dcf1eee7e11e4be0.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/b353204dff0f5dd5dcf1eee7e11e4be0.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 8, 1999, Diary entry 52984. NARA Catalog ID 101784486. Clinton Digital Library item 95045.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Czech Republic",
+      "Slovakia/Slovenia",
+      "Daily Diary entry records a meeting involving Czech Republic, Slovakia/Slovenia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Milos Zeman, Prime Minister of the Czech Republic Mikulas Dzurinda, Prime Minister of Slovakia (Slovak Republic) Secretary Albright Mr. Berger Mr. Steinberg Antony J. Blinken, Special Assistant and Senior Director for European Affairs, National Security Council (NSC)",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95047-49576-1999-11-27",
+    "title": "Presidential Daily Diary telephone call: November 27, 1999 - Northern Ireland, Ireland",
+    "date": "1999-11-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 49576",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95047",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 27, 1999, Diary entry 49576. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by David Trimble, leader of the Northern Ireland Ulster Unionist Party, Belfast, Ireland. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95049-56095-1999-12-20",
+    "title": "Presidential Daily Diary meeting: December 20, 1999 - Northern Ireland, Ireland",
+    "date": "1999-12-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 56095",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95049",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/9c4012c27015f60e7cf77cc0b584a5fd.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/9c4012c27015f60e7cf77cc0b584a5fd.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, December 20, 1999, Diary entry 56095. NARA Catalog ID 101784486. Clinton Digital Library item 95049.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with David Trimble, leader of the Northern Ireland Ulster Unionist Party, Belfast, Ireland.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95052-52494-2000-01-19",
+    "title": "Presidential Daily Diary telephone call: January 19, 2000 - Massimo D'Alema, Italy",
+    "date": "2000-01-19",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 52494",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95052",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/d19afb148a3fcc77beebc2544f3f9987.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/d19afb148a3fcc77beebc2544f3f9987.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 19, 2000, Diary entry 52494. NARA Catalog ID 101784486. Clinton Digital Library item 95052.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Massimo D'Alema",
+      "Italy",
+      "Daily Diary entry records a telephone call involving Massimo D'Alema, Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Italy (Italian Republic), Massimo D'Alema, The call was not completed. JANUARY 19, 2000 THE WHITE HOUSE WASHINGTON, D.C. 11:50 a.m. WEDNESDAY",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95053-54419-2000-02-10",
+    "title": "Presidential Daily Diary telephone call: February 10, 2000 - Bertie Ahern, Ireland",
+    "date": "2000-02-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 54419",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95053",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/f0bf93574c34d4f247bb15214a1613b4.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/f0bf93574c34d4f247bb15214a1613b4.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 10, 2000, Diary entry 54419. NARA Catalog ID 101784486. Clinton Digital Library item 95053.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bertie Ahern",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Bertie Ahern, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Ireland, Bertie Ahern. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95054-54601-2000-02-26",
+    "title": "Presidential Daily Diary telephone call: February 26, 2000 - Gerhard Schroeder, Germany",
+    "date": "2000-02-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 54601",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95054",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3787c4090ec3b07155e8991469097aaa.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3787c4090ec3b07155e8991469097aaa.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 26, 2000, Diary entry 54601. NARA Catalog ID 101784486. Clinton Digital Library item 95054.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Gerhard Schroeder, Chancellor of Germany (Federal Republic of Germany) Lawrence H. Summers, Secretary of the Treasury The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95055-55555-2000-03-13",
+    "title": "Presidential Daily Diary telephone call: March 13, 2000 - Gerhard Schroeder, Germany",
+    "date": "2000-03-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 55555",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95055",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/885c0e7fe4fc4398ced3499347352ee9.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/885c0e7fe4fc4398ced3499347352ee9.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 13, 2000, Diary entry 55555. NARA Catalog ID 101784486. Clinton Digital Library item 95055.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Gerhard Schroeder, Chancellor of Germany (Federal Republic of Germany) Brooks L. Bash, Deputy Executive Secretary, National Security Council (NSC) The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95062-60512-2000-05-27",
+    "title": "Presidential Daily Diary telephone call: May 27, 2000 - Northern Ireland, Ireland",
+    "date": "2000-05-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 60512",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95062",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0f2c374d53b2851a7955bffd7e7ea77f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0f2c374d53b2851a7955bffd7e7ea77f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 27, 2000, Diary entry 60512. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Northern Ireland, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: David Trimble, Leader of the Northern Ireland Ulster Unionist Party, Belfast, Ireland Robin S. Rickard, Duty Officer, White House Situation Room, National Security Council (NSC) The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95063-67051-2000-06-01",
+    "title": "Presidential Daily Diary meeting: June 1, 2000 - Gerhard Schroeder, Germany",
+    "date": "2000-06-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 67051",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95063",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 1, 2000, Diary entry 67051. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a meeting involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President made a statement to the press on his meeting with German officials. He was accompanied by Chancellor Schroeder.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95063-67086-2000-06-02",
+    "title": "Presidential Daily Diary meeting: June 2, 2000 - Helmut Kohl, Germany",
+    "date": "2000-06-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 67086",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95063",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 2, 2000, Diary entry 67086. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Helmut Kohl",
+      "Germany",
+      "Daily Diary entry records a meeting involving Helmut Kohl, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Helmut Kohl, former Chancellor of the Federal Republic of Germany",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95063-67142-2000-06-05",
+    "title": "Presidential Daily Diary meeting: June 5, 2000 - Boris Yeltsin, Russia",
+    "date": "2000-06-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 67142",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95063",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 5, 2000, Diary entry 67142. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Boris Yeltsin",
+      "Russia",
+      "Daily Diary entry records a meeting involving Boris Yeltsin, Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Boris Yeltsin, former President of Russia.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95070-72984-2000-09-08",
+    "title": "Presidential Daily Diary meeting: September 8, 2000 - Bertie Ahern, Ireland",
+    "date": "2000-09-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 72984",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95070",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/62772526a92b9d76dc362f2848756386.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/62772526a92b9d76dc362f2848756386.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 8, 2000, Diary entry 72984. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bertie Ahern",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Bertie Ahern, Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Bertie Ahern, Prime Minister of Ireland Mr. Berger Secretary Albright Richard C. Holbrooke, U.S. Representative to the United Nations (UN)",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95072-68393-2000-10-06",
+    "title": "Presidential Daily Diary telephone call: October 6, 2000 - Gerhard Schroeder, Germany",
+    "date": "2000-10-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 68,
+    "identifier": "2013-0549-F diary entry 68393",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95072",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/9277f6afcb8105bc23970a2104488ac1.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/9277f6afcb8105bc23970a2104488ac1.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 6, 2000, Diary entry 68393. NARA Catalog ID 101784486. Clinton Digital Library item 95072.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of Germany, Gerhard Schroeder. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94925-1748-1993-02-24",
+    "title": "Presidential Daily Diary meeting: February 24, 1993 - John Major",
+    "date": "1993-02-24",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 1748",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94925",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1748. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "John Major",
+      "Daily Diary entry records a meeting involving John Major.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Prime Minister Major.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94927-2819-1993-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1993 - Ireland",
+    "date": "1993-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 2819",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94927",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 17, 1993, Diary entry 2819. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Albert Gore Jr., Vice President Warren M. Christopher, Secretary of State Thomas E. \"Mack\" McLarty III, Assistant and Chief of Staff Anthony \"Tony\" Lake, Assistant for National Security Affairs Barry F. Lowenkron, Directo, European and Eurasian Affairs, National Security Council (NSC) Albert Reynolds, Prime Minister of Ireland Padraig",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94927-3290-1993-03-26",
+    "title": "Presidential Daily Diary meeting: March 26, 1993 - Germany",
+    "date": "1993-03-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 3290",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94927",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3290. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Germany",
+      "Daily Diary entry records a meeting involving Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met for a briefing on his upcoming meeting with the Chancellor of the Federal Republic of Germany (FRG) with: Albert Gore Jr., Vice President Lloyd Bentsen, Secretary of the Treasury Jenonne R. Walker, Special Assistant for National Security Affairs Samuel R. \"Sandy\" Berger, Deputy Assistant for National Security Affairs Nancy E. Soderberg, Spe",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94927-3301-1993-03-26",
+    "title": "Presidential Daily Diary meeting: March 26, 1993 - Helmut Kohl",
+    "date": "1993-03-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 3301",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94927",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3301. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Helmut Kohl",
+      "Daily Diary entry records a meeting involving Helmut Kohl.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Chancellor Kohl.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94929-3194-1993-04-20",
+    "title": "Presidential Daily Diary telephone call: April 20, 1993 - France",
+    "date": "1993-04-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 3194",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94929",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/6c7d4b23c2a6ef4a2c0a22cce1323beb.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/6c7d4b23c2a6ef4a2c0a22cce1323beb.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, April 20, 1993, Diary entry 3194. NARA Catalog ID 101784486. Clinton Digital Library item 94929.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Daily Diary entry records a telephone call involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Francois Mitterrand, President of France. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94933-7333-1993-06-15",
+    "title": "Presidential Daily Diary meeting: June 15, 1993 - France",
+    "date": "1993-06-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 7333",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94933",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/2516d7c435263233828dd58b33beebbd.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/2516d7c435263233828dd58b33beebbd.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 15, 1993, Diary entry 7333. NARA Catalog ID 101784486. Clinton Digital Library item 94933.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "France",
+      "Daily Diary entry records a meeting involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a meeting with the Prime Minister of the French Republic. For attendees, see the diary appendix.\" Members of Press in/out",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94936-7976-1993-09-02",
+    "title": "Presidential Daily Diary meeting: September 2, 1993 - Russia",
+    "date": "1993-09-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 7976",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94936",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/f43ee8046664148f403fe66be6079e97.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/f43ee8046664148f403fe66be6079e97.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 2, 1993, Diary entry 7976. NARA Catalog ID 101784486. Clinton Digital Library item 94936.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Russia",
+      "Daily Diary entry records a meeting involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a briefing on his upcoming meeting with the Prime Minister of Russia with: Warren M. Christopher, Secretary of State Lloyd Bentsen, Secretary of the Treasury Strobe Talbott, Ambassador at Large and Special Adviser to the Secretary of State on the New Independent States Anthony \"Tony\" Lake, Assistant for National Security Affairs",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94937-9463-1993-09-27",
+    "title": "Presidential Daily Diary meeting: September 27, 1993 - Baltics",
+    "date": "1993-09-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 9463",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94937",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/1b7ea00232a902a43e51f7b8be6b246d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/1b7ea00232a902a43e51f7b8be6b246d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 27, 1993, Diary entry 9463. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Baltics",
+      "Daily Diary entry records a meeting involving Baltics.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a meeting with leaders of Lithuania, Latvia, and Estonia. For attendees, see the diary appendix.\" Members of Press in/out",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94938-8405-1993-10-05",
+    "title": "Presidential Daily Diary telephone call: October 5, 1993 - Russia",
+    "date": "1993-10-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 8405",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94938",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/1816d0215e83a2022a9cf2d60ac55590.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/1816d0215e83a2022a9cf2d60ac55590.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, October 5, 1993, Diary entry 8405. NARA Catalog ID 101784486. Clinton Digital Library item 94938.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Boris N. Yeltsin, President of Russia (Russian Federation). The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94942-12843-1993-12-06",
+    "title": "Presidential Daily Diary meeting: December 6, 1993 - Spain",
+    "date": "1993-12-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 12843",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94942",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e1f7aae4530a5a9246f1ebfa15a9deb9.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e1f7aae4530a5a9246f1ebfa15a9deb9.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 6, 1993, Diary entry 12843. NARA Catalog ID 101784486. Clinton Digital Library item 94942.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Spain",
+      "Daily Diary entry records a meeting involving Spain.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Felipe Gonzalez Marquez, Prime Minister of the Kingdom of Spain Jenonne R. Walker, Special Assistant for National Security Affairs Members of Press in/out",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94942-10234-1993-12-12",
+    "title": "Presidential Daily Diary telephone call: December 12, 1993 - France",
+    "date": "1993-12-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 10234",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94942",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e1f7aae4530a5a9246f1ebfa15a9deb9.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e1f7aae4530a5a9246f1ebfa15a9deb9.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 12, 1993, Diary entry 10234. NARA Catalog ID 101784486. Clinton Digital Library item 94942.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Daily Diary entry records a telephone call involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Edouard Balladur, Prime Minister of the French Republic. The DECEMBER 12, 1993 THE WHITE HOUSE WASHINGTON, D.C 1:45 p.m. SUNDAY call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94944-14264-1994-01-03",
+    "title": "Presidential Daily Diary meeting: January 3, 1994 - NATO",
+    "date": "1994-01-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 14264",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94944",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4d2ab765f38a09332cce26bba11c63ff.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4d2ab765f38a09332cce26bba11c63ff.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14264. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a meeting/summit/session involving NATO."
+    ],
+    "summary": "The President participated in a meeting to discuss his upcoming North American Treaty Organization (NATO) Summit in Europe with Administration officials. For attendees, see the diary appendix.\"",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94944-14263-1994-01-03",
+    "title": "Presidential Daily Diary meeting: January 3, 1994 - NATO",
+    "date": "1994-01-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 14263",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94944",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4d2ab765f38a09332cce26bba11c63ff.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4d2ab765f38a09332cce26bba11c63ff.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14263. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a meeting/summit/session involving NATO."
+    ],
+    "summary": "The President participated in a meeting with the Joint Chiefs of Staff (JCS) to discuss the upcoming NATO Summit. For attendees, see the diary appendix.\"",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94944-14266-1994-01-03",
+    "title": "Presidential Daily Diary meeting: January 3, 1994 - NATO",
+    "date": "1994-01-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 14266",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94944",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4d2ab765f38a09332cce26bba11c63ff.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4d2ab765f38a09332cce26bba11c63ff.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14266. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a meeting/summit/session involving NATO."
+    ],
+    "summary": "The President participated in a meeting to discuss his upcoming NATO Summit with Administration officials. For attendees, see the diary appendix.\" JANUARY 3, 1994 THE WHITE HOUSE WASHINGTON, D.C. 5:15 p.m. MONDAY",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94945-14923-1994-01-31",
+    "title": "Presidential Daily Diary meeting: January 31, 1994 - Helmut Kohl",
+    "date": "1994-01-31",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 14923",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94945",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/2ae1157f0a1b2a2807f1e2be70a4ff77.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/2ae1157f0a1b2a2807f1e2be70a4ff77.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 31, 1994, Diary entry 14923. NARA Catalog ID 101784486. Clinton Digital Library item 94945.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Helmut Kohl",
+      "Daily Diary entry records a meeting involving Helmut Kohl.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The PResident met with: Chancellor Kohl Mr. Lake Joachim Bitterlich, -----need to id",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94946-11820-1994-02-10",
+    "title": "Presidential Daily Diary telephone call: February 10, 1994 - Russia",
+    "date": "1994-02-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 11820",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94946",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/59a6bc1e024928d9a87a43d97454f5ae.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/59a6bc1e024928d9a87a43d97454f5ae.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 10, 1994, Diary entry 11820. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Boris N. Yeltsin, President of Russia (Russian Federation) The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94947-12169-1994-02-20",
+    "title": "Presidential Daily Diary telephone call: February 20, 1994 - Russia",
+    "date": "1994-02-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 12169",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94947",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/613dc2dcc2ef2b26e1efdaabe6f76e41.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/613dc2dcc2ef2b26e1efdaabe6f76e41.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 20, 1994, Diary entry 12169. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by Boris N. Yeltsin, President of Russia (Russian Federation). The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94950-19540-1994-04-12",
+    "title": "Presidential Daily Diary meeting: April 12, 1994 - Germany",
+    "date": "1994-04-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 19540",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94950",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/affea2394be7a3e82895b690240b9fcf.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/affea2394be7a3e82895b690240b9fcf.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 12, 1994, Diary entry 19540. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Germany",
+      "Daily Diary entry records a meeting involving Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Rudolf Scharping, Chancellor-candidate and Chairman of the Geramn Social Democratic Party Immo Stabreit, Ambassador of the Federal Republic of Germany (ERG) to the U.S. Ursula Weide, interpreter. Federal Republic of Germany (FRG) Anthony \"Tony\" Lake, Assistant for National Security Affairs Richard Holbrooke, Ambassador of the U.S. to",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94953-14774-1994-06-03",
+    "title": "Presidential Daily Diary telephone call: June 3, 1994 - Russia",
+    "date": "1994-06-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 14774",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94953",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a313053c970a1eab16553175557937cc.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a313053c970a1eab16553175557937cc.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, June 3, 1994, Diary entry 14774. NARA Catalog ID 101784486. Clinton Digital Library item 94953.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Boris N. Yeltsin, President of Russia (Russian Federation). The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94955-16517-1994-08-25",
+    "title": "Presidential Daily Diary telephone call: August 25, 1994 - Ireland",
+    "date": "1994-08-25",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 16517",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94955",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/061eae4afc86b900bd77aea1acec5ac3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/061eae4afc86b900bd77aea1acec5ac3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, August 25, 1994, Diary entry 16517. NARA Catalog ID 101784486. Clinton Digital Library item 94955.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by the Prime Minister of Ireland Albert Reynolds. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94959-20724-1994-12-05",
+    "title": "Presidential Daily Diary meeting: December 5, 1994 - Hungary",
+    "date": "1994-12-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 20724",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94959",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ab1d55e51b45d3952dbfcfd87a1418b1.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ab1d55e51b45d3952dbfcfd87a1418b1.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 5, 1994, Diary entry 20724. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Hungary",
+      "Daily Diary entry records a meeting involving Hungary.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a meeting with U.S. and Hungarian officials. For attendees, see the diary appendix.\" Arpad Goncz, President of the Republic of Hungary Gyula Horn, Prime Minister of the Republic of Hungary",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94963-23268-1995-02-03",
+    "title": "Presidential Daily Diary meeting: February 3, 1995 - Italy",
+    "date": "1995-02-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 23268",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94963",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8155c84ac416c94339c47a6c19ae8e38.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8155c84ac416c94339c47a6c19ae8e38.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 3, 1995, Diary entry 23268. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Italy",
+      "Daily Diary entry records a meeting involving Italy.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with the Prime Minister of Italy Lamberto Dini. Members of Press in/out",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94963-23542-1995-02-09",
+    "title": "Presidential Daily Diary meeting: February 9, 1995 - Germany",
+    "date": "1995-02-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 23542",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94963",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8155c84ac416c94339c47a6c19ae8e38.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8155c84ac416c94339c47a6c19ae8e38.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 9, 1995, Diary entry 23542. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Germany",
+      "Daily Diary entry records a meeting involving Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met for a briefing on his upcoming meeting with the Chancellor of the Federal Republic of Germany (FRG) with:",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94965-25381-1995-03-16",
+    "title": "Presidential Daily Diary meeting: March 16, 1995 - Croatia",
+    "date": "1995-03-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 25381",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94965",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/eb1df40aae7044c5cc6652db18d2e37d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/eb1df40aae7044c5cc6652db18d2e37d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, March 16, 1995, Diary entry 25381. NARA Catalog ID 101784486. Clinton Digital Library item 94965.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Croatia",
+      "Daily Diary entry records a meeting involving Croatia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President dropped by a meeting with Bosnian and Croatian leaders. For a partial list of attendees, see APPENDIX \"C.\"",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94965-25424-1995-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1995 - John Bruton",
+    "date": "1995-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 25424",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94965",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/eb1df40aae7044c5cc6652db18d2e37d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/eb1df40aae7044c5cc6652db18d2e37d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, March 17, 1995, Diary entry 25424. NARA Catalog ID 101784486. Clinton Digital Library item 94965.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "John Bruton",
+      "Daily Diary entry records a meeting involving John Bruton.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Prime Minister Bruton.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94969-29265-1995-05-04",
+    "title": "Presidential Daily Diary meeting: May 4, 1995 - Czech Republic",
+    "date": "1995-05-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 29265",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94969",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/acad80fe1298efac3bb5696f15ed7529.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/acad80fe1298efac3bb5696f15ed7529.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 4, 1995, Diary entry 29265. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Czech Republic",
+      "Daily Diary entry records a meeting involving Czech Republic.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met for a briefing on his upcoming meeting with the Prime Minister of the Czech Republic with: Vice President Gore Warren M. Christopher, Secretary of State Richard C. Holbrooke, Assistant Secretary of State for European and MAY 4, 1995 THE WHITE HOUSE WASHINGTON, D.C. 9:59 a.m. THURSDAY Canadian Affairs Mr. Lake Mr. Berger Daniel Fried, Specia",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94969-29764-1995-05-10",
+    "title": "Presidential Daily Diary meeting: May 10, 1995 - Russia",
+    "date": "1995-05-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 29764",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94969",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/acad80fe1298efac3bb5696f15ed7529.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/acad80fe1298efac3bb5696f15ed7529.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 10, 1995, Diary entry 29764. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Russia",
+      "Daily Diary entry records a meeting involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Boris N. Yel'tsin, President of Russia (Russian Federation) Mr. Talbott Kyrill Borissow, interpreter. Department MAY 10, 1995 THE KREMLIN MOSCOW, RUSSIA 10:10 a.m. WEDNESDAY of State Dmitriy Ryurikov, interpreter, Russia (Russian Federation)",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94969-30028-1995-05-11",
+    "title": "Presidential Daily Diary meeting: May 11, 1995 - Ukraine",
+    "date": "1995-05-11",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 30028",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94969",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/acad80fe1298efac3bb5696f15ed7529.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/acad80fe1298efac3bb5696f15ed7529.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 11, 1995, Diary entry 30028. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Daily Diary entry records a meeting involving Ukraine.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: President Kuchma William G. Miller, Ambassador of the U.S. to the Ukraine Mr. Lake",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94978-28081-1996-01-26",
+    "title": "Presidential Daily Diary telephone call: January 26, 1996 - Russia",
+    "date": "1996-01-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 28081",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94978",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/879953700ac56bce885f28cebc495c3c.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/879953700ac56bce885f28cebc495c3c.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, January 26, 1996, Diary entry 28081. NARA Catalog ID 101784486. Clinton Digital Library item 94978.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin, The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94982-29959-1996-05-07",
+    "title": "Presidential Daily Diary telephone call: May 7, 1996 - Russia",
+    "date": "1996-05-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 29959",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94982",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3af066f87f25642accbcf63f58185da6.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3af066f87f25642accbcf63f58185da6.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 7, 1996, Diary entry 29959. NARA Catalog ID 101784486. Clinton Digital Library item 94982.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94984-30882-1996-07-05",
+    "title": "Presidential Daily Diary telephone call: July 5, 1996 - Russia",
+    "date": "1996-07-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 30882",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94984",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/10ff74aea2f353fc025410916ecb743e.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/10ff74aea2f353fc025410916ecb743e.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 5, 1996, Diary entry 30882. NARA Catalog ID 101784486. Clinton Digital Library item 94984.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by the President of Russia (Russian Federation) Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94988-32350-1996-11-14",
+    "title": "Presidential Daily Diary telephone call: November 14, 1996 - France",
+    "date": "1996-11-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 32350",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94988",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/eacaf0ad700f8329bab07c9cf85c78da.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/eacaf0ad700f8329bab07c9cf85c78da.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, November 14, 1996, Diary entry 32350. NARA Catalog ID 101784486. Clinton Digital Library item 94988.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Daily Diary entry records a telephone call involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by the President of France Jacques R. Chirac. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94991-33382-1997-02-28",
+    "title": "Presidential Daily Diary telephone call: February 28, 1997 - Russia",
+    "date": "1997-02-28",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 33382",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94991",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/f038f906c2b960f86f8beefd2a56c681.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/f038f906c2b960f86f8beefd2a56c681.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, February 28, 1997, Diary entry 33382. NARA Catalog ID 101784486. Clinton Digital Library item 94991.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94996-35460-1997-07-21",
+    "title": "Presidential Daily Diary telephone call: July 21, 1997 - France",
+    "date": "1997-07-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 35460",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94996",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/dfdd415e4e2e3e0f250a593df6ba6a6a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/dfdd415e4e2e3e0f250a593df6ba6a6a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 21, 1997, Diary entry 35460. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Daily Diary entry records a telephone call involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the French Republic Jean Claude Juncker. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94999-37302-1997-10-30",
+    "title": "Presidential Daily Diary telephone call: October 30, 1997 - Russia",
+    "date": "1997-10-30",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 37302",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94999",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d4a41ed84f791e8e04c941c5d1ae94.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d4a41ed84f791e8e04c941c5d1ae94.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 30, 1997, Diary entry 37302. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95000-37581-1997-11-15",
+    "title": "Presidential Daily Diary telephone call: November 15, 1997 - Russia",
+    "date": "1997-11-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 37581",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95000",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/364953cf29d22e5c62b569e792608326.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/364953cf29d22e5c62b569e792608326.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, November 15, 1997, Diary entry 37581. NARA Catalog ID 101784486. Clinton Digital Library item 95000.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin, The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-38666-1998-02-01",
+    "title": "Presidential Daily Diary telephone call: February 1, 1998 - Russia",
+    "date": "1998-02-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 38666",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 1, 1998, Diary entry 38666. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-47470-1998-02-05",
+    "title": "Presidential Daily Diary meeting: February 5, 1998 - Tony Blair",
+    "date": "1998-02-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 47470",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47470. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "Daily Diary entry records a meeting involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Prime Minister Blair.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-47478-1998-02-05",
+    "title": "Presidential Daily Diary meeting: February 5, 1998 - Tony Blair",
+    "date": "1998-02-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 47478",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47478. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "Daily Diary entry records a meeting involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Prime Minister Blair.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-48440-1998-02-06",
+    "title": "Presidential Daily Diary meeting: February 6, 1998 - Tony Blair",
+    "date": "1998-02-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 48440",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 6, 1998, Diary entry 48440. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "Daily Diary entry records a meeting involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Prime Minister Blair",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-48448-1998-02-06",
+    "title": "Presidential Daily Diary meeting: February 6, 1998 - Tony Blair",
+    "date": "1998-02-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 48448",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 6, 1998, Diary entry 48448. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "Daily Diary entry records a meeting involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Hillary Rodham Clinton, First Lady Prime Minister Blair Mrs. Blair",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95007-50572-1998-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1998 - Bertie Ahern",
+    "date": "1998-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 50572",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95007",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50572. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bertie Ahern",
+      "Daily Diary entry records a meeting involving Bertie Ahern.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Vice President Gore Prime Minister Ahern",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95007-50593-1998-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1998 - Ireland",
+    "date": "1998-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 50593",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95007",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50593. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: John Hume, Leader of the Social Democratic and Labor Party (SDLP), Ireland Seamus Mallon, Deputy Leader of the Social Democratic and Labor Party MARCH 17, 1998 THE WHITE HOUSE WASHINGTON, D.C. 7:06 p.m. TUESDAY (SDLP), Ireland Patricia Hume, -----need to better id Mr. Berger Mr. Steinberg Mr. Butler",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95007-50599-1998-03-17",
+    "title": "Presidential Daily Diary telephone call: March 17, 1998 - Bertie Ahern",
+    "date": "1998-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 50599",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95007",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8a291bd5384cabf62d42bbd55e09d4fd.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50599. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bertie Ahern",
+      "Daily Diary entry records a telephone call involving Bertie Ahern.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President and the First Lady hosted a Withdrawal/Redaction Marker Clinton Library DOCUMENT NO. SUBJECT/TITLE DATE RESTRICTION AND TYPE 003. diary re: President's Diary for March 17, 1998 [partial] (1 page) 03/17/1998 b(6) Clinton Presidential Records Presidential Daily Diary Ellen McCathran OA/Box Number: CF 1985 [03/15/1998-03/31/1998] 2013-0549-F rs284",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95008-39600-1998-04-06",
+    "title": "Presidential Daily Diary telephone call: April 6, 1998 - Russia",
+    "date": "1998-04-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 39600",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95008",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/efe6dd673160aa3a5046cfec889860dc.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 6, 1998, Diary entry 39600. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yel'tsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95010-39832-1998-05-04",
+    "title": "Presidential Daily Diary telephone call: May 4, 1998 - Czech Republic",
+    "date": "1998-05-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 39832",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95010",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0e4c6e83936e8b80ec5165413c6caee2.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0e4c6e83936e8b80ec5165413c6caee2.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 4, 1998, Diary entry 39832. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Czech Republic",
+      "Daily Diary entry records a telephone call involving Czech Republic.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of the Czech Republic Vaclav Havel. The call was not completed.",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95010-39930-1998-05-12",
+    "title": "Presidential Daily Diary telephone call: May 12, 1998 - Russia",
+    "date": "1998-05-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 39930",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95010",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0e4c6e83936e8b80ec5165413c6caee2.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0e4c6e83936e8b80ec5165413c6caee2.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 12, 1998, Diary entry 39930. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95011-40030-1998-05-23",
+    "title": "Presidential Daily Diary telephone call: May 23, 1998 - Ireland",
+    "date": "1998-05-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 40030",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95011",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3946938a64dec2f0aa5bb35adc8267a9.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3946938a64dec2f0aa5bb35adc8267a9.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 23, 1998, Diary entry 40030. NARA Catalog ID 101784486. Clinton Digital Library item 95011.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned John Hume, leader of the Social Democratic and Labor Party (SDLP), Belfast, Ireland. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95013-40339-1998-06-16",
+    "title": "Presidential Daily Diary telephone call: June 16, 1998 - Russia",
+    "date": "1998-06-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 40339",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95013",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/f27042be81602a4d52b39624770ddb1f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/f27042be81602a4d52b39624770ddb1f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 16, 1998, Diary entry 40339. NARA Catalog ID 101784486. Clinton Digital Library item 95013.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95014-55444-1998-07-08",
+    "title": "Presidential Daily Diary meeting: July 8, 1998 - NATO",
+    "date": "1998-07-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 55444",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95014",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/951b19782f8c1b145a62bab667cca7ed.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/951b19782f8c1b145a62bab667cca7ed.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 8, 1998, Diary entry 55444. NARA Catalog ID 101784486. Clinton Digital Library item 95014.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a meeting/summit/session involving NATO."
+    ],
+    "summary": "The President met with: Mr. Berger Mr. Steinberg Edward A. Rice Jr., Deputy Executive JULY 8, 1998 THE WHITE HOUSE WASHINGTON, D.C. 10:06 a.m. WEDNESDAY Secretary, National Security Council (NSC) Donald K. Handler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95017-41137-1998-08-20",
+    "title": "Presidential Daily Diary telephone call: August 20, 1998 - Tony Blair",
+    "date": "1998-08-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 41137",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95017",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e6ad9a7326216b2ded5cd79f147fd02b.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e6ad9a7326216b2ded5cd79f147fd02b.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 20, 1998, Diary entry 41137. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "Daily Diary entry records a telephone call involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned Prime Minister Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-59429-1998-09-03",
+    "title": "Presidential Daily Diary meeting: September 3, 1998 - Ireland",
+    "date": "1998-09-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 59429",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59429. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with John Hume, leader of the Social Democratic and Labor Party (SDLP), Belfast, Ireland. He was accompanied by: Ambassador Lader Ki Fort, U.S. Counsel General William M. Daley, Secretary of Commerce Richard W. Riley, Secretary of Education Ms. Echaveste Mr. Berger James B. Steinberg, Deputy Assistant for National Security Affairs",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-59440-1998-09-03",
+    "title": "Presidential Daily Diary meeting: September 3, 1998 - Tony Blair",
+    "date": "1998-09-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 59440",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59440. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "Daily Diary entry records a meeting involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Prime Minister Blair Mr. Adams",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-59460-1998-09-03",
+    "title": "Presidential Daily Diary meeting: September 3, 1998 - Tony Blair",
+    "date": "1998-09-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 59460",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59460. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "Daily Diary entry records a meeting involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President went to building #19. 59461 to u o 7:25 The President met with Prime Minister Blair",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-59479-1998-09-04",
+    "title": "Presidential Daily Diary meeting: September 4, 1998 - Bertie Ahern",
+    "date": "1998-09-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 59479",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59479. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bertie Ahern",
+      "Daily Diary entry records a meeting involving Bertie Ahern.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Prime Minister Ahern.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-59488-1998-09-04",
+    "title": "Presidential Daily Diary meeting: September 4, 1998 - Ireland",
+    "date": "1998-09-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 59488",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59488. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Withdrawal/Redaction Marker Clinton Library DOCUMENT NO. SUBJECT/TITLE DATE RESTRICTION AND TYPE 002. diary re: President's Diary for September 4, 1998 [partial] (3 pages) 09/04/1998 b(6) Clinton Presidential Records Presidential Daily Diary Ellen McCathran OA/Box Number: CF 1985 [09/01/1998-09/13/1998] 2013-0549-F rs2857 Presidential",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-41741-1998-09-12",
+    "title": "Presidential Daily Diary telephone call: September 12, 1998 - Russia",
+    "date": "1998-09-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 41741",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 12, 1998, Diary entry 41741. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin, The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95019-60123-1998-09-21",
+    "title": "Presidential Daily Diary meeting: September 21, 1998 - Tony Blair",
+    "date": "1998-09-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 60123",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95019",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/af49ca350c1bcd7ad6cb7f883c26faca.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/af49ca350c1bcd7ad6cb7f883c26faca.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 21, 1998, Diary entry 60123. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "Daily Diary entry records a meeting involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Hillary Rodham Clinton, First Lady Prime Minister Blair",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95019-42162-1998-09-30",
+    "title": "Presidential Daily Diary telephone call: September 30, 1998 - Germany",
+    "date": "1998-09-30",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 42162",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95019",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/af49ca350c1bcd7ad6cb7f883c26faca.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/af49ca350c1bcd7ad6cb7f883c26faca.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 30, 1998, Diary entry 42162. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Chancellor of the Federal Republic of Germany (FRG) Helmut - Page 2'-».Tji SEPTEMBER 30, 1998 ^ THE WHITE HOUSE WASHINGTON, D.C. 9:10 a.m. WEDNESDAY Kohl. The call was not completed. ■i",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95021-42493-1998-10-16",
+    "title": "Presidential Daily Diary telephone call: October 16, 1998 - Ireland",
+    "date": "1998-10-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 42493",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95021",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 16, 1998, Diary entry 42493. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned John Hume, leader of the Social Democratic and Labor Party (SDLP), Belfast, Ireland. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95022-63199-1998-11-04",
+    "title": "Presidential Daily Diary meeting: November 4, 1998 - NATO",
+    "date": "1998-11-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 63199",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95022",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 4, 1998, Diary entry 63199. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a meeting/summit/session involving NATO."
+    ],
+    "summary": "The President met with: Mr. Berger James B. Steinberg, Deputy Assistant for National Security Affairs Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Bruce 0. Riedel, Director, Near East and NOVEMBER 4, 1998 THE WHITE HOUSE WASHINGTON, D.C 3:08 p.m. WEDNESDAY South Asia Affairs, Nation",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95023-43063-1998-11-14",
+    "title": "Presidential Daily Diary telephone call: November 14, 1998 - Tony Blair",
+    "date": "1998-11-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 43063",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95023",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43063. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "Daily Diary entry records a telephone call involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President talked over a secure voice conference call with: Prime Minister Blair Donald L. Kerrick, Deputy Assistant for National Security Affairs David B. Higgins, Duty Officer, White House Situation Room, National Securit Council (NSC) • ■**li«*- 43045 ■ <«•*••• 10: 00 10: 06 The President talked with his Assistant and Chief of Staff, John D. Podesta. 4",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95023-43066-1998-11-14",
+    "title": "Presidential Daily Diary telephone call: November 14, 1998 - Tony Blair",
+    "date": "1998-11-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 43066",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95023",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/144ec239d1200caeab1c93c95fd36d48.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43066. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "Daily Diary entry records a telephone call involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President was telephoned by Prime Minister Blair. The call was not completed",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95028-68226-1999-02-04",
+    "title": "Presidential Daily Diary meeting: February 4, 1999 - Albania",
+    "date": "1999-02-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 68226",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95028",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/d06c05b6429377b5f918650dec56b562.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/d06c05b6429377b5f918650dec56b562.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 68226. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Albania",
+      "Daily Diary entry records a meeting involving Albania.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Pandeli Sotir Majko, Prime Minister of the Republic of Albania FEBRUARY 4, 1999 WASHINGTON HILTON HOTEL WASHINGTON, D.C. 10:05 a.m. THURSDAY Maqo Lakrori, Secretary of State for European Integration, Republic of Albania Petrit Bushati, Ambassador of the Republic of Albania to the U.S. Mr. Berger Stephen J. Flanagan, Special Assistant",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95028-68227-1999-02-04",
+    "title": "Presidential Daily Diary meeting: February 4, 1999 - Serbia/Yugoslavia",
+    "date": "1999-02-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 68227",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95028",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/d06c05b6429377b5f918650dec56b562.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/d06c05b6429377b5f918650dec56b562.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 68227. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Serbia/Yugoslavia",
+      "Daily Diary entry records a meeting involving Serbia/Yugoslavia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Ljubco Georgievski, Prime Minister of the former Yugoslav Republic of Macedonia Boris Trajkovsky, Deputy Foreign Minister of the former Yugoslav Republic of Macedonia Ljubica Acevska, Ambassador of the former Yugoslav Republic of Macedonia to the U.S. Mr. Berger Mr. Flanagan Ms. Echaveste",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95030-70569-1999-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1999 - Bertie Ahern",
+    "date": "1999-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 70569",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95030",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70569. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bertie Ahern",
+      "Daily Diary entry records a meeting involving Bertie Ahern.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Prime Minister Ahern.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95030-70574-1999-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1999 - Bertie Ahern",
+    "date": "1999-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 70574",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95030",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70574. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bertie Ahern",
+      "Daily Diary entry records a meeting involving Bertie Ahern.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Prime Minister Ahern.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95031-45147-1999-03-24",
+    "title": "Presidential Daily Diary telephone call: March 24, 1999 - Russia",
+    "date": "1999-03-24",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 45147",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95031",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 24, 1999, Diary entry 45147. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95031-71241-1999-03-31",
+    "title": "Presidential Daily Diary meeting: March 31, 1999 - Albania",
+    "date": "1999-03-31",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 71241",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95031",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 31, 1999, Diary entry 71241. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Albania",
+      "Daily Diary entry records a meeting involving Albania.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with a group of Albanian-American leaders.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95032-45343-1999-04-03",
+    "title": "Presidential Daily Diary telephone call: April 3, 1999 - France",
+    "date": "1999-04-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 45343",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95032",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 3, 1999, Diary entry 45343. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Daily Diary entry records a telephone call involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of France Jacques R. Chirac. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-45535-1999-04-18",
+    "title": "Presidential Daily Diary telephone call: April 18, 1999 - Bulgaria",
+    "date": "1999-04-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 45535",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 18, 1999, Diary entry 45535. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bulgaria",
+      "Daily Diary entry records a telephone call involving Bulgaria.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the Republic of Bulgaria Ivan Rostov. The call was not completed.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-45542-1999-04-18",
+    "title": "Presidential Daily Diary telephone call: April 18, 1999 - Hungary",
+    "date": "1999-04-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 45542",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 18, 1999, Diary entry 45542. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Hungary",
+      "Daily Diary entry records a telephone call involving Hungary.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of the Republic of Hungary Viktor Orban. The call was not completed.",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72192-1999-04-21",
+    "title": "Presidential Daily Diary meeting: April 21, 1999 - Tony Blair",
+    "date": "1999-04-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 72192",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 21, 1999, Diary entry 72192. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Tony Blair",
+      "Daily Diary entry records a meeting involving Tony Blair.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Prime Minister Blair Secretary Albright Mr. Berger",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72210-1999-04-22",
+    "title": "Presidential Daily Diary meeting: April 22, 1999 - Javier Solana",
+    "date": "1999-04-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 72210",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72210. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Javier Solana",
+      "Daily Diary entry records a meeting involving Javier Solana.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Secretary General Solana Madariaga Mr. Berger",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72231-1999-04-23",
+    "title": "Presidential Daily Diary meeting: April 23, 1999 - Greece",
+    "date": "1999-04-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 72231",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72231. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Greece",
+      "Daily Diary entry records a meeting involving Greece.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Konstandinos Simitis, Prime Minister of Greece Mr. Berger Mr. Blinken",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-45676-1999-04-25",
+    "title": "Presidential Daily Diary telephone call: April 25, 1999 - Russia",
+    "date": "1999-04-25",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 45676",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 25, 1999, Diary entry 45676. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95035-46522-1999-05-27",
+    "title": "Presidential Daily Diary telephone call: May 27, 1999 - Czech Republic",
+    "date": "1999-05-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 46522",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95035",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46522. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Czech Republic",
+      "Daily Diary entry records a telephone call involving Czech Republic.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of the Czech Republic Vaclav Havel. The call was not completed.",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95035-46527-1999-05-27",
+    "title": "Presidential Daily Diary telephone call: May 27, 1999 - France",
+    "date": "1999-05-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 46527",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95035",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46527. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Daily Diary entry records a telephone call involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of France (French Republic) Jacques R. Chirac. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95035-46462-1999-05-31",
+    "title": "Presidential Daily Diary telephone call: May 31, 1999 - Russia",
+    "date": "1999-05-31",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 46462",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95035",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 31, 1999, Diary entry 46462. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister of Russia (Russian Federation) Sergey Vadimirovich Stepashin.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95036-46592-1999-06-08",
+    "title": "Presidential Daily Diary telephone call: June 8, 1999 - Russia",
+    "date": "1999-06-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 46592",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95036",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 8, 1999, Diary entry 46592. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia (Russian Federation) Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-74752-1999-06-17",
+    "title": "Presidential Daily Diary meeting: June 17, 1999 - France",
+    "date": "1999-06-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 74752",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 17, 1999, Diary entry 74752. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "France",
+      "Daily Diary entry records a meeting involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with the Prime Minister of France Lionel Jospin. For a list of other attendees, see APPENDIX \"C.\"",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-74823-1999-06-18",
+    "title": "Presidential Daily Diary meeting: June 18, 1999 - Gerhard Schroeder",
+    "date": "1999-06-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 74823",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 18, 1999, Diary entry 74823. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Gerhard Schroeder",
+      "Daily Diary entry records a meeting involving Gerhard Schroeder.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Chancellor Schroeder.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95038-47006-1999-07-01",
+    "title": "Presidential Daily Diary telephone call: July 1, 1999 - Ireland",
+    "date": "1999-07-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 47006",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95038",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e42f531fe8aef1c2785d1ac03a345814.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 1, 1999, Diary entry 47006. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the Prime Minister 7: 33 of Ireland Bertie Ahren. The call was not i completed.;",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95039-76045-1999-07-27",
+    "title": "Presidential Daily Diary meeting: July 27, 1999 - Russia",
+    "date": "1999-07-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 76045",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95039",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/2a670a5ec58a62bb60cb91fee3f665ff.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/2a670a5ec58a62bb60cb91fee3f665ff.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 27, 1999, Diary entry 76045. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Russia",
+      "Daily Diary entry records a meeting involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President participated in a meeting with the Prime Minister of Russia (Russian Federation) Sergey Stephashin.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95046-53596-1999-11-19",
+    "title": "Presidential Daily Diary meeting: November 19, 1999 - Bertie Ahern",
+    "date": "1999-11-19",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 53596",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95046",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/314fe5ec0ba77bbbc91b6999e998e350.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/314fe5ec0ba77bbbc91b6999e998e350.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 19, 1999, Diary entry 53596. NARA Catalog ID 101784486. Clinton Digital Library item 95046.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bertie Ahern",
+      "Daily Diary entry records a meeting involving Bertie Ahern.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Prime Minister Ahern.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95046-53635-1999-11-19",
+    "title": "Presidential Daily Diary meeting: November 19, 1999 - Greece",
+    "date": "1999-11-19",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 53635",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95046",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/314fe5ec0ba77bbbc91b6999e998e350.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/314fe5ec0ba77bbbc91b6999e998e350.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 19, 1999, Diary entry 53635. NARA Catalog ID 101784486. Clinton Digital Library item 95046.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Greece",
+      "Daily Diary entry records a meeting involving Greece.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with Greek American Community Leaders and members of the U.S. Congressional Delegation. For a partial list of attendees, see APPENDIX \"E.\"",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95047-54756-1999-11-23",
+    "title": "Presidential Daily Diary meeting: November 23, 1999 - Kosovo",
+    "date": "1999-11-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 54756",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95047",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 23, 1999, Diary entry 54756. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Kosovo",
+      "Daily Diary entry records a meeting involving Kosovo.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with a group of U.S. and Kosovar leaders. For attendees, see the diary appendix.\"",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95050-51114-1999-12-31",
+    "title": "Presidential Daily Diary telephone call: December 31, 1999 - Russia",
+    "date": "1999-12-31",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 51114",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95050",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/b1829e24c870a6ebe49ee18609f92a07.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/b1829e24c870a6ebe49ee18609f92a07.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, December 31, 1999, Diary entry 51114. NARA Catalog ID 101784486. Clinton Digital Library item 95050.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia, Boris N. Yeltsin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95056-61302-2000-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 2000 - Ireland",
+    "date": "2000-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 61302",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95056",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61302. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Ireland.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: John Hume, Leader of the Social Democratic and Labor Party (SDLP), Belfast, Ireland Mr. Steinberg",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95060-65154-2000-05-09",
+    "title": "Presidential Daily Diary meeting: May 9, 2000 - Ukraine",
+    "date": "2000-05-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 65154",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95060",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a67ebf9d69b1f6020efd5185ea68b828.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a67ebf9d69b1f6020efd5185ea68b828.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 9, 2000, Diary entry 65154. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
+    "sections": [
+      "Central and Eastern Europe"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Daily Diary entry records a meeting involving Ukraine.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with the Prime Minister of Ukraine, Viktor Yushchenko.",
+    "topics": [
+      "Central and Eastern Europe",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95063-67112-2000-06-04",
+    "title": "Presidential Daily Diary meeting: June 4, 2000 - Russia",
+    "date": "2000-06-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 67112",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95063",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 4, 2000, Diary entry 67112. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Russia",
+      "Daily Diary entry records a meeting involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Vladimir V. Putin, President of Russia Mr. Talbott Sergey Prikhodko, Foreign Affairs Adviser and Interpreter, Russia Members of Press in/out",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95063-67140-2000-06-05",
+    "title": "Presidential Daily Diary meeting: June 5, 2000 - Russia",
+    "date": "2000-06-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 67140",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95063",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 5, 2000, Diary entry 67140. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Russia",
+      "Daily Diary entry records a meeting involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Vladimir V. Putin, President of Russia Mr. Talbott Sergey Prikhodko, Foreign Affairs Adviser and Interpreter, Russia",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95064-67636-2000-06-13",
+    "title": "Presidential Daily Diary meeting: June 13, 2000 - Supreme Allied Commander Europe",
+    "date": "2000-06-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 67636",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95064",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c885667113af27a3af87739ee47195a8.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c885667113af27a3af87739ee47195a8.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 13, 2000, Diary entry 67636. NARA Catalog ID 101784486. Clinton Digital Library item 95064.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Supreme Allied Commander Europe",
+      "Daily Diary entry records a meeting involving Supreme Allied Commander Europe.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with General Wesley K. Clark, Supreme Allied Commander, Europe.",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95067-64595-2000-07-31",
+    "title": "Presidential Daily Diary telephone call: July 31, 2000 - France",
+    "date": "2000-07-31",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 64595",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95067",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/b8903672b3d60983b74865eb0eae3b14.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/b8903672b3d60983b74865eb0eae3b14.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 31, 2000, Diary entry 64595. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "France",
+      "Daily Diary entry records a telephone call involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President placed the following telephone calls to: Mr. Berger Jacques R. Chirac, President of France The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95068-71902-2000-08-09",
+    "title": "Presidential Daily Diary meeting: August 9, 2000 - Croatia",
+    "date": "2000-08-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 71902",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95068",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/acd6131f3d61c943edb1f10112c1c036.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/acd6131f3d61c943edb1f10112c1c036.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, August 9, 2000, Diary entry 71902. NARA Catalog ID 101784486. Clinton Digital Library item 95068.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Croatia",
+      "Daily Diary entry records a meeting involving Croatia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Stjepan Mesic, President of the Republic of Croatia Ivica Racan, Prime Minister of the Republic of Croatia",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95070-72951-2000-09-07",
+    "title": "Presidential Daily Diary meeting: September 7, 2000 - France",
+    "date": "2000-09-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 72951",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95070",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/62772526a92b9d76dc362f2848756386.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/62772526a92b9d76dc362f2848756386.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 7, 2000, Diary entry 72951. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "France",
+      "Daily Diary entry records a meeting involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Jacques R. Chirac, President of France Mr. Berger Mr. Ricchetti",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95071-67907-2000-09-30",
+    "title": "Presidential Daily Diary telephone call: September 30, 2000 - Russia",
+    "date": "2000-09-30",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 67907",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95071",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e7c9584a5d0910a9351c548da737f8e5.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e7c9584a5d0910a9351c548da737f8e5.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 30, 2000, Diary entry 67907. NARA Catalog ID 101784486. Clinton Digital Library item 95071.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned the President of Russia, Vladimir V. Putin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95073-68788-2000-10-20",
+    "title": "Presidential Daily Diary telephone call: October 20, 2000 - Russia",
+    "date": "2000-10-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 65,
+    "identifier": "2013-0549-F diary entry 68788",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95073",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c43b3f2fd1594e35b8ddd2ffbde7faaf.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c43b3f2fd1594e35b8ddd2ffbde7faaf.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 20, 2000, Diary entry 68788. NARA Catalog ID 101784486. Clinton Digital Library item 95073.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Daily Diary entry records a telephone call involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President telephoned President of Russia, Vladimir V. Putin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95063-67054-2000-06-01",
+    "title": "Presidential Daily Diary working meal: June 1, 2000 - Gerhard Schroeder, Germany",
+    "date": "2000-06-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 64,
+    "identifier": "2013-0549-F diary entry 67054",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95063",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 1, 2000, Diary entry 67054. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "Gerhard Schroeder",
+      "Germany",
+      "Daily Diary entry records a working meal involving Gerhard Schroeder, Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President had dinner with: Chancellor Schroeder Joschk Fischer, Foreign Minister, Federal Republic of Germany Secretary Albright Mr. Berger Mr. Ricchetti",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95063-67107-2000-06-03",
+    "title": "Presidential Daily Diary working meal: June 3, 2000 - Vladimir Putin, Russia",
+    "date": "2000-06-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 64,
+    "identifier": "2013-0549-F diary entry 67107",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95063",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fef5fdd8695852ca139d57460c1faa13.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 3, 2000, Diary entry 67107. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "Vladimir Putin",
+      "Russia",
+      "Daily Diary entry records a working meal involving Vladimir Putin, Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President had dinner with: President Putin Mr. Talbott JUNE 3, 2000 KREMLIN, MOSCOW, RUSSIA 8:25 p.m. SATURDAY Sergey Prikhodko, Foreign Affairs Adviser, Russia",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94925-1278-1993-02-15",
+    "title": "Presidential Daily Diary telephone call: February 15, 1993 - France",
+    "date": "1993-02-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 63,
+    "identifier": "2013-0549-F diary entry 1278",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94925",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 15, 1993, Diary entry 1278. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Diary meeting",
+      "France",
+      "Daily Diary entry records a telephone call/meeting involving France."
+    ],
+    "summary": "The President participated in a scheduling meeting with: Vice President Gore Mr. McLarty George R. Stephanopoulos, Assistant and Director of Communications Mr. Lindsey Marcia L. Hale, Assistant and Director of Scheduling and Advance Note: An ABC News film crew filmed a limited portion of this meeting for the upcoming \"Kids Town Hall Meeting\" hosted by news a",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94925-1282-1993-02-15",
+    "title": "Presidential Daily Diary telephone call: February 15, 1993 - Russia",
+    "date": "1993-02-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 63,
+    "identifier": "2013-0549-F diary entry 1282",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94925",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a460623eb4fc3f655480c852a90db603.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 15, 1993, Diary entry 1282. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Diary meeting",
+      "Russia",
+      "Daily Diary entry records a telephone call/meeting involving Russia."
+    ],
+    "summary": "The President met with: 854 1: 05 The President telephoned Kenneth D. Brody, Goldman Sachs Group, New York, New York. The call was not completed. The call was not completed.---- an appointment???--need to better id. ---- to be Chairman, of the Export -import Bank????? 855 1: 09 The President telephoned Robert A. Strauss, partner with Akin, Gump, Strauss, Hau",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94937-9532-1993-09-29",
+    "title": "Presidential Daily Diary meeting: September 29, 1993 - Ukraine, Russia",
+    "date": "1993-09-29",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 9532",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94937",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/1b7ea00232a902a43e51f7b8be6b246d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/1b7ea00232a902a43e51f7b8be6b246d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 29, 1993, Diary entry 9532. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Strobe Talbott, Ambassador at Large and Special Adviser to the Secretary of State on the New Independent States Anthony \"Tony\" Lake, Assistant for National Security Affairs R. Nicholas Burns, Director, European and Eurasian Affairs, National Security Council (NSC) John R. Beyrle, Director, Russian/Ukraine/Eurasian Affairs, SEPTEMBER 2",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94944-14292-1994-01-04",
+    "title": "Presidential Daily Diary meeting: January 4, 1994 - Ukraine, Russia",
+    "date": "1994-01-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 14292",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94944",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4d2ab765f38a09332cce26bba11c63ff.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4d2ab765f38a09332cce26bba11c63ff.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 4, 1994, Diary entry 14292. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Mr. Lake Rose E. Gottemoeller, Director of Russian, Ukrainian and Eurasian Affairs, National Security Council (NSC) R. Nicholas Burns, Special Assistant and Senior Director, Russian/Ukraine/Eurasian Affairs, National Security Council (NSC)",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94946-15549-1994-02-10",
+    "title": "Presidential Daily Diary meeting: February 10, 1994 - Ukraine, Russia",
+    "date": "1994-02-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 15549",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94946",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/59a6bc1e024928d9a87a43d97454f5ae.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/59a6bc1e024928d9a87a43d97454f5ae.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 10, 1994, Diary entry 15549. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Anthony \"Tony\" Lake, Assistant for National Security Affairs R. Nicholas Burns, Special Assistant and Senior Director, Russian/Ukraine/Eurasian Affairs, National Security Council (NSC) Nancy E. Soderberg, Special Assistant for National Security Affairs and Staff Director, National Security Council (NSC) Jane E. Holl, Director, Europea",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94947-16014-1994-02-17",
+    "title": "Presidential Daily Diary meeting: February 17, 1994 - Ukraine, Russia",
+    "date": "1994-02-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 16014",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94947",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/613dc2dcc2ef2b26e1efdaabe6f76e41.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/613dc2dcc2ef2b26e1efdaabe6f76e41.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 17, 1994, Diary entry 16014. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Mr. McLarty Bruce R. Lindsey, Assistant and Senior Advisor Nancy E. Soderberg, Special Assistant for National Security Affairs and Staff Director, National Security Council (NSC) Rose E. Gottemoeller, Director of Russian, Ukrainian and Eurasian Affairs, National Security Council (NSC)",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94948-17153-1994-03-03",
+    "title": "Presidential Daily Diary meeting: March 3, 1994 - Ukraine, Russia",
+    "date": "1994-03-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 17153",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94948",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/acc45c4f8df441aeb572a614bdea1d6f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/acc45c4f8df441aeb572a614bdea1d6f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, March 3, 1994, Diary entry 17153. NARA Catalog ID 101784486. Clinton Digital Library item 94948.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Mr. Berger R. Nicholas Burns, Special Assistant and Senior Director, Russian/Ukraine/Eurasian Affairs, National Security Council (NSC)",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94948-17340-1994-03-07",
+    "title": "Presidential Daily Diary meeting: March 7, 1994 - Ukraine, Russia",
+    "date": "1994-03-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 17340",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94948",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/acc45c4f8df441aeb572a614bdea1d6f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/acc45c4f8df441aeb572a614bdea1d6f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, March 7, 1994, Diary entry 17340. NARA Catalog ID 101784486. Clinton Digital Library item 94948.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met for a briefing on his upcoming meeting with the Chairman of the Republic of Georgia with: Vice President Gore Nelson S. \"Strobe\" Talbott III, Deputy Secretary of State Kent N. Brown, Ambassador of the U.S. to the Republic of Georgia R. Nicholas Burns, Special Assistant and Senior Director, Russian/Ukraine/Eurasian Affairs, National Security",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94951-20011-1994-04-20",
+    "title": "Presidential Daily Diary meeting: April 20, 1994 - Ukraine, Russia",
+    "date": "1994-04-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 20011",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94951",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa78e6238d4aee22505707c98f305355.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa78e6238d4aee22505707c98f305355.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 20, 1994, Diary entry 20011. NARA Catalog ID 101784486. Clinton Digital Library item 94951.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: R. Nicholas Burns, Special Assistant and Senior Director, Russian/Ukraine/Eurasian Affairs, National Security Council (NSC) Jane E. Holl, Director, European and Eurasian Affairs, National Security Council (NSC) Kristie A. Kenney, Deputy Executive Secretary, National Security Council (NSC)",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94960-21592-1994-12-21",
+    "title": "Presidential Daily Diary meeting: December 21, 1994 - Ukraine, Russia",
+    "date": "1994-12-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 21592",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94960",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/44258f31dcdfb7840981502132eeba6d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/44258f31dcdfb7840981502132eeba6d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, December 21, 1994, Diary entry 21592. NARA Catalog ID 101784486. Clinton Digital Library item 94960.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Vice President Gore Warren M. Christopher, Secretary of State William J. Perry, Secretary of Defense Nelson S. \"Strobe\" Talbott III, Deputy Secretary of State Mr. Panetta Mr. Berger R. Nicholas Burns, Special Assistant and Senior Director, Russian/Ukraine/Eurasian Affairs, National Security Council (NSC) Leon S. Fuerth, Assistant to t",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94961-22356-1995-01-13",
+    "title": "Presidential Daily Diary meeting: January 13, 1995 - Ukraine, Russia",
+    "date": "1995-01-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 22356",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94961",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a6c1aa1850e75f0122fa06e1ae14e89f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a6c1aa1850e75f0122fa06e1ae14e89f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, January 13, 1995, Diary entry 22356. NARA Catalog ID 101784486. Clinton Digital Library item 94961.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Samuel R. \"Sandy\" Berger, Deputy Assistant for National Security Affairs John R. Beyrle, Director, Russian/Ukraine/Eurasian Affairs, JANUARY 13, 1995 ABOARD AIR FORCE ONE 8:40 a.m. FRIDAY National Security Council (NSC) Richard Schifter, Special Assistant and Counselor, National Security Council (NSC) Antony J. Blinken, Director, Spee",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94963-23266-1995-02-03",
+    "title": "Presidential Daily Diary meeting: February 3, 1995 - Ukraine, Russia",
+    "date": "1995-02-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 23266",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94963",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8155c84ac416c94339c47a6c19ae8e38.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8155c84ac416c94339c47a6c19ae8e38.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 3, 1995, Diary entry 23266. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with Special Assistant and Senior Director, Russian, Ukraine/Eurasian Affairs, R. Nicholas Burns.",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94997-35786-1997-08-01",
+    "title": "Presidential Daily Diary meeting: August 1, 1997 - Ukraine, Russia",
+    "date": "1997-08-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 35786",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94997",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4e802f1ab1df61f2978904307abda41a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4e802f1ab1df61f2978904307abda41a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, August 1, 1997, Diary entry 35786. NARA Catalog ID 101784486. Clinton Digital Library item 94997.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met for a briefing on his upcoming meeting with the President of Azerbaijan with: Madeleine K. Albright, Secretary of State Nelson S. \"Strobe\" Talbott III, Deputy Secretary of State Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs James B. Steinberg, Deputy Assistant for National Security Affairs Steven K. Pifer, Director, Russ",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95016-58947-1998-08-14",
+    "title": "Presidential Daily Diary meeting: August 14, 1998 - Ukraine, Russia",
+    "date": "1998-08-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 58947",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95016",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 14, 1998, Diary entry 58947. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Robert E. Rubin, Secretary of the Treasury Stephen R. Sestanovich, Ambassador at Large and Special Adviser to the Secretary of State on the New Independent States (NIS) Janet L. Yellen, Chairman of the Council of Economic Advisers (CEA) Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs Donald L. Kerrick, Deputy Assista",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95020-60659-1998-10-05",
+    "title": "Presidential Daily Diary meeting: October 5, 1998 - Ukraine, Russia",
+    "date": "1998-10-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 60659",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95020",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 5, 1998, Diary entry 60659. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met for a briefing with::s:: Nelson S. \"Strobe\" Talbott III, Deputy Secretary of State Mr. Bowles Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs James B. Steinberg, Deputy Assistant for National Security Affairs Col. Rice Andrew S. Weiss, Director, Russian/Ukraine/Eurasian Affairs, National Security Council (NSC) Leon S. Fuer",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95021-42750-1998-10-30",
+    "title": "Presidential Daily Diary telephone call: October 30, 1998 - Bosnia, Kosovo",
+    "date": "1998-10-30",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 42750",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95021",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 30, 1998, Diary entry 42750. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bosnia",
+      "Kosovo",
+      "Daily Diary entry records a telephone call involving Bosnia, Kosovo."
+    ],
+    "summary": "The President was telephoned by Richard C. Holbrooke, Special Presidential Emissary for Cyprus, Bosnia and Kosovo. The call was not completed.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95022-42791-1998-11-02",
+    "title": "Presidential Daily Diary telephone call: November 2, 1998 - Bosnia, Kosovo",
+    "date": "1998-11-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 42791",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95022",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 2, 1998, Diary entry 42791. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bosnia",
+      "Kosovo",
+      "Daily Diary entry records a telephone call involving Bosnia, Kosovo."
+    ],
+    "summary": "The President telephoned Richard C. - 3: 40 P Holbrooke, Special Presidential Emissary for Cyprus, Bosnia and Kosovo. The call was not completed. 42 789 The President talked with Senator Joseph I. 3:42 3: 52 P Lieberman (D-Connecticut).",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95024-43343-1998-12-07",
+    "title": "Presidential Daily Diary telephone call: December 7, 1998 - Bosnia, Kosovo",
+    "date": "1998-12-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 43343",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95024",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ae73a5a51358c55956c4367736eb7e44.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ae73a5a51358c55956c4367736eb7e44.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 7, 1998, Diary entry 43343. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bosnia",
+      "Kosovo",
+      "Daily Diary entry records a telephone call involving Bosnia, Kosovo."
+    ],
+    "summary": "The President was telephoned by Richard C. j| ■ ieta. • Holbrooke, Special Presidential Emissary for; ■ 't*! n Cyprus, Bosnia and Kosovo. The call was not; completed. i;",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95031-45257-1999-03-28",
+    "title": "Presidential Daily Diary telephone call: March 28, 1999 - Bosnia, Kosovo",
+    "date": "1999-03-28",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 45257",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95031",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fd26c04da15c76702d98aa709b3ef458.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 28, 1999, Diary entry 45257. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bosnia",
+      "Kosovo",
+      "Daily Diary entry records a telephone call involving Bosnia, Kosovo."
+    ],
+    "summary": "The President telephoned Richard C. Holbrooke, Special Presidential Emissary for Cyprus, Bosnia and Kosovo. The call was not completed.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95032-71930-1999-04-16",
+    "title": "Presidential Daily Diary meeting: April 16, 1999 - Kosovo, Albania",
+    "date": "1999-04-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 71930",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95032",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 16, 1999, Diary entry 71930. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Kosovo",
+      "Albania",
+      "Daily Diary entry records a meeting involving Kosovo, Albania."
+    ],
+    "summary": "The President participated in a meeting with three Albanian-American families to hear their personal stories surrounding the Kosovo crises.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95036-74282-1999-06-07",
+    "title": "Presidential Daily Diary meeting: June 7, 1999 - Ukraine, Russia",
+    "date": "1999-06-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 74282",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95036",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/45066d238b4d52aea6f633113992bb24.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 7, 1999, Diary entry 74282. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Mr. Podesta Mr. Berger Mr. Steinberg Carlos E. Pascual, Director, Russia/Ukraine/Eurasian Affairs, National Security Council (NSC) Tracey A. Jacobson, Deputy Executive Secretary and Senior Director, Administrative Office, National Security Council (NSC) Richard M. Saunders, Deputy National Security Advisor, Office of the Vice Presiden",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-36484-46617-1999-06-10",
+    "title": "Presidential Daily Diary telephone call: June 10, 1999 - NATO, Javier Solana",
+    "date": "1999-06-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2010-0083-F diary entry 46617",
+    "naid": "",
+    "catalogUrl": "http://catalog.archives.gov/id/17368193",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/36484",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ac30a67ddc7fb01fe18ac2195cace509.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ac30a67ddc7fb01fe18ac2195cace509.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, June 10, 1999, Diary entry 46617. NARA Catalog ID 17368193. Clinton Digital Library item 36484.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2010-0083-F",
+      "Diary telephone call",
+      "NATO",
+      "Javier Solana",
+      "Daily Diary entry records a telephone call involving NATO, Javier Solana."
+    ],
+    "summary": "9:43 The P r e s i d e n t telephoned J a v i e r Solana Madariaga, S e c r e t a r y General o f the N o r t h A t l a n t i c T r e a t y O r g a n i z a t i o n (NATO). The c a l l was n o t completed.",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-46959-1999-06-27",
+    "title": "Presidential Daily Diary telephone call: June 27, 1999 - Bosnia, Kosovo",
+    "date": "1999-06-27",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 46959",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 27, 1999, Diary entry 46959. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bosnia",
+      "Kosovo",
+      "Daily Diary entry records a telephone call involving Bosnia, Kosovo."
+    ],
+    "summary": "The President was telephoned by Richard C. Holbrooke, Special Presidential Emissary to Cyprus, Bosnia and Kosovo. The call was not completed.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95039-47290-1999-07-22",
+    "title": "Presidential Daily Diary telephone call: July 22, 1999 - Bosnia, Kosovo",
+    "date": "1999-07-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 47290",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95039",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/2a670a5ec58a62bb60cb91fee3f665ff.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/2a670a5ec58a62bb60cb91fee3f665ff.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 22, 1999, Diary entry 47290. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Bosnia",
+      "Kosovo",
+      "Daily Diary entry records a telephone call involving Bosnia, Kosovo."
+    ],
+    "summary": "The President was telephoned by Richard C. Holbrooke, Special Presidential Emissary for Cyprus, Bosnia and Kosovo. The call was not completed.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95054-58676-2000-02-18",
+    "title": "Presidential Daily Diary meeting: February 18, 2000 - Ukraine, Russia",
+    "date": "2000-02-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 62,
+    "identifier": "2013-0549-F diary entry 58676",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95054",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3787c4090ec3b07155e8991469097aaa.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3787c4090ec3b07155e8991469097aaa.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 18, 2000, Diary entry 58676. NARA Catalog ID 101784486. Clinton Digital Library item 95054.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a meeting involving Ukraine, Russia."
+    ],
+    "summary": "The President met with: Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs John D. Podesta, Assistant and Chief of Staff Mark C. Medish, Special Assistant and Senior Director, Russia/Ukraine/Eurasian Affairs, National Security Affairs (NSC)",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94947-16695-1994-02-28",
+    "title": "Presidential Daily Diary working meal: February 28, 1994 - John Major",
+    "date": "1994-02-28",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 61,
+    "identifier": "2013-0549-F diary entry 16695",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94947",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/613dc2dcc2ef2b26e1efdaabe6f76e41.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/613dc2dcc2ef2b26e1efdaabe6f76e41.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 28, 1994, Diary entry 16695. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "John Major",
+      "Daily Diary entry records a working meal involving John Major.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President hosted a working dinner with Prime Minister Major. Members of Press in/out",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95029-69131-1999-02-19",
+    "title": "Presidential Daily Diary working meal: February 19, 1999 - Jacques Chirac",
+    "date": "1999-02-19",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 61,
+    "identifier": "2013-0549-F diary entry 69131",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95029",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/5959afbf69cfdb32ff8f56e39a064485.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/5959afbf69cfdb32ff8f56e39a064485.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 19, 1999, Diary entry 69131. NARA Catalog ID 101784486. Clinton Digital Library item 95029.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "Jacques Chirac",
+      "Daily Diary entry records a working meal involving Jacques Chirac.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President hosted a working luncheon with President Chirac.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-74661-1999-06-16",
+    "title": "Presidential Daily Diary working meal: June 16, 1999 - France",
+    "date": "1999-06-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 61,
+    "identifier": "2013-0549-F diary entry 74661",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 16, 1999, Diary entry 74661. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "France",
+      "Daily Diary entry records a working meal involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President and the First Lady had dinner with: Jacques R. Chirac, President of France Mrs. Jacques R. (Bernadette) Chirac, wife",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94994-34464-1997-05-01",
+    "title": "Presidential Daily Diary telephone call: May 1, 1997 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1997-05-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 60,
+    "identifier": "2013-0549-F diary entry 34464",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94994",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8a17e6be2a9a9b68ef89d1e2a538c4f2.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8a17e6be2a9a9b68ef89d1e2a538c4f2.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 1, 1997, Diary entry 34464. NARA Catalog ID 101784486. Clinton Digital Library item 94994.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President telephoned Tony Blair, Prime 9: 15 Minister-elect of the United Kingdom of Gre at Britain and Northern Ireland (UK). The ca'' 1 was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95043-48417-1999-10-13",
+    "title": "Presidential Daily Diary telephone call: October 13, 1999 - Tony Blair, United Kingdom, Northern Ireland",
+    "date": "1999-10-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 60,
+    "identifier": "2013-0549-F diary entry 48417",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95043",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c9e5b887fdf04a67dcbe2a447b472268.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c9e5b887fdf04a67dcbe2a447b472268.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, October 13, 1999, Diary entry 48417. NARA Catalog ID 101784486. Clinton Digital Library item 95043.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Tony Blair",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Tony Blair, United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President telephoned the Prime Minster of the United Kingdom of Great Britain and Northern Ireland (UK) Tony Blair. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94927-3293-1993-03-26",
+    "title": "Presidential Daily Diary meeting: March 26, 1993 - Bosnia",
+    "date": "1993-03-26",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 3293",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94927",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3293. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bosnia",
+      "Daily Diary entry records a meeting involving Bosnia."
+    ],
+    "summary": "The President met with: Vice President Gore Alija Izetbegovic, President of the Republic of Bosnia and Herzegovina, Saraj evo",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94930-5109-1993-05-01",
+    "title": "Presidential Daily Diary meeting: May 1, 1993 - Bosnia",
+    "date": "1993-05-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 5109",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94930",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/9990d2cb607c13ce9bffd718b9cb23ca.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/9990d2cb607c13ce9bffd718b9cb23ca.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, May 1, 1993, Diary entry 5109. NARA Catalog ID 101784486. Clinton Digital Library item 94930.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bosnia",
+      "Daily Diary entry records a meeting involving Bosnia."
+    ],
+    "summary": "The President participated in a meeting with administration officials to discuss the situation in Bosnia. For attendees, see the diary appendix.\"",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94947-16116-1994-02-20",
+    "title": "Presidential Daily Diary meeting: February 20, 1994 - Bosnia",
+    "date": "1994-02-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 16116",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94947",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/613dc2dcc2ef2b26e1efdaabe6f76e41.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/613dc2dcc2ef2b26e1efdaabe6f76e41.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 20, 1994, Diary entry 16116. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bosnia",
+      "Daily Diary entry records a meeting involving Bosnia."
+    ],
+    "summary": "The President met with a group of senior advisors to discuss the situation in Bosnia, ---- need to id attendees...",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94959-20489-1994-12-01",
+    "title": "Presidential Daily Diary meeting: December 1, 1994 - Bosnia",
+    "date": "1994-12-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 20489",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94959",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ab1d55e51b45d3952dbfcfd87a1418b1.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ab1d55e51b45d3952dbfcfd87a1418b1.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 1, 1994, Diary entry 20489. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bosnia",
+      "Daily Diary entry records a meeting involving Bosnia."
+    ],
+    "summary": "The President participated in a meeting to discuss the ongoing effort to confront the AIDS epidemic with: Stephanie Amande, 27 years old and is HIV positive, Los Angeles, California Reyna Molina, 8 month old daughter Autry Lee Bell Jr., 22 years old and is HIV positive, Tacoma, Washington Michael Alexander Danford, 24 years old and is HIV positive, Dayton, O",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95012-54166-1998-06-15",
+    "title": "Presidential Daily Diary meeting: June 15, 1998 - Bosnia",
+    "date": "1998-06-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 54166",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95012",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8b6ab0de55aab908209a2c5f1e7d648a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8b6ab0de55aab908209a2c5f1e7d648a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 15, 1998, Diary entry 54166. NARA Catalog ID 101784486. Clinton Digital Library item 95012.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bosnia",
+      "Daily Diary entry records a meeting involving Bosnia."
+    ],
+    "summary": "The President met with: Nelson S. \"Strobe\" Talbott III, Deputy Secretary of State Lawrence H. Summers, Under Secretary of the Treasury for International Affairs Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs Erskine B. Bowles, Assistant and Chief of Staff John D. Podesta, Assistant and Deputy Chief of Staff Edward A. Rice Jr., Deputy Execu",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95032-71295-1999-04-02",
+    "title": "Presidential Daily Diary meeting: April 2, 1999 - Kosovo",
+    "date": "1999-04-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 71295",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95032",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 2, 1999, Diary entry 71295. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Kosovo",
+      "Daily Diary entry records a meeting involving Kosovo."
+    ],
+    "summary": "The President participated in a meeting with representatives of humanittarian organizations on Kosovo. For a partial list of attendees, see APPENDIX \"A.\"",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95032-71807-1999-04-13",
+    "title": "Presidential Daily Diary meeting: April 13, 1999 - Kosovo",
+    "date": "1999-04-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 71807",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95032",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 13, 1999, Diary entry 71807. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Kosovo",
+      "Daily Diary entry records a meeting involving Kosovo."
+    ],
+    "summary": "The President participated in a meeting with Members of Congress to discuss the situation in Kosovo. For a partial list of attendees, see APPENDIX \"B.\"",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95034-73191-1999-05-05",
+    "title": "Presidential Daily Diary meeting: May 5, 1999 - NATO",
+    "date": "1999-05-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 73191",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95034",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/4dead80cb4434df1b597ad989bba2831.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 5, 1999, Diary entry 73191. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "NATO",
+      "Daily Diary entry records a meeting involving NATO."
+    ],
+    "summary": "The President participated in a meeting with U.S. and NATO officials. For attendees, see the diary appendix.\" Members of Press in/out",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95035-73968-1999-05-25",
+    "title": "Presidential Daily Diary meeting: May 25, 1999 - Kosovo",
+    "date": "1999-05-25",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 73968",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95035",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/8408475b7627cbbd62fc49f7e6ef3fa3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 25, 1999, Diary entry 73968. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Kosovo",
+      "Daily Diary entry records a meeting involving Kosovo."
+    ],
+    "summary": "The President met with Vice President Albert A. Gore, Jr. and participated in taping a radio actuality on Kosovo.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-75039-1999-06-22",
+    "title": "Presidential Daily Diary meeting: June 22, 1999 - Kosovo",
+    "date": "1999-06-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 75039",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 22, 1999, Diary entry 75039. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Kosovo",
+      "Daily Diary entry records a meeting involving Kosovo."
+    ],
+    "summary": "The President met with Kosovo International 5:17 6:03 i Security Force troops.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95039-76239-1999-07-29",
+    "title": "Presidential Daily Diary meeting: July 29, 1999 - Bosnia",
+    "date": "1999-07-29",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 76239",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95039",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/2a670a5ec58a62bb60cb91fee3f665ff.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/2a670a5ec58a62bb60cb91fee3f665ff.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 29, 1999, Diary entry 76239. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bosnia",
+      "Daily Diary entry records a meeting involving Bosnia."
+    ],
+    "summary": "The President went to the holding room and met with: Madeleine K. Albright, Secretary of State Richard D. Kauzlarich, Ambassador of the U.S. to Bosnia and Herzegovina Bruce R. Lindsey, Assistant and Deputy Counsel Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs James F. Dobbins, Special Assistant and",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95039-76243-1999-07-30",
+    "title": "Presidential Daily Diary meeting: July 30, 1999 - Bosnia",
+    "date": "1999-07-30",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 76243",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95039",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/2a670a5ec58a62bb60cb91fee3f665ff.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/2a670a5ec58a62bb60cb91fee3f665ff.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 30, 1999, Diary entry 76243. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
+    "sections": [
+      "Balkans and Kosovo"
+    ],
+    "section": "Balkans and Kosovo",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Bosnia",
+      "Daily Diary entry records a meeting involving Bosnia."
+    ],
+    "summary": "The President participated in a meeting with U.S. and Bosnia-Herzegovina officials.",
+    "topics": [
+      "Balkans and Kosovo",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95047-54753-1999-11-23",
+    "title": "Presidential Daily Diary meeting: November 23, 1999 - NATO",
+    "date": "1999-11-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 54753",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95047",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/c8c4565697b63e3140528315ef050752.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 23, 1999, Diary entry 54753. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "NATO",
+      "Daily Diary entry records a meeting involving NATO."
+    ],
+    "summary": "The President met with a group of U.S. and NATO officials. For a list of attendees, see",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95067-70748-2000-07-22",
+    "title": "Presidential Daily Diary summit/session: July 22, 2000 - G-7/G-8",
+    "date": "2000-07-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 59,
+    "identifier": "2013-0549-F diary entry 70748",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95067",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/b8903672b3d60983b74865eb0eae3b14.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/b8903672b3d60983b74865eb0eae3b14.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 22, 2000, Diary entry 70748. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
+    "sections": [
+      "EU, OSCE, and Summits"
+    ],
+    "section": "EU, OSCE, and Summits",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "G-7/G-8",
+      "Daily Diary entry records a summit/session involving G-7/G-8.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President and Chelsea Clinton attended a dinner for G-8 Summit leaders.",
+    "topics": [
+      "EU, OSCE, and Summits",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94961-22249-1995-01-12",
+    "title": "Presidential Daily Diary working meal: January 12, 1995 - Ukraine, Russia",
+    "date": "1995-01-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 58,
+    "identifier": "2013-0549-F diary entry 22249",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94961",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a6c1aa1850e75f0122fa06e1ae14e89f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a6c1aa1850e75f0122fa06e1ae14e89f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, January 12, 1995, Diary entry 22249. NARA Catalog ID 101784486. Clinton Digital Library item 94961.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a working meal involving Ukraine, Russia."
+    ],
+    "summary": "The President met for a briefing on his upcoming luncheon with retired military officers with: 11:22 11:45 Vice President Gore 11:22 11:45 Mr. Panetta 11:22 12:00 Samuel R. \"Sandy\" Berger, Deputy Assistant for National Security Affairs 11:22 11:45 Robert G. Bell, Special Assistant and Senior Director for Defense Policy Arms Control, National Security Council",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94930-5176-1993-05-03",
+    "title": "Presidential Daily Diary meeting: May 3, 1993 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1993-05-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 5176",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94930",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/9990d2cb607c13ce9bffd718b9cb23ca.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/9990d2cb607c13ce9bffd718b9cb23ca.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, May 3, 1993, Diary entry 5176. NARA Catalog ID 101784486. Clinton Digital Library item 94930.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with: Vice President Gore MAY 3, 1993 THE WHITE HOUSE WASHINGTON, D.C, 10:30 a.m. MONDAY Governor Christopher Patten, Governor of Hong Kong Robin Renwick, Ambassador of the United Kingdom of Great Britain and Northern Ireland (UK) to the U.S. Bowen Leung, Aide to Governor Patten Clifton R. Wharton Jr., Deputy Secretary of State Thomas F. \"M",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94937-8992-1993-09-22",
+    "title": "Presidential Daily Diary meeting: September 22, 1993 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1993-09-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 8992",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94937",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/1b7ea00232a902a43e51f7b8be6b246d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/1b7ea00232a902a43e51f7b8be6b246d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 22, 1993, Diary entry 8992. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with: Douglas Hurd, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom of Great Britain and Northern Ireland (UK) Mr. Lake",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94940-11271-1993-11-02",
+    "title": "Presidential Daily Diary meeting: November 2, 1993 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1993-11-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 11271",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94940",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/1a5e3b2d388012d02de1107ba8bf4be6.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/1a5e3b2d388012d02de1107ba8bf4be6.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, November 2, 1993, Diary entry 11271. NARA Catalog ID 101784486. Clinton Digital Library item 94940.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with Pamela E. Harriman, Ambassador of the U.S. to the United Kingdom of Great Britain and Northern Ireland (UK).",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94943-13439-1993-12-17",
+    "title": "Presidential Daily Diary meeting: December 17, 1993 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1993-12-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 13439",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94943",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/055d7f9ffb0a45b713f36c5799f78241.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/055d7f9ffb0a45b713f36c5799f78241.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 17, 1993, Diary entry 13439. NARA Catalog ID 101784486. Clinton Digital Library item 94943.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with: Hillary Rodham Clinton, First Lady Walter H. Annenberg, former Ambassador of the U.S. to the United Kingdom of Great Britain and Northern Ireland (UK) Mrs. Walter H. (Leonore) Annenberg, wife; and former Chief of Protocol Secretary Riley",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94982-30195-1996-05-19",
+    "title": "Presidential Daily Diary telephone call: May 19, 1996 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1996-05-19",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 30195",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94982",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3af066f87f25642accbcf63f58185da6.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3af066f87f25642accbcf63f58185da6.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 19, 1996, Diary entry 30195. NARA Catalog ID 101784486. Clinton Digital Library item 94982.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President placed the following telephone calls to: Senator Dale L. Bumpers, (D-Arkansas) William J. Crowe Jr., Ambassador of the U.S. to the United Kingdom of Great Britain and Northern Ireland (UK) The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94996-35454-1997-07-21",
+    "title": "Presidential Daily Diary telephone call: July 21, 1997 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1997-07-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 35454",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94996",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/dfdd415e4e2e3e0f250a593df6ba6a6a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/dfdd415e4e2e3e0f250a593df6ba6a6a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 21, 1997, Diary entry 35454. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President telephoned William J. Crowe, Jr., Ambassador of the U.S. to the United Kingdom of Great Britain and Northern Ireland (UK). The call was not completed. 3 5455 1: 13 1: 18 P The President talked with Anabassador Crowe. !|;i",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-38679-1998-02-04",
+    "title": "Presidential Daily Diary telephone call: February 4, 1998 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1998-02-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 38679",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 4, 1998, Diary entry 38679. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President telephoned William J. Crowe, Jr., former Ambassador of the U.S. to the United Kingdom of Great Britain and Northern Ireland (UK). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-47452-1998-02-05",
+    "title": "Presidential Daily Diary meeting: February 5, 1998 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1998-02-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 47452",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47452. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with: Philip Lader, Ambassador of the U.S. to the United Kingdom of Great Britain and Northern Ireland (UK) Linda LeSourd Lader, wife; and President, Renaissance Institute",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-41540-1998-09-07",
+    "title": "Presidential Daily Diary telephone call: September 7, 1998 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1998-09-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 41540",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 7, 1998, Diary entry 41540. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President telephoned Linda LeSourd Lader, 5: 27 President, Renaissance Institute; and wife of the Ambassador of the U.S. to the United m Kingdom of Great Britain and Northern Ireland (UK). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-41577-1998-09-07",
+    "title": "Presidential Daily Diary telephone call: September 7, 1998 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1998-09-07",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 41577",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 7, 1998, Diary entry 41577. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President was telephoned by Linda LeSourd Lader, President, Renaissance Institute; and wife of the Ambassador of the U.S. to the United Kingdom of Great Britain and Northern Ireland (UK). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95022-42932-1998-11-10",
+    "title": "Presidential Daily Diary telephone call: November 10, 1998 - United Kingdom, Northern Ireland, Ireland",
+    "date": "1998-11-10",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 42932",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95022",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 10, 1998, Diary entry 42932. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President was telephoned by Mrs. Ronald (Linda) Lader, wife of the Ambassador of the U.S. to the United Kingdom of Great Britain and Northern Ireland (UK). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95051-51167-2000-01-02",
+    "title": "Presidential Daily Diary telephone call: January 2, 2000 - United Kingdom, Northern Ireland, Ireland",
+    "date": "2000-01-02",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 51167",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95051",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/43bb03278667314b669ab01364b63397.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/43bb03278667314b669ab01364b63397.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 2, 2000, Diary entry 51167. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President telephoned Philip Lader, U.S. Ambassador to the United Kingdom of Great Britain and Northern Ireland (UK). The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95056-61264-2000-03-16",
+    "title": "Presidential Daily Diary meeting: March 16, 2000 - United Kingdom, Northern Ireland, Ireland",
+    "date": "2000-03-16",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 57,
+    "identifier": "2013-0549-F diary entry 61264",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95056",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 16, 2000, Diary entry 61264. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "United Kingdom",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving United Kingdom, Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with Peter Mandelson, United Kingdom Secretary of State for Northern Ireland.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94927-2869-1993-03-18",
+    "title": "Presidential Daily Diary summit/session: March 18, 1993 - Ukraine, Russia",
+    "date": "1993-03-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 56,
+    "identifier": "2013-0549-F diary entry 2869",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94927",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/0fad530af11d0be89c25a780bae7152d.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 18, 1993, Diary entry 2869. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sections": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference"
+    ],
+    "section": "Central and Eastern Europe",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "Ukraine",
+      "Russia",
+      "Daily Diary entry records a summit/session involving Ukraine, Russia."
+    ],
+    "summary": "The President discuss the upcoming Vancouver Summit with: Albert Gore Jr., Vice President Warren M. Christopher, Secretary of State Mr. Lake Samuel R. \"Sandy\" Berger, Deputy Assistant for National Security Affairs Strobe Talbott, Ambassador at Large and Special Adviser to the Secretary of State on the New Independent States Toby T. Gati, Special Assistant an",
+    "topics": [
+      "Central and Eastern Europe",
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-74947-1999-06-21",
+    "title": "Presidential Daily Diary summit/session: June 21, 1999 - Germany, European Union",
+    "date": "1999-06-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 56,
+    "identifier": "2013-0549-F diary entry 74947",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 74947. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Western Europe Bilateral",
+      "EU, OSCE, and Summits"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "Germany",
+      "European Union",
+      "Daily Diary entry records a summit/session involving Germany, European Union."
+    ],
+    "summary": "The President participated in the U.S. European Union (EU) Summit.",
+    "topics": [
+      "Western Europe Bilateral",
+      "EU, OSCE, and Summits",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94988-32117-1996-11-05",
+    "title": "Presidential Daily Diary telephone call: November 5, 1996 - Russia, Viktor Chernomyrdin",
+    "date": "1996-11-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 32117",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94988",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/eacaf0ad700f8329bab07c9cf85c78da.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/eacaf0ad700f8329bab07c9cf85c78da.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, November 5, 1996, Diary entry 32117. NARA Catalog ID 101784486. Clinton Digital Library item 94988.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Russia",
+      "Viktor Chernomyrdin",
+      "Daily Diary entry records a telephone call involving Russia, Viktor Chernomyrdin."
+    ],
+    "summary": "The President telephoned the Chairman of the Government of Russia (Russian Federation) Viktor S. Chernomyrdin. The call was not completed.",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXIII",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95004-38820-1998-02-12",
+    "title": "Presidential Daily Diary telephone call: February 12, 1998 - Jose Maria Aznar, Spain",
+    "date": "1998-02-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 38820",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95004",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/fc18f6d510d079fb48f4a234f76faeab.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 12, 1998, Diary entry 38820. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Jose Maria Aznar",
+      "Spain",
+      "Daily Diary entry records a telephone call involving Jose Maria Aznar, Spain."
+    ],
+    "summary": "The President was telephoned by Senator Christopher J. Dodd (D-Connecticut). The call was not completed. 3 8 829 1:46 2:04 P The President talked on a conference call with: Jose Maria Aznar, President of the Government, Kingdom of Spain Peter VA Huggins, Senior Duty Officer, White House Situation Room, National Security Council (NSC) Sean P. Rice, Duty Offic",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95018-59463-1998-09-03",
+    "title": "Presidential Daily Diary meeting: September 3, 1998 - Northern Ireland, Ireland",
+    "date": "1998-09-03",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 59463",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95018",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/76726a7a5dea54fc131cf11add704b2f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59463. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with Sharon Haughey, a 17 year old girl who had written to the President in 1995 about the violence in Northern Ireland.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95030-70589-1999-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1999 - Northern Ireland, Ireland",
+    "date": "1999-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 70589",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95030",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70589. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with: Seamus Mallon, Deputy First Minister, Northern Ireland Assembly Thomas R. Pickering, Under Secretary of State for Political Affairs Mr. Berger James B. Steinberg, Deputy Assistant for National Security Affairs Mr. Butler",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95030-70590-1999-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 1999 - Northern Ireland, Ireland",
+    "date": "1999-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 70590",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95030",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ef758ee9dc913bcd074594c558bd0627.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70590. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with: David Trimble, First Minister, Northern Ireland Assembly Mr. Pickering Mr. Berger Mr. Steinberg Mr. Butler",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95032-45315-1999-04-01",
+    "title": "Presidential Daily Diary telephone call: April 1, 1999 - Northern Ireland, Ireland",
+    "date": "1999-04-01",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 45315",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95032",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 1, 1999, Diary entry 45315. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a telephone call involving Northern Ireland, Ireland."
+    ],
+    "summary": "The President telephoned Gerry Adams, President of Sinn Fein, Irish Republic. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95032-45424-1999-04-09",
+    "title": "Presidential Daily Diary telephone call: April 9, 1999 - Massimo D'Alema, Italy",
+    "date": "1999-04-09",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 45424",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95032",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ce7497c3270946142dd414107bfa5a01.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 9, 1999, Diary entry 45424. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Massimo D'Alema",
+      "Italy",
+      "Daily Diary entry records a telephone call involving Massimo D'Alema, Italy."
+    ],
+    "summary": "The President telephoned the Prime Minster of Italy Massimo D'Alema. The call was not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95051-56987-2000-01-12",
+    "title": "Presidential Daily Diary meeting: January 12, 2000 - Northern Ireland, Ireland",
+    "date": "2000-01-12",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 56987",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95051",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/43bb03278667314b669ab01364b63397.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/43bb03278667314b669ab01364b63397.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 12, 2000, Diary entry 56987. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with: Gerry Adams, President of Sinn Fein, Irish Republic Mr. Berger Secretary Albright Richard B. Norland, Director, European Affairs, National Security Council (NSC) Mr. Steinberg",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95056-61299-2000-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 2000 - Northern Ireland, Ireland",
+    "date": "2000-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 61299",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95056",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61299. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with the Deputy First Minister of Northern Ireland, Seamus Mallon.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95056-61300-2000-03-17",
+    "title": "Presidential Daily Diary meeting: March 17, 2000 - Northern Ireland, Ireland",
+    "date": "2000-03-17",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 61300",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95056",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61300. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with the First Minister of Northern Ireland, David Trimble.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95056-56373-2000-03-18",
+    "title": "Presidential Daily Diary telephone call: March 18, 2000 - Jose Maria Aznar, Spain",
+    "date": "2000-03-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 56373",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95056",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/cdd6e9f5508aeaac510a0279ebdce575.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 18, 2000, Diary entry 56373. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Jose Maria Aznar",
+      "Spain",
+      "Daily Diary entry records a telephone call involving Jose Maria Aznar, Spain."
+    ],
+    "summary": "The President placed the following telephone calls to: Olusegun Obasanjo, President of the Federal Republic of Nigeria Zayid bin Sultan Al Nuhayyan, President of the United Arab Emirates Jose Maria Aznar, President of the Kingdom of Spain The calls were not completed.",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95070-73087-2000-09-13",
+    "title": "Presidential Daily Diary meeting: September 13, 2000 - Northern Ireland, Ireland",
+    "date": "2000-09-13",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 54,
+    "identifier": "2013-0549-F diary entry 73087",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95070",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/62772526a92b9d76dc362f2848756386.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/62772526a92b9d76dc362f2848756386.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 13, 2000, Diary entry 73087. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Northern Ireland",
+      "Ireland",
+      "Daily Diary entry records a meeting involving Northern Ireland, Ireland."
+    ],
+    "summary": "The President met with: David Trimble, First Minister, Northern Ireland Seamus Mallon, Deputy First Minister, Northern Ireland",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-94990-34748-1997-01-06",
+    "title": "Presidential Daily Diary telephone call: January 6, 1997 - Germany",
+    "date": "1997-01-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 34748",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/94990",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/e6ae2feb669e80af6b338569d1490956.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/e6ae2feb669e80af6b338569d1490956.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 6, 1997, Diary entry 34748. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary telephone call",
+      "Germany",
+      "Daily Diary entry records a telephone call involving Germany.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met for a briefing on his upcoming telephone call with the Chancellor of the Federal Republic of Germany (FRG) with: Nelson S. \"Strobe\" Talbott III, Deputy Secretary of State Mr. Panetta Mr. Bowles Samuel R. \"Sandy\" Berger, Assistant-designate for National Security Affairs Alexander R. \"Sandy\" Vershbow, Special Assistant and Senior Director, Eu",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95003-46741-1998-01-30",
+    "title": "Presidential Daily Diary summit/session: January 30, 1998 - NATO",
+    "date": "1998-01-30",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 46741",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95003",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/13e7d9c1b8c1b412519d634c22fdbcf2.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/13e7d9c1b8c1b412519d634c22fdbcf2.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, January 30, 1998, Diary entry 46741. NARA Catalog ID 101784486. Clinton Digital Library item 95003.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President met for a briefing with: Mr. Berger Mr. Steinberg Donald K. Handler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Edward A. Rice Jr., Deputy Executive Secretary, National Security Council (NSC)",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95013-54285-1998-06-18",
+    "title": "Presidential Daily Diary summit/session: June 18, 1998 - NATO",
+    "date": "1998-06-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 54285",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95013",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/f27042be81602a4d52b39624770ddb1f.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/f27042be81602a4d52b39624770ddb1f.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 18, 1998, Diary entry 54285. NARA Catalog ID 101784486. Clinton Digital Library item 95013.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "11:26 11:43 The Madeleine K. Albright, Secretary of State Mr. Bowles Gene B. Sperling, Assistant for Economic Policy and Director of the National Economic Policy Office Mr. Berger Mr. Steinberg Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Mr. Fuerth v",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95016-58401-1998-08-05",
+    "title": "Presidential Daily Diary summit/session: August 5, 1998 - NATO",
+    "date": "1998-08-05",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 58401",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95016",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/ceb1e6730b61e136e57f0d958b5c658a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 5, 1998, Diary entry 58401. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "11:24 11:38 The Vice President Gore Secretary Rubin Mr. Bowles Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs James B. Steinberg, Deputy Assistant for National Security Affairs Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Mr. Sperling Leon S. Fuerth, Assistant to",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-36481-59971-1998-09-15",
+    "title": "Presidential Daily Diary summit/session: September 15, 1998 - NATO",
+    "date": "1998-09-15",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2010-0083-F diary entry 59971",
+    "naid": "",
+    "catalogUrl": "http://catalog.archives.gov/id/17368189",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/36481",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a7b3945332e3cf58562480793641b10a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a7b3945332e3cf58562480793641b10a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, September 15, 1998, Diary entry 59971. NARA Catalog ID 17368189. Clinton Digital Library item 36481.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2010-0083-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "7: 44 8: 00 The P r e s i d e n t met w i t h: D o n a l d K. B a n d l e r, S p e c i a l A s s i s t a n t f o r t h e NATO Summit a n d C o u s e l o r t o t h e N a t i o n a l S e c u r i t y A d v i s e r f o r Summit Matters G l y n T. D a v i e s, E x e c u t i v e S e c r e t a r y, N a t i o n a l S e c u r i t y C o u n c i l (NSC)",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95019-60091-1998-09-20",
+    "title": "Presidential Daily Diary summit/session: September 20, 1998 - NATO",
+    "date": "1998-09-20",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 60091",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95019",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/af49ca350c1bcd7ad6cb7f883c26faca.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/af49ca350c1bcd7ad6cb7f883c26faca.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 20, 1998, Diary entry 60091. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President met for a briefing with: Madeleine K. Albright, Secretary of State ■ A. Peter Burleigh, Deputy U.S. Representative to the United Nations (UN) Mr. Berger James B. Steinberg, Deputy Assistant for SEPTEMBER 20, 1998 WALDORF ASTORIA HOTEL NEW YORK, NEW YORK 8:27 p.m. SUNDAY National Security Affairs - Donald K. Handler, Special Assistant for the NA",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95020-60939-1998-10-06",
+    "title": "Presidential Daily Diary summit/session: October 6, 1998 - NATO",
+    "date": "1998-10-06",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 60939",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95020",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 6, 1998, Diary entry 60939. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President met for a briefing with: Erskine B. Bowles, Assistant and Chief of Staff Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs James B. Steinberg, Deputy Assistant for National Security Affairs Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Kevin J. Cosgriff,",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95020-61344-1998-10-08",
+    "title": "Presidential Daily Diary summit/session: October 8, 1998 - NATO",
+    "date": "1998-10-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 61344",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95020",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 8, 1998, Diary entry 61344. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President met for a briefing with: Mr. Berger: 5: James B. Steinberg, Deputy Assistant for National Security Affairs Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Kevin J. Cosgriff, Director, White House Situation Room, National Security Council (NSC) Gene B. Sperling, Assistant",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95020-61373-1998-10-08",
+    "title": "Presidential Daily Diary summit/session: October 8, 1998 - NATO",
+    "date": "1998-10-08",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 61373",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95020",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 8, 1998, Diary entry 61373. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President returned to the Oval Office.. 61374 * 1 5: 36 5: 54 The President met for a briefing with: Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs James B. Steinberg, Deputy Assistant for National Security Affairs Donald L. Kerrick, Deputy Assistant for National Security Affairs Donald K. Bandler, Special Assistant for the NATO Summit",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95020-61712-1998-10-14",
+    "title": "Presidential Daily Diary summit/session: October 14, 1998 - NATO",
+    "date": "1998-10-14",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 61712",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95020",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/3bdc4fa6e70f63afba2210fa580bfbda.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 14, 1998, Diary entry 61712. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President met for a briefing with: Mr. Emanuel Gene B. Sperling, Assistant for Economic Policy and Director of the National Economic Policy Office Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs James B. Steinberg, Deputy Assistant for National Security Affairs Bruce O. Riedel, Director, Near East and South Asia Affairs, National Securi",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95021-62085-1998-10-21",
+    "title": "Presidential Daily Diary summit/session: October 21, 1998 - NATO",
+    "date": "1998-10-21",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 62085",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95021",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/064920cbab3b886038a1a0302d03284a.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 21, 1998, Diary entry 62085. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "3:29 3: 30 The John D. Podesta, Assistant and Chief of Staff-designate Samuel R. \"Sandy\" Berger, Assistant for National Security Affairs Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95022-63164-1998-11-04",
+    "title": "Presidential Daily Diary summit/session: November 4, 1998 - NATO",
+    "date": "1998-11-04",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 63164",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95022",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a164c74a4c9a105e2c0aca913a7b0098.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 4, 1998, Diary entry 63164. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President met for a briefing with: Mr. Berger Mr. Steinberg Donald K. Bandler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Bruce O. Riedel, Director, Near East and South Asia Affairs, National Security Council (NSC) Kevin J. Cosgriff, Director, White House Situation Room, National Security Counci",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95025-65624-1998-12-18",
+    "title": "Presidential Daily Diary summit/session: December 18, 1998 - NATO",
+    "date": "1998-12-18",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 65624",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95025",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/a46828e723cad2202d3b7f08260e30c0.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/a46828e723cad2202d3b7f08260e30c0.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 18, 1998, Diary entry 65624. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President met for a briefing with: Albert A. Gore Jr., Vice President Mr. Berger Mr. Steinberg Donald K. Handler, Special Assistant for the NATO Summit and Couselor to the National Security Adviser for Summit Matters Lawrence J. Stein, Assistant and Director of Legislative Affairs Mr. Sosnik Gene B. Sperling, Assistant for Economic Policy and Director of",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72224-1999-04-22",
+    "title": "Presidential Daily Diary summit/session: April 22, 1999 - NATO",
+    "date": "1999-04-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 72224",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72224. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President made a statement to the press on the NATO Summit and the tragedy in Littleton, Colorado.",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72229-1999-04-23",
+    "title": "Presidential Daily Diary meeting: April 23, 1999 - France",
+    "date": "1999-04-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 72229",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72229. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "Western Europe Bilateral"
+    ],
+    "section": "Western Europe Bilateral",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "France",
+      "Daily Diary entry records a meeting involving France.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Jacques Charac, President of France Mr. Berger Antony J. Blinken, Special Assistant and Senior Director for European Affairs, National Security Council (NSC)",
+    "topics": [
+      "Western Europe Bilateral",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72227-1999-04-23",
+    "title": "Presidential Daily Diary summit/session: April 23, 1999 - NATO",
+    "date": "1999-04-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 72227",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72227. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President attended the 50th Anniversary Summit meeting of NATO. Members of Press in/out",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95033-72238-1999-04-23",
+    "title": "Presidential Daily Diary summit/session: April 23, 1999 - NATO",
+    "date": "1999-04-23",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 72238",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95033",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/aa8c5ffb6bb0727ba5a311ca87d4c9c3.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72238. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sections": [
+      "NATO and European Security"
+    ],
+    "section": "NATO and European Security",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary summit/session",
+      "NATO",
+      "Daily Diary entry records a summit/session involving NATO."
+    ],
+    "summary": "The President and the First Lady hosted a 50th Anniversary NATO Summit Reception and Dinner. Members of Press in/out",
+    "topics": [
+      "NATO and European Security",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95037-74873-1999-06-19",
+    "title": "Presidential Daily Diary meeting: June 19, 1999 - Russia",
+    "date": "1999-06-19",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 74873",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95037",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/46d344fbc3fc7bd9e22e30c3d47465ad.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 19, 1999, Diary entry 74873. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sections": [
+      "Russia Cross-Reference"
+    ],
+    "section": "Russia Cross-Reference",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary meeting",
+      "Russia",
+      "Daily Diary entry records a meeting involving Russia.",
+      "Potential Volume XXII cross-reference because the entry records a high-level contact."
+    ],
+    "summary": "The President met with: Sergey Vadimovich Stepashin, Prime Minister of Russia (Russian Federation) Mr. Berger Mr. Steinberg Antony J. Blinken, Special Assistant and Senior Director for European Affairs, National Security Council (NSC)",
+    "topics": [
+      "Russia Cross-Reference",
+      "Volume XXII",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
+    "id": "candidate-pdd-95067-70736-2000-07-22",
+    "title": "Presidential Daily Diary working meal: July 22, 2000 - G-7/G-8",
+    "date": "2000-07-22",
+    "sourceType": "Presidential Daily Diary",
+    "sourceRepository": "Clinton Digital Library / National Archives Catalog",
+    "sourceCollection": "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    "sourceRuns": [
+      "Presidential Daily Diary"
+    ],
+    "sourceReports": [
+      "reports/presidential-daily-diary-candidates.md"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "identifier": "2013-0549-F diary entry 70736",
+    "naid": "",
+    "catalogUrl": "https://catalog.archives.gov/id/101784486",
+    "sourceUrl": "https://clinton.presidentiallibraries.us/items/show/95067",
+    "digitalObjectUrl": "https://clinton.presidentiallibraries.us/files/original/b8903672b3d60983b74865eb0eae3b14.pdf",
+    "pdfUrl": "https://clinton.presidentiallibraries.us/files/original/b8903672b3d60983b74865eb0eae3b14.pdf",
+    "level": "",
+    "category": "",
+    "releaseStatus": "",
+    "digitalObjects": 1,
+    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 22, 2000, Diary entry 70736. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
+    "sections": [
+      "EU, OSCE, and Summits"
+    ],
+    "section": "EU, OSCE, and Summits",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Presidential Daily Diary 2013-0549-F",
+      "Diary working meal",
+      "Diary summit/session",
+      "G-7/G-8",
+      "Daily Diary entry records a working meal/summit/session involving G-7/G-8."
+    ],
+    "summary": "The President attended a G-8 Summit working lunch.",
+    "topics": [
+      "EU, OSCE, and Summits",
+      "Volume XXIV",
+      "Presidential Daily Diary"
+    ]
+  },
+  {
     "id": "nara-163545436",
     "title": "Memcon between President William Jefferson Clinton and President Boris Yeltsin",
     "date": "",
@@ -5224,6 +22645,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online",
     "releaseStatus": "Unrestricted",
     "digitalObjects": 38,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -5284,6 +22706,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online",
     "releaseStatus": "Unrestricted",
     "digitalObjects": 31,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -5345,6 +22768,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 75,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -5404,6 +22828,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -5461,6 +22886,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 52,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -5518,6 +22944,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 51,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -5590,6 +23017,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -5653,6 +23081,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -5720,6 +23149,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 55,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -5780,6 +23210,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 17,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -5840,6 +23271,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 40,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -5905,6 +23337,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 27,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -5965,6 +23398,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 31,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -6025,6 +23459,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 53,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -6083,6 +23518,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 67,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6135,6 +23571,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 37,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6187,6 +23624,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 36,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6239,6 +23677,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 70,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6291,6 +23730,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 73,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6343,6 +23783,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 78,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6392,6 +23833,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 39,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6441,6 +23883,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 58,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6490,6 +23933,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 44,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6539,6 +23983,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 51,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6588,6 +24033,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 70,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6637,6 +24083,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 74,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6689,6 +24136,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 67,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6744,6 +24192,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 44,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -6793,6 +24242,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 16,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -6840,6 +24290,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 36,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -6889,6 +24340,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -6947,6 +24399,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -7013,6 +24466,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 62,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -7066,6 +24520,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -7125,6 +24580,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -7185,6 +24641,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -7247,6 +24704,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -7309,6 +24767,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -7367,6 +24826,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -7428,6 +24888,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 18,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -7487,6 +24948,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 25,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -7546,6 +25008,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -7605,6 +25068,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 15,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -7664,6 +25128,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 37,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -7723,6 +25188,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 41,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -7782,6 +25248,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "declassified online",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe",
       "EU, OSCE, and Summits"
@@ -7836,6 +25303,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -7889,6 +25357,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -7950,6 +25419,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8008,6 +25478,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8068,6 +25539,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8128,6 +25600,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8188,6 +25661,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8249,6 +25723,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8316,6 +25791,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8376,6 +25852,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8433,6 +25910,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8490,6 +25968,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8550,6 +26029,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8614,6 +26094,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8675,6 +26156,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8736,6 +26218,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 26,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -8791,6 +26274,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -8847,6 +26331,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -8903,6 +26388,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -8964,6 +26450,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9022,6 +26509,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -9083,6 +26571,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 56,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9136,6 +26625,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 7,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -9194,6 +26684,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 7,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -9252,6 +26743,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 17,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -9310,6 +26802,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9370,6 +26863,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 18,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9426,6 +26920,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 9,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -9484,6 +26979,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9541,6 +27037,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9602,6 +27099,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9667,6 +27165,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 26,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9725,6 +27224,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9791,6 +27291,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9849,6 +27350,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9914,6 +27416,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9974,6 +27477,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -10042,6 +27546,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10103,6 +27608,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10164,6 +27670,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10227,6 +27734,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10288,6 +27796,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10348,6 +27857,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10412,6 +27922,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10479,6 +27990,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 20,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10534,6 +28046,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10600,6 +28113,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10660,6 +28174,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10724,6 +28239,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10785,6 +28301,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -10847,6 +28364,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -10907,6 +28425,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -10965,6 +28484,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11027,6 +28547,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11093,6 +28614,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11153,6 +28675,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11213,6 +28736,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11276,6 +28800,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11337,6 +28862,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11400,6 +28926,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11457,6 +28984,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11519,6 +29047,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11585,6 +29114,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11647,6 +29177,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11709,6 +29240,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11770,6 +29302,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11830,6 +29363,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11890,6 +29424,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -11951,6 +29486,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12012,6 +29548,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12074,6 +29611,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12134,6 +29672,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12194,6 +29733,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12254,6 +29794,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12316,6 +29857,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12389,6 +29931,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12456,6 +29999,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12516,6 +30060,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12582,6 +30127,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12639,6 +30185,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12702,6 +30249,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12763,6 +30311,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12829,6 +30378,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12890,6 +30440,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -12960,6 +30511,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13020,6 +30572,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13086,6 +30639,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13147,6 +30701,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13209,6 +30764,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13269,6 +30825,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13336,6 +30893,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13397,6 +30955,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13467,6 +31026,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13537,6 +31097,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13606,6 +31167,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13663,6 +31225,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13723,6 +31286,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13783,6 +31347,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13847,6 +31412,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13909,6 +31475,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -13973,6 +31540,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14035,6 +31603,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14098,6 +31667,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14160,6 +31730,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14220,6 +31791,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14281,6 +31853,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14343,6 +31916,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14409,6 +31983,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14469,6 +32044,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14533,6 +32109,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14598,6 +32175,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14662,6 +32240,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14723,6 +32302,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14783,6 +32363,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14843,6 +32424,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14909,6 +32491,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14973,6 +32556,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15037,6 +32621,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15100,6 +32685,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15162,6 +32748,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15235,6 +32822,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15301,6 +32889,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15370,6 +32959,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15435,6 +33025,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15509,6 +33100,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15588,6 +33180,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15659,6 +33252,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15728,6 +33322,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15803,6 +33398,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15869,6 +33465,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -15943,6 +33540,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16004,6 +33602,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16065,6 +33664,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -16125,6 +33725,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16195,6 +33796,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16264,6 +33866,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16334,6 +33937,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16411,6 +34015,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16472,6 +34077,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16527,6 +34133,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16576,6 +34183,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -16623,6 +34231,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -16670,6 +34279,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16717,6 +34327,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16764,6 +34375,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16811,6 +34423,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16858,6 +34471,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 28,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Balkans and Kosovo"
@@ -16907,6 +34521,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Balkans and Kosovo"
@@ -16956,6 +34571,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Central and Eastern Europe"
@@ -17005,6 +34621,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17061,6 +34678,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 26,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17115,6 +34733,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17170,6 +34789,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17226,6 +34846,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17285,6 +34906,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17344,6 +34966,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17399,6 +35022,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17457,6 +35081,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17512,6 +35137,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 15,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17564,6 +35190,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17616,6 +35243,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17668,6 +35296,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 28,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17720,6 +35349,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17776,6 +35406,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 5,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17833,6 +35464,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 18,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17885,6 +35517,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17944,6 +35577,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18003,6 +35637,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -18060,6 +35695,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18119,6 +35755,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 24,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -18176,6 +35813,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -18234,6 +35872,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18293,6 +35932,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18352,6 +35992,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -18409,6 +36050,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18468,6 +36110,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18524,6 +36167,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18583,6 +36227,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18642,6 +36287,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18701,6 +36347,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18760,6 +36407,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18819,6 +36467,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18878,6 +36527,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18937,6 +36587,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18996,6 +36647,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19055,6 +36707,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19114,6 +36767,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19173,6 +36827,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19232,6 +36887,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19291,6 +36947,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19350,6 +37007,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19409,6 +37067,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19461,6 +37120,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19520,6 +37180,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19576,6 +37237,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 25,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19633,6 +37295,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 29,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19685,6 +37348,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19744,6 +37408,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 25,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19796,6 +37461,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 67,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19847,6 +37513,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 51,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19898,6 +37565,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 70,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19949,6 +37617,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 37,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20000,6 +37669,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 124,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20051,6 +37721,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 53,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20099,6 +37770,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 45,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20147,6 +37819,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 48,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20198,6 +37871,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 59,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20249,6 +37923,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 69,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20300,6 +37975,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 24,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20348,6 +38024,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 68,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20396,6 +38073,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 45,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20444,6 +38122,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 39,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20492,6 +38171,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 42,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20540,6 +38220,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 75,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20591,6 +38272,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 62,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20637,6 +38319,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 60,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20683,6 +38366,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 60,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20729,6 +38413,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 63,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20775,6 +38460,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 81,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20821,6 +38507,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 51,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20867,6 +38554,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 45,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20913,6 +38601,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 72,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20964,6 +38653,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 67,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -21018,6 +38708,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 100,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -21069,6 +38760,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 68,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -21120,6 +38812,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 43,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -21171,6 +38864,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 36,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -21219,6 +38913,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 50,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -21265,6 +38960,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 82,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -21313,6 +39009,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -21368,6 +39065,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -21423,6 +39121,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 18,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -21476,6 +39175,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 21,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21529,6 +39229,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -21581,6 +39282,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21634,6 +39336,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -21689,6 +39392,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 76,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21742,6 +39446,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -21797,6 +39502,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 26,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21850,6 +39556,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 22,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -21900,6 +39607,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 17,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -21950,6 +39658,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 21,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -22000,6 +39709,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 20,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22053,6 +39763,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 14,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22106,6 +39817,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 26,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -22159,6 +39871,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22213,6 +39926,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 11,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22266,6 +39980,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 28,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22319,6 +40034,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -22373,6 +40089,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -22427,6 +40144,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 9,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22483,6 +40201,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -22541,6 +40260,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 23,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22592,6 +40312,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 20,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22643,6 +40364,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 21,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22694,6 +40416,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -22752,6 +40475,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 8,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22803,6 +40527,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 21,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22854,6 +40579,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 25,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22905,6 +40631,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 14,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22956,6 +40683,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 16,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -23007,6 +40735,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 24,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -23058,6 +40787,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 35,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -23111,6 +40841,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 30,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -23162,6 +40893,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23220,6 +40952,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23275,6 +41008,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23333,6 +41067,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23391,6 +41126,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23449,6 +41185,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -23506,6 +41243,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -23559,6 +41297,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23617,6 +41356,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23675,6 +41415,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23733,6 +41474,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23791,6 +41533,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23849,6 +41592,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23904,6 +41648,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -23962,6 +41707,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24017,6 +41763,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24075,6 +41822,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24133,6 +41881,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24188,6 +41937,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24246,6 +41996,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24304,6 +42055,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24362,6 +42114,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24420,6 +42173,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 16,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -24476,6 +42230,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24534,6 +42289,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24592,6 +42348,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24650,6 +42407,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24708,6 +42466,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24766,6 +42525,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24824,6 +42584,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -24880,6 +42641,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24938,6 +42700,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -24996,6 +42759,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25051,6 +42815,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25109,6 +42874,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25164,6 +42930,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25222,6 +42989,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25280,6 +43048,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25338,6 +43107,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25396,6 +43166,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25454,6 +43225,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25512,6 +43284,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online",
     "releaseStatus": "Unrestricted",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25568,6 +43341,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25619,6 +43393,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25673,6 +43448,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25724,6 +43500,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25778,6 +43555,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25832,6 +43610,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25883,6 +43662,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25931,6 +43711,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -25982,6 +43763,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26033,6 +43815,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26081,6 +43864,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26129,6 +43913,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26180,6 +43965,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26231,6 +44017,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26279,6 +44066,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26330,6 +44118,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26381,6 +44170,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26435,6 +44225,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -26486,6 +44277,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -26532,6 +44324,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -26578,6 +44371,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -26629,6 +44423,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -26680,6 +44475,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26726,6 +44522,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26772,6 +44569,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26818,6 +44616,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26864,6 +44663,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26910,6 +44710,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -26956,6 +44757,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -27002,6 +44804,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -27048,6 +44851,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -27094,6 +44898,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -27140,6 +44945,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -27186,6 +44992,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -27232,6 +45039,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -27278,6 +45086,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -27324,6 +45133,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27378,6 +45188,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27432,6 +45243,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27486,6 +45298,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27540,6 +45353,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27594,6 +45408,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27648,6 +45463,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27702,6 +45518,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27756,6 +45573,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27810,6 +45628,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27864,6 +45683,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -27918,6 +45738,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -27970,6 +45791,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -28024,6 +45846,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -28078,6 +45901,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -28132,6 +45956,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -28186,6 +46011,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -28238,6 +46064,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 24,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -28287,6 +46114,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 26,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -28336,6 +46164,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 9,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -28385,6 +46214,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 57,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -28437,6 +46267,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 15,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -28489,6 +46320,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 9,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -28541,6 +46373,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 21,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -28593,6 +46426,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 21,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -28645,6 +46479,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -28698,6 +46533,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -28751,6 +46587,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -28804,6 +46641,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -28861,6 +46699,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -28915,6 +46754,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -28962,6 +46802,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 11,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -29014,6 +46855,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 30,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29069,6 +46911,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 22,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29124,6 +46967,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29171,6 +47015,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29218,6 +47063,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 14,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29265,6 +47111,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 8,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29312,6 +47159,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 18,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -29364,6 +47212,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29411,6 +47260,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 14,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29458,6 +47308,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 5,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29505,6 +47356,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29557,6 +47409,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29609,6 +47462,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 23,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29661,6 +47515,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -29715,6 +47570,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 23,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29762,6 +47618,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29809,6 +47666,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 14,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29856,6 +47714,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -29903,6 +47762,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -29960,6 +47820,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30017,6 +47878,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30071,6 +47933,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30128,6 +47991,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 17,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -30175,6 +48039,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 44,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -30227,6 +48092,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30284,6 +48150,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 21,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -30339,6 +48206,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30396,6 +48264,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30453,6 +48322,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30507,6 +48377,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -30563,6 +48434,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30620,6 +48492,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30677,6 +48550,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -30731,6 +48605,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 44,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -30783,6 +48658,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 7,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -30830,6 +48706,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 25,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -30882,6 +48759,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -30934,6 +48812,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 11,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -30989,6 +48868,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31043,6 +48923,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31100,6 +48981,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31157,6 +49039,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31214,6 +49097,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31271,6 +49155,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31328,6 +49213,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31385,6 +49271,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31439,6 +49326,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31496,6 +49384,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31553,6 +49442,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31610,6 +49500,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31667,6 +49558,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31721,6 +49613,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31775,6 +49668,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31832,6 +49726,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31886,6 +49781,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -31943,6 +49839,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32000,6 +49897,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32057,6 +49955,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32114,6 +50013,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32171,6 +50071,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32228,6 +50129,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32285,6 +50187,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 15,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -32337,6 +50240,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32391,6 +50295,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32448,6 +50353,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32505,6 +50411,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32562,6 +50469,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32619,6 +50527,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32676,6 +50585,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32733,6 +50643,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -32790,6 +50701,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32844,6 +50756,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32901,6 +50814,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -32958,6 +50872,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33015,6 +50930,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33072,6 +50988,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33126,6 +51043,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33180,6 +51098,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 27,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -33227,6 +51146,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33281,6 +51201,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33338,6 +51259,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 18,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -33390,6 +51312,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -33444,6 +51367,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -33501,6 +51425,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33558,6 +51483,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33615,6 +51541,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -33662,6 +51589,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33719,6 +51647,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 17,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -33766,6 +51695,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33820,6 +51750,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 6,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo",
       "EU, OSCE, and Summits"
@@ -33868,6 +51799,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 87,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33915,6 +51847,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 60,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -33962,6 +51895,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 55,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34009,6 +51943,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 61,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34056,6 +51991,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 57,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34103,6 +52039,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 28,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34150,6 +52087,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 65,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34197,6 +52135,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 31,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34247,6 +52186,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 48,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34297,6 +52237,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 5,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34344,6 +52285,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 54,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34394,6 +52336,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 45,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34444,6 +52387,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 18,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34491,6 +52435,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 55,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34538,6 +52483,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 32,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34585,6 +52531,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 43,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34632,6 +52579,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 68,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34679,6 +52627,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 45,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34726,6 +52675,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 48,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34773,6 +52723,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 28,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34823,6 +52774,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 137,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34870,6 +52822,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 52,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34920,6 +52873,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 48,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -34970,6 +52924,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 25,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35017,6 +52972,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 77,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35064,6 +53020,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 52,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35111,6 +53068,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 51,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35158,6 +53116,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 56,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35205,6 +53164,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 75,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35252,6 +53212,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 52,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35299,6 +53260,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 44,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35346,6 +53308,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 54,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35393,6 +53356,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 54,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35440,6 +53404,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 53,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35490,6 +53455,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 52,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35537,6 +53503,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online",
     "releaseStatus": "Unrestricted",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35592,6 +53559,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 93,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -35639,6 +53607,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -35692,6 +53661,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -35745,6 +53715,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -35798,6 +53769,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -35851,6 +53823,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 28,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -35902,6 +53875,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -35954,6 +53928,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -36006,6 +53981,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -36059,6 +54035,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -36112,6 +54089,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 17,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -36160,6 +54138,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -36213,6 +54192,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -36269,6 +54249,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 7,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -36320,6 +54301,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -36373,6 +54355,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -36426,6 +54409,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -36479,6 +54463,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 11,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -36530,6 +54515,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 6,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -36581,6 +54567,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 113,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -36632,6 +54619,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 5,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -36683,6 +54671,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 18,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -36734,6 +54723,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -36785,6 +54775,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 25,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -36836,6 +54827,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -36884,6 +54876,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 17,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -36932,6 +54925,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -36985,6 +54979,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 9,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37033,6 +55028,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37083,6 +55079,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37133,6 +55130,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37183,6 +55181,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37233,6 +55232,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37283,6 +55283,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37333,6 +55334,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37383,6 +55385,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37433,6 +55436,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo",
       "Russia Cross-Reference"
@@ -37485,6 +55489,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37535,6 +55540,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37585,6 +55591,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37635,6 +55642,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37685,6 +55693,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37735,6 +55744,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37785,6 +55795,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37835,6 +55846,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37885,6 +55897,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37935,6 +55948,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -37985,6 +55999,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -38035,6 +56050,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38083,6 +56099,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 52,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38134,6 +56151,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38185,6 +56203,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38233,6 +56252,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38284,6 +56304,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 30,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38335,6 +56356,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 10,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38386,6 +56408,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -38439,6 +56462,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38490,6 +56514,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -38543,6 +56568,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 22,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38591,6 +56617,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38639,6 +56666,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 24,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -38690,6 +56718,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -38742,6 +56771,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -38794,6 +56824,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -38846,6 +56877,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -38898,6 +56930,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -38950,6 +56983,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -39001,6 +57035,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 7,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -39052,6 +57087,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 19,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -39103,6 +57139,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 15,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -39154,6 +57191,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -39210,6 +57248,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -39266,6 +57305,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -39319,6 +57359,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -39372,6 +57413,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -39420,6 +57462,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 20,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -39468,6 +57511,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 26,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -39516,6 +57560,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -39572,6 +57617,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -39625,6 +57671,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -39681,6 +57728,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -39737,6 +57785,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -39793,6 +57842,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -39846,6 +57896,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -39901,6 +57952,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -39956,6 +58008,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -40008,6 +58061,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40061,6 +58115,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40114,6 +58169,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40167,6 +58223,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 12,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -40218,6 +58275,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40274,6 +58332,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40330,6 +58389,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40383,6 +58443,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40436,6 +58497,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40489,6 +58551,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40545,6 +58608,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40598,6 +58662,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40651,6 +58716,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40707,6 +58773,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40760,6 +58827,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40816,6 +58884,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40869,6 +58938,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40925,6 +58995,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -40981,6 +59052,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41037,6 +59109,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41090,6 +59163,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41146,6 +59220,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41202,6 +59277,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41255,6 +59331,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41311,6 +59388,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41367,6 +59445,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41423,6 +59502,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41479,6 +59559,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41535,6 +59616,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41591,6 +59673,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41644,6 +59727,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41697,6 +59781,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -41750,6 +59835,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -41803,6 +59889,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41856,6 +59943,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41912,6 +60000,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -41968,6 +60057,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42021,6 +60111,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42074,6 +60165,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42130,6 +60222,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42186,6 +60279,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42242,6 +60336,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42295,6 +60390,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 20,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -42343,6 +60439,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42399,6 +60496,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42455,6 +60553,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42511,6 +60610,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42564,6 +60664,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42617,6 +60718,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42670,6 +60772,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42723,6 +60826,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42779,6 +60883,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42835,6 +60940,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42891,6 +60997,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -42947,6 +61054,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43000,6 +61108,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43056,6 +61165,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43109,6 +61219,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43165,6 +61276,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43218,6 +61330,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43274,6 +61387,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43330,6 +61444,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43386,6 +61501,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43442,6 +61558,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43498,6 +61615,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43551,6 +61669,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43607,6 +61726,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43663,6 +61783,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 13,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -43714,6 +61835,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43767,6 +61889,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Possibly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -43820,6 +61943,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "online, partly restricted",
     "releaseStatus": "Restricted - Partly",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -43872,6 +61996,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "declassified online",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -43918,6 +62043,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "declassified online",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -43964,6 +62090,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -44015,6 +62142,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "Central and Eastern Europe"
@@ -44068,6 +62196,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -44119,6 +62248,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "Central and Eastern Europe"
@@ -44172,6 +62302,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Balkans and Kosovo",
@@ -44228,6 +62359,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo",
       "Central and Eastern Europe"
@@ -44281,6 +62413,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -44332,6 +62465,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -44383,6 +62517,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -44434,6 +62569,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo",
       "EU, OSCE, and Summits"
@@ -44487,6 +62623,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -44538,6 +62675,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "Balkans and Kosovo"
@@ -44591,6 +62729,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -44642,6 +62781,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo",
       "Central and Eastern Europe"
@@ -44695,6 +62835,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference",
@@ -44749,6 +62890,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -44799,6 +62941,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -44849,6 +62992,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -44896,6 +63040,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -44946,6 +63091,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -44996,6 +63142,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45043,6 +63190,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45093,6 +63241,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45143,6 +63292,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45190,6 +63340,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45240,6 +63391,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45287,6 +63439,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45337,6 +63490,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45387,6 +63541,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45437,6 +63592,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45487,6 +63643,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45537,6 +63694,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45587,6 +63745,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45634,6 +63793,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45684,6 +63844,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45734,6 +63895,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45784,6 +63946,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45831,6 +63994,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45878,6 +64042,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45925,6 +64090,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -45975,6 +64141,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -46022,6 +64189,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -46069,6 +64237,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -46119,6 +64288,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -46169,6 +64339,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46216,6 +64387,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46266,6 +64438,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "withdrawal/MDR",
     "releaseStatus": "",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46313,6 +64486,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -46364,6 +64538,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -46415,6 +64590,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -46466,6 +64642,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -46517,6 +64694,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -46568,6 +64746,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46619,6 +64798,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46670,6 +64850,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46721,6 +64902,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46772,6 +64954,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46823,6 +65006,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46874,6 +65058,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -46925,6 +65110,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -46976,6 +65162,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -47027,6 +65214,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -47078,6 +65266,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -47129,6 +65318,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -47180,6 +65370,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -47231,6 +65422,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -47282,6 +65474,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -47333,6 +65526,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -47384,6 +65578,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -47435,6 +65630,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -47486,6 +65682,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -47537,6 +65734,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -47588,6 +65786,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -47639,6 +65838,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -47690,6 +65890,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "EU, OSCE, and Summits"
@@ -47742,6 +65943,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -47793,6 +65995,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -47844,6 +66047,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -47895,6 +66099,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -47946,6 +66151,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -47997,6 +66203,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48048,6 +66255,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48099,6 +66307,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -48150,6 +66359,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48201,6 +66411,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48252,6 +66463,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference",
@@ -48306,6 +66518,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48357,6 +66570,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48408,6 +66622,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48459,6 +66674,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN PART",
     "releaseStatus": "RELEASE IN PART",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48510,6 +66726,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Central and Eastern Europe",
@@ -48564,6 +66781,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -48615,6 +66833,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48666,6 +66885,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -48717,6 +66937,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -48768,6 +66989,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -48819,6 +67041,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -48870,6 +67093,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -48921,6 +67145,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -48972,6 +67197,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -49023,6 +67249,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -49074,6 +67301,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -49125,6 +67353,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -49176,6 +67405,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -49227,6 +67457,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -49278,6 +67509,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe",
       "Western Europe Bilateral"
@@ -49331,6 +67563,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -49382,6 +67615,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -49433,6 +67667,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -49484,6 +67719,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -49535,6 +67771,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -49586,6 +67823,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -49637,6 +67875,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -49688,6 +67927,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -49739,6 +67979,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -49790,6 +68031,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -49841,6 +68083,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -49892,6 +68135,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -49943,6 +68187,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -49994,6 +68239,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -50045,6 +68291,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -50096,6 +68343,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -50147,6 +68395,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -50197,6 +68446,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -50248,6 +68498,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -50299,6 +68550,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -50350,6 +68602,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -50401,6 +68654,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security"
     ],
@@ -50452,6 +68706,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -50503,6 +68758,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -50554,6 +68810,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -50605,6 +68862,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -50656,6 +68914,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -50707,6 +68966,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -50758,6 +69018,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -50809,6 +69070,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -50860,6 +69122,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -50911,6 +69174,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -50962,6 +69226,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -51013,6 +69278,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -51063,6 +69329,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -51113,6 +69380,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -51163,6 +69431,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -51213,6 +69482,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "Balkans and Kosovo"
@@ -51265,6 +69535,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -51315,6 +69586,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "EU, OSCE, and Summits"
@@ -51367,6 +69639,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "RELEASE IN FULL",
     "releaseStatus": "RELEASE IN FULL",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -51417,6 +69690,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference"
@@ -51469,6 +69743,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference"
@@ -51521,6 +69796,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "NATO and European Security",
       "Russia Cross-Reference",
@@ -51575,6 +69851,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -51626,6 +69903,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -51677,6 +69955,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -51728,6 +70007,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -51779,6 +70059,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -51830,6 +70111,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -51881,6 +70163,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -51932,6 +70215,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -51983,6 +70267,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -52034,6 +70319,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -52085,6 +70371,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -52136,6 +70423,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -52187,6 +70475,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -52238,6 +70527,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -52289,6 +70579,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -52340,6 +70631,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -52391,6 +70683,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -52442,6 +70735,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -52493,6 +70787,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -52544,6 +70839,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -52595,6 +70891,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -52646,6 +70943,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -52697,6 +70995,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "Release status not captured",
     "releaseStatus": "Release status not captured",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference",
       "Balkans and Kosovo"
@@ -52749,6 +71048,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -52800,6 +71100,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -52851,6 +71152,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -52902,6 +71204,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -52953,6 +71256,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -53004,6 +71308,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -53055,6 +71360,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -53106,6 +71412,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -53157,6 +71464,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -53208,6 +71516,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -53259,6 +71568,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -53310,6 +71620,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -53361,6 +71672,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -53412,6 +71724,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -53463,6 +71776,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -53514,6 +71828,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "UNKNOWN",
     "releaseStatus": "UNKNOWN",
     "digitalObjects": 1,
+    "sourceNote": "",
     "sections": [
       "EU, OSCE, and Summits"
     ],

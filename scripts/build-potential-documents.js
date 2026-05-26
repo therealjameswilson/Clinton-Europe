@@ -43,6 +43,14 @@ const SOURCE_REPORTS = [
     reportUrl: "reports/nara-collection-7388808-candidates.md"
   },
   {
+    path: "presidential-daily-diary-candidates.json",
+    label: "Presidential Daily Diary",
+    sourceType: "Presidential Daily Diary",
+    sourceRepository: "Clinton Digital Library / National Archives Catalog",
+    sourceCollection: "Ellen McCathran - Presidential Diarist, 2010-0083-F and 2013-0549-F",
+    reportUrl: "reports/presidential-daily-diary-candidates.md"
+  },
+  {
     path: "strobe-talbott-candidates.json",
     label: "Strobe FOIA manifest",
     sourceType: "Strobe Talbott FOIA",
@@ -105,6 +113,8 @@ function normalizeVolume(volume) {
 }
 
 function sourceKey(item) {
+  if (item.candidateId) return `candidate-${item.candidateId}`;
+  if (item.eventId) return `event-${item.eventId}`;
   if (item.naid) return `nara-${item.naid}`;
   if (item.catalogUrl) return `catalog-${item.catalogUrl}`;
   if (item.pdfUrl) return `pdf-${item.pdfUrl}`;
@@ -145,16 +155,17 @@ function candidateFromReport(item, source) {
     sourceReports: [source.reportUrl],
     priority: normalizePriority(item.priority || item.includePriority),
     score: Number(item.score || 0),
-    identifier: item.naid ? `NAID ${item.naid}` : item.id || item.otherTitles?.[0] || "",
+    identifier: item.identifier || (item.naid ? `NAID ${item.naid}` : item.id || item.otherTitles?.[0] || ""),
     naid: item.naid || "",
     catalogUrl: item.catalogUrl || "",
-    sourceUrl: item.catalogUrl || item.pdfUrl || item.firstDigitalObjectUrl || "",
-    digitalObjectUrl: item.pdfUrl || item.firstDigitalObjectUrl || "",
+    sourceUrl: item.sourceUrl || item.catalogUrl || item.pdfUrl || item.firstDigitalObjectUrl || "",
+    digitalObjectUrl: item.digitalObjectUrl || item.pdfUrl || item.firstDigitalObjectUrl || "",
     pdfUrl: item.pdfUrl || (/\.pdf(\?|$)/i.test(item.firstDigitalObjectUrl || "") ? item.firstDigitalObjectUrl : ""),
     level: item.level || "",
     category: item.category || item.releaseStatus || "",
     releaseStatus: item.releaseStatus || item.restrictionStatus || "",
     digitalObjects: item.digitalObjects || (item.pdfUrl || item.firstDigitalObjectUrl ? 1 : 0),
+    sourceNote: item.sourceNote || "",
     sections,
     section: sections[0] || "General Review",
     volumeIds: uniq(volumes.map((volume) => volume.id)),

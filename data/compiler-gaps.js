@@ -1,5 +1,5 @@
 window.CLINTON_EUROPE_COMPILER_GAPS = {
-  "generatedAt": "2026-05-25T11:20:31.194Z",
+  "generatedAt": "2026-05-26T02:05:00.359Z",
   "summary": {
     "totalGaps": 8,
     "criticalGaps": 2,
@@ -59,43 +59,44 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       }
     },
     "potentialDocuments": {
-      "total": 991,
+      "total": 1317,
       "bySourceType": {
         "NARA Catalog 7388808": 575,
         "NARA Scout": 210,
+        "Presidential Daily Diary": 326,
         "Strobe Talbott FOIA": 206
       },
       "bySection": {
-        "Balkans and Kosovo": 536,
-        "Central and Eastern Europe": 60,
-        "EU, OSCE, and Summits": 24,
-        "NATO and European Security": 64,
-        "Russia Cross-Reference": 150,
-        "Western Europe Bilateral": 157
+        "Balkans and Kosovo": 563,
+        "Central and Eastern Europe": 87,
+        "EU, OSCE, and Summits": 26,
+        "NATO and European Security": 98,
+        "Russia Cross-Reference": 184,
+        "Western Europe Bilateral": 359
       },
       "byYear": {
-        "1993": 26,
-        "1994": 23,
-        "1995": 71,
-        "1996": 91,
-        "1997": 98,
-        "1998": 110,
-        "1999": 291,
-        "2000": 66,
+        "1993": 57,
+        "1994": 47,
+        "1995": 84,
+        "1996": 98,
+        "1997": 114,
+        "1998": 197,
+        "1999": 391,
+        "2000": 114,
         "Undated": 215
       },
       "byPriority": {
-        "High": 97,
-        "Medium": 894
+        "High": 171,
+        "Medium": 1146
       },
       "byVolume": {
-        "frus1993-00v22": 787,
-        "frus1993-00v23": 715,
-        "frus1993-00v24": 666
+        "frus1993-00v22": 1022,
+        "frus1993-00v23": 790,
+        "frus1993-00v24": 917
       },
       "undatedPotentialDocuments": 215,
-      "highPriorityPotentialDocuments": 97,
-      "mediumPriorityPotentialDocuments": 894
+      "highPriorityPotentialDocuments": 171,
+      "mediumPriorityPotentialDocuments": 1146
     }
   },
   "gaps": [
@@ -137,9 +138,9 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "title": "Potential source leads include a large undated block",
       "compilerRisk": "The FRUS volumes are chronological. Undated NARA and FOIA leads can distort volume placement, especially for Bosnia/Kosovo records that may fall on either side of the 1996/1997 volume boundary.",
       "evidence": [
-        "215 of 991 potential source leads have no normalized year.",
+        "215 of 1317 potential source leads have no normalized year.",
         "172 undated leads are in Balkans and Kosovo.",
-        "894 potential leads are medium priority, so date normalization is needed before down-selecting."
+        "1146 potential leads are medium priority, so date normalization is needed before down-selecting."
       ],
       "nextSteps": [
         "Extract dates from folder titles, digital-object filenames, cover sheets, and Strobe FOIA manifest fields.",
@@ -168,7 +169,7 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "evidence": [
         "436 records map to Volume XXII.",
         "171 records map to Volume XXIII and 265 map to Volume XXIV.",
-        "787 potential source leads also touch Volume XXII, with 715 touching XXIII and 666 touching XXIV."
+        "1022 potential source leads also touch Volume XXII, with 790 touching XXIII and 917 touching XXIV."
       ],
       "nextSteps": [
         "Create a keeper list for head-of-state/head-of-government contacts that deserve full-text treatment in XXII.",
@@ -195,9 +196,9 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "title": "Balkans/Kosovo leads are abundant but uneven by year and source type",
       "compilerRisk": "The source base is large for 1999 Kosovo but thin in the Clinton Library memcon/telcon corpus and uneven around Dayton implementation. A compiler relying only on the high-volume lead list may over-weight 1999 and under-build the 1996-1997 bridge.",
       "evidence": [
-        "536 potential leads are tagged Balkans and Kosovo.",
+        "563 potential leads are tagged Balkans and Kosovo.",
         "Only 11 Clinton Library candidate records are in the Balkans section.",
-        "Balkans and Kosovo potential leads include 236 in 1999, 0 in 1997, and 22 in 1996."
+        "Balkans and Kosovo potential leads include 253 in 1999, 0 in 1997, and 22 in 1996."
       ],
       "nextSteps": [
         "Separate Bosnia/Dayton, Kosovo, and regional NATO-use-of-force documents before selection.",
@@ -226,7 +227,7 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "evidence": [
         "The NATO and EU Clinton Library section has 0 records in 1993 and 0 in 1994.",
         "NATO and European Security potential leads have 1 lead in 1995 and 8 in 1996.",
-        "EU, OSCE, and Summits has only 24 potential leads across the whole administration."
+        "EU, OSCE, and Summits has only 26 potential leads across the whole administration."
       ],
       "nextSteps": [
         "Run targeted NARA Scout searches for Partnership for Peace, NATO enlargement, Madrid summit, OSCE, EU, and transatlantic agenda terms.",
@@ -255,7 +256,7 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "evidence": [
         "Clinton Library records by section: United Kingdom 128, Germany 62, France 54, Italy 4.",
         "Search hits in records: Spain 1, Netherlands 0, Belgium 0, Portugal 0.",
-        "Northern Ireland is visible with 12 records, 142 potential leads, and 14 public statements."
+        "Northern Ireland is visible with 12 records, 234 potential leads, and 14 public statements."
       ],
       "nextSteps": [
         "Run country-specific searches for Spain, Portugal, Netherlands, Belgium, Nordics, Austria, Greece, and Turkey where they intersect NATO/EU/Balkans policy.",
@@ -283,8 +284,8 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "compilerRisk": "Poland, Czech, Hungary, Romania, Baltic, and Ukraine-related leads are present, but the source mix is uneven. The accession story needs policy documents, not only leader-call records or Strobe FOIA hits.",
       "evidence": [
         "Central Europe Clinton Library records total 23; the section has 0 in 1997 and 0 in 2000.",
-        "Central and Eastern Europe potential leads total 60, with 1 from the NARA 7388808 catalog sweep.",
-        "Search hits across current data: Poland 6 records/103 leads; Czech 9 records/4 leads; Hungary 8 records/1 leads; Romania 0 records/116 leads."
+        "Central and Eastern Europe potential leads total 87, with 1 from the NARA 7388808 catalog sweep.",
+        "Search hits across current data: Poland 6 records/104 leads; Czech 9 records/8 leads; Hungary 8 records/4 leads; Romania 0 records/116 leads."
       ],
       "nextSteps": [
         "Search for NATO accession packages, Senate ratification, Madrid summit, and bilateral accession consultations.",
@@ -312,8 +313,8 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "compilerRisk": "Russia and FSU records are relevant to NATO, Ukraine, Balkans, and European security, but they should not become a backdoor Russia volume. The compiler needs a clear inclusion rule for Europe-facing Russia material.",
       "evidence": [
         "137 Clinton Library records are in the Russia and FSU cross-reference section.",
-        "150 potential source leads are in Russia Cross-Reference, including 38 high-priority leads.",
-        "Ukraine appears in 15 Clinton Library records and 119 potential leads."
+        "184 potential source leads are in Russia Cross-Reference, including 38 high-priority leads.",
+        "Ukraine appears in 15 Clinton Library records and 140 potential leads."
       ],
       "nextSteps": [
         "Define an inclusion test: use Russia/FSU documents only when they directly carry NATO, Ukraine, Balkans/Kosovo, or European-security policy.",
