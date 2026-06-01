@@ -16,10 +16,12 @@ chronology, public statements, potential source leads, and Clinton Library pull
 list can also be exported as CSV for spreadsheet review or reading-room
 planning. A compiler action queue now turns the datasets into concrete work
 packets with expected outputs and direct jumps into the relevant filtered
-records. Year filters on the chronology, public statements, and source-lead pool
-support quick work across the XXIII/XXIV policy-volume date split, while the
-coverage matrix exposes year/volume imbalances and jumps directly into the
-matching filtered working set.
+records. Record rows include source-note verification panels for release ID,
+PDF, archival-folder, and classification/drafting checks, with copy buttons for
+candidate notes and provenance text. Year filters on the chronology, public
+statements, and source-lead pool support quick work across the XXIII/XXIV
+policy-volume date split, while the coverage matrix exposes year/volume
+imbalances and jumps directly into the matching filtered working set.
 
 ## Data
 

@@ -1363,6 +1363,115 @@ function createChipList(values, className, limit = 8) {
   return list;
 }
 
+function issueLabel(issue) {
+  return titleCase((issue || "").replaceAll("-", " "));
+}
+
+async function copyText(text) {
+  if (navigator.clipboard?.writeText) {
+    try {
+      await navigator.clipboard.writeText(text);
+      return true;
+    } catch {
+      // Fall through to the textarea copy path below.
+    }
+  }
+
+  const field = document.createElement("textarea");
+  field.value = text;
+  field.setAttribute("readonly", "");
+  field.style.position = "fixed";
+  field.style.left = "-9999px";
+  field.style.top = "0";
+  document.body.append(field);
+  field.select();
+  const copied = document.execCommand("copy");
+  field.remove();
+  if (!copied) throw new Error("Copy command unavailable");
+  return true;
+}
+
+function createCopyButton(text, label) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "copy-button";
+  button.textContent = label;
+  button.disabled = !text;
+  button.addEventListener("click", async () => {
+    if (!text) return;
+    try {
+      await copyText(text);
+      button.textContent = "Copied";
+      window.setTimeout(() => {
+        button.textContent = label;
+      }, 1800);
+    } catch {
+      button.textContent = "Copy unavailable";
+      window.setTimeout(() => {
+        button.textContent = label;
+      }, 2200);
+    }
+  });
+  return button;
+}
+
+function sourceCheckItems(record) {
+  const issues = new Set(record.sourceNoteIssues || []);
+  return [
+    {
+      label: "Release ID",
+      value: record.releaseId || "Missing",
+      state: record.releaseId ? "ok" : "issue"
+    },
+    {
+      label: "PDF",
+      value: record.pdfUrl ? "Linked" : "Missing",
+      state: record.pdfUrl ? "ok" : "issue"
+    },
+    {
+      label: "Archival folder",
+      value: issues.has("archival-box-folder-pending") ? "Cover sheet needed" : "No flag",
+      state: issues.has("archival-box-folder-pending") ? "pending" : "ok"
+    },
+    {
+      label: "Class/draft line",
+      value: issues.has("classification-drafting-approval-pending") ? "Cover sheet needed" : "No flag",
+      state: issues.has("classification-drafting-approval-pending") ? "pending" : "ok"
+    },
+    {
+      label: "Blocking issues",
+      value: (record.sourceNoteIssues || []).filter((issue) => /missing/.test(issue)).map(issueLabel).join("; ") || "None flagged",
+      state: (record.sourceNoteIssues || []).some((issue) => /missing/.test(issue)) ? "issue" : "ok"
+    }
+  ];
+}
+
+function createSourceCheckPanel(record) {
+  const panel = document.createElement("div");
+  panel.className = "source-check-panel";
+
+  const list = document.createElement("dl");
+  list.className = "source-check-list";
+  for (const item of sourceCheckItems(record)) {
+    const wrap = document.createElement("div");
+    wrap.className = `source-check-item source-check-${item.state}`;
+    const term = document.createElement("dt");
+    term.textContent = item.label;
+    const detail = document.createElement("dd");
+    detail.textContent = item.value;
+    wrap.append(term, detail);
+    list.append(wrap);
+  }
+
+  const actions = document.createElement("div");
+  actions.className = "source-check-actions";
+  actions.append(createCopyButton(record.sourceNote || "", "Copy source note"));
+  if (record.provenanceNote) actions.append(createCopyButton(record.provenanceNote, "Copy provenance"));
+
+  panel.append(list, actions);
+  return panel;
+}
+
 function populateLibraryFilters() {
   addOptions(
     libraryClusterFilter,
@@ -1945,7 +2054,7 @@ function createRecordRow(record) {
   subjects.textContent = record.subjects?.length
     ? `Subject headings: ${record.subjects.join("; ")}.`
     : "Subject headings pending.";
-  sourceNote.append(summary, sourceText, provenance, issues, subjects);
+  sourceNote.append(summary, createSourceCheckPanel(record), sourceText, provenance, issues, subjects);
 
   body.append(title, sourceLine, note, meta, topics, flags, sourceNote);
 

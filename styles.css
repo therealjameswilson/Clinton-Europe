@@ -1126,6 +1126,91 @@ dd {
   cursor: pointer;
 }
 
+.source-check-panel {
+  display: grid;
+  gap: 10px;
+  margin-top: 10px;
+  padding: 12px;
+  background: rgba(23, 50, 77, 0.04);
+  border: 1px solid rgba(23, 50, 77, 0.1);
+  border-radius: 8px;
+}
+
+.source-check-list {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0;
+}
+
+.source-check-item {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+  padding: 9px;
+  background: rgba(255, 253, 248, 0.74);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--steel);
+  border-radius: 6px;
+}
+
+.source-check-ok {
+  border-left-color: var(--green);
+}
+
+.source-check-pending {
+  border-left-color: var(--gold);
+}
+
+.source-check-issue {
+  border-left-color: var(--red);
+}
+
+.source-check-item dt {
+  color: var(--blue);
+  font-size: 0.68rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.source-check-item dd {
+  margin: 0;
+  color: var(--ink);
+  font-weight: 900;
+  overflow-wrap: anywhere;
+}
+
+.source-check-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.copy-button {
+  min-height: 30px;
+  padding: 0 10px;
+  color: var(--blue);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 900;
+  background: rgba(23, 50, 77, 0.08);
+  border: 1px solid rgba(23, 50, 77, 0.14);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.copy-button:hover,
+.copy-button:focus-visible {
+  color: white;
+  background: var(--blue);
+  outline: none;
+}
+
+.copy-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.56;
+}
+
 .record-source-note p {
   margin: 8px 0 0;
   overflow-wrap: anywhere;
@@ -1291,6 +1376,10 @@ footer a {
     grid-template-columns: 1fr;
   }
 
+  .source-check-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .records-tools {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -1342,6 +1431,7 @@ footer a {
   .library-metrics,
   .gap-body,
   .queue-buttons,
+  .source-check-list,
   .timeline li,
   .stats,
   .record-row,
