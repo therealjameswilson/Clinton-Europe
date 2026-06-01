@@ -55,6 +55,7 @@ const potentialDocumentsRoot = document.querySelector("#potential-documents-root
 const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
 const libraryOverviewRoot = document.querySelector("#library-overview-root");
 const libraryLeadsRoot = document.querySelector("#library-leads-root");
+const triageRoot = document.querySelector("#triage-root");
 const deskRoot = document.querySelector("#desk-root");
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
@@ -484,9 +485,16 @@ function severityClass(severity) {
 function applyRelatedFilter(filter) {
   if (!filter?.target) return;
 
+  if (filter.target === "anchor") {
+    document.querySelector(filter.selector)?.scrollIntoView({ block: "start" });
+    return;
+  }
+
   if (filter.target === "records") {
     if (searchInput) searchInput.value = filter.search || "";
     if (volumeFilter) volumeFilter.value = filter.volumeId || "";
+    if (sectionFilter) sectionFilter.value = filter.section || "";
+    if (typeFilter) typeFilter.value = filter.type || "";
     if (queueFilter) queueFilter.value = filter.queue || "";
     updateRecordsView();
     document.querySelector("#records")?.scrollIntoView({ block: "start" });
@@ -500,7 +508,156 @@ function applyRelatedFilter(filter) {
     if (documentPriorityFilter) documentPriorityFilter.value = filter.priority || "";
     updatePotentialDocumentsView();
     document.querySelector("#potential-documents")?.scrollIntoView({ block: "start" });
+    return;
   }
+
+  if (filter.target === "library") {
+    if (librarySearch) librarySearch.value = filter.search || "";
+    if (libraryClusterFilter) libraryClusterFilter.value = filter.clusterId || "";
+    if (libraryPriorityFilter) libraryPriorityFilter.value = filter.priority || "";
+    updateLibraryView();
+    document.querySelector("#library-research")?.scrollIntoView({ block: "start" });
+    return;
+  }
+
+  if (filter.target === "statements") {
+    document.querySelector("#statements")?.scrollIntoView({ block: "start" });
+  }
+}
+
+function createTriageAction(action) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.textContent = action.label;
+  button.addEventListener("click", () => applyRelatedFilter(action));
+  return button;
+}
+
+function createTriageCard(card) {
+  const article = document.createElement("article");
+  article.className = `triage-card ${severityClass(card.severity)}`;
+
+  const header = document.createElement("div");
+  header.className = "gap-card-header";
+  const severity = document.createElement("span");
+  severity.className = "gap-severity";
+  severity.textContent = card.severity;
+  const area = document.createElement("span");
+  area.className = "gap-area";
+  area.textContent = card.area;
+  header.append(severity, area);
+
+  const count = document.createElement("strong");
+  count.className = "triage-count";
+  count.textContent = card.count;
+
+  const title = document.createElement("h3");
+  title.textContent = card.title;
+
+  const detail = document.createElement("p");
+  detail.className = "gap-risk";
+  detail.textContent = card.detail;
+
+  const actions = document.createElement("div");
+  actions.className = "gap-actions";
+  for (const action of card.actions || []) actions.append(createTriageAction(action));
+
+  article.append(header, count, title, detail);
+  if (actions.children.length) article.append(actions);
+  return article;
+}
+
+function renderTriage() {
+  if (!triageRoot) return;
+
+  const sourceReviewRecords = allRecords.filter((record) => (record.queues || []).includes("source-note"));
+  const crossVolumeRecords = allRecords.filter((record) => (record.queues || []).includes("cross-volume"));
+  const highLevelContacts = allRecords.filter((record) => (record.volumeIds || []).includes("frus1993-00v22"));
+  const undatedPotential = POTENTIAL_DOCUMENTS.filter((item) => !item.date);
+  const undatedHigh = undatedPotential.filter((item) => /high/i.test(item.priority || ""));
+  const pddLeads = POTENTIAL_DOCUMENTS.filter((item) => item.sourceType === "Presidential Daily Diary");
+  const pddHigh = pddLeads.filter((item) => /high/i.test(item.priority || ""));
+  const libraryLeads = LIBRARY_RESEARCH.leads || [];
+  const libraryHigh = libraryLeads.filter((lead) => /high/i.test(lead.priority || ""));
+  const publicHigh = PUBLIC_STATEMENTS.filter((statement) => /high/i.test(statement.priority || ""));
+
+  const cards = [
+    {
+      severity: "Critical",
+      area: "Source Notes",
+      count: sourceReviewRecords.length.toString(),
+      title: "Verify cover sheets before keeper selection",
+      detail:
+        "Every declassified memcon/telcon is a candidate source note, but the archival box/folder and classification-control line still need PDF cover-sheet confirmation.",
+      actions: [
+        { label: "Open source-note queue", target: "records", queue: "source-note" },
+        { label: "Open chronology", target: "anchor", selector: "#records" }
+      ]
+    },
+    {
+      severity: "High",
+      area: "Volume Placement",
+      count: `${highLevelContacts.length}`,
+      title: "Separate XXII keepers from policy-volume cross-references",
+      detail: `${crossVolumeRecords.length} high-level contact records also carry policy-volume review flags. Use this pass to mark full-text keepers versus cross-reference-only items.`,
+      actions: [
+        { label: "XXII contacts", target: "records", volumeId: "frus1993-00v22" },
+        { label: "XXIII band", target: "records", volumeId: "frus1993-00v23" },
+        { label: "XXIV band", target: "records", volumeId: "frus1993-00v24" }
+      ]
+    },
+    {
+      severity: "Critical",
+      area: "Chronology Control",
+      count: `${undatedHigh.length}/${undatedPotential.length}`,
+      title: "Date the external lead pool",
+      detail:
+        "Undated NARA and FOIA leads are the easiest way for a strong document to disappear from the chronology. Date high-priority entries first, then split the Balkans/Kosovo cluster by year.",
+      actions: [
+        { label: "High undated leads", target: "documents", search: "Date pending", priority: "High" },
+        { label: "Balkans leads", target: "documents", search: "Balkans and Kosovo" }
+      ]
+    },
+    {
+      severity: "High",
+      area: "Daily Diary",
+      count: `${pddHigh.length}/${pddLeads.length}`,
+      title: "Use PDD entries to confirm calls, meetings, and missing memcons",
+      detail:
+        "Presidential Daily Diary hits identify Europe-facing calls and meetings that may require a matching memcon, telcon, briefing book, or public-statement anchor.",
+      actions: [
+        { label: "PDD source leads", target: "documents", sourceType: "Presidential Daily Diary" },
+        { label: "High-priority PDD", target: "documents", sourceType: "Presidential Daily Diary", priority: "High" }
+      ]
+    },
+    {
+      severity: "Critical",
+      area: "Library Visit",
+      count: `${libraryHigh.length}/${libraryLeads.length}`,
+      title: "Turn the Clinton Library trip into clustered pulls",
+      detail:
+        "The finding aids now point to high-yield box/folder runs. Start with decision-control, PC/DC, trip-book, NATO, Kosovo, and Northern Ireland clusters before browsing context files.",
+      actions: [
+        { label: "High-priority pulls", target: "library", priority: "High" },
+        { label: "PC/DC cluster", target: "library", clusterId: "pc-dc-policy-control" },
+        { label: "NATO summit cluster", target: "library", clusterId: "nato-eu-summits" }
+      ]
+    },
+    {
+      severity: "Medium",
+      area: "Public Context",
+      count: `${publicHigh.length}/${PUBLIC_STATEMENTS.length}`,
+      title: "Align public statements with the documentary chronology",
+      detail:
+        "Use public papers as date anchors and policy framing, not substitutes for internal records. High-priority statements flag speeches, joint declarations, and crisis messaging likely to frame selection.",
+      actions: [
+        { label: "Open statements", target: "statements" },
+        { label: "Public source paths", target: "anchor", selector: "#sources" }
+      ]
+    }
+  ];
+
+  triageRoot.replaceChildren(...cards.map(createTriageCard));
 }
 
 function createGapList(title, items) {
@@ -1341,6 +1498,7 @@ renderCompilerGaps();
 populateLibraryFilters();
 renderLibraryOverview();
 updateLibraryView();
+renderTriage();
 populateFilters(allRecords);
 enableFilters();
 updateRecordsView();

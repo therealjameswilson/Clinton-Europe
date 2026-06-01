@@ -9,7 +9,9 @@ A GitHub Pages research assister for three Clinton-era FRUS Europe volumes:
 The site is modeled on the Bush 41 Western Europe assister. It gives a compiler-facing
 desk for Clinton Digital Library memcons and telcons: candidate record review,
 volume placement, source-note reconciliation, PDF availability, country/section
-assignment, and declassification queues.
+assignment, declassification queues, and a first-pass triage layer that links
+the compiler directly into the next source-note, volume-placement, PDD, NARA,
+Strobe, public-statement, and Clinton Library pull tasks.
 
 ## Data
 

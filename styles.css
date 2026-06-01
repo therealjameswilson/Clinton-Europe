@@ -263,6 +263,7 @@ dd {
 .volume-card,
 .desk-card,
 .desk-panel,
+.triage-card,
 .record-row,
 .statement-row,
 .document-row,
@@ -545,6 +546,7 @@ dd {
 }
 
 .records-root,
+.triage-root,
 .statements-root,
 .potential-documents-root,
 .compiler-gaps-root,
@@ -552,6 +554,39 @@ dd {
 .library-leads-root {
   display: grid;
   gap: 34px;
+}
+
+.triage-root {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.triage-card {
+  display: grid;
+  gap: 14px;
+  align-content: start;
+  padding: 18px;
+  border-left: 5px solid var(--steel);
+}
+
+.triage-card.severity-critical {
+  border-left-color: var(--red);
+}
+
+.triage-card.severity-high {
+  border-left-color: var(--gold);
+}
+
+.triage-card.severity-medium {
+  border-left-color: var(--green);
+}
+
+.triage-count {
+  display: block;
+  color: var(--blue);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.1rem, 4vw, 3.2rem);
+  line-height: 1;
 }
 
 .gap-overview,
@@ -634,7 +669,8 @@ dd {
 }
 
 .gap-card h3,
-.library-cluster-card h3 {
+.library-cluster-card h3,
+.triage-card h3 {
   max-width: 880px;
   margin: 0;
   font-family: Georgia, "Times New Roman", serif;
@@ -1034,6 +1070,7 @@ footer a {
 @media (max-width: 980px) {
   .volume-grid,
   .source-list,
+  .triage-root,
   .desk-metrics,
   .gap-overview,
   .library-metrics,
@@ -1088,6 +1125,7 @@ footer a {
 
   .volume-grid,
   .source-list,
+  .triage-root,
   .desk-metrics,
   .gap-overview,
   .library-metrics,

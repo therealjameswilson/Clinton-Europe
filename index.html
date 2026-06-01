@@ -18,6 +18,7 @@
       </a>
       <nav aria-label="Primary navigation">
         <a href="#records">Chronology</a>
+        <a href="#triage">Triage</a>
         <a href="#potential-documents">Leads</a>
         <a href="#compiler-gaps">Gaps</a>
         <a href="#library-research">Library</a>
@@ -81,7 +82,7 @@
         <p class="records-intro">
           Start here. Declassified Clinton Digital Library memcons and telcons are
           filtered for Europe-relevant titles or subject headings, then grouped by
-          research section and sorted by the document date shown on the item page.
+          year and sorted by the document date shown on the item page.
         </p>
         <div class="records-tools" aria-label="Search and filter records">
           <label class="search-field">
@@ -113,6 +114,22 @@
         </div>
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading candidate records...</p>
+        </div>
+      </section>
+
+      <section class="section triage-section" id="triage" aria-labelledby="triage-title">
+        <div class="section-heading">
+          <p class="kicker">Compiler First Pass</p>
+          <h2 id="triage-title">What To Resolve Next</h2>
+        </div>
+        <p class="records-intro">
+          These cards collapse the harvested source pools into working passes:
+          source-note verification, cross-volume placement, undated external leads,
+          Presidential Daily Diary reconciliation, Clinton Library pulls, and public
+          statement alignment.
+        </p>
+        <div id="triage-root" class="triage-root" aria-live="polite">
+          <p class="loading">Loading first-pass triage...</p>
         </div>
       </section>
 
