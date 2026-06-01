@@ -70,11 +70,13 @@ const documentSourceFilter = document.querySelector("#document-source-filter");
 const documentVolumeFilter = document.querySelector("#document-volume-filter");
 const documentPriorityFilter = document.querySelector("#document-priority-filter");
 const clearDocumentFilters = document.querySelector("#clear-document-filters");
+const exportDocuments = document.querySelector("#export-documents");
 const documentSummary = document.querySelector("#document-summary");
 const librarySearch = document.querySelector("#library-search");
 const libraryClusterFilter = document.querySelector("#library-cluster-filter");
 const libraryPriorityFilter = document.querySelector("#library-priority-filter");
 const clearLibraryFilters = document.querySelector("#clear-library-filters");
+const exportLibrary = document.querySelector("#export-library");
 const librarySummary = document.querySelector("#library-summary");
 const searchInput = document.querySelector("#record-search");
 const volumeFilter = document.querySelector("#volume-filter");
@@ -82,6 +84,7 @@ const sectionFilter = document.querySelector("#section-filter");
 const typeFilter = document.querySelector("#type-filter");
 const queueFilter = document.querySelector("#queue-filter");
 const clearFilters = document.querySelector("#clear-filters");
+const exportRecords = document.querySelector("#export-records");
 const recordsSummary = document.querySelector("#records-summary");
 
 const volumeById = new Map(VOLUMES.map((volume) => [volume.id, volume]));
@@ -199,6 +202,35 @@ function displayVolumeLabels(record) {
 function addOptions(select, values, label) {
   if (!select) return;
   select.replaceChildren(new Option(label, ""), ...values.map((value) => new Option(value, value)));
+}
+
+function csvValue(value) {
+  const text = Array.isArray(value) ? value.join("; ") : value ?? "";
+  return `"${String(text).replaceAll('"', '""')}"`;
+}
+
+function csvRows(rows, columns) {
+  return [
+    columns.map((column) => csvValue(column.label)).join(","),
+    ...rows.map((row) => columns.map((column) => csvValue(column.value(row))).join(","))
+  ].join("\n");
+}
+
+function downloadCsv(fileName, rows, columns) {
+  const csv = `${csvRows(rows, columns)}\n`;
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = fileName;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
+}
+
+function exportDateStamp() {
+  return new Date().toISOString().slice(0, 10);
 }
 
 function renderVolumes() {
@@ -428,6 +460,26 @@ function filterRecords(records) {
     if (queue && !(record.queues || []).includes(queue)) return false;
     return !query || recordSearchText(record).includes(query);
   });
+}
+
+function exportCurrentRecords() {
+  const rows = filterRecords(allRecords).sort(byChronology);
+  downloadCsv(`clinton-europe-records-${exportDateStamp()}.csv`, rows, [
+    { label: "compiler_number", value: (record) => record.compilerNumber },
+    { label: "date", value: (record) => record.date || record.sortDate },
+    { label: "title", value: (record) => record.title },
+    { label: "type", value: (record) => record.type },
+    { label: "section", value: (record) => record.section },
+    { label: "volumes", value: (record) => displayVolume(record) },
+    { label: "countries", value: (record) => record.countries || [] },
+    { label: "queues", value: (record) => (record.queues || []).map(queueLabel) },
+    { label: "source_note_status", value: (record) => record.sourceNoteStatus },
+    { label: "source_note_issues", value: (record) => record.sourceNoteIssues || [] },
+    { label: "source_note", value: (record) => record.sourceNote },
+    { label: "item_url", value: (record) => record.itemUrl },
+    { label: "pdf_url", value: (record) => record.pdfUrl },
+    { label: "collection_url", value: (record) => record.collectionUrl }
+  ]);
 }
 
 function setStats(records) {
@@ -869,6 +921,28 @@ function filterLibraryLeads(leads) {
   });
 }
 
+function sortLibraryLeads(leads) {
+  return [...leads].sort(
+    (a, b) => (b.score || 0) - (a.score || 0) || a.box.localeCompare(b.box) || a.folder.localeCompare(b.folder)
+  );
+}
+
+function exportCurrentLibraryLeads() {
+  const rows = sortLibraryLeads(filterLibraryLeads(LIBRARY_RESEARCH.leads || []));
+  downloadCsv(`clinton-library-pull-leads-${exportDateStamp()}.csv`, rows, [
+    { label: "priority", value: (lead) => lead.priority },
+    { label: "score", value: (lead) => lead.score },
+    { label: "box", value: (lead) => lead.box },
+    { label: "folder", value: (lead) => lead.folder },
+    { label: "cluster_labels", value: (lead) => lead.clusterLabels || [] },
+    { label: "release", value: (lead) => lead.release },
+    { label: "finding_aid_part", value: (lead) => lead.part },
+    { label: "page", value: (lead) => lead.page },
+    { label: "line", value: (lead) => lead.line },
+    { label: "office_notes", value: (lead) => lead.notes }
+  ]);
+}
+
 function createLibraryClusterCard(cluster) {
   const card = document.createElement("article");
   card.className = `library-cluster-card ${severityClass(cluster.priority)}`;
@@ -1067,9 +1141,7 @@ function updateLibrarySummary(leads) {
 }
 
 function updateLibraryView() {
-  const filtered = filterLibraryLeads(LIBRARY_RESEARCH.leads || []).sort(
-    (a, b) => (b.score || 0) - (a.score || 0) || a.box.localeCompare(b.box) || a.folder.localeCompare(b.folder)
-  );
+  const filtered = sortLibraryLeads(filterLibraryLeads(LIBRARY_RESEARCH.leads || []));
   updateLibrarySummary(filtered);
   renderLibraryLeads(filtered);
 }
@@ -1133,6 +1205,27 @@ function filterPotentialDocuments(documents) {
     if (priority && item.priority !== priority) return false;
     return !query || potentialDocumentSearchText(item).includes(query);
   });
+}
+
+function exportCurrentPotentialDocuments() {
+  const rows = filterPotentialDocuments(POTENTIAL_DOCUMENTS).sort(byPotentialDocument);
+  downloadCsv(`clinton-europe-source-leads-${exportDateStamp()}.csv`, rows, [
+    { label: "date", value: (item) => item.date || "Date pending" },
+    { label: "priority", value: (item) => item.priority },
+    { label: "score", value: (item) => item.score },
+    { label: "source_type", value: (item) => item.sourceType },
+    { label: "title", value: (item) => item.title },
+    { label: "section", value: (item) => item.section || item.sections?.[0] },
+    { label: "volumes", value: (item) => displayVolumeLabels(item) },
+    { label: "identifier", value: (item) => item.identifier || item.naid },
+    { label: "source_collection", value: (item) => item.sourceCollection },
+    { label: "matched_queries", value: (item) => item.matchedQueries || [] },
+    { label: "summary", value: (item) => item.summary },
+    { label: "source_note", value: (item) => item.sourceNote },
+    { label: "catalog_url", value: (item) => item.catalogUrl },
+    { label: "source_url", value: (item) => item.sourceUrl },
+    { label: "pdf_url", value: (item) => item.pdfUrl || item.digitalObjectUrl }
+  ]);
 }
 
 function potentialDocumentCode(index) {
@@ -1471,6 +1564,7 @@ function enableFilters() {
     updateRecordsView();
     searchInput?.focus();
   });
+  exportRecords?.addEventListener("click", exportCurrentRecords);
 
   clearDocumentFilters?.addEventListener("click", () => {
     if (documentSearch) documentSearch.value = "";
@@ -1480,6 +1574,7 @@ function enableFilters() {
     updatePotentialDocumentsView();
     documentSearch?.focus();
   });
+  exportDocuments?.addEventListener("click", exportCurrentPotentialDocuments);
 
   clearLibraryFilters?.addEventListener("click", () => {
     if (librarySearch) librarySearch.value = "";
@@ -1488,6 +1583,7 @@ function enableFilters() {
     updateLibraryView();
     librarySearch?.focus();
   });
+  exportLibrary?.addEventListener("click", exportCurrentLibraryLeads);
 }
 
 renderVolumes();

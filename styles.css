@@ -481,7 +481,7 @@ dd {
 
 .records-tools {
   display: grid;
-  grid-template-columns: minmax(260px, 1.3fr) repeat(4, minmax(140px, 0.7fr)) auto;
+  grid-template-columns: minmax(260px, 1.3fr) repeat(4, minmax(140px, 0.7fr)) auto auto;
   gap: 12px;
   align-items: end;
   margin-bottom: 28px;
@@ -536,6 +536,16 @@ dd {
   border: 0;
   border-radius: 6px;
   cursor: pointer;
+}
+
+.records-tools button[id^="export"] {
+  background: var(--blue);
+}
+
+.records-tools button[id^="export"]:hover,
+.records-tools button[id^="export"]:focus-visible {
+  background: var(--green);
+  outline: none;
 }
 
 .records-summary {
@@ -738,7 +748,7 @@ dd {
 }
 
 .library-tools {
-  grid-template-columns: minmax(260px, 1.6fr) minmax(220px, 1fr) minmax(140px, 0.7fr) auto;
+  grid-template-columns: minmax(260px, 1.6fr) minmax(220px, 1fr) minmax(140px, 0.7fr) auto auto;
 }
 
 .library-strategy {
