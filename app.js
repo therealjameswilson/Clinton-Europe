@@ -129,6 +129,23 @@ function bySectionThenDate(a, b) {
   );
 }
 
+function chronologyDate(record) {
+  return record.sortDate || record.date || "9999";
+}
+
+function byChronology(a, b) {
+  return (
+    chronologyDate(a).localeCompare(chronologyDate(b)) ||
+    sectionRank(a.section) - sectionRank(b.section) ||
+    (a.title || "").localeCompare(b.title || "")
+  );
+}
+
+function chronologyYear(record) {
+  const date = chronologyDate(record);
+  return /^\d{4}/.test(date) ? date.slice(0, 4) : "Date pending";
+}
+
 function primaryStatementSection(statement) {
   return statement.sections?.[0] || "Review";
 }
@@ -343,7 +360,7 @@ function renderStatements() {
 
 function prepareRecords(records) {
   return [...records]
-    .sort(bySectionThenDate)
+    .sort(byChronology)
     .map((record, index) => ({
       ...record,
       compilerNumber: `CE ${String(index + 1).padStart(3, "0")}`
@@ -575,7 +592,7 @@ function renderCompilerGaps() {
 
 function renderDesk(records) {
   if (!deskRoot) return;
-  const sorted = [...records].sort(bySectionThenDate);
+  const sorted = [...records].sort(byChronology);
   const dateSpan = sorted.length
     ? `${formatDate(sorted.find((record) => record.date)?.date)} to ${formatDate([...sorted].reverse().find((record) => record.date)?.date)}`
     : "No dated records";
@@ -1228,33 +1245,26 @@ function renderRecords(records) {
     return;
   }
 
-  const selectedSection = sectionFilter?.value || "";
-  const sectionsToRender = selectedSection
-    ? [selectedSection]
-    : uniqueInOrder([...SECTION_ORDER, ...records.map((record) => record.section)]).filter((section) =>
-        records.some((record) => record.section === section)
-      );
-
-  for (const sectionName of sectionsToRender) {
-    const sectionRecords = records.filter((record) => record.section === sectionName);
-    if (!sectionRecords.length && !selectedSection) continue;
-
+  const sortedRecords = [...records].sort(byChronology);
+  const yearGroups = uniqueInOrder(sortedRecords.map(chronologyYear));
+  for (const year of yearGroups) {
+    const yearRecords = sortedRecords.filter((record) => chronologyYear(record) === year);
     const section = document.createElement("section");
-    section.className = "record-section";
-    section.id = `section-${sectionName.toLowerCase().replaceAll(" ", "-").replaceAll("/", "-")}`;
+    section.className = "record-section chronology-section";
+    section.id = `chronology-${year.toLowerCase().replaceAll(" ", "-")}`;
 
     const header = document.createElement("div");
     header.className = "record-section-header";
     const heading = document.createElement("h3");
-    heading.textContent = sectionName;
+    heading.textContent = year;
     const count = document.createElement("p");
     count.className = "record-count";
-    count.textContent = `${sectionRecords.length} records`;
+    count.textContent = `${yearRecords.length} records`;
     header.append(heading, count);
 
     const list = document.createElement("div");
     list.className = "record-list";
-    for (const record of sectionRecords.sort(bySectionThenDate)) {
+    for (const record of yearRecords) {
       list.append(createRecordRow(record));
     }
 
@@ -1266,12 +1276,13 @@ function renderRecords(records) {
 function updateSummary(records) {
   if (!recordsSummary) return;
   const volume = volumeFilter?.selectedOptions?.[0]?.textContent || "All volumes";
+  const section = sectionFilter?.selectedOptions?.[0]?.textContent || "All sections";
   const queue = queueFilter?.selectedOptions?.[0]?.textContent || "All queues";
-  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${queue}`;
+  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${section} / ${queue}`;
 }
 
 function updateRecordsView() {
-  const filtered = filterRecords(allRecords).sort(bySectionThenDate);
+  const filtered = filterRecords(allRecords).sort(byChronology);
   updateSummary(filtered);
   renderRecords(filtered);
   renderDesk(allRecords);
