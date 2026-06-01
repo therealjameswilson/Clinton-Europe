@@ -548,6 +548,11 @@ dd {
   outline: none;
 }
 
+.document-tools,
+.statement-tools {
+  grid-template-columns: minmax(240px, 1.35fr) repeat(4, minmax(118px, 0.65fr)) auto auto;
+}
+
 .records-summary {
   grid-column: 1 / -1;
   margin: 0;

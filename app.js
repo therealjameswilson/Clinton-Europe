@@ -51,6 +51,14 @@ const QUEUE_OPTIONS = [
 
 const volumeRoot = document.querySelector("#volume-root");
 const statementsRoot = document.querySelector("#statements-root");
+const statementSearch = document.querySelector("#statement-search");
+const statementYearFilter = document.querySelector("#statement-year-filter");
+const statementSectionFilter = document.querySelector("#statement-section-filter");
+const statementVolumeFilter = document.querySelector("#statement-volume-filter");
+const statementPriorityFilter = document.querySelector("#statement-priority-filter");
+const clearStatementFilters = document.querySelector("#clear-statement-filters");
+const exportStatements = document.querySelector("#export-statements");
+const statementSummary = document.querySelector("#statement-summary");
 const potentialDocumentsRoot = document.querySelector("#potential-documents-root");
 const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
 const libraryOverviewRoot = document.querySelector("#library-overview-root");
@@ -156,6 +164,10 @@ function documentYear(item) {
   return /^\d{4}/.test(item.date || "") ? item.date.slice(0, 4) : "Date pending";
 }
 
+function statementYear(statement) {
+  return /^\d{4}/.test(statement.date || "") ? statement.date.slice(0, 4) : "Date pending";
+}
+
 function primaryStatementSection(statement) {
   return statement.sections?.[0] || "Review";
 }
@@ -208,6 +220,10 @@ function displayVolumeLabels(record) {
 function addOptions(select, values, label) {
   if (!select) return;
   select.replaceChildren(new Option(label, ""), ...values.map((value) => new Option(value, value)));
+}
+
+function titleCase(value = "") {
+  return value ? value.slice(0, 1).toUpperCase() + value.slice(1) : value;
 }
 
 function yearOptions(values) {
@@ -287,6 +303,12 @@ function statementCode(statement, index) {
   return `PS ${String(index + 1).padStart(3, "0")}`;
 }
 
+const statementNumberById = new Map(
+  [...PUBLIC_STATEMENTS]
+    .sort(byStatementSectionThenDate)
+    .map((statement, index) => [statement.id, index])
+);
+
 function createStatementRow(statement, index) {
   const row = document.createElement("article");
   row.className = "statement-row";
@@ -353,7 +375,87 @@ function createStatementRow(statement, index) {
   return row;
 }
 
-function renderStatements() {
+function populateStatementFilters(statements) {
+  addOptions(statementYearFilter, yearOptions(statements.map(statementYear)), "All years");
+  addOptions(
+    statementSectionFilter,
+    uniqueInOrder([...STATEMENT_SECTION_ORDER, ...statements.flatMap((statement) => statement.sections || [])]),
+    "All sections"
+  );
+  addOptions(
+    statementVolumeFilter,
+    VOLUMES.map((volume) => volume.id),
+    "All volumes"
+  );
+  if (statementVolumeFilter) {
+    [...statementVolumeFilter.options].forEach((option) => {
+      if (!option.value) return;
+      option.textContent = `Volume ${volumeById.get(option.value)?.number || option.value}`;
+    });
+  }
+  addOptions(statementPriorityFilter, uniqueSorted(statements.map((statement) => statement.priority)), "All priorities");
+  if (statementPriorityFilter) {
+    [...statementPriorityFilter.options].forEach((option) => {
+      if (!option.value) return;
+      option.textContent = titleCase(option.value);
+    });
+  }
+}
+
+function statementSearchText(statement) {
+  return [
+    statement.title,
+    statement.date,
+    statement.packageId,
+    statement.granuleId,
+    statement.priority,
+    statement.notes,
+    displayVolume(statement),
+    ...(statement.sections || []),
+    ...(statement.topics || [])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function filterStatements(statements) {
+  const query = statementSearch?.value.trim().toLowerCase() || "";
+  const year = statementYearFilter?.value || "";
+  const section = statementSectionFilter?.value || "";
+  const volume = statementVolumeFilter?.value || "";
+  const priority = statementPriorityFilter?.value || "";
+
+  return statements.filter((statement) => {
+    if (year && statementYear(statement) !== year) return false;
+    if (section && !(statement.sections || []).includes(section)) return false;
+    if (volume && !(statement.volumeIds || []).includes(volume)) return false;
+    if (priority && statement.priority !== priority) return false;
+    return !query || statementSearchText(statement).includes(query);
+  });
+}
+
+function exportCurrentStatements() {
+  const rows = filterStatements(PUBLIC_STATEMENTS).sort(byStatementSectionThenDate);
+  downloadCsv(`clinton-europe-public-statements-${exportDateStamp()}.csv`, rows, [
+    { label: "statement_number", value: (statement) => statementCode(statement, statementNumberById.get(statement.id) || 0) },
+    { label: "date", value: (statement) => statement.date },
+    { label: "year", value: (statement) => statementYear(statement) },
+    { label: "title", value: (statement) => statement.title },
+    { label: "primary_section", value: (statement) => primaryStatementSection(statement) },
+    { label: "sections", value: (statement) => statement.sections || [] },
+    { label: "priority", value: (statement) => statement.priority },
+    { label: "volumes", value: (statement) => displayVolume(statement) },
+    { label: "topics", value: (statement) => statement.topics || [] },
+    { label: "notes", value: (statement) => statement.notes },
+    { label: "package_id", value: (statement) => statement.packageId },
+    { label: "details_url", value: (statement) => statement.detailsUrl },
+    { label: "text_url", value: (statement) => statement.textUrl },
+    { label: "pdf_url", value: (statement) => statement.pdfUrl }
+  ]);
+}
+
+function renderStatements(statements = PUBLIC_STATEMENTS) {
   if (!statementsRoot) return;
 
   if (!PUBLIC_STATEMENTS.length) {
@@ -365,8 +467,15 @@ function renderStatements() {
     return;
   }
 
-  const sorted = [...PUBLIC_STATEMENTS].sort(byStatementSectionThenDate);
-  const statementNumbers = new Map(sorted.map((statement, index) => [statement.id, index]));
+  if (!statements.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-section";
+    empty.textContent = "No public statements match the current search or filters.";
+    statementsRoot.replaceChildren(empty);
+    return;
+  }
+
+  const sorted = [...statements].sort(byStatementSectionThenDate);
   const sectionNames = uniqueInOrder([
     ...STATEMENT_SECTION_ORDER,
     ...sorted.map(primaryStatementSection)
@@ -392,7 +501,7 @@ function renderStatements() {
     const list = document.createElement("div");
     list.className = "record-list statement-list";
     for (const statement of sectionStatements) {
-      list.append(createStatementRow(statement, statementNumbers.get(statement.id) || 0));
+      list.append(createStatementRow(statement, statementNumberById.get(statement.id) || 0));
     }
 
     section.append(header, list);
@@ -400,6 +509,21 @@ function renderStatements() {
   });
 
   statementsRoot.replaceChildren(...sections);
+}
+
+function updateStatementSummary(statements) {
+  if (!statementSummary) return;
+  const year = statementYearFilter?.selectedOptions?.[0]?.textContent || "All years";
+  const section = statementSectionFilter?.selectedOptions?.[0]?.textContent || "All sections";
+  const volume = statementVolumeFilter?.selectedOptions?.[0]?.textContent || "All volumes";
+  const priority = statementPriorityFilter?.selectedOptions?.[0]?.textContent || "All priorities";
+  statementSummary.textContent = `Showing ${statements.length} of ${PUBLIC_STATEMENTS.length} public statements / ${year} / ${section} / ${volume} / ${priority}`;
+}
+
+function updateStatementsView() {
+  const filtered = filterStatements(PUBLIC_STATEMENTS).sort(byStatementSectionThenDate);
+  updateStatementSummary(filtered);
+  renderStatements(filtered);
 }
 
 function prepareRecords(records) {
@@ -590,6 +714,12 @@ function applyRelatedFilter(filter) {
   }
 
   if (filter.target === "statements") {
+    if (statementSearch) statementSearch.value = filter.search || "";
+    if (statementYearFilter) statementYearFilter.value = filter.year || "";
+    if (statementSectionFilter) statementSectionFilter.value = filter.section || "";
+    if (statementVolumeFilter) statementVolumeFilter.value = filter.volumeId || "";
+    if (statementPriorityFilter) statementPriorityFilter.value = filter.priority || "";
+    updateStatementsView();
     document.querySelector("#statements")?.scrollIntoView({ block: "start" });
   }
 }
@@ -1573,6 +1703,11 @@ function enableFilters() {
     control?.addEventListener("change", updatePotentialDocumentsView);
   }
 
+  for (const control of [statementSearch, statementYearFilter, statementSectionFilter, statementVolumeFilter, statementPriorityFilter]) {
+    control?.addEventListener("input", updateStatementsView);
+    control?.addEventListener("change", updateStatementsView);
+  }
+
   for (const control of [librarySearch, libraryClusterFilter, libraryPriorityFilter]) {
     control?.addEventListener("input", updateLibraryView);
     control?.addEventListener("change", updateLibraryView);
@@ -1601,6 +1736,17 @@ function enableFilters() {
   });
   exportDocuments?.addEventListener("click", exportCurrentPotentialDocuments);
 
+  clearStatementFilters?.addEventListener("click", () => {
+    if (statementSearch) statementSearch.value = "";
+    if (statementYearFilter) statementYearFilter.value = "";
+    if (statementSectionFilter) statementSectionFilter.value = "";
+    if (statementVolumeFilter) statementVolumeFilter.value = "";
+    if (statementPriorityFilter) statementPriorityFilter.value = "";
+    updateStatementsView();
+    statementSearch?.focus();
+  });
+  exportStatements?.addEventListener("click", exportCurrentStatements);
+
   clearLibraryFilters?.addEventListener("click", () => {
     if (librarySearch) librarySearch.value = "";
     if (libraryClusterFilter) libraryClusterFilter.value = "";
@@ -1612,7 +1758,8 @@ function enableFilters() {
 }
 
 renderVolumes();
-renderStatements();
+populateStatementFilters(PUBLIC_STATEMENTS);
+updateStatementsView();
 populateDocumentFilters(POTENTIAL_DOCUMENTS);
 updatePotentialDocumentsView();
 renderCompilerGaps();

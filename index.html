@@ -189,6 +189,35 @@
           declarations are harvested from GovInfo Public Papers and mapped to the three
           FRUS Europe volumes as public context for documentary selection.
         </p>
+        <div class="records-tools statement-tools" aria-label="Search and filter public statements">
+          <label class="search-field">
+            <span>Search statements</span>
+            <input
+              id="statement-search"
+              type="search"
+              placeholder="Search titles, topics, sections, packages, notes"
+            />
+          </label>
+          <label>
+            <span>Year</span>
+            <select id="statement-year-filter"></select>
+          </label>
+          <label>
+            <span>Section</span>
+            <select id="statement-section-filter"></select>
+          </label>
+          <label>
+            <span>Volume</span>
+            <select id="statement-volume-filter"></select>
+          </label>
+          <label>
+            <span>Priority</span>
+            <select id="statement-priority-filter"></select>
+          </label>
+          <button id="clear-statement-filters" type="button">Reset</button>
+          <button id="export-statements" type="button">Export CSV</button>
+          <p id="statement-summary" class="records-summary">Loading public statements...</p>
+        </div>
         <div id="statements-root" class="statements-root" aria-live="polite">
           <p class="loading">Loading public statements...</p>
         </div>
