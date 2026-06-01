@@ -18,6 +18,7 @@
       </a>
       <nav aria-label="Primary navigation">
         <a href="#records">Chronology</a>
+        <a href="#worklist">Worklist</a>
         <a href="#triage">Triage</a>
         <a href="#coverage">Coverage</a>
         <a href="#potential-documents">Leads</a>
@@ -120,6 +121,25 @@
         </div>
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading candidate records...</p>
+        </div>
+      </section>
+
+      <section class="section worklist-section" id="worklist" aria-labelledby="worklist-title">
+        <div class="section-heading">
+          <p class="kicker">Compiler Action Queue</p>
+          <h2 id="worklist-title">Next Work Packets</h2>
+        </div>
+        <p class="records-intro">
+          Use these packets after reviewing the chronology. Each one names the
+          immediate compiler output, the current evidence base, and the fastest
+          filtered jump into the underlying records, source leads, statements, or
+          Clinton Library pull list.
+        </p>
+        <div class="worklist-toolbar">
+          <button id="export-worklist" type="button">Export Worklist CSV</button>
+        </div>
+        <div id="worklist-root" class="worklist-root" aria-live="polite">
+          <p class="loading">Loading compiler work packets...</p>
         </div>
       </section>
 

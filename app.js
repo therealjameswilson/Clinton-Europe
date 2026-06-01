@@ -65,6 +65,7 @@ const libraryOverviewRoot = document.querySelector("#library-overview-root");
 const libraryLeadsRoot = document.querySelector("#library-leads-root");
 const triageRoot = document.querySelector("#triage-root");
 const coverageRoot = document.querySelector("#coverage-root");
+const worklistRoot = document.querySelector("#worklist-root");
 const deskRoot = document.querySelector("#desk-root");
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
@@ -97,6 +98,7 @@ const queueFilter = document.querySelector("#queue-filter");
 const clearFilters = document.querySelector("#clear-filters");
 const exportRecords = document.querySelector("#export-records");
 const recordsSummary = document.querySelector("#records-summary");
+const exportWorklist = document.querySelector("#export-worklist");
 
 const volumeById = new Map(VOLUMES.map((volume) => [volume.id, volume]));
 const libraryClusterById = new Map((LIBRARY_RESEARCH.clusters || []).map((cluster) => [cluster.id, cluster]));
@@ -967,6 +969,235 @@ function renderTriage() {
   ];
 
   triageRoot.replaceChildren(...cards.map(createTriageCard));
+}
+
+function hasSection(item, section) {
+  return item.section === section || (item.sections || []).includes(section);
+}
+
+function buildCompilerWorklist() {
+  const sourceExceptionRecords = allRecords.filter((record) =>
+    (record.sourceNoteIssues || []).some((issue) => ["missing-pdf-url", "missing-release-id"].includes(issue))
+  );
+  const missingPdfRecords = allRecords.filter((record) => !record.pdfUrl);
+  const crossVolumeRecords = allRecords.filter((record) => (record.queues || []).includes("cross-volume"));
+  const xxiiRecords = allRecords.filter((record) => (record.volumeIds || []).includes("frus1993-00v22"));
+  const undatedDocuments = POTENTIAL_DOCUMENTS.filter((item) => !item.date);
+  const highUndatedDocuments = undatedDocuments.filter((item) => item.priority === "High");
+  const pddDocuments = POTENTIAL_DOCUMENTS.filter((item) => item.sourceType === "Presidential Daily Diary");
+  const highPddDocuments = pddDocuments.filter((item) => item.priority === "High");
+  const libraryLeads = LIBRARY_RESEARCH.leads || [];
+  const highLibraryLeads = libraryLeads.filter((lead) => lead.priority === "High");
+  const highStatements = PUBLIC_STATEMENTS.filter((statement) => /high/i.test(statement.priority || ""));
+  const balkans1999Leads = POTENTIAL_DOCUMENTS.filter(
+    (item) => hasSection(item, "Balkans and Kosovo") && documentYear(item) === "1999"
+  );
+  const highBalkans1999Leads = balkans1999Leads.filter((item) => item.priority === "High");
+  const earlyNatoEuRecords = allRecords.filter(
+    (record) => record.section === "NATO and EU" && ["1993", "1994", "1995", "1996"].includes(chronologyYear(record))
+  );
+  const earlyNatoEuLeads = POTENTIAL_DOCUMENTS.filter(
+    (item) =>
+      (hasSection(item, "NATO and European Security") || hasSection(item, "EU, OSCE, and Summits")) &&
+      ["1993", "1994", "1995", "1996"].includes(documentYear(item))
+  );
+  const countryHoleNames = ["Netherlands", "Belgium", "Portugal", "Austria", "Denmark", "Norway", "Sweden", "Finland"];
+  const countryHoles = countryHoleNames.filter((country) => !allRecords.some((record) => recordSearchText(record).includes(country.toLowerCase())));
+
+  return [
+    {
+      priority: "Critical",
+      lane: "Source Integrity",
+      count: `${sourceExceptionRecords.length} records`,
+      title: "Clear blocking source-note exceptions",
+      why:
+        "Before a record can become a FRUS text candidate, missing PDFs and missing release identifiers need to be resolved or explicitly marked unavailable.",
+      output: "A source-note exception sheet with final status for each missing PDF or missing release-id item.",
+      evidence: `${missingPdfRecords.length} records lack direct PDF links; ${sourceExceptionRecords.length} records have missing-PDF or missing-release metadata flags.`,
+      actions: [
+        { label: "Missing PDFs", target: "records", queue: "pdf-missing" },
+        { label: "Missing release IDs", target: "records", search: "missing-release-id" }
+      ]
+    },
+    {
+      priority: "Critical",
+      lane: "Chronology Control",
+      count: `${highUndatedDocuments.length}/${undatedDocuments.length}`,
+      title: "Date the high-priority external leads first",
+      why:
+        "Undated leads are the easiest way to lose a key source across the XXIII/XXIV date boundary, especially for Bosnia and Kosovo.",
+      output: "A dated lead list with any Kosovo/Bosnia folder-level records split into the correct policy volume.",
+      evidence: `${highUndatedDocuments.length} high-priority leads and ${undatedDocuments.length} total source leads are still date-pending.`,
+      actions: [
+        { label: "High undated leads", target: "documents", year: "Date pending", priority: "High" },
+        { label: "All date-pending leads", target: "documents", year: "Date pending" }
+      ]
+    },
+    {
+      priority: "High",
+      lane: "Volume Placement",
+      count: `${xxiiRecords.length} records`,
+      title: "Create the Volume XXII keeper versus cross-reference split",
+      why:
+        "Every declassified memcon/telcon touches the high-level contacts volume, but many should support XXIII or XXIV as cross-references rather than full XXII text selections.",
+      output: "A keeper list with one disposition per high-level contact: full text, policy-volume cross-reference, or omit.",
+      evidence: `${crossVolumeRecords.length} records are flagged for cross-volume review across Volumes XXII, XXIII, and XXIV.`,
+      actions: [
+        { label: "XXII contacts", target: "records", volumeId: "frus1993-00v22" },
+        { label: "XXIII band", target: "records", volumeId: "frus1993-00v23" },
+        { label: "XXIV band", target: "records", volumeId: "frus1993-00v24" }
+      ]
+    },
+    {
+      priority: "High",
+      lane: "Daily Diary",
+      count: `${highPddDocuments.length}/${pddDocuments.length}`,
+      title: "Reconcile PDD calls and meetings against memcons/telcons",
+      why:
+        "The diary can reveal calls or meetings that need a matching memcon, briefing book, public statement, or explicit absence note in the compilation file.",
+      output: "A PDD reconciliation log tying each high-priority meeting/call to an internal source or a documented gap.",
+      evidence: `${highPddDocuments.length} high-priority Presidential Daily Diary leads are available out of ${pddDocuments.length} total diary hits.`,
+      actions: [
+        { label: "High-priority PDD", target: "documents", sourceType: "Presidential Daily Diary", priority: "High" },
+        { label: "All PDD leads", target: "documents", sourceType: "Presidential Daily Diary" }
+      ]
+    },
+    {
+      priority: "High",
+      lane: "Library Visit",
+      count: `${highLibraryLeads.length} pulls`,
+      title: "Pre-build the Clinton Library reading-room pull slips",
+      why:
+        "The finding-aid pass is too large to browse cold on site; the first visit should start with decision-control, PC/DC, trip-book, NATO, Kosovo, and Northern Ireland runs.",
+      output: "A box/folder pull sheet sorted by cluster, OA box, finding-aid part, page, and line.",
+      evidence: `${highLibraryLeads.length} high-priority pull leads are flagged across ${libraryLeads.length} total finding-aid leads.`,
+      actions: [
+        { label: "High-priority pulls", target: "library", priority: "High" },
+        { label: "PC/DC cluster", target: "library", clusterId: "pc-dc-policy-control" },
+        { label: "NATO summit cluster", target: "library", clusterId: "nato-eu-summits" }
+      ]
+    },
+    {
+      priority: "High",
+      lane: "Balkans and Kosovo",
+      count: `${balkans1999Leads.length} leads`,
+      title: "Break the 1999 Kosovo block into a sub-series",
+      why:
+        "The 1999 lead volume is large enough to distort the Balkans chapter unless Kosovo, Bosnia/SFOR, NATO use-of-force, and diplomatic follow-through are separated.",
+      output: "A 1999 Kosovo/Balkans sub-series with high-priority items reviewed first and medium-priority runs batched by source family.",
+      evidence: `${balkans1999Leads.length} Balkans/Kosovo leads fall in 1999; ${highBalkans1999Leads.length} are currently high-priority.`,
+      actions: [
+        { label: "1999 Balkans leads", target: "documents", search: "Balkans and Kosovo", year: "1999" },
+        { label: "Kosovo leads", target: "documents", search: "Kosovo", year: "1999" }
+      ]
+    },
+    {
+      priority: "High",
+      lane: "NATO and EU",
+      count: `${earlyNatoEuRecords.length} records`,
+      title: "Build the 1993-1996 NATO/EU policy spine",
+      why:
+        "The early policy volume needs a stronger internal-document line for Partnership for Peace, NATO enlargement, OSCE, EU, and transatlantic agenda decisions.",
+      output: "A chronological NATO/EU spine with decision memoranda, summit books, and briefing papers separated from public-context material.",
+      evidence: `${earlyNatoEuRecords.length} direct NATO/EU chronology records and ${earlyNatoEuLeads.length} early NATO/EU source leads are currently visible for 1993-1996.`,
+      actions: [
+        { label: "NATO/EU records", target: "records", search: "NATO", volumeId: "frus1993-00v23" },
+        { label: "Early NATO/EU leads", target: "documents", search: "NATO", volumeId: "frus1993-00v23" }
+      ]
+    },
+    {
+      priority: "Medium",
+      lane: "Country Balance",
+      count: `${countryHoles.length} gaps`,
+      title: "Audit low-visibility Western Europe partners",
+      why:
+        "Current direct records cluster around the United Kingdom, France, and Germany; smaller partners still matter for NATO, EU, summit, and Balkans diplomacy.",
+      output: "A country-balance note listing search results, confirmed omissions, and any source leads promoted for Spain, Benelux, Portugal, Nordics, Austria, Greece, and Turkey.",
+      evidence: `${countryHoles.join(", ")} currently have no direct Clinton Library chronology hits in the working set.`,
+      actions: [
+        { label: "Western Europe leads", target: "documents", search: "Western Europe Bilateral" },
+        { label: "Statements context", target: "statements", section: "Western Europe Bilateral" }
+      ]
+    },
+    {
+      priority: "Medium",
+      lane: "Public Context",
+      count: `${highStatements.length} statements`,
+      title: "Tie public statements to internal selection choices",
+      why:
+        "Public Papers should frame the documentary chronology and explain omissions, but they should not substitute for internal memoranda or decision records.",
+      output: "A public-context crosswalk linking speeches, statements, and declarations to internal records or source-lead gaps.",
+      evidence: `${highStatements.length} high-priority public statements are mapped to the volume set out of ${PUBLIC_STATEMENTS.length} total public-statement records.`,
+      actions: [
+        { label: "High statements", target: "statements", priority: "high" },
+        { label: "All statements", target: "statements" }
+      ]
+    }
+  ];
+}
+
+function createWorklistCard(item, index) {
+  const card = document.createElement("article");
+  card.className = `worklist-card ${severityClass(item.priority)}`;
+
+  const header = document.createElement("div");
+  header.className = "gap-card-header";
+  const priority = document.createElement("span");
+  priority.className = "gap-severity";
+  priority.textContent = item.priority;
+  const lane = document.createElement("span");
+  lane.className = "gap-area";
+  lane.textContent = item.lane;
+  header.append(priority, lane);
+
+  const count = document.createElement("strong");
+  count.className = "worklist-count";
+  count.textContent = item.count;
+
+  const title = document.createElement("h3");
+  title.textContent = `${String(index + 1).padStart(2, "0")}. ${item.title}`;
+
+  const why = document.createElement("p");
+  why.className = "gap-risk";
+  why.textContent = item.why;
+
+  const body = document.createElement("div");
+  body.className = "worklist-body";
+  const output = document.createElement("p");
+  const outputLabel = document.createElement("strong");
+  outputLabel.textContent = "Output:";
+  output.append(outputLabel, ` ${item.output}`);
+  const evidence = document.createElement("p");
+  const evidenceLabel = document.createElement("strong");
+  evidenceLabel.textContent = "Evidence:";
+  evidence.append(evidenceLabel, ` ${item.evidence}`);
+  body.append(output, evidence);
+
+  const actions = document.createElement("div");
+  actions.className = "gap-actions";
+  for (const action of item.actions || []) actions.append(createTriageAction(action));
+
+  card.append(header, count, title, why, body);
+  if (actions.children.length) card.append(actions);
+  return card;
+}
+
+function renderWorklist() {
+  if (!worklistRoot) return;
+  worklistRoot.replaceChildren(...buildCompilerWorklist().map(createWorklistCard));
+}
+
+function exportCurrentWorklist() {
+  downloadCsv(`clinton-europe-compiler-worklist-${exportDateStamp()}.csv`, buildCompilerWorklist(), [
+    { label: "priority", value: (item) => item.priority },
+    { label: "lane", value: (item) => item.lane },
+    { label: "count", value: (item) => item.count },
+    { label: "title", value: (item) => item.title },
+    { label: "why", value: (item) => item.why },
+    { label: "output", value: (item) => item.output },
+    { label: "evidence", value: (item) => item.evidence },
+    { label: "actions", value: (item) => (item.actions || []).map((action) => action.label) }
+  ]);
 }
 
 function createGapList(title, items) {
@@ -1865,6 +2096,7 @@ function enableFilters() {
     librarySearch?.focus();
   });
   exportLibrary?.addEventListener("click", exportCurrentLibraryLeads);
+  exportWorklist?.addEventListener("click", exportCurrentWorklist);
 }
 
 renderVolumes();
@@ -1876,6 +2108,7 @@ renderCompilerGaps();
 populateLibraryFilters();
 renderLibraryOverview();
 updateLibraryView();
+renderWorklist();
 renderTriage();
 renderCoverage();
 populateFilters(allRecords);

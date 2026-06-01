@@ -302,10 +302,15 @@ dd {
 
 .section-heading {
   display: flex;
+  flex-wrap: wrap;
   align-items: end;
   justify-content: space-between;
   gap: 24px;
   margin-bottom: 28px;
+}
+
+.section-heading > * {
+  min-width: 0;
 }
 
 .volume-grid {
@@ -561,6 +566,7 @@ dd {
 }
 
 .records-root,
+.worklist-root,
 .triage-root,
 .coverage-root,
 .statements-root,
@@ -570,6 +576,94 @@ dd {
 .library-leads-root {
   display: grid;
   gap: 34px;
+}
+
+.worklist-root {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.worklist-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin: -18px 0 18px;
+}
+
+.worklist-toolbar button {
+  min-height: 42px;
+  padding: 0 14px;
+  color: white;
+  font: inherit;
+  font-weight: 900;
+  background: var(--blue);
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.worklist-toolbar button:hover,
+.worklist-toolbar button:focus-visible {
+  background: var(--green);
+  outline: none;
+}
+
+.worklist-card {
+  display: grid;
+  gap: 13px;
+  align-content: start;
+  padding: 18px;
+  background: rgba(255, 253, 248, 0.82);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--steel);
+  border-radius: 8px;
+  box-shadow: 0 12px 28px rgba(27, 38, 52, 0.08);
+}
+
+.worklist-card.severity-critical {
+  border-left-color: var(--red);
+}
+
+.worklist-card.severity-high {
+  border-left-color: var(--gold);
+}
+
+.worklist-card.severity-medium {
+  border-left-color: var(--green);
+}
+
+.worklist-card h3 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.25rem, 1.8vw, 1.72rem);
+  line-height: 1.18;
+}
+
+.worklist-count {
+  color: var(--blue);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.85rem, 3vw, 2.65rem);
+  line-height: 1;
+}
+
+.worklist-body {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  color: var(--muted);
+  font-size: 0.93rem;
+  font-weight: 800;
+  line-height: 1.48;
+  background: rgba(23, 50, 77, 0.04);
+  border: 1px solid rgba(23, 50, 77, 0.1);
+  border-radius: 8px;
+}
+
+.worklist-body p {
+  margin: 0;
+}
+
+.worklist-body strong {
+  color: var(--red);
 }
 
 .triage-root {
@@ -613,6 +707,8 @@ dd {
 .coverage-card {
   display: grid;
   gap: 12px;
+  max-width: 100%;
+  overflow-x: auto;
   padding: 18px;
   background: rgba(255, 253, 248, 0.78);
   border: 1px solid var(--line);
@@ -637,6 +733,7 @@ dd {
 .coverage-table td {
   padding: 9px 7px;
   text-align: right;
+  overflow-wrap: anywhere;
   border-bottom: 1px solid rgba(215, 205, 188, 0.82);
 }
 
@@ -983,6 +1080,7 @@ dd {
   font-size: 0.88rem;
   font-weight: 900;
   line-height: 1.45;
+  overflow-wrap: anywhere;
 }
 
 .record-note {
@@ -1030,6 +1128,7 @@ dd {
 
 .record-source-note p {
   margin: 8px 0 0;
+  overflow-wrap: anywhere;
 }
 
 .record-frus-source-note {
@@ -1178,6 +1277,7 @@ footer a {
 @media (max-width: 980px) {
   .volume-grid,
   .source-list,
+  .worklist-root,
   .triage-root,
   .coverage-root,
   .desk-metrics,
@@ -1234,6 +1334,7 @@ footer a {
 
   .volume-grid,
   .source-list,
+  .worklist-root,
   .triage-root,
   .coverage-root,
   .desk-metrics,

@@ -14,9 +14,11 @@ the compiler directly into the next source-note, volume-placement, PDD, NARA,
 Strobe, public-statement, and Clinton Library pull tasks. The filtered
 chronology, public statements, potential source leads, and Clinton Library pull
 list can also be exported as CSV for spreadsheet review or reading-room
-planning. Year filters on the chronology, public statements, and source-lead
-pool support quick work across the XXIII/XXIV policy-volume date split, while
-the coverage matrix exposes year/volume imbalances and jumps directly into the
+planning. A compiler action queue now turns the datasets into concrete work
+packets with expected outputs and direct jumps into the relevant filtered
+records. Year filters on the chronology, public statements, and source-lead pool
+support quick work across the XXIII/XXIV policy-volume date split, while the
+coverage matrix exposes year/volume imbalances and jumps directly into the
 matching filtered working set.
 
 ## Data
