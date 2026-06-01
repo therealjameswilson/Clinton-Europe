@@ -13,7 +13,9 @@ assignment, declassification queues, and a first-pass triage layer that links
 the compiler directly into the next source-note, volume-placement, PDD, NARA,
 Strobe, public-statement, and Clinton Library pull tasks. The filtered
 chronology, potential source leads, and Clinton Library pull list can also be
-exported as CSV for spreadsheet review or reading-room planning.
+exported as CSV for spreadsheet review or reading-room planning. Year filters
+on the chronology and source-lead pool support quick work across the XXIII/XXIV
+policy-volume date split.
 
 ## Data
 

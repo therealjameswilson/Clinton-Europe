@@ -67,6 +67,7 @@ const compilerGapCount = document.querySelector("#compiler-gap-count");
 const libraryLeadCount = document.querySelector("#library-lead-count");
 const documentSearch = document.querySelector("#document-search");
 const documentSourceFilter = document.querySelector("#document-source-filter");
+const documentYearFilter = document.querySelector("#document-year-filter");
 const documentVolumeFilter = document.querySelector("#document-volume-filter");
 const documentPriorityFilter = document.querySelector("#document-priority-filter");
 const clearDocumentFilters = document.querySelector("#clear-document-filters");
@@ -80,6 +81,7 @@ const exportLibrary = document.querySelector("#export-library");
 const librarySummary = document.querySelector("#library-summary");
 const searchInput = document.querySelector("#record-search");
 const volumeFilter = document.querySelector("#volume-filter");
+const recordYearFilter = document.querySelector("#record-year-filter");
 const sectionFilter = document.querySelector("#section-filter");
 const typeFilter = document.querySelector("#type-filter");
 const queueFilter = document.querySelector("#queue-filter");
@@ -150,6 +152,10 @@ function chronologyYear(record) {
   return /^\d{4}/.test(date) ? date.slice(0, 4) : "Date pending";
 }
 
+function documentYear(item) {
+  return /^\d{4}/.test(item.date || "") ? item.date.slice(0, 4) : "Date pending";
+}
+
 function primaryStatementSection(statement) {
   return statement.sections?.[0] || "Review";
 }
@@ -202,6 +208,11 @@ function displayVolumeLabels(record) {
 function addOptions(select, values, label) {
   if (!select) return;
   select.replaceChildren(new Option(label, ""), ...values.map((value) => new Option(value, value)));
+}
+
+function yearOptions(values) {
+  const years = uniqueSorted(values.filter((value) => /^\d{4}$/.test(value)));
+  return values.includes("Date pending") ? [...years, "Date pending"] : years;
 }
 
 function csvValue(value) {
@@ -414,6 +425,7 @@ function populateFilters(records) {
       option.textContent = `Volume ${volumeById.get(option.value)?.number || option.value}`;
     });
   }
+  addOptions(recordYearFilter, yearOptions(records.map(chronologyYear)), "All years");
   addOptions(sectionFilter, uniqueInOrder([...SECTION_ORDER, ...records.map((record) => record.section)]), "All sections");
   addOptions(typeFilter, uniqueSorted(records.map((record) => record.type)), "All types");
   if (queueFilter) {
@@ -449,12 +461,14 @@ function recordSearchText(record) {
 function filterRecords(records) {
   const query = searchInput?.value.trim().toLowerCase() || "";
   const volume = volumeFilter?.value || "";
+  const year = recordYearFilter?.value || "";
   const section = sectionFilter?.value || "";
   const type = typeFilter?.value || "";
   const queue = queueFilter?.value || "";
 
   return records.filter((record) => {
     if (volume && !(record.volumeIds || []).includes(volume)) return false;
+    if (year && chronologyYear(record) !== year) return false;
     if (section && record.section !== section) return false;
     if (type && record.type !== type) return false;
     if (queue && !(record.queues || []).includes(queue)) return false;
@@ -467,6 +481,7 @@ function exportCurrentRecords() {
   downloadCsv(`clinton-europe-records-${exportDateStamp()}.csv`, rows, [
     { label: "compiler_number", value: (record) => record.compilerNumber },
     { label: "date", value: (record) => record.date || record.sortDate },
+    { label: "year", value: (record) => chronologyYear(record) },
     { label: "title", value: (record) => record.title },
     { label: "type", value: (record) => record.type },
     { label: "section", value: (record) => record.section },
@@ -545,6 +560,7 @@ function applyRelatedFilter(filter) {
   if (filter.target === "records") {
     if (searchInput) searchInput.value = filter.search || "";
     if (volumeFilter) volumeFilter.value = filter.volumeId || "";
+    if (recordYearFilter) recordYearFilter.value = filter.year || "";
     if (sectionFilter) sectionFilter.value = filter.section || "";
     if (typeFilter) typeFilter.value = filter.type || "";
     if (queueFilter) queueFilter.value = filter.queue || "";
@@ -556,6 +572,7 @@ function applyRelatedFilter(filter) {
   if (filter.target === "documents") {
     if (documentSearch) documentSearch.value = filter.search || "";
     if (documentVolumeFilter) documentVolumeFilter.value = filter.volumeId || "";
+    if (documentYearFilter) documentYearFilter.value = filter.year || "";
     if (documentSourceFilter) documentSourceFilter.value = filter.sourceType || "";
     if (documentPriorityFilter) documentPriorityFilter.value = filter.priority || "";
     updatePotentialDocumentsView();
@@ -666,7 +683,7 @@ function renderTriage() {
       detail:
         "Undated NARA and FOIA leads are the easiest way for a strong document to disappear from the chronology. Date high-priority entries first, then split the Balkans/Kosovo cluster by year.",
       actions: [
-        { label: "High undated leads", target: "documents", search: "Date pending", priority: "High" },
+        { label: "High undated leads", target: "documents", year: "Date pending", priority: "High" },
         { label: "Balkans leads", target: "documents", search: "Balkans and Kosovo" }
       ]
     },
@@ -1152,6 +1169,7 @@ function populateDocumentFilters(documents) {
     uniqueInOrder([...POTENTIAL_SOURCE_ORDER, ...documents.map((item) => item.sourceType)]),
     "All sources"
   );
+  addOptions(documentYearFilter, yearOptions(documents.map(documentYear)), "All years");
   addOptions(
     documentVolumeFilter,
     VOLUMES.map((volume) => volume.id),
@@ -1196,11 +1214,13 @@ function potentialDocumentSearchText(item) {
 function filterPotentialDocuments(documents) {
   const query = documentSearch?.value.trim().toLowerCase() || "";
   const source = documentSourceFilter?.value || "";
+  const year = documentYearFilter?.value || "";
   const volume = documentVolumeFilter?.value || "";
   const priority = documentPriorityFilter?.value || "";
 
   return documents.filter((item) => {
     if (source && item.sourceType !== source) return false;
+    if (year && documentYear(item) !== year) return false;
     if (volume && !(item.volumeIds || []).includes(volume)) return false;
     if (priority && item.priority !== priority) return false;
     return !query || potentialDocumentSearchText(item).includes(query);
@@ -1211,6 +1231,7 @@ function exportCurrentPotentialDocuments() {
   const rows = filterPotentialDocuments(POTENTIAL_DOCUMENTS).sort(byPotentialDocument);
   downloadCsv(`clinton-europe-source-leads-${exportDateStamp()}.csv`, rows, [
     { label: "date", value: (item) => item.date || "Date pending" },
+    { label: "year", value: (item) => documentYear(item) },
     { label: "priority", value: (item) => item.priority },
     { label: "score", value: (item) => item.score },
     { label: "source_type", value: (item) => item.sourceType },
@@ -1376,8 +1397,9 @@ function renderPotentialDocuments(documents) {
 function updateDocumentSummary(documents) {
   if (!documentSummary) return;
   const source = documentSourceFilter?.selectedOptions?.[0]?.textContent || "All sources";
+  const year = documentYearFilter?.selectedOptions?.[0]?.textContent || "All years";
   const volume = documentVolumeFilter?.selectedOptions?.[0]?.textContent || "All volumes";
-  documentSummary.textContent = `Showing ${documents.length} of ${POTENTIAL_DOCUMENTS.length} potential source leads / ${source} / ${volume}`;
+  documentSummary.textContent = `Showing ${documents.length} of ${POTENTIAL_DOCUMENTS.length} potential source leads / ${source} / ${year} / ${volume}`;
 }
 
 function updatePotentialDocumentsView() {
@@ -1526,9 +1548,10 @@ function renderRecords(records) {
 function updateSummary(records) {
   if (!recordsSummary) return;
   const volume = volumeFilter?.selectedOptions?.[0]?.textContent || "All volumes";
+  const year = recordYearFilter?.selectedOptions?.[0]?.textContent || "All years";
   const section = sectionFilter?.selectedOptions?.[0]?.textContent || "All sections";
   const queue = queueFilter?.selectedOptions?.[0]?.textContent || "All queues";
-  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${section} / ${queue}`;
+  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${year} / ${section} / ${queue}`;
 }
 
 function updateRecordsView() {
@@ -1540,12 +1563,12 @@ function updateRecordsView() {
 }
 
 function enableFilters() {
-  for (const control of [searchInput, volumeFilter, sectionFilter, typeFilter, queueFilter]) {
+  for (const control of [searchInput, volumeFilter, recordYearFilter, sectionFilter, typeFilter, queueFilter]) {
     control?.addEventListener("input", updateRecordsView);
     control?.addEventListener("change", updateRecordsView);
   }
 
-  for (const control of [documentSearch, documentSourceFilter, documentVolumeFilter, documentPriorityFilter]) {
+  for (const control of [documentSearch, documentSourceFilter, documentYearFilter, documentVolumeFilter, documentPriorityFilter]) {
     control?.addEventListener("input", updatePotentialDocumentsView);
     control?.addEventListener("change", updatePotentialDocumentsView);
   }
@@ -1558,6 +1581,7 @@ function enableFilters() {
   clearFilters?.addEventListener("click", () => {
     if (searchInput) searchInput.value = "";
     if (volumeFilter) volumeFilter.value = "";
+    if (recordYearFilter) recordYearFilter.value = "";
     if (sectionFilter) sectionFilter.value = "";
     if (typeFilter) typeFilter.value = "";
     if (queueFilter) queueFilter.value = "";
@@ -1569,6 +1593,7 @@ function enableFilters() {
   clearDocumentFilters?.addEventListener("click", () => {
     if (documentSearch) documentSearch.value = "";
     if (documentSourceFilter) documentSourceFilter.value = "";
+    if (documentYearFilter) documentYearFilter.value = "";
     if (documentVolumeFilter) documentVolumeFilter.value = "";
     if (documentPriorityFilter) documentPriorityFilter.value = "";
     updatePotentialDocumentsView();

@@ -481,7 +481,7 @@ dd {
 
 .records-tools {
   display: grid;
-  grid-template-columns: minmax(260px, 1.3fr) repeat(4, minmax(140px, 0.7fr)) auto auto;
+  grid-template-columns: minmax(240px, 1.35fr) repeat(5, minmax(118px, 0.65fr)) auto auto;
   gap: 12px;
   align-items: end;
   margin-bottom: 28px;
