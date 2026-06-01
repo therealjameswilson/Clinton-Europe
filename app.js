@@ -64,6 +64,7 @@ const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
 const libraryOverviewRoot = document.querySelector("#library-overview-root");
 const libraryLeadsRoot = document.querySelector("#library-leads-root");
 const triageRoot = document.querySelector("#triage-root");
+const coverageRoot = document.querySelector("#coverage-root");
 const deskRoot = document.querySelector("#desk-root");
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
@@ -764,6 +765,115 @@ function createTriageCard(card) {
   article.append(header, count, title, detail);
   if (actions.children.length) article.append(actions);
   return article;
+}
+
+function inVolume(item, volumeId) {
+  return !volumeId || (item.volumeIds || []).includes(volumeId);
+}
+
+function countMatching(items, predicate) {
+  return items.filter(predicate).length;
+}
+
+function createCoverageCount(count, action, label = count.toString()) {
+  if (!count) {
+    const empty = document.createElement("span");
+    empty.className = "coverage-zero";
+    empty.textContent = "0";
+    return empty;
+  }
+
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "coverage-count";
+  button.textContent = label;
+  button.addEventListener("click", () => applyRelatedFilter(action));
+  return button;
+}
+
+function createCoverageTable(scope) {
+  const article = document.createElement("article");
+  article.className = "coverage-card";
+
+  const title = document.createElement("h3");
+  title.textContent = scope.label;
+
+  const table = document.createElement("table");
+  table.className = "coverage-table";
+  const thead = document.createElement("thead");
+  const headerRow = document.createElement("tr");
+  for (const headingText of ["Year", "Records", "Statements", "Leads", "High Leads"]) {
+    const heading = document.createElement("th");
+    heading.scope = headingText === "Year" ? "col" : "col";
+    heading.textContent = headingText;
+    headerRow.append(heading);
+  }
+  thead.append(headerRow);
+
+  const tbody = document.createElement("tbody");
+  const years = [...yearOptions(POTENTIAL_DOCUMENTS.map(documentYear)).filter((year) => year !== "Date pending"), "Date pending"];
+
+  for (const year of years) {
+    const row = document.createElement("tr");
+    const yearCell = document.createElement("th");
+    yearCell.scope = "row";
+    yearCell.textContent = year;
+    row.append(yearCell);
+
+    const recordCount = countMatching(
+      allRecords,
+      (record) => chronologyYear(record) === year && inVolume(record, scope.volumeId)
+    );
+    const statementCount = countMatching(
+      PUBLIC_STATEMENTS,
+      (statement) => statementYear(statement) === year && inVolume(statement, scope.volumeId)
+    );
+    const leadCount = countMatching(
+      POTENTIAL_DOCUMENTS,
+      (item) => documentYear(item) === year && inVolume(item, scope.volumeId)
+    );
+    const highLeadCount = countMatching(
+      POTENTIAL_DOCUMENTS,
+      (item) => documentYear(item) === year && inVolume(item, scope.volumeId) && item.priority === "High"
+    );
+
+    const cells = [
+      createCoverageCount(recordCount, { target: "records", year, volumeId: scope.volumeId }),
+      createCoverageCount(statementCount, { target: "statements", year, volumeId: scope.volumeId }),
+      createCoverageCount(leadCount, { target: "documents", year, volumeId: scope.volumeId }),
+      createCoverageCount(highLeadCount, { target: "documents", year, volumeId: scope.volumeId, priority: "High" })
+    ];
+
+    for (const content of cells) {
+      const cell = document.createElement("td");
+      cell.append(content);
+      row.append(cell);
+    }
+
+    tbody.append(row);
+  }
+
+  table.append(thead, tbody);
+
+  const note = document.createElement("p");
+  note.className = "coverage-note";
+  note.textContent =
+    "Counts are source appearances in the current assister, not final FRUS selections; source leads can map to multiple volumes.";
+
+  article.append(title, table, note);
+  return article;
+}
+
+function renderCoverage() {
+  if (!coverageRoot) return;
+  const scopes = [
+    { label: "All Volumes", volumeId: "" },
+    ...VOLUMES.map((volume) => ({
+      label: `Volume ${volume.number}`,
+      volumeId: volume.id
+    }))
+  ];
+  coverageRoot.replaceChildren(...scopes.map(createCoverageTable));
 }
 
 function renderTriage() {
@@ -1767,6 +1877,7 @@ populateLibraryFilters();
 renderLibraryOverview();
 updateLibraryView();
 renderTriage();
+renderCoverage();
 populateFilters(allRecords);
 enableFilters();
 updateRecordsView();

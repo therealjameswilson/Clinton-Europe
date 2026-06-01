@@ -562,6 +562,7 @@ dd {
 
 .records-root,
 .triage-root,
+.coverage-root,
 .statements-root,
 .potential-documents-root,
 .compiler-gaps-root,
@@ -602,6 +603,98 @@ dd {
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(2.1rem, 4vw, 3.2rem);
   line-height: 1;
+}
+
+.coverage-root {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.coverage-card {
+  display: grid;
+  gap: 12px;
+  padding: 18px;
+  background: rgba(255, 253, 248, 0.78);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--steel);
+  border-radius: 8px;
+  box-shadow: 0 12px 28px rgba(27, 38, 52, 0.08);
+}
+
+.coverage-card h3 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.4rem, 2vw, 1.9rem);
+}
+
+.coverage-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.coverage-table th,
+.coverage-table td {
+  padding: 9px 7px;
+  text-align: right;
+  border-bottom: 1px solid rgba(215, 205, 188, 0.82);
+}
+
+.coverage-table th:first-child,
+.coverage-table td:first-child {
+  text-align: left;
+}
+
+.coverage-table thead th {
+  color: var(--blue);
+  font-size: 0.72rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.coverage-table tbody th {
+  color: var(--red);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+}
+
+.coverage-count {
+  min-width: 44px;
+  min-height: 30px;
+  padding: 0 8px;
+  color: var(--blue);
+  font: inherit;
+  font-weight: 900;
+  background: rgba(23, 50, 77, 0.08);
+  border: 1px solid rgba(23, 50, 77, 0.14);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.coverage-count:hover,
+.coverage-count:focus-visible {
+  color: white;
+  background: var(--blue);
+  outline: none;
+}
+
+.coverage-zero {
+  display: inline-flex;
+  min-width: 44px;
+  min-height: 30px;
+  align-items: center;
+  justify-content: center;
+  color: var(--muted);
+  font-weight: 900;
+  opacity: 0.48;
+}
+
+.coverage-note {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.84rem;
+  font-weight: 800;
+  line-height: 1.45;
 }
 
 .gap-overview,
@@ -1086,6 +1179,7 @@ footer a {
   .volume-grid,
   .source-list,
   .triage-root,
+  .coverage-root,
   .desk-metrics,
   .gap-overview,
   .library-metrics,
@@ -1141,6 +1235,7 @@ footer a {
   .volume-grid,
   .source-list,
   .triage-root,
+  .coverage-root,
   .desk-metrics,
   .gap-overview,
   .library-metrics,
