@@ -2205,6 +2205,27 @@ function createSameDayContextList(title, items, emptyText, getLink) {
   return wrap;
 }
 
+function createSameDayContextActions(record, pddItems, statements) {
+  const actions = document.createElement("div");
+  actions.className = "same-day-context-actions";
+
+  const pddButton = document.createElement("button");
+  pddButton.type = "button";
+  pddButton.textContent = `PDD on ${shortDate(record.date)} (${pddItems.length})`;
+  pddButton.disabled = pddItems.length === 0;
+  pddButton.addEventListener("click", () => applyRelatedFilter({ target: "pdd", search: record.date }));
+  actions.append(pddButton);
+
+  const statementsButton = document.createElement("button");
+  statementsButton.type = "button";
+  statementsButton.textContent = `Public Papers on ${shortDate(record.date)} (${statements.length})`;
+  statementsButton.disabled = statements.length === 0;
+  statementsButton.addEventListener("click", () => applyRelatedFilter({ target: "statements", search: record.date }));
+  actions.append(statementsButton);
+
+  return actions;
+}
+
 function createSameDayContextPanel(record) {
   const pddItems = sameDayPddLeads(record);
   const statements = sameDayPublicStatements(record);
@@ -2241,6 +2262,8 @@ function createSameDayContextPanel(record) {
       })
     )
   );
+
+  if (record.date && hasContext) panel.append(createSameDayContextActions(record, pddItems, statements));
 
   details.append(summary, panel);
   return details;

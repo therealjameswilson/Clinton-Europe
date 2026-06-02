@@ -1329,6 +1329,39 @@ dd {
   font-weight: 900;
 }
 
+.same-day-context-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  grid-column: 1 / -1;
+}
+
+.same-day-context-actions button {
+  min-height: 32px;
+  padding: 0 10px;
+  color: var(--blue);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 900;
+  background: rgba(23, 50, 77, 0.08);
+  border: 1px solid rgba(23, 50, 77, 0.14);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.same-day-context-actions button:hover,
+.same-day-context-actions button:focus-visible {
+  color: white;
+  background: var(--blue);
+  outline: none;
+}
+
+.same-day-context-actions button:disabled {
+  color: var(--muted);
+  cursor: not-allowed;
+  opacity: 0.58;
+}
+
 .pdd-match-panel {
   display: grid;
   grid-template-columns: minmax(220px, 0.9fr) minmax(0, 1fr) minmax(0, 1fr);

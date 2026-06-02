@@ -12,7 +12,8 @@ memcons and telcons, with a quick queue strip for source-note review, missing
 PDFs, date-pending records, cross-volume placement, undecided records, and
 saved full-text picks. Each chronology row also exposes same-day Presidential
 Daily Diary and Public Papers context so a compiler can spot likely calls,
-meetings, and public anchors without leaving the record review flow. It is
+meetings, and public anchors without leaving the record review flow, with
+one-click jumps into the date-filtered PDD and Public Papers worksheets. It is
 followed by a compiler-facing desk for candidate record review, volume
 placement, source-note reconciliation, PDF availability, country/section
 assignment, declassification queues, and a first-pass triage layer that links
