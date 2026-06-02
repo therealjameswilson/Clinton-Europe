@@ -58,6 +58,16 @@ const DECISION_OPTIONS = [
   ["context", "Context only"]
 ];
 const DECISION_FILTER_OPTIONS = [["", "All decisions"], ["__undecided__", "Undecided"], ...DECISION_OPTIONS.slice(1)];
+const PDD_STORAGE_KEY = "clinton-europe-pdd-reconciliation-v1";
+const PDD_STATUS_OPTIONS = [
+  ["", "No status"],
+  ["matched-record", "Matched to record"],
+  ["source-search", "Needs source search"],
+  ["statement-context", "Public context only"],
+  ["calendar-gap", "Calendar gap"],
+  ["not-volume", "Not volume relevant"]
+];
+const PDD_STATUS_FILTER_OPTIONS = [["", "All statuses"], ["__unresolved__", "Unresolved"], ...PDD_STATUS_OPTIONS.slice(1)];
 
 const volumeRoot = document.querySelector("#volume-root");
 const statementsRoot = document.querySelector("#statements-root");
@@ -76,6 +86,7 @@ const libraryLeadsRoot = document.querySelector("#library-leads-root");
 const triageRoot = document.querySelector("#triage-root");
 const coverageRoot = document.querySelector("#coverage-root");
 const worklistRoot = document.querySelector("#worklist-root");
+const pddRoot = document.querySelector("#pdd-root");
 const deskRoot = document.querySelector("#desk-root");
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
@@ -86,6 +97,7 @@ const potentialDocumentCount = document.querySelector("#potential-document-count
 const compilerGapCount = document.querySelector("#compiler-gap-count");
 const libraryLeadCount = document.querySelector("#library-lead-count");
 const selectionDecisionCount = document.querySelector("#selection-decision-count");
+const pddStatusCount = document.querySelector("#pdd-status-count");
 const documentSearch = document.querySelector("#document-search");
 const documentSourceFilter = document.querySelector("#document-source-filter");
 const documentYearFilter = document.querySelector("#document-year-filter");
@@ -112,6 +124,12 @@ const exportRecords = document.querySelector("#export-records");
 const recordsSummary = document.querySelector("#records-summary");
 const exportWorklist = document.querySelector("#export-worklist");
 const exportDecisions = document.querySelector("#export-decisions");
+const pddSearch = document.querySelector("#pdd-search");
+const pddPriorityFilter = document.querySelector("#pdd-priority-filter");
+const pddStatusFilter = document.querySelector("#pdd-status-filter");
+const clearPddFilters = document.querySelector("#clear-pdd-filters");
+const exportPdd = document.querySelector("#export-pdd");
+const pddSummary = document.querySelector("#pdd-summary");
 
 const volumeById = new Map(VOLUMES.map((volume) => [volume.id, volume]));
 const libraryClusterById = new Map((LIBRARY_RESEARCH.clusters || []).map((cluster) => [cluster.id, cluster]));
@@ -558,8 +576,28 @@ function saveSelectionDecisions() {
   }
 }
 
+function loadPddStatuses() {
+  try {
+    return JSON.parse(localStorage.getItem(PDD_STORAGE_KEY) || "{}");
+  } catch {
+    return {};
+  }
+}
+
+function savePddStatuses() {
+  try {
+    localStorage.setItem(PDD_STORAGE_KEY, JSON.stringify(pddStatuses));
+  } catch {
+    // Local storage can be unavailable in some locked-down browser contexts.
+  }
+}
+
 function decisionLabel(value) {
   return DECISION_OPTIONS.find(([optionValue]) => optionValue === value)?.[1] || "No decision";
+}
+
+function pddStatusLabel(value) {
+  return PDD_STATUS_OPTIONS.find(([optionValue]) => optionValue === value)?.[1] || "No status";
 }
 
 function decisionForRecord(record) {
@@ -576,6 +614,16 @@ function updateSelectionDecisionCount() {
   if (selectionDecisionCount) selectionDecisionCount.textContent = selectionDecisionRows().length.toString();
 }
 
+function pddStatusRows() {
+  return pddLeads
+    .map((item) => ({ item, saved: pddStatuses[item.id] }))
+    .filter(({ saved }) => saved?.status);
+}
+
+function updatePddStatusCount() {
+  if (pddStatusCount) pddStatusCount.textContent = pddStatusRows().length.toString();
+}
+
 function setRecordDecision(record, decision) {
   if (decision) {
     selectionDecisions[record.id] = {
@@ -590,6 +638,19 @@ function setRecordDecision(record, decision) {
   renderDesk(allRecords);
 }
 
+function setPddStatus(item, status) {
+  if (status) {
+    pddStatuses[item.id] = {
+      status,
+      updatedAt: new Date().toISOString()
+    };
+  } else {
+    delete pddStatuses[item.id];
+  }
+  savePddStatuses();
+  updatePddStatusCount();
+}
+
 function prepareRecords(records) {
   return [...records]
     .sort(byChronology)
@@ -601,6 +662,8 @@ function prepareRecords(records) {
 
 let allRecords = prepareRecords(RECORDS);
 let selectionDecisions = loadSelectionDecisions();
+const pddLeads = POTENTIAL_DOCUMENTS.filter((item) => item.sourceType === "Presidential Daily Diary").sort(byPotentialDocument);
+let pddStatuses = loadPddStatuses();
 
 function populateFilters(records) {
   addOptions(
