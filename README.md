@@ -6,8 +6,9 @@ A GitHub Pages research assister for three Clinton-era FRUS Europe volumes:
 2. Volume XXIII, *Europe: Policy, 1993-1996*
 3. Volume XXIV, *Europe: Policy, 1997-2000*
 
-The site is modeled on the Bush 41 Western Europe assister. It gives a compiler-facing
-desk for Clinton Digital Library memcons and telcons: candidate record review,
+The site is modeled on the Bush 41 Western Europe assister. The first working
+section is the date-ordered chronology of declassified Clinton Digital Library
+memcons and telcons, followed by a compiler-facing desk for candidate record review,
 volume placement, source-note reconciliation, PDF availability, country/section
 assignment, declassification queues, and a first-pass triage layer that links
 the compiler directly into the next source-note, volume-placement, PDD, NARA,
@@ -23,11 +24,13 @@ selection worksheet: compiler decisions are saved in the browser, can be
 filtered, and export as a CSV keeper/cross-reference/omit list. A dedicated
 Presidential Daily Diary worksheet compares diary calls and meetings to
 same-day chronology records and public statements, saves reconciliation
-statuses in the browser, and exports the PDD log as CSV. Year filters on the
-chronology, public statements, and source-lead pool support quick work across
-the XXIII/XXIV policy-volume date split, while the coverage matrix exposes
-year/volume imbalances and jumps directly into the matching filtered working
-set.
+statuses in the browser, and exports the PDD log as CSV. The Clinton Library
+finding-aid section now works as a reading-room pull worksheet with saved pull
+statuses, status filtering, and CSV export columns for requested/reviewed/promoted
+folders. Year filters on the chronology, public statements, and source-lead pool
+support quick work across the XXIII/XXIV policy-volume date split, while the
+coverage matrix exposes year/volume imbalances and jumps directly into the
+matching filtered working set.
 
 ## Data
 

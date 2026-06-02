@@ -130,53 +130,10 @@
     </header>
 
     <main id="top">
-      <section class="hero" aria-labelledby="hero-title">
-        <div class="hero-copy">
-          <p class="kicker">FRUS 1993-2000, Europe</p>
-          <h1 id="hero-title">A working desk for Volumes XXII, XXIII, and XXIV</h1>
-          <p class="lede">
-            A GitHub Pages research assistant for Clinton-era Europe, led by the
-            date-ordered chronology of declassified Clinton Library memcons and telcons,
-            then supported by source-note review, public statements, finding-aid pulls,
-            NARA/FOIA leads, and compiler-risk tracking.
-          </p>
-          <div class="hero-actions" aria-label="Primary actions">
-            <a class="button primary" href="#records">Browse Candidate Records</a>
-            <a class="button secondary" href="#desk">Open Compiler Desk</a>
-          </div>
-        </div>
-        <aside class="brief visual-brief" aria-label="Archive scope">
-          <img
-            class="archive-map"
-            src="assets/clinton-europe-archive-map.svg"
-            alt="Stylized archival map of Europe with markers for high-level contacts, NATO and European policy, and late-1990s policy records"
-          />
-          <p class="brief-label">Assister Scope</p>
-          <dl>
-            <div>
-              <dt>Administration</dt>
-              <dd>Clinton, 1993-2000</dd>
-            </div>
-            <div>
-              <dt>FRUS Volumes</dt>
-              <dd>XXII, XXIII, XXIV</dd>
-            </div>
-            <div>
-              <dt>Primary Corpus</dt>
-              <dd>Memcons, telcons, statements</dd>
-            </div>
-            <div>
-              <dt>Arrangement</dt>
-              <dd>Volume, section, date</dd>
-            </div>
-          </dl>
-        </aside>
-      </section>
-
-      <section class="section records-section" id="records" aria-labelledby="records-title">
+      <section class="section records-section priority-chronology" id="records" aria-labelledby="records-title">
         <div class="section-heading">
           <p class="kicker">Declassified Document Chronology</p>
-          <h2 id="records-title">Candidate Records by Date</h2>
+          <h1 id="records-title">Candidate Records by Date</h1>
         </div>
         <p class="records-intro">
           Start here. Declassified Clinton Digital Library memcons and telcons are
@@ -224,6 +181,49 @@
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading candidate records...</p>
         </div>
+      </section>
+
+      <section class="hero overview-hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="kicker">FRUS 1993-2000, Europe</p>
+          <h2 id="hero-title">A working desk for Volumes XXII, XXIII, and XXIV</h2>
+          <p class="lede">
+            A GitHub Pages research assistant for Clinton-era Europe, led by the
+            date-ordered chronology of declassified Clinton Library memcons and telcons,
+            then supported by source-note review, public statements, finding-aid pulls,
+            NARA/FOIA leads, and compiler-risk tracking.
+          </p>
+          <div class="hero-actions" aria-label="Primary actions">
+            <a class="button primary" href="#worklist">Open Worklist</a>
+            <a class="button secondary" href="#desk">Open Compiler Desk</a>
+          </div>
+        </div>
+        <aside class="brief visual-brief" aria-label="Archive scope">
+          <img
+            class="archive-map"
+            src="assets/clinton-europe-archive-map.svg"
+            alt="Stylized archival map of Europe with markers for high-level contacts, NATO and European policy, and late-1990s policy records"
+          />
+          <p class="brief-label">Assister Scope</p>
+          <dl>
+            <div>
+              <dt>Administration</dt>
+              <dd>Clinton, 1993-2000</dd>
+            </div>
+            <div>
+              <dt>FRUS Volumes</dt>
+              <dd>XXII, XXIII, XXIV</dd>
+            </div>
+            <div>
+              <dt>Primary Corpus</dt>
+              <dd>Memcons, telcons, statements</dd>
+            </div>
+            <div>
+              <dt>Arrangement</dt>
+              <dd>Volume, section, date</dd>
+            </div>
+          </dl>
+        </aside>
       </section>
 
       <section class="section worklist-section" id="worklist" aria-labelledby="worklist-title">

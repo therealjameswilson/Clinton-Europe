@@ -109,6 +109,17 @@ main {
   padding: clamp(44px, 8vw, 96px) 0 40px;
 }
 
+.overview-hero {
+  min-height: auto;
+  padding: 70px 0;
+  border-top: 1px solid var(--line);
+}
+
+.overview-hero h2 {
+  margin-bottom: 22px;
+  font-size: clamp(2.4rem, 5vw, 4.2rem);
+}
+
 .hero-copy {
   align-self: center;
 }
@@ -298,6 +309,17 @@ dd {
 .section {
   padding: 70px 0;
   border-top: 1px solid var(--line);
+}
+
+.priority-chronology {
+  padding-top: clamp(34px, 5vw, 62px);
+  border-top: 0;
+}
+
+.priority-chronology h1 {
+  margin-bottom: 0;
+  font-size: clamp(2.4rem, 5vw, 4.2rem);
+  line-height: 1;
 }
 
 .section-heading {
@@ -949,7 +971,7 @@ dd {
 }
 
 .library-tools {
-  grid-template-columns: minmax(260px, 1.6fr) minmax(220px, 1fr) minmax(140px, 0.7fr) auto auto;
+  grid-template-columns: minmax(260px, 1.6fr) minmax(220px, 1fr) minmax(130px, 0.65fr) minmax(170px, 0.85fr) auto auto;
 }
 
 .library-strategy {

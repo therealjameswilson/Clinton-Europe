@@ -1719,7 +1719,7 @@ function updatePddSummary(items) {
 }
 
 function updatePddView() {
-  const filtered = filterPddLeads(pddLeads).sort(byPotentialDocument);
+  const filtered = filterPddLeads(pddLeads).sort(byPddChronology);
   updatePddSummary(filtered);
   renderPddLeads(filtered);
   updatePddStatusCount();
@@ -2321,9 +2321,38 @@ function renderLibraryLeads(leads) {
     (LIBRARY_RESEARCH.clusters || []).map((cluster) => cluster.id)
   ).filter((clusterId) => leads.some((lead) => (lead.clusterIds || []).includes(clusterId)));
   const hasNarrowFilter = Boolean(
-    librarySearch?.value.trim() || libraryClusterFilter?.value || libraryPriorityFilter?.value
+    librarySearch?.value.trim() || libraryClusterFilter?.value || libraryPriorityFilter?.value || libraryStatusFilter?.value
   );
   const leadLimit = hasNarrowFilter ? 80 : 30;
+
+  if (librarySearch?.value.trim() || libraryStatusFilter?.value) {
+    const section = document.createElement("section");
+    section.className = "record-section library-lead-section";
+
+    const header = document.createElement("div");
+    header.className = "record-section-header";
+    const heading = document.createElement("h3");
+    heading.textContent = "Filtered Pull Leads";
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${leads.length} leads`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list";
+    for (const lead of leads.slice(0, leadLimit)) list.append(createLibraryLeadRow(lead));
+
+    if (leads.length > leadLimit) {
+      const truncated = document.createElement("p");
+      truncated.className = "empty-section";
+      truncated.textContent = `Showing the first ${leadLimit} filtered pull leads. Narrow the search to see more precise pull targets.`;
+      list.append(truncated);
+    }
+
+    section.append(header, list);
+    libraryLeadsRoot.append(section);
+    return;
+  }
 
   for (const clusterId of sections) {
     const cluster = libraryClusterById.get(clusterId);
@@ -2360,13 +2389,15 @@ function updateLibrarySummary(leads) {
   if (!librarySummary) return;
   const cluster = libraryClusterFilter?.selectedOptions?.[0]?.textContent || "All clusters";
   const priority = libraryPriorityFilter?.selectedOptions?.[0]?.textContent || "All priorities";
-  librarySummary.textContent = `Showing ${leads.length} of ${(LIBRARY_RESEARCH.leads || []).length} Clinton Library pull leads / ${cluster} / ${priority}`;
+  const status = libraryStatusFilter?.selectedOptions?.[0]?.textContent || "All statuses";
+  librarySummary.textContent = `Showing ${leads.length} of ${(LIBRARY_RESEARCH.leads || []).length} Clinton Library pull leads / ${cluster} / ${priority} / ${status}`;
 }
 
 function updateLibraryView() {
   const filtered = sortLibraryLeads(filterLibraryLeads(LIBRARY_RESEARCH.leads || []));
   updateLibrarySummary(filtered);
   renderLibraryLeads(filtered);
+  updateLibraryStatusCount();
 }
 
 function populateDocumentFilters(documents) {
@@ -2785,7 +2816,7 @@ function enableFilters() {
     control?.addEventListener("change", updateStatementsView);
   }
 
-  for (const control of [librarySearch, libraryClusterFilter, libraryPriorityFilter]) {
+  for (const control of [librarySearch, libraryClusterFilter, libraryPriorityFilter, libraryStatusFilter]) {
     control?.addEventListener("input", updateLibraryView);
     control?.addEventListener("change", updateLibraryView);
   }
@@ -2835,6 +2866,7 @@ function enableFilters() {
     if (librarySearch) librarySearch.value = "";
     if (libraryClusterFilter) libraryClusterFilter.value = "";
     if (libraryPriorityFilter) libraryPriorityFilter.value = "";
+    if (libraryStatusFilter) libraryStatusFilter.value = "";
     updateLibraryView();
     librarySearch?.focus();
   });
