@@ -78,6 +78,14 @@ const LIBRARY_STATUS_OPTIONS = [
   ["defer", "Defer"]
 ];
 const LIBRARY_STATUS_FILTER_OPTIONS = [["", "All statuses"], ["__unworked__", "Unworked"], ...LIBRARY_STATUS_OPTIONS.slice(1)];
+const SAME_DAY_FILTER_OPTIONS = [
+  ["", "All same-day"],
+  ["any", "Any context"],
+  ["pdd", "Has PDD"],
+  ["public", "Has Public Papers"],
+  ["both", "PDD + Public"],
+  ["none", "No context"]
+];
 const CHRONOLOGY_QUICK_FILTERS = [
   {
     key: "all",
@@ -102,6 +110,18 @@ const CHRONOLOGY_QUICK_FILTERS = [
     label: "Release IDs",
     detail: "Records missing release IDs for source-note control.",
     filter: { sourceIssue: "missing-release-id" }
+  },
+  {
+    key: "pdd-context",
+    label: "PDD context",
+    detail: "Records with same-day Presidential Daily Diary leads.",
+    filter: { sameDay: "pdd" }
+  },
+  {
+    key: "public-context",
+    label: "Public anchors",
+    detail: "Records with same-day Public Papers context.",
+    filter: { sameDay: "public" }
   },
   {
     key: "date-missing",
@@ -187,6 +207,7 @@ const sectionFilter = document.querySelector("#section-filter");
 const typeFilter = document.querySelector("#type-filter");
 const queueFilter = document.querySelector("#queue-filter");
 const sourceIssueFilter = document.querySelector("#source-issue-filter");
+const sameDayFilter = document.querySelector("#same-day-filter");
 const decisionFilter = document.querySelector("#decision-filter");
 const clearFilters = document.querySelector("#clear-filters");
 const exportRecords = document.querySelector("#export-records");
@@ -974,6 +995,9 @@ function populateFilters(records) {
       option.textContent = issueLabel(option.value);
     });
   }
+  if (sameDayFilter) {
+    sameDayFilter.replaceChildren(...SAME_DAY_FILTER_OPTIONS.map(([value, label]) => new Option(label, value)));
+  }
   if (queueFilter) {
     queueFilter.replaceChildren(...QUEUE_OPTIONS.map(([value, label]) => new Option(label, value)));
   }
@@ -1015,6 +1039,7 @@ function filterRecords(records) {
   const type = typeFilter?.value || "";
   const queue = queueFilter?.value || "";
   const sourceIssue = sourceIssueFilter?.value || "";
+  const sameDay = sameDayFilter?.value || "";
   const decision = decisionFilter?.value || "";
 
   return records.filter((record) => {
@@ -1024,6 +1049,7 @@ function filterRecords(records) {
     if (type && record.type !== type) return false;
     if (queue && !(record.queues || []).includes(queue)) return false;
     if (sourceIssue && !(record.sourceNoteIssues || []).includes(sourceIssue)) return false;
+    if (sameDay && !recordMatchesSameDayFilter(record, sameDay)) return false;
     const recordDecision = decisionForRecord(record);
     if (decision === "__undecided__" && recordDecision) return false;
     if (decision && decision !== "__undecided__" && recordDecision !== decision) return false;
@@ -1079,6 +1105,7 @@ function currentRecordFilterSummary(rows) {
     `Type: ${typeFilter?.selectedOptions?.[0]?.textContent || "All types"}`,
     `Queue: ${queueFilter?.selectedOptions?.[0]?.textContent || "All queues"}`,
     `Source issue: ${sourceIssueFilter?.selectedOptions?.[0]?.textContent || "All source issues"}`,
+    `Same-day: ${sameDayFilter?.selectedOptions?.[0]?.textContent || "All same-day"}`,
     `Decision: ${decisionFilter?.selectedOptions?.[0]?.textContent || "All decisions"}`
   ];
 }
@@ -1254,7 +1281,19 @@ function resetRecordFilterControls(filter = {}) {
   if (typeFilter) typeFilter.value = filter.type || "";
   if (queueFilter) queueFilter.value = filter.queue || "";
   if (sourceIssueFilter) sourceIssueFilter.value = filter.sourceIssue || "";
+  if (sameDayFilter) sameDayFilter.value = filter.sameDay || "";
   if (decisionFilter) decisionFilter.value = filter.decision || "";
+}
+
+function recordMatchesSameDayFilter(record, value) {
+  const pddCount = sameDayPddLeads(record).length;
+  const statementCount = sameDayPublicStatements(record).length;
+  if (value === "any") return Boolean(pddCount || statementCount);
+  if (value === "pdd") return pddCount > 0;
+  if (value === "public") return statementCount > 0;
+  if (value === "both") return pddCount > 0 && statementCount > 0;
+  if (value === "none") return pddCount === 0 && statementCount === 0;
+  return true;
 }
 
 function recordMatchesChronologyQuickFilter(record, filter = {}) {
@@ -1265,6 +1304,7 @@ function recordMatchesChronologyQuickFilter(record, filter = {}) {
   if (filter.type && record.type !== filter.type) return false;
   if (filter.queue && !(record.queues || []).includes(filter.queue)) return false;
   if (filter.sourceIssue && !(record.sourceNoteIssues || []).includes(filter.sourceIssue)) return false;
+  if (filter.sameDay && !recordMatchesSameDayFilter(record, filter.sameDay)) return false;
 
   const recordDecision = decisionForRecord(record);
   if (filter.decision === "__undecided__") return !recordDecision;
@@ -1282,6 +1322,7 @@ function isChronologyQuickFilterActive(filter = {}) {
     (typeFilter?.value || "") === (filter.type || "") &&
     (queueFilter?.value || "") === (filter.queue || "") &&
     (sourceIssueFilter?.value || "") === (filter.sourceIssue || "") &&
+    (sameDayFilter?.value || "") === (filter.sameDay || "") &&
     (decisionFilter?.value || "") === (filter.decision || "")
   );
 }
@@ -1345,6 +1386,7 @@ function applyRelatedFilter(filter) {
     if (typeFilter) typeFilter.value = filter.type || "";
     if (queueFilter) queueFilter.value = filter.queue || "";
     if (sourceIssueFilter) sourceIssueFilter.value = filter.sourceIssue || "";
+    if (sameDayFilter) sameDayFilter.value = filter.sameDay || "";
     if (decisionFilter) decisionFilter.value = filter.decision || "";
     updateRecordsView();
     document.querySelector("#records")?.scrollIntoView({ block: "start" });
@@ -3345,8 +3387,9 @@ function updateSummary(records) {
   const section = sectionFilter?.selectedOptions?.[0]?.textContent || "All sections";
   const queue = queueFilter?.selectedOptions?.[0]?.textContent || "All queues";
   const sourceIssue = sourceIssueFilter?.selectedOptions?.[0]?.textContent || "All source issues";
+  const sameDay = sameDayFilter?.selectedOptions?.[0]?.textContent || "All same-day";
   const decision = decisionFilter?.selectedOptions?.[0]?.textContent || "All decisions";
-  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${year} / ${section} / ${queue} / ${sourceIssue} / ${decision}`;
+  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${year} / ${section} / ${queue} / ${sourceIssue} / ${sameDay} / ${decision}`;
 }
 
 function updateRecordsView() {
@@ -3359,7 +3402,7 @@ function updateRecordsView() {
 }
 
 function enableFilters() {
-  for (const control of [searchInput, volumeFilter, recordYearFilter, sectionFilter, typeFilter, queueFilter, sourceIssueFilter, decisionFilter]) {
+  for (const control of [searchInput, volumeFilter, recordYearFilter, sectionFilter, typeFilter, queueFilter, sourceIssueFilter, sameDayFilter, decisionFilter]) {
     control?.addEventListener("input", updateRecordsView);
     control?.addEventListener("change", updateRecordsView);
   }
