@@ -98,6 +98,12 @@ const CHRONOLOGY_QUICK_FILTERS = [
     filter: { queue: "pdf-missing" }
   },
   {
+    key: "release-id",
+    label: "Release IDs",
+    detail: "Records missing release IDs for source-note control.",
+    filter: { sourceIssue: "missing-release-id" }
+  },
+  {
     key: "date-missing",
     label: "Date pending",
     detail: "Undated records that can break the documentary chronology.",
@@ -180,6 +186,7 @@ const recordYearFilter = document.querySelector("#record-year-filter");
 const sectionFilter = document.querySelector("#section-filter");
 const typeFilter = document.querySelector("#type-filter");
 const queueFilter = document.querySelector("#queue-filter");
+const sourceIssueFilter = document.querySelector("#source-issue-filter");
 const decisionFilter = document.querySelector("#decision-filter");
 const clearFilters = document.querySelector("#clear-filters");
 const exportRecords = document.querySelector("#export-records");
@@ -960,6 +967,13 @@ function populateFilters(records) {
   addOptions(recordYearFilter, yearOptions(records.map(chronologyYear)), "All years");
   addOptions(sectionFilter, uniqueInOrder([...SECTION_ORDER, ...records.map((record) => record.section)]), "All sections");
   addOptions(typeFilter, uniqueSorted(records.map((record) => record.type)), "All types");
+  addOptions(sourceIssueFilter, uniqueSorted(records.flatMap((record) => record.sourceNoteIssues || [])), "All source issues");
+  if (sourceIssueFilter) {
+    [...sourceIssueFilter.options].forEach((option) => {
+      if (!option.value) return;
+      option.textContent = issueLabel(option.value);
+    });
+  }
   if (queueFilter) {
     queueFilter.replaceChildren(...QUEUE_OPTIONS.map(([value, label]) => new Option(label, value)));
   }
@@ -1000,6 +1014,7 @@ function filterRecords(records) {
   const section = sectionFilter?.value || "";
   const type = typeFilter?.value || "";
   const queue = queueFilter?.value || "";
+  const sourceIssue = sourceIssueFilter?.value || "";
   const decision = decisionFilter?.value || "";
 
   return records.filter((record) => {
@@ -1008,6 +1023,7 @@ function filterRecords(records) {
     if (section && record.section !== section) return false;
     if (type && record.type !== type) return false;
     if (queue && !(record.queues || []).includes(queue)) return false;
+    if (sourceIssue && !(record.sourceNoteIssues || []).includes(sourceIssue)) return false;
     const recordDecision = decisionForRecord(record);
     if (decision === "__undecided__" && recordDecision) return false;
     if (decision && decision !== "__undecided__" && recordDecision !== decision) return false;
@@ -1062,6 +1078,7 @@ function currentRecordFilterSummary(rows) {
     `Section: ${sectionFilter?.selectedOptions?.[0]?.textContent || "All sections"}`,
     `Type: ${typeFilter?.selectedOptions?.[0]?.textContent || "All types"}`,
     `Queue: ${queueFilter?.selectedOptions?.[0]?.textContent || "All queues"}`,
+    `Source issue: ${sourceIssueFilter?.selectedOptions?.[0]?.textContent || "All source issues"}`,
     `Decision: ${decisionFilter?.selectedOptions?.[0]?.textContent || "All decisions"}`
   ];
 }
@@ -1236,6 +1253,7 @@ function resetRecordFilterControls(filter = {}) {
   if (sectionFilter) sectionFilter.value = filter.section || "";
   if (typeFilter) typeFilter.value = filter.type || "";
   if (queueFilter) queueFilter.value = filter.queue || "";
+  if (sourceIssueFilter) sourceIssueFilter.value = filter.sourceIssue || "";
   if (decisionFilter) decisionFilter.value = filter.decision || "";
 }
 
@@ -1246,6 +1264,7 @@ function recordMatchesChronologyQuickFilter(record, filter = {}) {
   if (filter.section && record.section !== filter.section) return false;
   if (filter.type && record.type !== filter.type) return false;
   if (filter.queue && !(record.queues || []).includes(filter.queue)) return false;
+  if (filter.sourceIssue && !(record.sourceNoteIssues || []).includes(filter.sourceIssue)) return false;
 
   const recordDecision = decisionForRecord(record);
   if (filter.decision === "__undecided__") return !recordDecision;
@@ -1262,6 +1281,7 @@ function isChronologyQuickFilterActive(filter = {}) {
     (sectionFilter?.value || "") === (filter.section || "") &&
     (typeFilter?.value || "") === (filter.type || "") &&
     (queueFilter?.value || "") === (filter.queue || "") &&
+    (sourceIssueFilter?.value || "") === (filter.sourceIssue || "") &&
     (decisionFilter?.value || "") === (filter.decision || "")
   );
 }
@@ -1324,6 +1344,7 @@ function applyRelatedFilter(filter) {
     if (sectionFilter) sectionFilter.value = filter.section || "";
     if (typeFilter) typeFilter.value = filter.type || "";
     if (queueFilter) queueFilter.value = filter.queue || "";
+    if (sourceIssueFilter) sourceIssueFilter.value = filter.sourceIssue || "";
     if (decisionFilter) decisionFilter.value = filter.decision || "";
     updateRecordsView();
     document.querySelector("#records")?.scrollIntoView({ block: "start" });
@@ -2337,7 +2358,10 @@ function createChipList(values, className, limit = 8) {
 }
 
 function issueLabel(issue) {
-  return titleCase((issue || "").replaceAll("-", " "));
+  return titleCase((issue || "").replaceAll("-", " "))
+    .replaceAll("pdf", "PDF")
+    .replaceAll("id", "ID")
+    .replaceAll("url", "URL");
 }
 
 async function copyText(text) {
@@ -3320,8 +3344,9 @@ function updateSummary(records) {
   const year = recordYearFilter?.selectedOptions?.[0]?.textContent || "All years";
   const section = sectionFilter?.selectedOptions?.[0]?.textContent || "All sections";
   const queue = queueFilter?.selectedOptions?.[0]?.textContent || "All queues";
+  const sourceIssue = sourceIssueFilter?.selectedOptions?.[0]?.textContent || "All source issues";
   const decision = decisionFilter?.selectedOptions?.[0]?.textContent || "All decisions";
-  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${year} / ${section} / ${queue} / ${decision}`;
+  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${year} / ${section} / ${queue} / ${sourceIssue} / ${decision}`;
 }
 
 function updateRecordsView() {
@@ -3334,7 +3359,7 @@ function updateRecordsView() {
 }
 
 function enableFilters() {
-  for (const control of [searchInput, volumeFilter, recordYearFilter, sectionFilter, typeFilter, queueFilter, decisionFilter]) {
+  for (const control of [searchInput, volumeFilter, recordYearFilter, sectionFilter, typeFilter, queueFilter, sourceIssueFilter, decisionFilter]) {
     control?.addEventListener("input", updateRecordsView);
     control?.addEventListener("change", updateRecordsView);
   }

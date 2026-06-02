@@ -568,7 +568,7 @@ dd {
 
 .records-tools {
   display: grid;
-  grid-template-columns: minmax(240px, 1.35fr) repeat(6, minmax(110px, 0.65fr));
+  grid-template-columns: minmax(240px, 1.35fr) repeat(7, minmax(104px, 0.62fr));
   gap: 12px;
   align-items: end;
   margin-bottom: 28px;
