@@ -144,6 +144,11 @@ const pddRoot = document.querySelector("#pdd-root");
 const deskRoot = document.querySelector("#desk-root");
 const recordsRoot = document.querySelector("#records-root");
 const chronologyQueueRoot = document.querySelector("#chronology-queue-root");
+const savedWorkSummary = document.querySelector("#saved-work-summary");
+const savedWorkStatus = document.querySelector("#saved-work-status");
+const copySavedWork = document.querySelector("#copy-saved-work");
+const exportSavedWork = document.querySelector("#export-saved-work");
+const importSavedWork = document.querySelector("#import-saved-work");
 const totalRecords = document.querySelector("#total-records");
 const pdfLinkedCount = document.querySelector("#pdf-linked-count");
 const highLevelCount = document.querySelector("#high-level-count");
@@ -346,6 +351,19 @@ function csvRows(rows, columns) {
 function downloadCsv(fileName, rows, columns) {
   const csv = `${csvRows(rows, columns)}\n`;
   const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = fileName;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
+}
+
+function downloadJson(fileName, payload) {
+  const json = `${JSON.stringify(payload, null, 2)}\n`;
+  const blob = new Blob([json], { type: "application/json;charset=utf-8" });
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");
   link.href = url;
@@ -712,6 +730,141 @@ function libraryStatusRows() {
     .filter(({ saved }) => saved?.status);
 }
 
+function savedWorkCounts() {
+  return {
+    selectionDecisions: selectionDecisionRows().length,
+    pddStatuses: pddStatusRows().length,
+    libraryStatuses: libraryStatusRows().length
+  };
+}
+
+function newestSavedWorkDate() {
+  const dates = [
+    ...selectionDecisionRows().map(({ saved }) => saved.updatedAt),
+    ...pddStatusRows().map(({ saved }) => saved.updatedAt),
+    ...libraryStatusRows().map(({ saved }) => saved.updatedAt)
+  ]
+    .filter(Boolean)
+    .sort((a, b) => b.localeCompare(a));
+  return dates[0] || "";
+}
+
+function savedWorkPayload() {
+  return {
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    site: "Clinton Europe FRUS Assister",
+    page: window.location.href,
+    repository: "https://github.com/therealjameswilson/Clinton-Europe",
+    storageKeys: {
+      selectionDecisions: DECISION_STORAGE_KEY,
+      pddStatuses: PDD_STORAGE_KEY,
+      libraryStatuses: LIBRARY_STATUS_STORAGE_KEY
+    },
+    counts: savedWorkCounts(),
+    selectionDecisions,
+    pddStatuses,
+    libraryStatuses
+  };
+}
+
+function savedWorkSummaryText() {
+  const counts = savedWorkCounts();
+  const updatedAt = newestSavedWorkDate();
+  return [
+    "Clinton Europe FRUS saved-work handoff",
+    `Export date: ${formatDate(exportDateStamp())}`,
+    `Selection decisions: ${counts.selectionDecisions}`,
+    `PDD statuses: ${counts.pddStatuses}`,
+    `Library pull statuses: ${counts.libraryStatuses}`,
+    `Most recent saved update: ${updatedAt ? formatDate(updatedAt.slice(0, 10)) : "none"}`,
+    "",
+    "Use Export JSON to move browser-saved work to another machine or archive the review state."
+  ].join("\n");
+}
+
+function renderSavedWorkPanel(statusText = "") {
+  if (savedWorkSummary) {
+    const counts = savedWorkCounts();
+    const updatedAt = newestSavedWorkDate();
+    const cards = [
+      ["Selection decisions", counts.selectionDecisions],
+      ["PDD statuses", counts.pddStatuses],
+      ["Library pull statuses", counts.libraryStatuses],
+      ["Latest update", updatedAt ? formatDate(updatedAt.slice(0, 10)) : "None"]
+    ].map(([label, value]) => {
+      const card = document.createElement("div");
+      const strong = document.createElement("strong");
+      strong.textContent = String(value);
+      const span = document.createElement("span");
+      span.textContent = label;
+      card.append(strong, span);
+      return card;
+    });
+    savedWorkSummary.replaceChildren(...cards);
+  }
+  if (savedWorkStatus && statusText) savedWorkStatus.textContent = statusText;
+}
+
+function isPlainObject(value) {
+  return Boolean(value && typeof value === "object" && !Array.isArray(value));
+}
+
+function countLabel(count, singular, plural = `${singular}s`) {
+  return `${count} ${count === 1 ? singular : plural}`;
+}
+
+function mergeSavedEntries(current, incoming, validValues, fieldName, validIds) {
+  if (!isPlainObject(incoming)) return 0;
+  let count = 0;
+  for (const [id, entry] of Object.entries(incoming)) {
+    if (validIds && !validIds.has(id)) continue;
+    if (!isPlainObject(entry) || !validValues.has(entry[fieldName])) continue;
+    current[id] = {
+      [fieldName]: entry[fieldName],
+      updatedAt: entry.updatedAt || new Date().toISOString()
+    };
+    count += 1;
+  }
+  return count;
+}
+
+function importSavedWorkPayload(payload) {
+  if (!isPlainObject(payload)) throw new Error("Saved-work file is not a JSON object.");
+  const imported = {
+    selectionDecisions: mergeSavedEntries(
+      selectionDecisions,
+      payload.selectionDecisions,
+      new Set(DECISION_OPTIONS.map(([value]) => value).filter(Boolean)),
+      "decision",
+      new Set(allRecords.map((record) => record.id))
+    ),
+    pddStatuses: mergeSavedEntries(
+      pddStatuses,
+      payload.pddStatuses,
+      new Set(PDD_STATUS_OPTIONS.map(([value]) => value).filter(Boolean)),
+      "status",
+      new Set(pddLeads.map((item) => item.id))
+    ),
+    libraryStatuses: mergeSavedEntries(
+      libraryStatuses,
+      payload.libraryStatuses,
+      new Set(LIBRARY_STATUS_OPTIONS.map(([value]) => value).filter(Boolean)),
+      "status",
+      new Set((LIBRARY_RESEARCH.leads || []).map((lead) => lead.id))
+    )
+  };
+  saveSelectionDecisions();
+  savePddStatuses();
+  saveLibraryStatuses();
+  updateRecordsView();
+  updatePddView();
+  updateLibraryView();
+  renderSavedWorkPanel(
+    `Imported ${countLabel(imported.selectionDecisions, "decision")}, ${countLabel(imported.pddStatuses, "PDD status", "PDD statuses")}, and ${countLabel(imported.libraryStatuses, "library pull status", "library pull statuses")}.`
+  );
+}
+
 function updatePddStatusCount() {
   if (pddStatusCount) pddStatusCount.textContent = pddStatusRows().length.toString();
 }
@@ -731,6 +884,7 @@ function setRecordDecision(record, decision) {
   }
   saveSelectionDecisions();
   updateSelectionDecisionCount();
+  renderSavedWorkPanel();
   renderChronologyQuickFilters(allRecords);
   renderDesk(allRecords);
 }
@@ -746,6 +900,7 @@ function setPddStatus(item, status) {
   }
   savePddStatuses();
   updatePddStatusCount();
+  renderSavedWorkPanel();
 }
 
 function setLibraryStatus(lead, status) {
@@ -759,6 +914,7 @@ function setLibraryStatus(lead, status) {
   }
   saveLibraryStatuses();
   updateLibraryStatusCount();
+  renderSavedWorkPanel();
 }
 
 function prepareRecords(records) {
@@ -3113,6 +3269,30 @@ function enableFilters() {
   });
   exportLibrary?.addEventListener("click", exportCurrentLibraryLeads);
   exportWorklist?.addEventListener("click", exportCurrentWorklist);
+  copySavedWork?.addEventListener("click", async () => {
+    try {
+      await copyText(savedWorkSummaryText());
+      renderSavedWorkPanel("Copied saved-work summary.");
+    } catch {
+      renderSavedWorkPanel("Copy unavailable. Use Export JSON instead.");
+    }
+  });
+  exportSavedWork?.addEventListener("click", () => {
+    downloadJson(`clinton-europe-saved-work-${exportDateStamp()}.json`, savedWorkPayload());
+    renderSavedWorkPanel("Downloaded saved-work JSON handoff.");
+  });
+  importSavedWork?.addEventListener("change", async () => {
+    const [file] = importSavedWork.files || [];
+    if (!file) return;
+    try {
+      const payload = JSON.parse(await file.text());
+      importSavedWorkPayload(payload);
+    } catch {
+      renderSavedWorkPanel("Import failed. Choose a saved-work JSON file exported from this page.");
+    } finally {
+      importSavedWork.value = "";
+    }
+  });
   clearPddFilters?.addEventListener("click", () => {
     if (pddSearch) pddSearch.value = "";
     if (pddPriorityFilter) pddPriorityFilter.value = "";
@@ -3139,4 +3319,5 @@ renderTriage();
 renderCoverage();
 populateFilters(allRecords);
 enableFilters();
+renderSavedWorkPanel();
 updateRecordsView();

@@ -114,6 +114,7 @@
       </a>
       <nav aria-label="Primary navigation">
         <a href="#records">Chronology</a>
+        <a href="#saved-work">Saved Work</a>
         <a href="#worklist">Worklist</a>
         <a href="#pdd-reconciliation">PDD</a>
         <a href="#triage">Triage</a>
@@ -183,6 +184,31 @@
         </div>
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading candidate records...</p>
+        </div>
+      </section>
+
+      <section class="section saved-work-section" id="saved-work" aria-labelledby="saved-work-title">
+        <div class="section-heading">
+          <p class="kicker">Compiler Handoff</p>
+          <h2 id="saved-work-title">Saved Work Pack</h2>
+        </div>
+        <p class="records-intro">
+          Preserve browser-saved decisions, PDD reconciliation statuses, and Clinton
+          Library pull statuses as one portable handoff file.
+        </p>
+        <div class="saved-work-panel">
+          <div id="saved-work-summary" class="saved-work-summary" aria-live="polite">
+            <p class="loading">Loading saved work...</p>
+          </div>
+          <div class="saved-work-actions">
+            <button id="copy-saved-work" type="button">Copy Summary</button>
+            <button id="export-saved-work" type="button">Export JSON</button>
+            <label class="saved-work-import">
+              <span>Import JSON</span>
+              <input id="import-saved-work" type="file" accept="application/json,.json" />
+            </label>
+          </div>
+          <p id="saved-work-status" class="saved-work-status">No saved-work handoff action yet.</p>
         </div>
       </section>
 
