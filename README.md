@@ -10,14 +10,17 @@ The site is modeled on the Bush 41 Western Europe assister. The first working
 section is the date-ordered chronology of declassified Clinton Digital Library
 memcons and telcons, with a quick queue strip for source-note review, missing
 PDFs, date-pending records, cross-volume placement, undecided records, and
-saved full-text picks. It is followed by a compiler-facing desk for candidate
-record review, volume placement, source-note reconciliation, PDF availability,
-country/section assignment, declassification queues, and a first-pass triage
-layer that links the compiler directly into the next source-note,
-volume-placement, PDD, NARA, Strobe, public-statement, and Clinton Library pull
-tasks. The filtered chronology, public statements, potential source leads, and
-Clinton Library pull list can also be exported as CSV for spreadsheet review or
-reading-room planning. A compiler action queue now turns the datasets into concrete work
+saved full-text picks. Each chronology row also exposes same-day Presidential
+Daily Diary and Public Papers context so a compiler can spot likely calls,
+meetings, and public anchors without leaving the record review flow. It is
+followed by a compiler-facing desk for candidate record review, volume
+placement, source-note reconciliation, PDF availability, country/section
+assignment, declassification queues, and a first-pass triage layer that links
+the compiler directly into the next source-note, volume-placement, PDD, NARA,
+Strobe, public-statement, and Clinton Library pull tasks. The filtered
+chronology, public statements, potential source leads, and Clinton Library pull
+list can also be exported as CSV for spreadsheet review or reading-room
+planning. A compiler action queue now turns the datasets into concrete work
 packets with expected outputs and direct jumps into the relevant filtered
 records. Record rows include source-note verification panels for release ID,
 PDF, archival-folder, and classification/drafting checks, with copy buttons for

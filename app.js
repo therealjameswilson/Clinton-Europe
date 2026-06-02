@@ -860,6 +860,10 @@ function exportCurrentRecords() {
     { label: "selection_updated_at", value: (record) => selectionDecisions[record.id]?.updatedAt || "" },
     { label: "countries", value: (record) => record.countries || [] },
     { label: "queues", value: (record) => (record.queues || []).map(queueLabel) },
+    { label: "same_day_pdd_count", value: (record) => sameDayPddLeads(record).length },
+    { label: "same_day_pdd", value: (record) => sameDayPddLeads(record).map((item) => item.title) },
+    { label: "same_day_public_statement_count", value: (record) => sameDayPublicStatements(record).length },
+    { label: "same_day_public_statements", value: (record) => sameDayPublicStatements(record).map((statement) => statement.title) },
     { label: "source_note_status", value: (record) => record.sourceNoteStatus },
     { label: "source_note_issues", value: (record) => record.sourceNoteIssues || [] },
     { label: "source_note", value: (record) => record.sourceNote },
@@ -1576,6 +1580,16 @@ function sameDayStatements(item) {
   return PUBLIC_STATEMENTS.filter((statement) => statement.date === item.date).sort(byStatementSectionThenDate);
 }
 
+function sameDayPddLeads(record) {
+  if (!record.date) return [];
+  return pddLeads.filter((item) => item.date === record.date).sort(byPddChronology);
+}
+
+function sameDayPublicStatements(record) {
+  if (!record.date) return [];
+  return PUBLIC_STATEMENTS.filter((statement) => statement.date === record.date).sort(byStatementSectionThenDate);
+}
+
 function populatePddFilters() {
   addOptions(pddPriorityFilter, uniqueSorted(pddLeads.map((item) => item.priority)), "All priorities");
   if (pddStatusFilter) {
@@ -2143,6 +2157,93 @@ function createSourceCheckPanel(record) {
 
   panel.append(list, actions);
   return panel;
+}
+
+function createSameDayContextList(title, items, emptyText, getLink) {
+  const wrap = document.createElement("div");
+  wrap.className = "same-day-context-list";
+
+  const heading = document.createElement("h4");
+  heading.textContent = `${title} (${items.length})`;
+  wrap.append(heading);
+
+  if (!items.length) {
+    const empty = document.createElement("p");
+    empty.textContent = emptyText;
+    wrap.append(empty);
+    return wrap;
+  }
+
+  const list = document.createElement("ul");
+  for (const item of items.slice(0, 8)) {
+    const row = document.createElement("li");
+    const { label, href, meta } = getLink(item);
+    if (href) {
+      const link = document.createElement("a");
+      link.href = href;
+      link.rel = "noreferrer";
+      link.textContent = label;
+      row.append(link);
+    } else {
+      row.textContent = label;
+    }
+    if (meta) {
+      const metaNode = document.createElement("span");
+      metaNode.textContent = meta;
+      row.append(metaNode);
+    }
+    list.append(row);
+  }
+
+  if (items.length > 8) {
+    const row = document.createElement("li");
+    row.textContent = `${items.length - 8} more same-day items.`;
+    list.append(row);
+  }
+
+  wrap.append(list);
+  return wrap;
+}
+
+function createSameDayContextPanel(record) {
+  const pddItems = sameDayPddLeads(record);
+  const statements = sameDayPublicStatements(record);
+  const hasContext = Boolean(pddItems.length || statements.length);
+
+  const details = document.createElement("details");
+  details.className = `same-day-context${hasContext ? " has-context" : ""}`;
+  const summary = document.createElement("summary");
+  summary.textContent = hasContext
+    ? `Same-day context: ${pddItems.length} PDD / ${statements.length} public`
+    : "Same-day context: none mapped";
+
+  const panel = document.createElement("div");
+  panel.className = "same-day-context-grid";
+  panel.append(
+    createSameDayContextList(
+      "Presidential Daily Diary",
+      pddItems,
+      "No same-day diary lead currently mapped.",
+      (item) => ({
+        label: item.title,
+        href: item.sourceUrl || item.pdfUrl || item.digitalObjectUrl,
+        meta: [item.priority, pddStatusLabel(pddStatusFor(item))].filter(Boolean).join(" / ")
+      })
+    ),
+    createSameDayContextList(
+      "Public Papers",
+      statements,
+      "No same-day public statement currently mapped.",
+      (statement) => ({
+        label: statement.title,
+        href: statement.detailsUrl || statement.textUrl || statement.pdfUrl,
+        meta: [statement.priority ? `${titleCase(statement.priority)} priority` : "", primaryStatementSection(statement)].filter(Boolean).join(" / ")
+      })
+    )
+  );
+
+  details.append(summary, panel);
+  return details;
 }
 
 function createSelectionControl(record) {
@@ -2835,7 +2936,7 @@ function createRecordRow(record) {
     : "Subject headings pending.";
   sourceNote.append(summary, createSourceCheckPanel(record), sourceText, provenance, issues, subjects);
 
-  body.append(title, sourceLine, note, meta, topics, flags, createSelectionControl(record), sourceNote);
+  body.append(title, sourceLine, note, meta, topics, flags, createSelectionControl(record), createSameDayContextPanel(record), sourceNote);
 
   const links = document.createElement("div");
   links.className = "record-links";
