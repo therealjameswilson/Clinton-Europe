@@ -23,7 +23,9 @@ panel exports or imports browser-saved decisions, PDD statuses, and Clinton
 Library pull statuses as one JSON file. The filtered
 chronology, public statements, potential source leads, and Clinton Library pull
 list can also be exported as CSV for spreadsheet review or reading-room
-planning. A compiler action queue now turns the datasets into concrete work
+planning, while the filtered chronology can be exported as a Markdown review
+packet with source notes, links, saved decisions, and same-day context. A
+compiler action queue now turns the datasets into concrete work
 packets with expected outputs and direct jumps into the relevant filtered
 records. Record rows include source-note verification panels for release ID,
 PDF, archival-folder, and classification/drafting checks, with copy buttons for

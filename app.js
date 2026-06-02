@@ -183,6 +183,7 @@ const queueFilter = document.querySelector("#queue-filter");
 const decisionFilter = document.querySelector("#decision-filter");
 const clearFilters = document.querySelector("#clear-filters");
 const exportRecords = document.querySelector("#export-records");
+const exportRecordPacket = document.querySelector("#export-record-packet");
 const recordsSummary = document.querySelector("#records-summary");
 const exportWorklist = document.querySelector("#export-worklist");
 const exportDecisions = document.querySelector("#export-decisions");
@@ -364,6 +365,18 @@ function downloadCsv(fileName, rows, columns) {
 function downloadJson(fileName, payload) {
   const json = `${JSON.stringify(payload, null, 2)}\n`;
   const blob = new Blob([json], { type: "application/json;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = fileName;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
+}
+
+function downloadText(fileName, text, type = "text/plain;charset=utf-8") {
+  const blob = new Blob([text], { type });
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");
   link.href = url;
@@ -1027,6 +1040,123 @@ function exportCurrentRecords() {
     { label: "pdf_url", value: (record) => record.pdfUrl },
     { label: "collection_url", value: (record) => record.collectionUrl }
   ]);
+}
+
+function mdInline(value, fallback = "None") {
+  const text = Array.isArray(value) ? value.filter(Boolean).join("; ") : value;
+  const normalized = String(text ?? "").replace(/\s+/g, " ").trim();
+  return normalized || fallback;
+}
+
+function mdLink(label, url) {
+  if (!url) return "";
+  return `[${mdInline(label).replaceAll("[", "\\[").replaceAll("]", "\\]")}](<${url}>)`;
+}
+
+function currentRecordFilterSummary(rows) {
+  return [
+    `Showing ${rows.length} of ${allRecords.length} records`,
+    `Search: ${mdInline(searchInput?.value, "None")}`,
+    `Volume: ${volumeFilter?.selectedOptions?.[0]?.textContent || "All volumes"}`,
+    `Year: ${recordYearFilter?.selectedOptions?.[0]?.textContent || "All years"}`,
+    `Section: ${sectionFilter?.selectedOptions?.[0]?.textContent || "All sections"}`,
+    `Type: ${typeFilter?.selectedOptions?.[0]?.textContent || "All types"}`,
+    `Queue: ${queueFilter?.selectedOptions?.[0]?.textContent || "All queues"}`,
+    `Decision: ${decisionFilter?.selectedOptions?.[0]?.textContent || "All decisions"}`
+  ];
+}
+
+function recordPacketLinks(record) {
+  return [
+    ["Item", record.itemUrl],
+    ["PDF", record.pdfUrl],
+    ["Collection", record.collectionUrl],
+    ["FRUS XXII", volumeById.get("frus1993-00v22")?.url],
+    ["Policy volume", record.policyVolumeId ? volumeById.get(record.policyVolumeId)?.url : ""]
+  ]
+    .map(([label, url]) => mdLink(label, url))
+    .filter(Boolean)
+    .join(" | ");
+}
+
+function recordPacketSameDayPdd(record) {
+  const items = sameDayPddLeads(record);
+  if (!items.length) return ["- Same-day PDD: none mapped"];
+  return [
+    `- Same-day PDD (${items.length}):`,
+    ...items.map((item) => `  - ${mdInline(item.title)} (${mdInline(item.priority, "No priority")} / ${pddStatusLabel(pddStatusFor(item))})${item.sourceUrl || item.pdfUrl || item.digitalObjectUrl ? ` - ${mdLink("source", item.sourceUrl || item.pdfUrl || item.digitalObjectUrl)}` : ""}`)
+  ];
+}
+
+function recordPacketSameDayStatements(record) {
+  const statements = sameDayPublicStatements(record);
+  if (!statements.length) return ["- Same-day Public Papers: none mapped"];
+  return [
+    `- Same-day Public Papers (${statements.length}):`,
+    ...statements.map((statement) => `  - ${mdInline(statement.title)} (${mdInline(statement.priority, "No priority")} / ${primaryStatementSection(statement)})${statement.detailsUrl || statement.textUrl || statement.pdfUrl ? ` - ${mdLink("source", statement.detailsUrl || statement.textUrl || statement.pdfUrl)}` : ""}`)
+  ];
+}
+
+function recordPacketMarkdown(rows) {
+  const counts = savedWorkCounts();
+  const lines = [
+    "# Clinton Europe FRUS Review Packet",
+    "",
+    `Generated: ${formatDate(exportDateStamp())}`,
+    `Page: ${window.location.href}`,
+    "",
+    "## Active Chronology Filter",
+    ...currentRecordFilterSummary(rows).map((line) => `- ${line}`),
+    "",
+    "## Saved Work Counts",
+    `- Selection decisions: ${counts.selectionDecisions}`,
+    `- PDD statuses: ${counts.pddStatuses}`,
+    `- Library pull statuses: ${counts.libraryStatuses}`,
+    "",
+    "## Records"
+  ];
+
+  let currentYear = "";
+  for (const record of rows) {
+    const year = chronologyYear(record);
+    if (year !== currentYear) {
+      currentYear = year;
+      lines.push("", `### ${year}`);
+    }
+
+    lines.push(
+      "",
+      `#### ${record.compilerNumber || "CE TBD"} - ${shortDate(record.date)} - ${mdInline(record.title)}`,
+      `- Type/section: ${mdInline(record.type)} / ${mdInline(record.section)}`,
+      `- Volumes: ${displayVolume(record) ? `Volume ${displayVolume(record)}` : "Review"}`,
+      `- Selection decision: ${decisionLabel(decisionForRecord(record))}`,
+      `- Queues: ${mdInline((record.queues || []).map(queueLabel))}`,
+      `- Source-note status: ${mdInline(record.sourceNoteStatus)}`,
+      `- Countries: ${mdInline(record.countries || [])}`,
+      `- Links: ${recordPacketLinks(record) || "None"}`,
+      `- Compiler note: ${mdInline(record.notes || `Assigned to ${record.section || "Regional"}; review volume placement before final selection.`)}`,
+      `- FRUS-style source note: ${mdInline(record.sourceNote, "Source note pending")}`,
+      `- Provenance: ${mdInline(record.provenanceNote, "Provenance note pending")}`,
+      `- Source-note checks: ${mdInline(record.sourceNoteIssues || [], "No issues flagged")}`,
+      ...recordPacketSameDayPdd(record),
+      ...recordPacketSameDayStatements(record)
+    );
+  }
+
+  if (!rows.length) {
+    lines.push("", "No records match the current filter.");
+  }
+
+  return `${lines.join("\n")}\n`;
+}
+
+function exportCurrentRecordPacket() {
+  const rows = filterRecords(allRecords).sort(byChronology);
+  downloadText(
+    `clinton-europe-review-packet-${exportDateStamp()}.md`,
+    recordPacketMarkdown(rows),
+    "text/markdown;charset=utf-8"
+  );
 }
 
 function exportCurrentDecisions() {
@@ -3235,6 +3365,7 @@ function enableFilters() {
     searchInput?.focus();
   });
   exportRecords?.addEventListener("click", exportCurrentRecords);
+  exportRecordPacket?.addEventListener("click", exportCurrentRecordPacket);
   exportDecisions?.addEventListener("click", exportCurrentDecisions);
 
   clearDocumentFilters?.addEventListener("click", () => {
