@@ -20,11 +20,14 @@ records. Record rows include source-note verification panels for release ID,
 PDF, archival-folder, and classification/drafting checks, with copy buttons for
 candidate notes and provenance text. The chronology also works as a local
 selection worksheet: compiler decisions are saved in the browser, can be
-filtered, and export as a CSV keeper/cross-reference/omit list. Year filters on
-the chronology, public statements, and source-lead pool support quick work
-across the XXIII/XXIV policy-volume date split, while the coverage matrix
-exposes year/volume imbalances and jumps directly into the matching filtered
-working set.
+filtered, and export as a CSV keeper/cross-reference/omit list. A dedicated
+Presidential Daily Diary worksheet compares diary calls and meetings to
+same-day chronology records and public statements, saves reconciliation
+statuses in the browser, and exports the PDD log as CSV. Year filters on the
+chronology, public statements, and source-lead pool support quick work across
+the XXIII/XXIV policy-volume date split, while the coverage matrix exposes
+year/volume imbalances and jumps directly into the matching filtered working
+set.
 
 ## Data
 

@@ -554,8 +554,13 @@ dd {
 }
 
 .document-tools,
-.statement-tools {
+.statement-tools,
+.pdd-tools {
   grid-template-columns: minmax(240px, 1.35fr) repeat(4, minmax(118px, 0.65fr)) auto auto;
+}
+
+.pdd-tools {
+  grid-template-columns: minmax(260px, 1.6fr) minmax(140px, 0.7fr) minmax(180px, 0.9fr) auto auto;
 }
 
 .records-summary {
@@ -567,6 +572,7 @@ dd {
 
 .records-root,
 .worklist-root,
+.pdd-root,
 .triage-root,
 .coverage-root,
 .statements-root,
@@ -1161,6 +1167,78 @@ dd {
   line-height: 1.4;
 }
 
+.pdd-match-panel {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.9fr) minmax(0, 1fr) minmax(0, 1fr);
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.pdd-status-control,
+.pdd-match-list {
+  display: grid;
+  align-content: start;
+  gap: 8px;
+  min-width: 0;
+  padding: 12px;
+  background: rgba(23, 50, 77, 0.04);
+  border: 1px solid rgba(23, 50, 77, 0.1);
+  border-left: 4px solid var(--steel);
+  border-radius: 8px;
+}
+
+.pdd-status-control {
+  border-left-color: var(--green);
+}
+
+.pdd-status-control label {
+  display: grid;
+  gap: 7px;
+}
+
+.pdd-status-control span,
+.pdd-match-list h4 {
+  margin: 0;
+  color: var(--blue);
+  font-size: 0.7rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.pdd-status-control select {
+  width: 100%;
+  min-height: 36px;
+  padding: 0 10px;
+  color: var(--ink);
+  font: inherit;
+  font-weight: 850;
+  background: #fffdf8;
+  border: 1px solid rgba(46, 117, 103, 0.24);
+  border-radius: 6px;
+}
+
+.pdd-status-control select:focus {
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px rgba(46, 117, 103, 0.14);
+  outline: none;
+}
+
+.pdd-match-list ul {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding-left: 18px;
+  color: var(--muted);
+  font-size: 0.84rem;
+  font-weight: 800;
+  line-height: 1.4;
+}
+
+.pdd-match-list a {
+  color: var(--blue);
+  font-weight: 900;
+}
+
 .record-source-note {
   margin: 10px 0 0;
   color: var(--muted);
@@ -1412,6 +1490,7 @@ footer a {
   .volume-grid,
   .source-list,
   .worklist-root,
+  .pdd-root,
   .triage-root,
   .coverage-root,
   .desk-metrics,
@@ -1427,6 +1506,10 @@ footer a {
 
   .source-check-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .pdd-match-panel {
+    grid-template-columns: 1fr;
   }
 
   .records-tools {
@@ -1473,6 +1556,7 @@ footer a {
   .volume-grid,
   .source-list,
   .worklist-root,
+  .pdd-root,
   .triage-root,
   .coverage-root,
   .desk-metrics,

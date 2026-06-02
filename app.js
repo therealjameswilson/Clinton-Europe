@@ -240,6 +240,15 @@ function byPotentialDocument(a, b) {
   );
 }
 
+function byPddChronology(a, b) {
+  return (
+    (a.date || "9999").localeCompare(b.date || "9999") ||
+    priorityRank(a.priority) - priorityRank(b.priority) ||
+    (b.score || 0) - (a.score || 0) ||
+    (a.title || "").localeCompare(b.title || "")
+  );
+}
+
 function displayVolume(record) {
   return (record.volumeIds || [])
     .map((id) => volumeById.get(id)?.number || id)
@@ -662,7 +671,7 @@ function prepareRecords(records) {
 
 let allRecords = prepareRecords(RECORDS);
 let selectionDecisions = loadSelectionDecisions();
-const pddLeads = POTENTIAL_DOCUMENTS.filter((item) => item.sourceType === "Presidential Daily Diary").sort(byPotentialDocument);
+const pddLeads = POTENTIAL_DOCUMENTS.filter((item) => item.sourceType === "Presidential Daily Diary").sort(byPddChronology);
 let pddStatuses = loadPddStatuses();
 
 function populateFilters(records) {
@@ -789,6 +798,7 @@ function setStats(records) {
   if (compilerGapCount) compilerGapCount.textContent = (COMPILER_GAPS.gaps || []).length.toString();
   if (libraryLeadCount) libraryLeadCount.textContent = (LIBRARY_RESEARCH.leads || []).length.toString();
   updateSelectionDecisionCount();
+  updatePddStatusCount();
 }
 
 function createMetric(label, value, detail) {
@@ -859,6 +869,15 @@ function applyRelatedFilter(filter) {
     if (documentPriorityFilter) documentPriorityFilter.value = filter.priority || "";
     updatePotentialDocumentsView();
     document.querySelector("#potential-documents")?.scrollIntoView({ block: "start" });
+    return;
+  }
+
+  if (filter.target === "pdd") {
+    if (pddSearch) pddSearch.value = filter.search || "";
+    if (pddPriorityFilter) pddPriorityFilter.value = filter.priority || "";
+    if (pddStatusFilter) pddStatusFilter.value = filter.status || "";
+    updatePddView();
+    document.querySelector("#pdd-reconciliation")?.scrollIntoView({ block: "start" });
     return;
   }
 
@@ -1092,8 +1111,8 @@ function renderTriage() {
       detail:
         "Presidential Daily Diary hits identify Europe-facing calls and meetings that may require a matching memcon, telcon, briefing book, or public-statement anchor.",
       actions: [
-        { label: "PDD source leads", target: "documents", sourceType: "Presidential Daily Diary" },
-        { label: "High-priority PDD", target: "documents", sourceType: "Presidential Daily Diary", priority: "High" }
+        { label: "PDD worksheet", target: "pdd" },
+        { label: "High-priority PDD", target: "pdd", priority: "High" }
       ]
     },
     {
@@ -1214,8 +1233,9 @@ function buildCompilerWorklist() {
       output: "A PDD reconciliation log tying each high-priority meeting/call to an internal source or a documented gap.",
       evidence: `${highPddDocuments.length} high-priority Presidential Daily Diary leads are available out of ${pddDocuments.length} total diary hits.`,
       actions: [
-        { label: "High-priority PDD", target: "documents", sourceType: "Presidential Daily Diary", priority: "High" },
-        { label: "All PDD leads", target: "documents", sourceType: "Presidential Daily Diary" }
+        { label: "High-priority PDD", target: "pdd", priority: "High" },
+        { label: "Unresolved PDD", target: "pdd", status: "__unresolved__" },
+        { label: "All PDD leads", target: "pdd" }
       ]
     },
     {
@@ -1354,6 +1374,295 @@ function exportCurrentWorklist() {
     { label: "evidence", value: (item) => item.evidence },
     { label: "actions", value: (item) => (item.actions || []).map((action) => action.label) }
   ]);
+}
+
+function pddCode(index) {
+  return `PDD ${String(index + 1).padStart(3, "0")}`;
+}
+
+function pddStatusFor(item) {
+  return pddStatuses[item.id]?.status || "";
+}
+
+function sameDayRecords(item) {
+  if (!item.date) return [];
+  return allRecords.filter((record) => record.date === item.date).sort(byChronology);
+}
+
+function sameDayStatements(item) {
+  if (!item.date) return [];
+  return PUBLIC_STATEMENTS.filter((statement) => statement.date === item.date).sort(byStatementSectionThenDate);
+}
+
+function populatePddFilters() {
+  addOptions(pddPriorityFilter, uniqueSorted(pddLeads.map((item) => item.priority)), "All priorities");
+  if (pddStatusFilter) {
+    pddStatusFilter.replaceChildren(...PDD_STATUS_FILTER_OPTIONS.map(([value, label]) => new Option(label, value)));
+  }
+}
+
+function pddSearchText(item) {
+  return [
+    potentialDocumentSearchText(item),
+    pddStatusLabel(pddStatusFor(item)),
+    ...sameDayRecords(item).map((record) => `${record.title} ${record.compilerNumber} ${record.section}`),
+    ...sameDayStatements(item).map((statement) => `${statement.title} ${statement.sections?.join(" ")}`)
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function filterPddLeads(items) {
+  const query = pddSearch?.value.trim().toLowerCase() || "";
+  const priority = pddPriorityFilter?.value || "";
+  const status = pddStatusFilter?.value || "";
+
+  return items.filter((item) => {
+    if (priority && item.priority !== priority) return false;
+    const itemStatus = pddStatusFor(item);
+    if (status === "__unresolved__" && itemStatus) return false;
+    if (status && status !== "__unresolved__" && itemStatus !== status) return false;
+    return !query || pddSearchText(item).includes(query);
+  });
+}
+
+function exportCurrentPdd() {
+  const rows = filterPddLeads(pddLeads).sort(byPddChronology);
+  downloadCsv(`clinton-europe-pdd-reconciliation-${exportDateStamp()}.csv`, rows, [
+    { label: "status", value: (item) => pddStatusLabel(pddStatusFor(item)) },
+    { label: "status_value", value: (item) => pddStatusFor(item) },
+    { label: "status_updated_at", value: (item) => pddStatuses[item.id]?.updatedAt || "" },
+    { label: "date", value: (item) => item.date || "Date pending" },
+    { label: "priority", value: (item) => item.priority },
+    { label: "score", value: (item) => item.score },
+    { label: "title", value: (item) => item.title },
+    { label: "section", value: (item) => item.section || item.sections?.[0] },
+    { label: "volumes", value: (item) => displayVolumeLabels(item) },
+    { label: "identifier", value: (item) => item.identifier },
+    { label: "same_day_record_count", value: (item) => sameDayRecords(item).length },
+    { label: "same_day_records", value: (item) => sameDayRecords(item).map((record) => `${record.compilerNumber}: ${record.title}`) },
+    { label: "same_day_statement_count", value: (item) => sameDayStatements(item).length },
+    { label: "same_day_statements", value: (item) => sameDayStatements(item).map((statement) => statement.title) },
+    { label: "summary", value: (item) => item.summary },
+    { label: "source_note", value: (item) => item.sourceNote },
+    { label: "source_url", value: (item) => item.sourceUrl },
+    { label: "pdf_url", value: (item) => item.pdfUrl || item.digitalObjectUrl }
+  ]);
+}
+
+function createPddStatusControl(item) {
+  const wrap = document.createElement("div");
+  wrap.className = "pdd-status-control";
+
+  const label = document.createElement("label");
+  const labelText = document.createElement("span");
+  labelText.textContent = "Reconciliation status";
+  const select = document.createElement("select");
+  select.replaceChildren(...PDD_STATUS_OPTIONS.map(([value, optionLabel]) => new Option(optionLabel, value)));
+  select.value = pddStatusFor(item);
+  label.append(labelText, select);
+
+  const status = document.createElement("p");
+  status.className = "selection-status";
+  const updateStatus = () => {
+    const saved = pddStatuses[item.id];
+    status.textContent = saved?.status
+      ? `Saved as ${pddStatusLabel(saved.status)}${saved.updatedAt ? ` on ${formatDate(saved.updatedAt.slice(0, 10))}` : ""}.`
+      : "No reconciliation status saved.";
+  };
+  updateStatus();
+
+  select.addEventListener("change", () => {
+    setPddStatus(item, select.value);
+    updateStatus();
+    if (pddStatusFilter?.value) updatePddView();
+  });
+
+  wrap.append(label, status);
+  return wrap;
+}
+
+function createPddMatchList(title, items, emptyText, formatter) {
+  const wrap = document.createElement("div");
+  wrap.className = "pdd-match-list";
+  const heading = document.createElement("h4");
+  heading.textContent = `${title} (${items.length})`;
+  const list = document.createElement("ul");
+  for (const item of items.slice(0, 4)) {
+    const li = document.createElement("li");
+    const formatted = formatter(item);
+    if (formatted.href) {
+      const link = document.createElement("a");
+      link.href = formatted.href;
+      link.rel = "noreferrer";
+      link.textContent = formatted.label;
+      li.append(link);
+    } else {
+      li.textContent = formatted.label;
+    }
+    list.append(li);
+  }
+  if (!items.length) {
+    const li = document.createElement("li");
+    li.textContent = emptyText;
+    list.append(li);
+  } else if (items.length > 4) {
+    const li = document.createElement("li");
+    li.textContent = `Plus ${items.length - 4} more same-day item${items.length - 4 === 1 ? "" : "s"}.`;
+    list.append(li);
+  }
+  wrap.append(heading, list);
+  return wrap;
+}
+
+function createPddRow(item, index) {
+  const row = document.createElement("article");
+  row.className = "document-row pdd-row";
+
+  const dateStack = document.createElement("div");
+  dateStack.className = "record-date-stack";
+  const number = document.createElement("span");
+  number.className = "record-doc-number";
+  number.textContent = pddCode(index);
+  const date = document.createElement("time");
+  date.className = "record-date";
+  if (/^\d{4}-\d{2}-\d{2}$/.test(item.date || "")) date.dateTime = item.date;
+  date.textContent = shortDate(item.date);
+  dateStack.append(number, date);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = item.sourceUrl || item.pdfUrl || item.digitalObjectUrl || "#";
+  title.rel = "noreferrer";
+  title.textContent = item.title;
+
+  const sourceLine = document.createElement("p");
+  sourceLine.className = "record-source-line";
+  sourceLine.textContent = `${item.identifier || "Diary entry"} / ${item.sourceCollection || "Presidential Daily Diary"}`;
+
+  const note = document.createElement("p");
+  note.className = "record-note";
+  note.textContent = item.summary || "Diary lead queued for reconciliation.";
+
+  const meta = createChipList(
+    [
+      item.priority ? `${item.priority} priority` : "",
+      item.score ? `score ${item.score}` : "",
+      ...(item.sections || []),
+      displayVolumeLabels(item) ? `Vol. ${displayVolumeLabels(item)}` : ""
+    ],
+    "record-meta",
+    12
+  );
+
+  const matches = document.createElement("div");
+  matches.className = "pdd-match-panel";
+  matches.append(
+    createPddStatusControl(item),
+    createPddMatchList(
+      "Same-day chronology",
+      sameDayRecords(item),
+      "No same-day memcon/telcon currently in the chronology.",
+      (record) => ({ label: `${record.compilerNumber}: ${record.title}`, href: record.itemUrl || record.pdfUrl })
+    ),
+    createPddMatchList(
+      "Same-day public statements",
+      sameDayStatements(item),
+      "No same-day public statement currently mapped.",
+      (statement) => ({ label: statement.title, href: statement.detailsUrl || statement.textUrl || statement.pdfUrl })
+    )
+  );
+
+  const sourceTrail = document.createElement("details");
+  sourceTrail.className = "record-source-note";
+  const summary = document.createElement("summary");
+  summary.textContent = "Diary source note";
+  const sourceText = document.createElement("p");
+  sourceText.className = "record-frus-source-note";
+  sourceText.textContent = item.sourceNote || "Diary source note pending.";
+  const queries = document.createElement("p");
+  queries.textContent = item.matchedQueries?.length
+    ? `Matched queries: ${item.matchedQueries.slice(0, 12).join("; ")}.`
+    : "Matched query trail pending.";
+  sourceTrail.append(summary, sourceText, queries);
+
+  body.append(title, sourceLine, note, meta, matches, sourceTrail);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  for (const [label, url] of [
+    ["PDF", item.pdfUrl],
+    ["Source", item.sourceUrl],
+    ["Catalog", item.catalogUrl],
+    ["Report", item.sourceReports?.[0]]
+  ]) {
+    if (!url) continue;
+    const link = document.createElement("a");
+    link.href = url;
+    link.rel = "noreferrer";
+    link.textContent = label;
+    links.append(link);
+  }
+
+  row.append(dateStack, body, links);
+  return row;
+}
+
+function renderPddLeads(items) {
+  if (!pddRoot) return;
+  pddRoot.replaceChildren();
+
+  if (!items.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-section";
+    empty.textContent = pddLeads.length
+      ? "No Presidential Daily Diary leads match the current filters."
+      : "No Presidential Daily Diary leads have been generated yet.";
+    pddRoot.append(empty);
+    return;
+  }
+
+  const sorted = [...items].sort(byPddChronology);
+  const pddNumbers = new Map(pddLeads.map((item, index) => [item.id, index]));
+  const years = uniqueInOrder(sorted.map(documentYear));
+  for (const year of years) {
+    const yearItems = sorted.filter((item) => documentYear(item) === year);
+    const section = document.createElement("section");
+    section.className = "record-section pdd-year-section";
+    section.id = `pdd-${year.toLowerCase().replaceAll(" ", "-")}`;
+
+    const header = document.createElement("div");
+    header.className = "record-section-header";
+    const heading = document.createElement("h3");
+    heading.textContent = year;
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${yearItems.length} diary leads`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list pdd-list";
+    for (const item of yearItems) list.append(createPddRow(item, pddNumbers.get(item.id) || 0));
+
+    section.append(header, list);
+    pddRoot.append(section);
+  }
+}
+
+function updatePddSummary(items) {
+  if (!pddSummary) return;
+  const priority = pddPriorityFilter?.selectedOptions?.[0]?.textContent || "All priorities";
+  const status = pddStatusFilter?.selectedOptions?.[0]?.textContent || "All statuses";
+  pddSummary.textContent = `Showing ${items.length} of ${pddLeads.length} diary leads / ${priority} / ${status}`;
+}
+
+function updatePddView() {
+  const filtered = filterPddLeads(pddLeads).sort(byPotentialDocument);
+  updatePddSummary(filtered);
+  renderPddLeads(filtered);
+  updatePddStatusCount();
 }
 
 function createGapList(title, items) {
@@ -2378,6 +2687,11 @@ function enableFilters() {
     control?.addEventListener("change", updateLibraryView);
   }
 
+  for (const control of [pddSearch, pddPriorityFilter, pddStatusFilter]) {
+    control?.addEventListener("input", updatePddView);
+    control?.addEventListener("change", updatePddView);
+  }
+
   clearFilters?.addEventListener("click", () => {
     if (searchInput) searchInput.value = "";
     if (volumeFilter) volumeFilter.value = "";
@@ -2423,6 +2737,14 @@ function enableFilters() {
   });
   exportLibrary?.addEventListener("click", exportCurrentLibraryLeads);
   exportWorklist?.addEventListener("click", exportCurrentWorklist);
+  clearPddFilters?.addEventListener("click", () => {
+    if (pddSearch) pddSearch.value = "";
+    if (pddPriorityFilter) pddPriorityFilter.value = "";
+    if (pddStatusFilter) pddStatusFilter.value = "";
+    updatePddView();
+    pddSearch?.focus();
+  });
+  exportPdd?.addEventListener("click", exportCurrentPdd);
 }
 
 renderVolumes();
@@ -2434,6 +2756,8 @@ renderCompilerGaps();
 populateLibraryFilters();
 renderLibraryOverview();
 updateLibraryView();
+populatePddFilters();
+updatePddView();
 renderWorklist();
 renderTriage();
 renderCoverage();
