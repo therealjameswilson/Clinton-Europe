@@ -486,7 +486,7 @@ dd {
 
 .records-tools {
   display: grid;
-  grid-template-columns: minmax(240px, 1.35fr) repeat(5, minmax(118px, 0.65fr)) auto auto;
+  grid-template-columns: minmax(240px, 1.35fr) repeat(6, minmax(110px, 0.65fr));
   gap: 12px;
   align-items: end;
   margin-bottom: 28px;
@@ -1110,6 +1110,55 @@ dd {
   color: #79231f;
   background: rgba(185, 51, 66, 0.1);
   border: 1px solid rgba(185, 51, 66, 0.16);
+}
+
+.selection-control {
+  display: grid;
+  gap: 7px;
+  margin-top: 12px;
+  padding: 12px;
+  background: rgba(46, 117, 103, 0.07);
+  border: 1px solid rgba(46, 117, 103, 0.14);
+  border-left: 4px solid var(--green);
+  border-radius: 8px;
+}
+
+.selection-control label {
+  display: grid;
+  gap: 7px;
+}
+
+.selection-control span {
+  color: var(--blue);
+  font-size: 0.7rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.selection-control select {
+  width: min(100%, 320px);
+  min-height: 36px;
+  padding: 0 10px;
+  color: var(--ink);
+  font: inherit;
+  font-weight: 850;
+  background: #fffdf8;
+  border: 1px solid rgba(46, 117, 103, 0.24);
+  border-radius: 6px;
+}
+
+.selection-control select:focus {
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px rgba(46, 117, 103, 0.14);
+  outline: none;
+}
+
+.selection-status {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 900;
+  line-height: 1.4;
 }
 
 .record-source-note {

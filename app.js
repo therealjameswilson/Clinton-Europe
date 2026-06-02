@@ -49,6 +49,16 @@ const QUEUE_OPTIONS = [
   ["russia-fsu-review", "Russia/FSU review"]
 ];
 
+const DECISION_STORAGE_KEY = "clinton-europe-selection-decisions-v1";
+const DECISION_OPTIONS = [
+  ["", "No decision"],
+  ["full-text", "Full text candidate"],
+  ["cross-reference", "Cross-reference only"],
+  ["omit", "Omit from selection"],
+  ["context", "Context only"]
+];
+const DECISION_FILTER_OPTIONS = [["", "All decisions"], ["__undecided__", "Undecided"], ...DECISION_OPTIONS.slice(1)];
+
 const volumeRoot = document.querySelector("#volume-root");
 const statementsRoot = document.querySelector("#statements-root");
 const statementSearch = document.querySelector("#statement-search");
@@ -75,6 +85,7 @@ const sourceGapCount = document.querySelector("#source-gap-count");
 const potentialDocumentCount = document.querySelector("#potential-document-count");
 const compilerGapCount = document.querySelector("#compiler-gap-count");
 const libraryLeadCount = document.querySelector("#library-lead-count");
+const selectionDecisionCount = document.querySelector("#selection-decision-count");
 const documentSearch = document.querySelector("#document-search");
 const documentSourceFilter = document.querySelector("#document-source-filter");
 const documentYearFilter = document.querySelector("#document-year-filter");
@@ -95,10 +106,12 @@ const recordYearFilter = document.querySelector("#record-year-filter");
 const sectionFilter = document.querySelector("#section-filter");
 const typeFilter = document.querySelector("#type-filter");
 const queueFilter = document.querySelector("#queue-filter");
+const decisionFilter = document.querySelector("#decision-filter");
 const clearFilters = document.querySelector("#clear-filters");
 const exportRecords = document.querySelector("#export-records");
 const recordsSummary = document.querySelector("#records-summary");
 const exportWorklist = document.querySelector("#export-worklist");
+const exportDecisions = document.querySelector("#export-decisions");
 
 const volumeById = new Map(VOLUMES.map((volume) => [volume.id, volume]));
 const libraryClusterById = new Map((LIBRARY_RESEARCH.clusters || []).map((cluster) => [cluster.id, cluster]));
@@ -529,6 +542,54 @@ function updateStatementsView() {
   renderStatements(filtered);
 }
 
+function loadSelectionDecisions() {
+  try {
+    return JSON.parse(localStorage.getItem(DECISION_STORAGE_KEY) || "{}");
+  } catch {
+    return {};
+  }
+}
+
+function saveSelectionDecisions() {
+  try {
+    localStorage.setItem(DECISION_STORAGE_KEY, JSON.stringify(selectionDecisions));
+  } catch {
+    // Local storage can be unavailable in some locked-down browser contexts.
+  }
+}
+
+function decisionLabel(value) {
+  return DECISION_OPTIONS.find(([optionValue]) => optionValue === value)?.[1] || "No decision";
+}
+
+function decisionForRecord(record) {
+  return selectionDecisions[record.id]?.decision || "";
+}
+
+function selectionDecisionRows() {
+  return allRecords
+    .map((record) => ({ record, saved: selectionDecisions[record.id] }))
+    .filter(({ saved }) => saved?.decision);
+}
+
+function updateSelectionDecisionCount() {
+  if (selectionDecisionCount) selectionDecisionCount.textContent = selectionDecisionRows().length.toString();
+}
+
+function setRecordDecision(record, decision) {
+  if (decision) {
+    selectionDecisions[record.id] = {
+      decision,
+      updatedAt: new Date().toISOString()
+    };
+  } else {
+    delete selectionDecisions[record.id];
+  }
+  saveSelectionDecisions();
+  updateSelectionDecisionCount();
+  renderDesk(allRecords);
+}
+
 function prepareRecords(records) {
   return [...records]
     .sort(byChronology)
@@ -539,6 +600,7 @@ function prepareRecords(records) {
 }
 
 let allRecords = prepareRecords(RECORDS);
+let selectionDecisions = loadSelectionDecisions();
 
 function populateFilters(records) {
   addOptions(
@@ -557,6 +619,9 @@ function populateFilters(records) {
   addOptions(typeFilter, uniqueSorted(records.map((record) => record.type)), "All types");
   if (queueFilter) {
     queueFilter.replaceChildren(...QUEUE_OPTIONS.map(([value, label]) => new Option(label, value)));
+  }
+  if (decisionFilter) {
+    decisionFilter.replaceChildren(...DECISION_FILTER_OPTIONS.map(([value, label]) => new Option(label, value)));
   }
 }
 
@@ -592,6 +657,7 @@ function filterRecords(records) {
   const section = sectionFilter?.value || "";
   const type = typeFilter?.value || "";
   const queue = queueFilter?.value || "";
+  const decision = decisionFilter?.value || "";
 
   return records.filter((record) => {
     if (volume && !(record.volumeIds || []).includes(volume)) return false;
@@ -599,6 +665,9 @@ function filterRecords(records) {
     if (section && record.section !== section) return false;
     if (type && record.type !== type) return false;
     if (queue && !(record.queues || []).includes(queue)) return false;
+    const recordDecision = decisionForRecord(record);
+    if (decision === "__undecided__" && recordDecision) return false;
+    if (decision && decision !== "__undecided__" && recordDecision !== decision) return false;
     return !query || recordSearchText(record).includes(query);
   });
 }
@@ -613,6 +682,8 @@ function exportCurrentRecords() {
     { label: "type", value: (record) => record.type },
     { label: "section", value: (record) => record.section },
     { label: "volumes", value: (record) => displayVolume(record) },
+    { label: "selection_decision", value: (record) => decisionLabel(decisionForRecord(record)) },
+    { label: "selection_updated_at", value: (record) => selectionDecisions[record.id]?.updatedAt || "" },
     { label: "countries", value: (record) => record.countries || [] },
     { label: "queues", value: (record) => (record.queues || []).map(queueLabel) },
     { label: "source_note_status", value: (record) => record.sourceNoteStatus },
@@ -621,6 +692,25 @@ function exportCurrentRecords() {
     { label: "item_url", value: (record) => record.itemUrl },
     { label: "pdf_url", value: (record) => record.pdfUrl },
     { label: "collection_url", value: (record) => record.collectionUrl }
+  ]);
+}
+
+function exportCurrentDecisions() {
+  downloadCsv(`clinton-europe-selection-decisions-${exportDateStamp()}.csv`, selectionDecisionRows(), [
+    { label: "compiler_number", value: ({ record }) => record.compilerNumber },
+    { label: "decision", value: ({ saved }) => decisionLabel(saved.decision) },
+    { label: "decision_value", value: ({ saved }) => saved.decision },
+    { label: "updated_at", value: ({ saved }) => saved.updatedAt },
+    { label: "date", value: ({ record }) => record.date || record.sortDate },
+    { label: "year", value: ({ record }) => chronologyYear(record) },
+    { label: "title", value: ({ record }) => record.title },
+    { label: "type", value: ({ record }) => record.type },
+    { label: "section", value: ({ record }) => record.section },
+    { label: "volumes", value: ({ record }) => displayVolume(record) },
+    { label: "queues", value: ({ record }) => (record.queues || []).map(queueLabel) },
+    { label: "source_note", value: ({ record }) => record.sourceNote },
+    { label: "item_url", value: ({ record }) => record.itemUrl },
+    { label: "pdf_url", value: ({ record }) => record.pdfUrl }
   ]);
 }
 
@@ -635,6 +725,7 @@ function setStats(records) {
   if (potentialDocumentCount) potentialDocumentCount.textContent = POTENTIAL_DOCUMENTS.length.toString();
   if (compilerGapCount) compilerGapCount.textContent = (COMPILER_GAPS.gaps || []).length.toString();
   if (libraryLeadCount) libraryLeadCount.textContent = (LIBRARY_RESEARCH.leads || []).length.toString();
+  updateSelectionDecisionCount();
 }
 
 function createMetric(label, value, detail) {
@@ -691,6 +782,7 @@ function applyRelatedFilter(filter) {
     if (sectionFilter) sectionFilter.value = filter.section || "";
     if (typeFilter) typeFilter.value = filter.type || "";
     if (queueFilter) queueFilter.value = filter.queue || "";
+    if (decisionFilter) decisionFilter.value = filter.decision || "";
     updateRecordsView();
     document.querySelector("#records")?.scrollIntoView({ block: "start" });
     return;
@@ -1043,6 +1135,7 @@ function buildCompilerWorklist() {
       output: "A keeper list with one disposition per high-level contact: full text, policy-volume cross-reference, or omit.",
       evidence: `${crossVolumeRecords.length} records are flagged for cross-volume review across Volumes XXII, XXIII, and XXIV.`,
       actions: [
+        { label: "Undecided XXII", target: "records", volumeId: "frus1993-00v22", decision: "__undecided__" },
         { label: "XXII contacts", target: "records", volumeId: "frus1993-00v22" },
         { label: "XXIII band", target: "records", volumeId: "frus1993-00v23" },
         { label: "XXIV band", target: "records", volumeId: "frus1993-00v24" }
@@ -1349,7 +1442,33 @@ function renderDesk(records) {
   splitList.append(dateItem);
   split.append(splitTitle, splitList);
 
-  deskRoot.replaceChildren(metrics, queues, sections, split);
+  const decisions = document.createElement("div");
+  decisions.className = "desk-panel desk-panel-wide";
+  const decisionsTitle = document.createElement("h3");
+  decisionsTitle.textContent = "Selection Decisions";
+  const decisionRows = selectionDecisionRows();
+  const decisionList = document.createElement("ol");
+  decisionList.className = "desk-list";
+  for (const [value, label] of DECISION_OPTIONS.filter(([optionValue]) => optionValue)) {
+    const count = decisionRows.filter(({ saved }) => saved.decision === value).length;
+    const item = document.createElement("li");
+    item.textContent = `${label}: ${count}`;
+    decisionList.append(item);
+  }
+  const undecidedItem = document.createElement("li");
+  undecidedItem.textContent = `Undecided records: ${records.length - decisionRows.length}`;
+  decisionList.append(undecidedItem);
+  const decisionActions = document.createElement("div");
+  decisionActions.className = "queue-buttons decision-actions";
+  const exportButton = document.createElement("button");
+  exportButton.type = "button";
+  exportButton.className = "queue-button";
+  exportButton.textContent = `Export saved decisions (${decisionRows.length})`;
+  exportButton.addEventListener("click", exportCurrentDecisions);
+  decisionActions.append(exportButton);
+  decisions.append(decisionsTitle, decisionList, decisionActions);
+
+  deskRoot.replaceChildren(metrics, queues, sections, split, decisions);
 }
 
 function createChipList(values, className, limit = 8) {
@@ -1470,6 +1589,38 @@ function createSourceCheckPanel(record) {
 
   panel.append(list, actions);
   return panel;
+}
+
+function createSelectionControl(record) {
+  const wrap = document.createElement("div");
+  wrap.className = "selection-control";
+
+  const label = document.createElement("label");
+  const labelText = document.createElement("span");
+  labelText.textContent = "Selection decision";
+  const select = document.createElement("select");
+  select.replaceChildren(...DECISION_OPTIONS.map(([value, optionLabel]) => new Option(optionLabel, value)));
+  select.value = decisionForRecord(record);
+  label.append(labelText, select);
+
+  const status = document.createElement("p");
+  status.className = "selection-status";
+  const updateStatus = () => {
+    const saved = selectionDecisions[record.id];
+    status.textContent = saved?.decision
+      ? `Saved as ${decisionLabel(saved.decision)}${saved.updatedAt ? ` on ${formatDate(saved.updatedAt.slice(0, 10))}` : ""}.`
+      : "No selection decision saved.";
+  };
+  updateStatus();
+
+  select.addEventListener("change", () => {
+    setRecordDecision(record, select.value);
+    updateStatus();
+    if (decisionFilter?.value) updateRecordsView();
+  });
+
+  wrap.append(label, status);
+  return wrap;
 }
 
 function populateLibraryFilters() {
@@ -2056,7 +2207,7 @@ function createRecordRow(record) {
     : "Subject headings pending.";
   sourceNote.append(summary, createSourceCheckPanel(record), sourceText, provenance, issues, subjects);
 
-  body.append(title, sourceLine, note, meta, topics, flags, sourceNote);
+  body.append(title, sourceLine, note, meta, topics, flags, createSelectionControl(record), sourceNote);
 
   const links = document.createElement("div");
   links.className = "record-links";
@@ -2131,7 +2282,8 @@ function updateSummary(records) {
   const year = recordYearFilter?.selectedOptions?.[0]?.textContent || "All years";
   const section = sectionFilter?.selectedOptions?.[0]?.textContent || "All sections";
   const queue = queueFilter?.selectedOptions?.[0]?.textContent || "All queues";
-  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${year} / ${section} / ${queue}`;
+  const decision = decisionFilter?.selectedOptions?.[0]?.textContent || "All decisions";
+  recordsSummary.textContent = `Showing ${records.length} of ${allRecords.length} records / ${volume} / ${year} / ${section} / ${queue} / ${decision}`;
 }
 
 function updateRecordsView() {
@@ -2143,7 +2295,7 @@ function updateRecordsView() {
 }
 
 function enableFilters() {
-  for (const control of [searchInput, volumeFilter, recordYearFilter, sectionFilter, typeFilter, queueFilter]) {
+  for (const control of [searchInput, volumeFilter, recordYearFilter, sectionFilter, typeFilter, queueFilter, decisionFilter]) {
     control?.addEventListener("input", updateRecordsView);
     control?.addEventListener("change", updateRecordsView);
   }
@@ -2170,10 +2322,12 @@ function enableFilters() {
     if (sectionFilter) sectionFilter.value = "";
     if (typeFilter) typeFilter.value = "";
     if (queueFilter) queueFilter.value = "";
+    if (decisionFilter) decisionFilter.value = "";
     updateRecordsView();
     searchInput?.focus();
   });
   exportRecords?.addEventListener("click", exportCurrentRecords);
+  exportDecisions?.addEventListener("click", exportCurrentDecisions);
 
   clearDocumentFilters?.addEventListener("click", () => {
     if (documentSearch) documentSearch.value = "";
