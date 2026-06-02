@@ -68,6 +68,16 @@ const PDD_STATUS_OPTIONS = [
   ["not-volume", "Not volume relevant"]
 ];
 const PDD_STATUS_FILTER_OPTIONS = [["", "All statuses"], ["__unresolved__", "Unresolved"], ...PDD_STATUS_OPTIONS.slice(1)];
+const LIBRARY_STATUS_STORAGE_KEY = "clinton-europe-library-pull-statuses-v1";
+const LIBRARY_STATUS_OPTIONS = [
+  ["", "No status"],
+  ["pull-first", "Pull first"],
+  ["requested", "Requested"],
+  ["reviewed", "Reviewed"],
+  ["promote", "Promote candidate"],
+  ["defer", "Defer"]
+];
+const LIBRARY_STATUS_FILTER_OPTIONS = [["", "All statuses"], ["__unworked__", "Unworked"], ...LIBRARY_STATUS_OPTIONS.slice(1)];
 
 const volumeRoot = document.querySelector("#volume-root");
 const statementsRoot = document.querySelector("#statements-root");
@@ -98,6 +108,7 @@ const compilerGapCount = document.querySelector("#compiler-gap-count");
 const libraryLeadCount = document.querySelector("#library-lead-count");
 const selectionDecisionCount = document.querySelector("#selection-decision-count");
 const pddStatusCount = document.querySelector("#pdd-status-count");
+const libraryStatusCount = document.querySelector("#library-status-count");
 const documentSearch = document.querySelector("#document-search");
 const documentSourceFilter = document.querySelector("#document-source-filter");
 const documentYearFilter = document.querySelector("#document-year-filter");
@@ -109,6 +120,7 @@ const documentSummary = document.querySelector("#document-summary");
 const librarySearch = document.querySelector("#library-search");
 const libraryClusterFilter = document.querySelector("#library-cluster-filter");
 const libraryPriorityFilter = document.querySelector("#library-priority-filter");
+const libraryStatusFilter = document.querySelector("#library-status-filter");
 const clearLibraryFilters = document.querySelector("#clear-library-filters");
 const exportLibrary = document.querySelector("#export-library");
 const librarySummary = document.querySelector("#library-summary");
@@ -601,12 +613,32 @@ function savePddStatuses() {
   }
 }
 
+function loadLibraryStatuses() {
+  try {
+    return JSON.parse(localStorage.getItem(LIBRARY_STATUS_STORAGE_KEY) || "{}");
+  } catch {
+    return {};
+  }
+}
+
+function saveLibraryStatuses() {
+  try {
+    localStorage.setItem(LIBRARY_STATUS_STORAGE_KEY, JSON.stringify(libraryStatuses));
+  } catch {
+    // Local storage can be unavailable in some locked-down browser contexts.
+  }
+}
+
 function decisionLabel(value) {
   return DECISION_OPTIONS.find(([optionValue]) => optionValue === value)?.[1] || "No decision";
 }
 
 function pddStatusLabel(value) {
   return PDD_STATUS_OPTIONS.find(([optionValue]) => optionValue === value)?.[1] || "No status";
+}
+
+function libraryStatusLabel(value) {
+  return LIBRARY_STATUS_OPTIONS.find(([optionValue]) => optionValue === value)?.[1] || "No status";
 }
 
 function decisionForRecord(record) {
@@ -629,8 +661,18 @@ function pddStatusRows() {
     .filter(({ saved }) => saved?.status);
 }
 
+function libraryStatusRows() {
+  return (LIBRARY_RESEARCH.leads || [])
+    .map((lead) => ({ lead, saved: libraryStatuses[lead.id] }))
+    .filter(({ saved }) => saved?.status);
+}
+
 function updatePddStatusCount() {
   if (pddStatusCount) pddStatusCount.textContent = pddStatusRows().length.toString();
+}
+
+function updateLibraryStatusCount() {
+  if (libraryStatusCount) libraryStatusCount.textContent = libraryStatusRows().length.toString();
 }
 
 function setRecordDecision(record, decision) {
@@ -660,6 +702,19 @@ function setPddStatus(item, status) {
   updatePddStatusCount();
 }
 
+function setLibraryStatus(lead, status) {
+  if (status) {
+    libraryStatuses[lead.id] = {
+      status,
+      updatedAt: new Date().toISOString()
+    };
+  } else {
+    delete libraryStatuses[lead.id];
+  }
+  saveLibraryStatuses();
+  updateLibraryStatusCount();
+}
+
 function prepareRecords(records) {
   return [...records]
     .sort(byChronology)
@@ -673,6 +728,7 @@ let allRecords = prepareRecords(RECORDS);
 let selectionDecisions = loadSelectionDecisions();
 const pddLeads = POTENTIAL_DOCUMENTS.filter((item) => item.sourceType === "Presidential Daily Diary").sort(byPddChronology);
 let pddStatuses = loadPddStatuses();
+let libraryStatuses = loadLibraryStatuses();
 
 function populateFilters(records) {
   addOptions(
@@ -799,6 +855,7 @@ function setStats(records) {
   if (libraryLeadCount) libraryLeadCount.textContent = (LIBRARY_RESEARCH.leads || []).length.toString();
   updateSelectionDecisionCount();
   updatePddStatusCount();
+  updateLibraryStatusCount();
 }
 
 function createMetric(label, value, detail) {
@@ -885,6 +942,7 @@ function applyRelatedFilter(filter) {
     if (librarySearch) librarySearch.value = filter.search || "";
     if (libraryClusterFilter) libraryClusterFilter.value = filter.clusterId || "";
     if (libraryPriorityFilter) libraryPriorityFilter.value = filter.priority || "";
+    if (libraryStatusFilter) libraryStatusFilter.value = filter.status || "";
     updateLibraryView();
     document.querySelector("#library-research")?.scrollIntoView({ block: "start" });
     return;
@@ -1123,6 +1181,7 @@ function renderTriage() {
       detail:
         "The finding aids now point to high-yield box/folder runs. Start with decision-control, PC/DC, trip-book, NATO, Kosovo, and Northern Ireland clusters before browsing context files.",
       actions: [
+        { label: "Unworked high pulls", target: "library", priority: "High", status: "__unworked__" },
         { label: "High-priority pulls", target: "library", priority: "High" },
         { label: "PC/DC cluster", target: "library", clusterId: "pc-dc-policy-control" },
         { label: "NATO summit cluster", target: "library", clusterId: "nato-eu-summits" }
@@ -1248,6 +1307,7 @@ function buildCompilerWorklist() {
       output: "A box/folder pull sheet sorted by cluster, OA box, finding-aid part, page, and line.",
       evidence: `${highLibraryLeads.length} high-priority pull leads are flagged across ${libraryLeads.length} total finding-aid leads.`,
       actions: [
+        { label: "Unworked high pulls", target: "library", priority: "High", status: "__unworked__" },
         { label: "High-priority pulls", target: "library", priority: "High" },
         { label: "PC/DC cluster", target: "library", clusterId: "pc-dc-policy-control" },
         { label: "NATO summit cluster", target: "library", clusterId: "nato-eu-summits" }
@@ -2008,6 +2068,9 @@ function populateLibraryFilters() {
     });
   }
   addOptions(libraryPriorityFilter, uniqueSorted((LIBRARY_RESEARCH.leads || []).map((lead) => lead.priority)), "All priorities");
+  if (libraryStatusFilter) {
+    libraryStatusFilter.replaceChildren(...LIBRARY_STATUS_FILTER_OPTIONS.map(([value, label]) => new Option(label, value)));
+  }
 }
 
 function librarySearchText(lead) {
@@ -2021,6 +2084,7 @@ function librarySearchText(lead) {
     lead.notes,
     lead.priority,
     lead.score,
+    libraryStatusLabel(libraryStatuses[lead.id]?.status || ""),
     ...(lead.clusterLabels || []),
     ...(lead.clusterIds || [])
   ]
@@ -2033,10 +2097,14 @@ function filterLibraryLeads(leads) {
   const query = librarySearch?.value.trim().toLowerCase() || "";
   const cluster = libraryClusterFilter?.value || "";
   const priority = libraryPriorityFilter?.value || "";
+  const status = libraryStatusFilter?.value || "";
 
   return leads.filter((lead) => {
     if (cluster && !(lead.clusterIds || []).includes(cluster)) return false;
     if (priority && lead.priority !== priority) return false;
+    const leadStatus = libraryStatuses[lead.id]?.status || "";
+    if (status === "__unworked__" && leadStatus) return false;
+    if (status && status !== "__unworked__" && leadStatus !== status) return false;
     return !query || librarySearchText(lead).includes(query);
   });
 }
@@ -2050,6 +2118,9 @@ function sortLibraryLeads(leads) {
 function exportCurrentLibraryLeads() {
   const rows = sortLibraryLeads(filterLibraryLeads(LIBRARY_RESEARCH.leads || []));
   downloadCsv(`clinton-library-pull-leads-${exportDateStamp()}.csv`, rows, [
+    { label: "pull_status", value: (lead) => libraryStatusLabel(libraryStatuses[lead.id]?.status || "") },
+    { label: "pull_status_value", value: (lead) => libraryStatuses[lead.id]?.status || "" },
+    { label: "pull_status_updated_at", value: (lead) => libraryStatuses[lead.id]?.updatedAt || "" },
     { label: "priority", value: (lead) => lead.priority },
     { label: "score", value: (lead) => lead.score },
     { label: "box", value: (lead) => lead.box },
@@ -2151,6 +2222,38 @@ function renderLibraryOverview() {
   libraryOverviewRoot.replaceChildren(metrics, strategy, grid);
 }
 
+function createLibraryStatusControl(lead) {
+  const wrap = document.createElement("div");
+  wrap.className = "library-status-control selection-control";
+
+  const label = document.createElement("label");
+  const labelText = document.createElement("span");
+  labelText.textContent = "Reading-room status";
+  const select = document.createElement("select");
+  select.replaceChildren(...LIBRARY_STATUS_OPTIONS.map(([value, optionLabel]) => new Option(optionLabel, value)));
+  select.value = libraryStatuses[lead.id]?.status || "";
+  label.append(labelText, select);
+
+  const status = document.createElement("p");
+  status.className = "selection-status";
+  const updateStatus = () => {
+    const saved = libraryStatuses[lead.id];
+    status.textContent = saved?.status
+      ? `Saved as ${libraryStatusLabel(saved.status)}${saved.updatedAt ? ` on ${formatDate(saved.updatedAt.slice(0, 10))}` : ""}.`
+      : "No reading-room status saved.";
+  };
+  updateStatus();
+
+  select.addEventListener("change", () => {
+    setLibraryStatus(lead, select.value);
+    updateStatus();
+    if (libraryStatusFilter?.value) updateLibraryView();
+  });
+
+  wrap.append(label, status);
+  return wrap;
+}
+
 function createLibraryLeadRow(lead) {
   const row = document.createElement("article");
   row.className = "document-row library-row";
@@ -2188,7 +2291,7 @@ function createLibraryLeadRow(lead) {
     10
   );
 
-  body.append(title, sourceLine, note, meta);
+  body.append(title, sourceLine, note, meta, createLibraryStatusControl(lead));
 
   const links = document.createElement("div");
   links.className = "record-links";
