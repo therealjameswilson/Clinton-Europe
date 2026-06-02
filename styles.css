@@ -426,6 +426,66 @@ dd {
   line-height: 1.62;
 }
 
+.chronology-queue-root {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  margin: -8px 0 18px;
+}
+
+.chronology-queue-card {
+  display: grid;
+  gap: 7px;
+  min-height: 112px;
+  padding: 14px;
+  color: var(--ink);
+  text-align: left;
+  background: rgba(255, 253, 248, 0.8);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 10px 22px rgba(27, 38, 52, 0.07);
+  cursor: pointer;
+}
+
+.chronology-queue-card:hover,
+.chronology-queue-card:focus-visible {
+  border-color: rgba(23, 50, 77, 0.5);
+  box-shadow: 0 15px 26px rgba(27, 38, 52, 0.11);
+  outline: none;
+}
+
+.chronology-queue-card.is-active {
+  border-color: var(--blue);
+  box-shadow: inset 0 0 0 2px rgba(23, 50, 77, 0.12), 0 15px 26px rgba(27, 38, 52, 0.09);
+}
+
+.chronology-queue-card:disabled {
+  color: var(--muted);
+  cursor: not-allowed;
+  opacity: 0.66;
+}
+
+.chronology-queue-count {
+  color: var(--red);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.9rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.chronology-queue-card strong {
+  color: var(--blue);
+  font-size: 0.9rem;
+  line-height: 1.2;
+}
+
+.chronology-queue-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
 .desk-root {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(320px, 0.72fr);

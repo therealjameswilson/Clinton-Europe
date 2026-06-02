@@ -78,6 +78,50 @@ const LIBRARY_STATUS_OPTIONS = [
   ["defer", "Defer"]
 ];
 const LIBRARY_STATUS_FILTER_OPTIONS = [["", "All statuses"], ["__unworked__", "Unworked"], ...LIBRARY_STATUS_OPTIONS.slice(1)];
+const CHRONOLOGY_QUICK_FILTERS = [
+  {
+    key: "all",
+    label: "All chronology",
+    detail: "Return to the full date-ordered declassified record set.",
+    filter: {}
+  },
+  {
+    key: "source-note",
+    label: "Source-note review",
+    detail: "Settle archival path, cover-sheet, and classification-line checks.",
+    filter: { queue: "source-note" }
+  },
+  {
+    key: "pdf-missing",
+    label: "Missing PDFs",
+    detail: "Records that still need PDF or item-page confirmation.",
+    filter: { queue: "pdf-missing" }
+  },
+  {
+    key: "date-missing",
+    label: "Date pending",
+    detail: "Undated records that can break the documentary chronology.",
+    filter: { queue: "date-missing" }
+  },
+  {
+    key: "cross-volume",
+    label: "Cross-volume",
+    detail: "Records needing XXII/XXIII/XXIV placement review.",
+    filter: { queue: "cross-volume" }
+  },
+  {
+    key: "undecided",
+    label: "Undecided",
+    detail: "Candidates with no saved include/cross-reference/omit decision.",
+    filter: { decision: "__undecided__" }
+  },
+  {
+    key: "full-text",
+    label: "Full-text picks",
+    detail: "Saved records promoted for possible full text.",
+    filter: { decision: "full-text" }
+  }
+];
 
 const volumeRoot = document.querySelector("#volume-root");
 const statementsRoot = document.querySelector("#statements-root");
@@ -99,6 +143,7 @@ const worklistRoot = document.querySelector("#worklist-root");
 const pddRoot = document.querySelector("#pdd-root");
 const deskRoot = document.querySelector("#desk-root");
 const recordsRoot = document.querySelector("#records-root");
+const chronologyQueueRoot = document.querySelector("#chronology-queue-root");
 const totalRecords = document.querySelector("#total-records");
 const pdfLinkedCount = document.querySelector("#pdf-linked-count");
 const highLevelCount = document.querySelector("#high-level-count");
@@ -686,6 +731,7 @@ function setRecordDecision(record, decision) {
   }
   saveSelectionDecisions();
   updateSelectionDecisionCount();
+  renderChronologyQuickFilters(allRecords);
   renderDesk(allRecords);
 }
 
@@ -891,6 +937,82 @@ function queueButton(queue, label, count) {
     document.querySelector("#records")?.scrollIntoView({ block: "start" });
   });
   return button;
+}
+
+function resetRecordFilterControls(filter = {}) {
+  if (searchInput) searchInput.value = filter.search || "";
+  if (volumeFilter) volumeFilter.value = filter.volumeId || "";
+  if (recordYearFilter) recordYearFilter.value = filter.year || "";
+  if (sectionFilter) sectionFilter.value = filter.section || "";
+  if (typeFilter) typeFilter.value = filter.type || "";
+  if (queueFilter) queueFilter.value = filter.queue || "";
+  if (decisionFilter) decisionFilter.value = filter.decision || "";
+}
+
+function recordMatchesChronologyQuickFilter(record, filter = {}) {
+  if (filter.search && !recordSearchText(record).includes(filter.search.toLowerCase())) return false;
+  if (filter.volumeId && !(record.volumeIds || []).includes(filter.volumeId)) return false;
+  if (filter.year && chronologyYear(record) !== filter.year) return false;
+  if (filter.section && record.section !== filter.section) return false;
+  if (filter.type && record.type !== filter.type) return false;
+  if (filter.queue && !(record.queues || []).includes(filter.queue)) return false;
+
+  const recordDecision = decisionForRecord(record);
+  if (filter.decision === "__undecided__") return !recordDecision;
+  if (filter.decision) return recordDecision === filter.decision;
+
+  return true;
+}
+
+function isChronologyQuickFilterActive(filter = {}) {
+  return (
+    (searchInput?.value || "") === (filter.search || "") &&
+    (volumeFilter?.value || "") === (filter.volumeId || "") &&
+    (recordYearFilter?.value || "") === (filter.year || "") &&
+    (sectionFilter?.value || "") === (filter.section || "") &&
+    (typeFilter?.value || "") === (filter.type || "") &&
+    (queueFilter?.value || "") === (filter.queue || "") &&
+    (decisionFilter?.value || "") === (filter.decision || "")
+  );
+}
+
+function applyChronologyQuickFilter(filter = {}) {
+  resetRecordFilterControls(filter);
+  updateRecordsView();
+  document.querySelector("#records")?.scrollIntoView({ block: "start" });
+}
+
+function createChronologyQueueCard(item, count) {
+  const button = document.createElement("button");
+  const active = isChronologyQuickFilterActive(item.filter);
+  button.type = "button";
+  button.className = `chronology-queue-card${active ? " is-active" : ""}`;
+  button.dataset.chronologyQueue = item.key;
+  button.setAttribute("aria-pressed", active ? "true" : "false");
+  button.disabled = count === 0 && Object.keys(item.filter || {}).length > 0;
+
+  const countNode = document.createElement("span");
+  countNode.className = "chronology-queue-count";
+  countNode.textContent = count.toString();
+
+  const label = document.createElement("strong");
+  label.textContent = item.label;
+
+  const detail = document.createElement("p");
+  detail.textContent = item.detail;
+
+  button.append(countNode, label, detail);
+  button.addEventListener("click", () => applyChronologyQuickFilter(item.filter));
+  return button;
+}
+
+function renderChronologyQuickFilters(records) {
+  if (!chronologyQueueRoot) return;
+  const cards = CHRONOLOGY_QUICK_FILTERS.map((item) => {
+    const count = records.filter((record) => recordMatchesChronologyQuickFilter(record, item.filter)).length;
+    return createChronologyQueueCard(item, count);
+  });
+  chronologyQueueRoot.replaceChildren(...cards);
 }
 
 function severityClass(severity) {
@@ -2794,6 +2916,7 @@ function updateSummary(records) {
 
 function updateRecordsView() {
   const filtered = filterRecords(allRecords).sort(byChronology);
+  renderChronologyQuickFilters(allRecords);
   updateSummary(filtered);
   renderRecords(filtered);
   renderDesk(allRecords);
@@ -2827,13 +2950,7 @@ function enableFilters() {
   }
 
   clearFilters?.addEventListener("click", () => {
-    if (searchInput) searchInput.value = "";
-    if (volumeFilter) volumeFilter.value = "";
-    if (recordYearFilter) recordYearFilter.value = "";
-    if (sectionFilter) sectionFilter.value = "";
-    if (typeFilter) typeFilter.value = "";
-    if (queueFilter) queueFilter.value = "";
-    if (decisionFilter) decisionFilter.value = "";
+    resetRecordFilterControls();
     updateRecordsView();
     searchInput?.focus();
   });
