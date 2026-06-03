@@ -426,6 +426,20 @@ dd {
   line-height: 1.62;
 }
 
+.review-note {
+  max-width: 880px;
+  margin: -14px 0 24px;
+  padding: 12px 14px;
+  color: #41505c;
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.55;
+  background: rgba(255, 253, 248, 0.68);
+  border: 1px solid var(--line);
+  border-left: 4px solid rgba(47, 103, 95, 0.45);
+  border-radius: 6px;
+}
+
 .chronology-queue-root {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));

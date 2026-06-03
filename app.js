@@ -794,7 +794,7 @@ function savedWorkPayload() {
   return {
     version: 1,
     exportedAt: new Date().toISOString(),
-    site: "Clinton Europe FRUS Assister",
+    site: "Clinton Europe FRUS Desk",
     page: window.location.href,
     repository: "https://github.com/therealjameswilson/Clinton-Europe",
     storageKeys: {
@@ -1567,7 +1567,7 @@ function createCoverageTable(scope) {
   const note = document.createElement("p");
   note.className = "coverage-note";
   note.textContent =
-    "Counts are source appearances in the current assister, not final FRUS selections; source leads can map to multiple volumes.";
+    "Counts are source appearances in the current research desk, not final FRUS selections; source leads can map to multiple volumes.";
 
   article.append(title, table, note);
   return article;

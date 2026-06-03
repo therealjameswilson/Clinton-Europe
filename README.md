@@ -1,13 +1,16 @@
-# FRUS 1993-2000 Europe Assister
+# FRUS 1993-2000 Europe Research Desk
 
-A GitHub Pages research assister for three Clinton-era FRUS Europe volumes:
+A source-controlled GitHub Pages research desk for three Clinton-era FRUS Europe volumes:
 
 1. Volume XXII, *Europe: High-Level Contacts*
 2. Volume XXIII, *Europe: Policy, 1993-1996*
 3. Volume XXIV, *Europe: Policy, 1997-2000*
 
-The site is modeled on the Bush 41 Western Europe assister. The first working
-section is the date-ordered chronology of declassified Clinton Digital Library
+The site is modeled on the Bush 41 Western Europe companion site, but its review
+posture is deliberately conservative: every grouping is provisional, every row
+keeps source links visible, and browser-saved decisions/export packets keep the
+compiler in control. The first working section is the date-ordered chronology of
+declassified Clinton Digital Library
 memcons and telcons, with a quick queue strip for source-note review, missing
 PDFs, date-pending records, cross-volume placement, undecided records, and
 saved full-text picks. A source-note issue filter isolates release-ID, PDF,
