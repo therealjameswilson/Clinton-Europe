@@ -1,5 +1,5 @@
 window.CLINTON_EUROPE_COMPILER_GAPS = {
-  "generatedAt": "2026-05-26T02:05:00.359Z",
+  "generatedAt": "2026-06-03T02:17:17.046Z",
   "summary": {
     "totalGaps": 8,
     "criticalGaps": 2,
@@ -35,7 +35,9 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
         "frus1993-00v24": 265
       },
       "sourceNoteRecords": 436,
-      "frusStyleCandidateRecords": 429,
+      "frusReadySourceNotes": 0,
+      "sourceNoteScaffolds": 429,
+      "digitalControlRecords": 436,
       "sourceNoteMetadataGaps": 7,
       "missingPdfRecords": 10,
       "crossVolumeRecords": 436
@@ -104,17 +106,19 @@ window.CLINTON_EUROPE_COMPILER_GAPS = {
       "id": "source-note-reconciliation",
       "severity": "Critical",
       "area": "Source Integrity",
-      "title": "FRUS-style source notes still need cover-sheet verification",
-      "compilerRisk": "The memcon and telcon rows now carry clean FRUS-style candidate source notes, but none should be treated as final FRUS citations until the PDF cover sheet confirms classification, drafting or approval data, release number, and exact archival folder path.",
+      "title": "Source-note provenance still needs archival verification",
+      "compilerRisk": "The memcon and telcon rows now carry URL-free FRUS provenance scaffolds, but Digital Library release/item identifiers are only public provenance controls. A record should not become a final FRUS citation until the PDF cover sheet and finding aid confirm the exact archival path plus original classification, distribution, drafting, and approval data.",
       "evidence": [
-        "429 of 436 Clinton Library candidate records have URL-free FRUS-style candidate source notes.",
+        "0 of 436 Clinton Library candidate records have complete published-style source notes ready for compiler review.",
+        "429 records have FRUS provenance scaffolds that still need archival verification.",
+        "436 records preserve Digital Library release/item IDs as provenance controls rather than final archival paths.",
         "7 records still need core source-note metadata such as a release identifier.",
         "436 of 436 Clinton Library candidate records carry the source-note review queue.",
         "10 Clinton Library candidate records do not have direct PDF links yet.",
         "436 records are also marked for cross-volume placement review."
       ],
       "nextSteps": [
-        "Open the PDF cover sheets for high-level contacts first and normalize the archival citation path.",
+        "Open the PDF cover sheets and finding-aid targets for high-level contacts first and normalize the archival citation path.",
         "Resolve the missing-PDF queue before selecting any document as a documentary-text candidate.",
         "Record final source-note decisions back into the candidate record layer, not just the narrative report."
       ],

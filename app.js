@@ -2458,9 +2458,11 @@ function sourceCheckItems(record) {
   const issues = new Set(record.sourceNoteIssues || []);
   return [
     {
-      label: "Release ID",
-      value: record.releaseId || "Missing",
-      state: record.releaseId ? "ok" : "issue"
+      label: "Digital controls",
+      value: [record.releaseId ? `Release ${record.releaseId}` : "", record.itemId ? `Item ${record.itemId}` : ""]
+        .filter(Boolean)
+        .join(" / ") || "Missing",
+      state: record.releaseId && record.itemId ? "ok" : "issue"
     },
     {
       label: "PDF",
@@ -2468,14 +2470,14 @@ function sourceCheckItems(record) {
       state: record.pdfUrl ? "ok" : "issue"
     },
     {
-      label: "Archival folder",
-      value: issues.has("archival-box-folder-pending") ? "Cover sheet needed" : "No flag",
-      state: issues.has("archival-box-folder-pending") ? "pending" : "ok"
+      label: "FRUS archive path",
+      value: issues.has("archival-container-folder-pending") ? "Container/folder pending" : "Verified",
+      state: issues.has("archival-container-folder-pending") ? "pending" : "ok"
     },
     {
       label: "Class/draft line",
-      value: issues.has("classification-drafting-approval-pending") ? "Cover sheet needed" : "No flag",
-      state: issues.has("classification-drafting-approval-pending") ? "pending" : "ok"
+      value: issues.has("classification-distribution-drafting-pending") ? "Classification/drafting pending" : "Verified",
+      state: issues.has("classification-distribution-drafting-pending") ? "pending" : "ok"
     },
     {
       label: "Blocking issues",
@@ -3281,7 +3283,11 @@ function createRecordRow(record) {
       record.section,
       displayVolume(record) ? `Vol. ${displayVolume(record)}` : "",
       record.releaseStatus,
-      record.sourceNoteStatus?.startsWith("FRUS-style candidate") ? "FRUS source-note candidate" : record.sourceNoteStatus,
+      record.sourceNoteStatus?.startsWith("FRUS provenance scaffold")
+        ? "FRUS provenance scaffold"
+        : record.sourceNoteStatus?.startsWith("FRUS-style source note ready")
+          ? "FRUS source-note ready"
+          : record.sourceNoteStatus,
       ...(record.countries || [])
     ],
     "record-meta",

@@ -107,11 +107,17 @@ function main() {
   const potentialDocuments = readJson("data/potential-documents.json");
 
   const sourceNoteRecords = count(records, (record) => (record.queues || []).includes("source-note"));
-  const frusStyleCandidateRecords = count(records, (record) =>
-    /^FRUS-style candidate/.test(record.sourceNoteStatus || "")
+  const frusReadySourceNotes = count(records, (record) =>
+    /^FRUS-style source note ready/.test(record.sourceNoteStatus || "")
+  );
+  const sourceNoteScaffolds = count(records, (record) =>
+    /^FRUS provenance scaffold/.test(record.sourceNoteStatus || "")
   );
   const sourceNoteMetadataGaps = count(records, (record) =>
     /^Needs source-note metadata/.test(record.sourceNoteStatus || "")
+  );
+  const digitalControlRecords = count(records, (record) =>
+    (record.sourceNoteIssues || []).includes("digital-release-item-not-archival-path")
   );
   const missingPdfRecords = count(records, (record) => !record.pdfUrl);
   const crossVolumeRecords = count(records, (record) => (record.queues || []).includes("cross-volume"));
@@ -124,18 +130,20 @@ function main() {
       id: "source-note-reconciliation",
       severity: "Critical",
       area: "Source Integrity",
-      title: "FRUS-style source notes still need cover-sheet verification",
+      title: "Source-note provenance still needs archival verification",
       compilerRisk:
-        "The memcon and telcon rows now carry clean FRUS-style candidate source notes, but none should be treated as final FRUS citations until the PDF cover sheet confirms classification, drafting or approval data, release number, and exact archival folder path.",
+        "The memcon and telcon rows now carry URL-free FRUS provenance scaffolds, but Digital Library release/item identifiers are only public provenance controls. A record should not become a final FRUS citation until the PDF cover sheet and finding aid confirm the exact archival path plus original classification, distribution, drafting, and approval data.",
       evidence: [
-        `${frusStyleCandidateRecords} of ${records.length} Clinton Library candidate records have URL-free FRUS-style candidate source notes.`,
+        `${frusReadySourceNotes} of ${records.length} Clinton Library candidate records have complete published-style source notes ready for compiler review.`,
+        `${sourceNoteScaffolds} records have FRUS provenance scaffolds that still need archival verification.`,
+        `${digitalControlRecords} records preserve Digital Library release/item IDs as provenance controls rather than final archival paths.`,
         `${sourceNoteMetadataGaps} records still need core source-note metadata such as a release identifier.`,
         `${sourceNoteRecords} of ${records.length} Clinton Library candidate records carry the source-note review queue.`,
         `${missingPdfRecords} Clinton Library candidate records do not have direct PDF links yet.`,
         `${crossVolumeRecords} records are also marked for cross-volume placement review.`
       ],
       nextSteps: [
-        "Open the PDF cover sheets for high-level contacts first and normalize the archival citation path.",
+        "Open the PDF cover sheets and finding-aid targets for high-level contacts first and normalize the archival citation path.",
         "Resolve the missing-PDF queue before selecting any document as a documentary-text candidate.",
         "Record final source-note decisions back into the candidate record layer, not just the narrative report."
       ],
@@ -315,7 +323,9 @@ function main() {
         byYear: countBy(records, yearOf),
         byVolume: countBy(records, (record) => record.volumeIds || []),
         sourceNoteRecords,
-        frusStyleCandidateRecords,
+        frusReadySourceNotes,
+        sourceNoteScaffolds,
+        digitalControlRecords,
         sourceNoteMetadataGaps,
         missingPdfRecords,
         crossVolumeRecords

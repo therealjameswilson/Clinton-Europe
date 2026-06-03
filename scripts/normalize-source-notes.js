@@ -20,7 +20,7 @@ function main() {
   fs.writeFileSync(REPORT_MD_PATH, buildStyleAuditMarkdown(audit));
 
   console.log(
-    `Normalized ${normalized.length} source notes; ${audit.summary.frusStyleCandidates} FRUS-style candidates, ${audit.summary.needsSourceNoteMetadata} metadata gaps.`
+    `Normalized ${normalized.length} source notes; ${audit.summary.frusStyleCandidates} published-style ready, ${audit.summary.sourceNoteScaffolds} provenance scaffolds, ${audit.summary.needsSourceNoteMetadata} metadata gaps.`
   );
 }
 

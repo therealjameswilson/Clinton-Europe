@@ -8,6 +8,10 @@ const STYLE_MODEL = {
   ]
 };
 
+const FRUS_READY_STATUS = "FRUS-style source note ready for compiler review";
+const FRUS_SCAFFOLD_STATUS = "FRUS provenance scaffold; archival verification required";
+const NEEDS_METADATA_STATUS = "Needs source-note metadata";
+
 function uniqueInOrder(values) {
   const seen = new Set();
   return values.filter((value) => {
@@ -26,42 +30,105 @@ function cleanSentence(value = "") {
     .trim();
 }
 
+function sentence(value = "") {
+  const cleaned = cleanSentence(value);
+  if (!cleaned) return "";
+  return /[.!?]$/.test(cleaned) ? cleaned : `${cleaned}.`;
+}
+
+function joinSentences(parts) {
+  return parts.map(sentence).filter(Boolean).join(" ");
+}
+
 function firstSourceSentence(note = "") {
   const match = String(note).match(/^(Source:[^.]+(?:\.[^A-Z]*)?)/);
   return match ? cleanSentence(match[1]).replace(/\s*$/, "") : "";
 }
 
+function cleanReleaseId(value = "") {
+  const releaseId = cleanSentence(value).replace(/^release\s+/i, "");
+  if (!releaseId) return "";
+  if (/^status\b/i.test(releaseId)) return "";
+  if (/^(pending|not determined|declassified(?: in part)?|full release)$/i.test(releaseId)) return "";
+  return releaseId;
+}
+
 function releaseIdForRecord(record, fallback = "") {
-  if (record.releaseId) return record.releaseId;
-  if (fallback) return fallback;
+  const directReleaseId = cleanReleaseId(record.releaseId);
+  if (directReleaseId) return directReleaseId;
+  const fallbackReleaseId = cleanReleaseId(fallback);
+  if (fallbackReleaseId) return fallbackReleaseId;
   const note = [record.provenanceNote, record.sourceNote].filter(Boolean).join(" ");
-  const match = note.match(/\brelease\s+(.+?)(?:,\s*item|\.\s|$)/i);
-  return match ? cleanSentence(match[1]) : "";
+  const digitalMatch = note.match(/\bDigital Library release\s+(?!pending\b)([^;.]+)/i);
+  if (digitalMatch) return cleanReleaseId(digitalMatch[1]);
+  const legacyMatch = note.match(/(?:^|,\s*)release\s+(?!status\b)(.+?)(?:,\s*item|\.\s|$)/i);
+  return legacyMatch ? cleanReleaseId(legacyMatch[1]) : "";
 }
 
 function releaseSentence(record) {
   const status = record.releaseStatus || "";
-  if (/withheld|not declassified|denied/i.test(status)) return "Not declassified.";
-  if (/partial|declassified in part/i.test(status)) return "Declassified in part.";
-  if (/full/i.test(status)) return "Full release.";
-  if (/declassified/i.test(status)) return "Declassified.";
-  return "Release status not determined.";
+  if (/withheld|not declassified|denied/i.test(status)) return "Release status: Not declassified.";
+  if (/partial|declassified in part/i.test(status)) return "Release status: Declassified in part.";
+  if (/full/i.test(status)) return "Release status: Full release.";
+  if (/declassified/i.test(status)) return "Release status: Declassified.";
+  return "Release status: Not determined.";
 }
 
-function sourceParts(record, releaseId) {
+function sourceParts(record) {
   return uniqueInOrder([
     "William J. Clinton Presidential Library",
     "Clinton Presidential Records",
-    "Declassified Documents",
-    record.collection || record.source?.series,
-    releaseId ? `release ${releaseId}` : "",
-    record.itemId ? `item ${record.itemId}` : ""
+    record.collection || record.source?.series
   ]);
 }
 
+function archivalPathParts(record) {
+  return uniqueInOrder([
+    record.archivalPath,
+    record.archivalSeries,
+    record.archivalSubseries,
+    record.oaId ? `OA/ID ${record.oaId}` : "",
+    record.box ? `Box ${record.box}` : "",
+    record.folder ? `Folder: ${record.folder}` : "",
+    record.documentFile ? `Document file: ${record.documentFile}` : ""
+  ]);
+}
+
+function hasArchivalPath(record) {
+  return archivalPathParts(record).length > 0;
+}
+
+function hasClassificationDraftingLine(record) {
+  return Boolean(
+    record.originalClassification ||
+      record.classification ||
+      record.distribution ||
+      record.draftedBy ||
+      record.draftingInfo ||
+      record.approvalInfo
+  );
+}
+
+function classificationDraftingSentence(record) {
+  const parts = uniqueInOrder([
+    record.originalClassification || record.classification || "",
+    record.distribution ? `Distribution: ${record.distribution}` : "",
+    record.draftingInfo || (record.draftedBy ? `Drafted by ${record.draftedBy}` : ""),
+    record.approvalInfo
+  ]);
+  return parts.length
+    ? parts.join(". ")
+    : "Original classification, distribution, and drafting information pending.";
+}
+
 function sourceNoteForRecord(record, fallbackReleaseId = "") {
-  const releaseId = releaseIdForRecord(record, fallbackReleaseId);
-  return cleanSentence(`Source: ${sourceParts(record, releaseId).join(", ")}. ${releaseSentence(record)}`);
+  const archivalPath = archivalPathParts(record).join(", ");
+  return joinSentences([
+    `Source: ${sourceParts(record).join(", ")}${archivalPath ? `, ${archivalPath}` : ""}`,
+    hasArchivalPath(record) ? "" : "Archival container and folder pending",
+    classificationDraftingSentence(record),
+    releaseSentence(record)
+  ]);
 }
 
 function provenanceLinksForRecord(record) {
@@ -69,13 +136,23 @@ function provenanceLinksForRecord(record) {
 }
 
 function provenanceNoteForRecord(record, fallbackReleaseId = "") {
+  const releaseId = releaseIdForRecord(record, fallbackReleaseId);
   const sourceNote = sourceNoteForRecord(record, fallbackReleaseId);
-  const linkParts = [
+  const controls = uniqueInOrder([
+    releaseId ? `Digital Library release ${releaseId}` : "Digital Library release pending",
+    record.itemId ? `Digital Library item ${record.itemId}` : "",
+    record.collectionId ? `Digital Library collection ${record.collectionId}` : ""
+  ]).join("; ");
+  const linkParts = uniqueInOrder([
     record.itemUrl ? `Digital item: ${record.itemUrl}` : "",
     record.pdfUrl ? `PDF: ${record.pdfUrl}` : "",
     record.collectionUrl ? `Collection: ${record.collectionUrl}` : ""
-  ].filter(Boolean);
-  return cleanSentence([sourceNote, ...linkParts].join(" "));
+  ]).join("; ");
+  return joinSentences([
+    sourceNote,
+    controls ? `Digital Library provenance controls: ${controls}` : "",
+    linkParts ? `Review links: ${linkParts}` : ""
+  ]);
 }
 
 function sourceNoteIssues(record, fallbackReleaseId = "") {
@@ -87,10 +164,9 @@ function sourceNoteIssues(record, fallbackReleaseId = "") {
   if (!record.itemUrl) issues.push("missing-digital-item-url");
   if (!record.pdfUrl) issues.push("missing-pdf-url");
   if (!record.releaseStatus) issues.push("missing-release-status");
-  if (!/box|folder|OA\/ID/i.test(record.sourceNote || record.provenanceNote || "")) {
-    issues.push("archival-box-folder-pending");
-  }
-  issues.push("classification-drafting-approval-pending");
+  if (releaseId || record.itemId) issues.push("digital-release-item-not-archival-path");
+  if (!hasArchivalPath(record)) issues.push("archival-container-folder-pending");
+  if (!hasClassificationDraftingLine(record)) issues.push("classification-distribution-drafting-pending");
   return uniqueInOrder(issues);
 }
 
@@ -102,9 +178,16 @@ function sourceNoteStatus(issues) {
     "missing-digital-item-url",
     "missing-release-status"
   ]);
-  return issues.some((issue) => blockers.has(issue))
-    ? "Needs source-note metadata"
-    : "FRUS-style candidate; verify against PDF cover sheet";
+  if (issues.some((issue) => blockers.has(issue))) return NEEDS_METADATA_STATUS;
+  return issues.some((issue) =>
+    [
+      "digital-release-item-not-archival-path",
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending"
+    ].includes(issue)
+  )
+    ? FRUS_SCAFFOLD_STATUS
+    : FRUS_READY_STATUS;
 }
 
 function normalizeRecord(record, fallbackReleaseId = "") {
@@ -138,13 +221,23 @@ function issueCounts(records) {
 function styleSummary(records) {
   return {
     totalRecords: records.length,
-    frusStyleCandidates: records.filter((record) => /^FRUS-style candidate/.test(record.sourceNoteStatus || "")).length,
-    needsSourceNoteMetadata: records.filter((record) => /^Needs source-note metadata/.test(record.sourceNoteStatus || "")).length,
+    frusStyleCandidates: records.filter((record) => record.sourceNoteStatus === FRUS_READY_STATUS).length,
+    sourceNoteScaffolds: records.filter((record) => record.sourceNoteStatus === FRUS_SCAFFOLD_STATUS).length,
+    needsSourceNoteMetadata: records.filter((record) => record.sourceNoteStatus === NEEDS_METADATA_STATUS).length,
     legacyProvisionalNotesPresent: records.filter((record) =>
       /PDF cover sheet|compiler reconciliation|Clinton Digital Library/i.test(record.sourceNote || "")
     ).length,
     recordsWithSourceNoteUrls: records.filter((record) => /https?:\/\//i.test(record.sourceNote || "")).length,
     recordsWithProvenanceUrls: records.filter((record) => /https?:\/\//i.test(record.provenanceNote || "")).length,
+    recordsWithDigitalProvenanceControls: records.filter((record) =>
+      (record.sourceNoteIssues || []).includes("digital-release-item-not-archival-path")
+    ).length,
+    recordsRequiringArchivalPath: records.filter((record) =>
+      (record.sourceNoteIssues || []).includes("archival-container-folder-pending")
+    ).length,
+    recordsRequiringClassificationDrafting: records.filter((record) =>
+      (record.sourceNoteIssues || []).includes("classification-distribution-drafting-pending")
+    ).length,
     sourceNoteQueueRecords: records.filter((record) => (record.queues || []).includes("source-note")).length,
     issueCounts: issueCounts(records)
   };
@@ -156,9 +249,11 @@ function buildStyleAudit(records, extraSummary = {}) {
     styleBasis: {
       ...STYLE_MODEL,
       rules: [
-        "Keep the public sourceNote as a concise archival-chain sentence with release status.",
+        "Published FRUS source notes begin with the archival chain, not a public web URL or digital catalog URL.",
+        "Digital Library release and item IDs are provenance controls, not substitutes for box, folder, OA/ID, or file-title evidence.",
+        "A published-style source note is not ready until the original classification, distribution, drafting, approval, and exact archival path have been verified.",
         "Keep URLs, item pages, PDF links, and collection links in provenanceNote/provenanceLinks.",
-        "Keep source-note queue flags until the PDF cover sheet confirms classification, drafting, approval, and exact archival path."
+        "Keep source-note queue flags until the PDF cover sheet and finding aid confirm classification, drafting, approval, and exact archival path."
       ]
     },
     summary: {
@@ -196,11 +291,15 @@ function buildStyleAuditMarkdown(audit) {
     "## Summary",
     "",
     `- ${audit.summary.totalRecords} candidate records checked.`,
-    `- ${audit.summary.frusStyleCandidates} records now have URL-free FRUS-style candidate source notes.`,
+    `- ${audit.summary.frusStyleCandidates} records have complete URL-free published-style source notes ready for compiler review.`,
+    `- ${audit.summary.sourceNoteScaffolds} records have FRUS provenance scaffolds that still need archival verification.`,
     `- ${audit.summary.needsSourceNoteMetadata} records need core source-note metadata before they can be normalized.`,
     `- ${audit.summary.legacyProvisionalNotesPresent} public source notes still contain legacy provisional wording.`,
     `- ${audit.summary.recordsWithSourceNoteUrls} public source notes contain URLs.`,
     `- ${audit.summary.recordsWithProvenanceUrls} provenance notes contain URLs for item/PDF review.`,
+    `- ${audit.summary.recordsWithDigitalProvenanceControls} records keep Digital Library release/item IDs as provenance controls, not final archival paths.`,
+    `- ${audit.summary.recordsRequiringArchivalPath} records still require archival container/folder verification.`,
+    `- ${audit.summary.recordsRequiringClassificationDrafting} records still require original classification/distribution/drafting verification.`,
     `- ${audit.summary.sourceNoteQueueRecords} records remain in the source-note queue for PDF cover-sheet verification.`,
     "",
     "## Issue Counts",

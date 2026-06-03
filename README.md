@@ -86,12 +86,16 @@ The script writes:
 - `data/records.js`
 - `reports/clinton-digital-library-harvest.json`
 
-Every harvested item is treated as a preliminary source-note record. Use the PDF
-cover sheet and item provenance to reconcile each row into a final FRUS-style
-source note before using the record in a documentary chronology.
+Every harvested item is treated as a preliminary source-note record. Published
+FRUS first notes require the archival chain plus original classification,
+distribution, and drafting information; Clinton Digital Library release and item
+IDs are retained as provenance controls, not as substitutes for box, folder,
+OA/ID, or file-title evidence. Use the PDF cover sheet, finding aid, and item
+provenance to reconcile each row into a final FRUS-style source note before using
+the record in a documentary chronology.
 
-To normalize the public source-note field to the FRUS-style archival-chain
-pattern while preserving item/PDF URLs in provenance notes:
+To normalize the public source-note field to a FRUS provenance scaffold while
+preserving item/PDF URLs and release/item IDs in provenance notes:
 
 ```bash
 node scripts/normalize-source-notes.js
