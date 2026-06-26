@@ -452,6 +452,7 @@ function summarizeEvent(text) {
 
 function sourceNote(item, event) {
   const parts = [
+    "William J. Clinton Presidential Library",
     "Clinton Presidential Records",
     "Presidential Daily Diary",
     "Ellen McCathran",

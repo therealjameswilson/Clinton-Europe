@@ -24,7 +24,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 6, 1998, Diary entry 52578. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 6, 1998, Diary entry 52578. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
     "sections": [
       "Western Europe Bilateral",
       "NATO and European Security"
@@ -82,7 +82,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 5, 1994, Diary entry 20725. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 5, 1994, Diary entry 20725. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
     "sections": [
       "Western Europe Bilateral",
       "Central and Eastern Europe",
@@ -142,7 +142,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 10, 1994, Diary entry 13210. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 10, 1994, Diary entry 13210. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -199,7 +199,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 1, 1998, Diary entry 52239. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 1, 1998, Diary entry 52239. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
     "sections": [
       "Western Europe Bilateral",
       "Balkans and Kosovo"
@@ -256,7 +256,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 16, 1998, Diary entry 56429. NARA Catalog ID 101784486. Clinton Digital Library item 95015.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 16, 1998, Diary entry 56429. NARA Catalog ID 101784486. Clinton Digital Library item 95015.",
     "sections": [
       "NATO and European Security"
     ],
@@ -311,7 +311,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 12, 1999, Diary entry 46648. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 12, 1999, Diary entry 46648. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
     "sections": [
       "Balkans and Kosovo",
       "Central and Eastern Europe"
@@ -368,7 +368,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 31, 2000, Diary entry 65637. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 31, 2000, Diary entry 65637. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
     "sections": [
       "Western Europe Bilateral",
       "EU, OSCE, and Summits"
@@ -425,7 +425,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 27, 2000, Diary entry 60523. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 27, 2000, Diary entry 60523. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -482,7 +482,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, September 21, 1993, Diary entry 7962. NARA Catalog ID 17367517. Clinton Digital Library item 36465.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, September 21, 1993, Diary entry 7962. NARA Catalog ID 17367517. Clinton Digital Library item 36465.",
     "sections": [
       "Western Europe Bilateral",
       "Central and Eastern Europe",
@@ -538,7 +538,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 9, 1997, Diary entry 35003. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 9, 1997, Diary entry 35003. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
     "sections": [
       "NATO and European Security"
     ],
@@ -592,7 +592,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 15, 1999, Diary entry 70322. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 15, 1999, Diary entry 70322. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
     "sections": [
       "NATO and European Security"
     ],
@@ -646,7 +646,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72206. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72206. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "NATO and European Security"
     ],
@@ -700,7 +700,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 26, 1999, Diary entry 45696. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 26, 1999, Diary entry 45696. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "NATO and European Security"
     ],
@@ -754,7 +754,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 17, 2000, Diary entry 74831. NARA Catalog ID 101784486. Clinton Digital Library item 95073.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 17, 2000, Diary entry 74831. NARA Catalog ID 101784486. Clinton Digital Library item 95073.",
     "sections": [
       "NATO and European Security",
       "EU, OSCE, and Summits"
@@ -810,7 +810,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1731. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1731. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -866,7 +866,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 12, 1994, Diary entry 15631. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 12, 1994, Diary entry 15631. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -922,7 +922,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, July 4, 1995, Diary entry 24137. NARA Catalog ID 17368181. Clinton Digital Library item 36473.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, July 4, 1995, Diary entry 24137. NARA Catalog ID 17368181. Clinton Digital Library item 36473.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -978,7 +978,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, August 13, 1995, Diary entry 25285. NARA Catalog ID 101784486. Clinton Digital Library item 94973.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, August 13, 1995, Diary entry 25285. NARA Catalog ID 101784486. Clinton Digital Library item 94973.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1034,7 +1034,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 3, 1997, Diary entry 34507. NARA Catalog ID 101784486. Clinton Digital Library item 94994.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 3, 1997, Diary entry 34507. NARA Catalog ID 101784486. Clinton Digital Library item 94994.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1090,7 +1090,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 27, 1997, Diary entry 35569. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 27, 1997, Diary entry 35569. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1146,7 +1146,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 21, 1997, Diary entry 37223. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 21, 1997, Diary entry 37223. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1202,7 +1202,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, November 15, 1997, Diary entry 37570. NARA Catalog ID 101784486. Clinton Digital Library item 95000.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, November 15, 1997, Diary entry 37570. NARA Catalog ID 101784486. Clinton Digital Library item 95000.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1258,7 +1258,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, December 9, 1997, Diary entry 37889. NARA Catalog ID 17368185. Clinton Digital Library item 36477.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, December 9, 1997, Diary entry 37889. NARA Catalog ID 17368185. Clinton Digital Library item 36477.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1314,7 +1314,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 5, 1998, Diary entry 39583. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 5, 1998, Diary entry 39583. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1370,7 +1370,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 9, 1998, Diary entry 39620. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 9, 1998, Diary entry 39620. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1426,7 +1426,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 10, 1998, Diary entry 39652. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 10, 1998, Diary entry 39652. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1482,7 +1482,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 24, 1998, Diary entry 39738. NARA Catalog ID 101784486. Clinton Digital Library item 95009.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 24, 1998, Diary entry 39738. NARA Catalog ID 101784486. Clinton Digital Library item 95009.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1538,7 +1538,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 31, 1998, Diary entry 08033. NARA Catalog ID 101784486. Clinton Digital Library item 95015.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 31, 1998, Diary entry 08033. NARA Catalog ID 101784486. Clinton Digital Library item 95015.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1594,7 +1594,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 6, 1998, Diary entry 40818. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 6, 1998, Diary entry 40818. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1650,7 +1650,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 16, 1998, Diary entry 41030. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 16, 1998, Diary entry 41030. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1706,7 +1706,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 27, 1998, Diary entry 41346. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 27, 1998, Diary entry 41346. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1762,7 +1762,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 11, 1998, Diary entry 41711. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 11, 1998, Diary entry 41711. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1818,7 +1818,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 24, 1998, Diary entry 42613. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 24, 1998, Diary entry 42613. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1874,7 +1874,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 10, 1998, Diary entry 42986. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 10, 1998, Diary entry 42986. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1930,7 +1930,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 13, 1998, Diary entry 43034. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 13, 1998, Diary entry 43034. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -1986,7 +1986,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43062. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43062. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2042,7 +2042,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 16, 1998, Diary entry 43124. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 16, 1998, Diary entry 43124. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2098,7 +2098,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 11, 1998, Diary entry 43434. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 11, 1998, Diary entry 43434. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2154,7 +2154,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 14, 1998, Diary entry 43471. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 14, 1998, Diary entry 43471. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2210,7 +2210,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 15, 1998, Diary entry 43484. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 15, 1998, Diary entry 43484. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2266,7 +2266,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 17, 1998, Diary entry 43637. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 17, 1998, Diary entry 43637. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2322,7 +2322,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, January 21, 1999, Diary entry 44216. NARA Catalog ID 101784486. Clinton Digital Library item 95027.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, January 21, 1999, Diary entry 44216. NARA Catalog ID 101784486. Clinton Digital Library item 95027.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2378,7 +2378,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 44414. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 44414. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2434,7 +2434,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 4, 1999, Diary entry 44914. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 4, 1999, Diary entry 44914. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2490,7 +2490,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 14, 1999, Diary entry 45006. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 14, 1999, Diary entry 45006. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2546,7 +2546,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 3, 1999, Diary entry 45341. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 3, 1999, Diary entry 45341. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2602,7 +2602,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 29, 1999, Diary entry 45977. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 29, 1999, Diary entry 45977. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2658,7 +2658,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 4, 1999, Diary entry 46034. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 4, 1999, Diary entry 46034. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2714,7 +2714,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 18, 1999, Diary entry 46292. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 18, 1999, Diary entry 46292. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2770,7 +2770,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46531. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46531. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2826,7 +2826,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 3, 1999, Diary entry 46488. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 3, 1999, Diary entry 46488. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2882,7 +2882,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46549. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46549. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2938,7 +2938,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46572. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46572. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -2994,7 +2994,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 18, 1999, Diary entry 74813. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 18, 1999, Diary entry 74813. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3050,7 +3050,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 46902. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 46902. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3106,7 +3106,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 30, 1999, Diary entry 46998. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 30, 1999, Diary entry 46998. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3162,7 +3162,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 1, 1999, Diary entry 47003. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 1, 1999, Diary entry 47003. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3218,7 +3218,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47014. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47014. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3274,7 +3274,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 12, 1999, Diary entry 47143. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 12, 1999, Diary entry 47143. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3330,7 +3330,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, September 8, 1999, Diary entry 47919. NARA Catalog ID 101784486. Clinton Digital Library item 95042.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, September 8, 1999, Diary entry 47919. NARA Catalog ID 101784486. Clinton Digital Library item 95042.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3386,7 +3386,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 26, 1999, Diary entry 49511. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 26, 1999, Diary entry 49511. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3442,7 +3442,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 31, 2000, Diary entry 52813. NARA Catalog ID 101784486. Clinton Digital Library item 95052.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 31, 2000, Diary entry 52813. NARA Catalog ID 101784486. Clinton Digital Library item 95052.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3498,7 +3498,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 8, 2000, Diary entry 54396. NARA Catalog ID 101784486. Clinton Digital Library item 95053.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 8, 2000, Diary entry 54396. NARA Catalog ID 101784486. Clinton Digital Library item 95053.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3554,7 +3554,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 14, 2000, Diary entry 55603. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 14, 2000, Diary entry 55603. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3610,7 +3610,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, April 19, 2000, Diary entry 57658. NARA Catalog ID 101784486. Clinton Digital Library item 95059.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, April 19, 2000, Diary entry 57658. NARA Catalog ID 101784486. Clinton Digital Library item 95059.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3666,7 +3666,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 4, 2000, Diary entry 59715. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 4, 2000, Diary entry 59715. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3722,7 +3722,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 10, 2000, Diary entry 59795. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 10, 2000, Diary entry 59795. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3778,7 +3778,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 15, 2000, Diary entry 59872. NARA Catalog ID 101784486. Clinton Digital Library item 95061.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 15, 2000, Diary entry 59872. NARA Catalog ID 101784486. Clinton Digital Library item 95061.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3834,7 +3834,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 23, 2000, Diary entry 70754. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 23, 2000, Diary entry 70754. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3890,7 +3890,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, November 10, 2000, Diary entry 70403. NARA Catalog ID 101784486. Clinton Digital Library item 95074.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, November 10, 2000, Diary entry 70403. NARA Catalog ID 101784486. Clinton Digital Library item 95074.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -3946,7 +3946,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, November 23, 2000, Diary entry 72027. NARA Catalog ID 101784486. Clinton Digital Library item 95074.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, November 23, 2000, Diary entry 72027. NARA Catalog ID 101784486. Clinton Digital Library item 95074.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -4002,7 +4002,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2010-0083-F, December 13, 2000, Diary entry 76096. NARA Catalog ID 17368203. Clinton Digital Library item 36491.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2010-0083-F, December 13, 2000, Diary entry 76096. NARA Catalog ID 17368203. Clinton Digital Library item 36491.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -4058,7 +4058,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, October 6, 1993, Diary entry 9943. NARA Catalog ID 17368174. Clinton Digital Library item 36466.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2010-0083-F, October 6, 1993, Diary entry 9943. NARA Catalog ID 17368174. Clinton Digital Library item 36466.",
     "sections": [
       "NATO and European Security"
     ],
@@ -4111,7 +4111,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 46897. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 46897. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -9461,7 +9461,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1730. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1730. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9516,7 +9516,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47458. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47458. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9571,7 +9571,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 45648. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 45648. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9626,7 +9626,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 9, 1999, Diary entry 46103. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 9, 1999, Diary entry 46103. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9681,7 +9681,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 21, 1999, Diary entry 53682. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 21, 1999, Diary entry 53682. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9736,7 +9736,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 7, 2000, Diary entry 51650. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 7, 2000, Diary entry 51650. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9791,7 +9791,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 15, 2000, Diary entry 56281. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 15, 2000, Diary entry 56281. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9846,7 +9846,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1752. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1752. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -9902,7 +9902,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 10, 1994, Diary entry 19243. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 10, 1994, Diary entry 19243. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
     "sections": [
       "NATO and European Security",
       "Balkans and Kosovo"
@@ -9954,7 +9954,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72208. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72208. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "NATO and European Security"
     ],
@@ -10008,7 +10008,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3291. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3291. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10062,7 +10062,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 3, 1993, Diary entry 4504. NARA Catalog ID 101784486. Clinton Digital Library item 94932.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 3, 1993, Diary entry 4504. NARA Catalog ID 101784486. Clinton Digital Library item 94932.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10116,7 +10116,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 26, 1993, Diary entry 5330. NARA Catalog ID 101784486. Clinton Digital Library item 94933.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 26, 1993, Diary entry 5330. NARA Catalog ID 101784486. Clinton Digital Library item 94933.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10170,7 +10170,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, July 2, 1993, Diary entry 5605. NARA Catalog ID 101784486. Clinton Digital Library item 94934.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, July 2, 1993, Diary entry 5605. NARA Catalog ID 101784486. Clinton Digital Library item 94934.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10224,7 +10224,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 7, 1993, Diary entry 7595. NARA Catalog ID 101784486. Clinton Digital Library item 94936.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 7, 1993, Diary entry 7595. NARA Catalog ID 101784486. Clinton Digital Library item 94936.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10278,7 +10278,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 9, 1995, Diary entry 23555. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 9, 1995, Diary entry 23555. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10332,7 +10332,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, April 12, 1996, Diary entry 29712. NARA Catalog ID 101784486. Clinton Digital Library item 94981.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, April 12, 1996, Diary entry 29712. NARA Catalog ID 101784486. Clinton Digital Library item 94981.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10386,7 +10386,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 6, 1997, Diary entry 32821. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 6, 1997, Diary entry 32821. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10440,7 +10440,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 21, 1997, Diary entry 37221. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 21, 1997, Diary entry 37221. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10494,7 +10494,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 23, 1998, Diary entry 39043. NARA Catalog ID 101784486. Clinton Digital Library item 95005.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 23, 1998, Diary entry 39043. NARA Catalog ID 101784486. Clinton Digital Library item 95005.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10548,7 +10548,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 11, 1998, Diary entry 50365. NARA Catalog ID 101784486. Clinton Digital Library item 95006.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 11, 1998, Diary entry 50365. NARA Catalog ID 101784486. Clinton Digital Library item 95006.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -10602,7 +10602,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50568. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50568. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10656,7 +10656,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50592. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50592. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10710,7 +10710,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 10, 1998, Diary entry 39639. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 10, 1998, Diary entry 39639. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10764,7 +10764,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 8, 1998, Diary entry 40515. NARA Catalog ID 101784486. Clinton Digital Library item 95014.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 8, 1998, Diary entry 40515. NARA Catalog ID 101784486. Clinton Digital Library item 95014.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10818,7 +10818,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 5, 1998, Diary entry 58402. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 5, 1998, Diary entry 58402. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10872,7 +10872,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 7, 1998, Diary entry 40832. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 7, 1998, Diary entry 40832. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10926,7 +10926,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59492. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59492. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -10980,7 +10980,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 25, 1998, Diary entry 42063. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 25, 1998, Diary entry 42063. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11034,7 +11034,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 16, 1998, Diary entry 42490. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 16, 1998, Diary entry 42490. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11088,7 +11088,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 26, 1998, Diary entry 42679. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 26, 1998, Diary entry 42679. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11142,7 +11142,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 29, 1998, Diary entry 42737. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 29, 1998, Diary entry 42737. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11196,7 +11196,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 5, 1999, Diary entry 69570. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 5, 1999, Diary entry 69570. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11250,7 +11250,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 23, 1999, Diary entry 45127. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 23, 1999, Diary entry 45127. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11304,7 +11304,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 30, 1999, Diary entry 45283. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 30, 1999, Diary entry 45283. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11358,7 +11358,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 1, 1999, Diary entry 45324. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 1, 1999, Diary entry 45324. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11412,7 +11412,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 19, 1999, Diary entry 45611. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 19, 1999, Diary entry 45611. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11466,7 +11466,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 20, 1999, Diary entry 72104. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 20, 1999, Diary entry 72104. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11520,7 +11520,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 21, 1999, Diary entry 72181. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 21, 1999, Diary entry 72181. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11574,7 +11574,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 29, 1999, Diary entry 45975. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 29, 1999, Diary entry 45975. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11628,7 +11628,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 3, 1999, Diary entry 73060. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 3, 1999, Diary entry 73060. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -11682,7 +11682,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 13, 1999, Diary entry 46162. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 13, 1999, Diary entry 46162. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11736,7 +11736,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 26, 1999, Diary entry 46434. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 26, 1999, Diary entry 46434. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11790,7 +11790,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 3, 1999, Diary entry 46486. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 3, 1999, Diary entry 46486. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11844,7 +11844,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46558. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 6, 1999, Diary entry 46558. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11898,7 +11898,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47009. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47009. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -11952,7 +11952,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47012. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 2, 1999, Diary entry 47012. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12006,7 +12006,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, October 27, 1999, Diary entry 51845. NARA Catalog ID 101784486. Clinton Digital Library item 95044.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, October 27, 1999, Diary entry 51845. NARA Catalog ID 101784486. Clinton Digital Library item 95044.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12060,7 +12060,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 8, 1999, Diary entry 52984. NARA Catalog ID 101784486. Clinton Digital Library item 95045.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 8, 1999, Diary entry 52984. NARA Catalog ID 101784486. Clinton Digital Library item 95045.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -12114,7 +12114,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 27, 1999, Diary entry 49576. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 27, 1999, Diary entry 49576. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12168,7 +12168,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, December 20, 1999, Diary entry 56095. NARA Catalog ID 101784486. Clinton Digital Library item 95049.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, December 20, 1999, Diary entry 56095. NARA Catalog ID 101784486. Clinton Digital Library item 95049.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12222,7 +12222,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 19, 2000, Diary entry 52494. NARA Catalog ID 101784486. Clinton Digital Library item 95052.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 19, 2000, Diary entry 52494. NARA Catalog ID 101784486. Clinton Digital Library item 95052.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12276,7 +12276,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 10, 2000, Diary entry 54419. NARA Catalog ID 101784486. Clinton Digital Library item 95053.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 10, 2000, Diary entry 54419. NARA Catalog ID 101784486. Clinton Digital Library item 95053.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12330,7 +12330,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 26, 2000, Diary entry 54601. NARA Catalog ID 101784486. Clinton Digital Library item 95054.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 26, 2000, Diary entry 54601. NARA Catalog ID 101784486. Clinton Digital Library item 95054.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12384,7 +12384,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 13, 2000, Diary entry 55555. NARA Catalog ID 101784486. Clinton Digital Library item 95055.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 13, 2000, Diary entry 55555. NARA Catalog ID 101784486. Clinton Digital Library item 95055.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12438,7 +12438,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 27, 2000, Diary entry 60512. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 27, 2000, Diary entry 60512. NARA Catalog ID 101784486. Clinton Digital Library item 95062.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12492,7 +12492,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 1, 2000, Diary entry 67051. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 1, 2000, Diary entry 67051. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12546,7 +12546,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 2, 2000, Diary entry 67086. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 2, 2000, Diary entry 67086. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12600,7 +12600,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 5, 2000, Diary entry 67142. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 5, 2000, Diary entry 67142. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -12654,7 +12654,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 8, 2000, Diary entry 72984. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 8, 2000, Diary entry 72984. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12708,7 +12708,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 6, 2000, Diary entry 68393. NARA Catalog ID 101784486. Clinton Digital Library item 95072.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 6, 2000, Diary entry 68393. NARA Catalog ID 101784486. Clinton Digital Library item 95072.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12762,7 +12762,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1748. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 24, 1993, Diary entry 1748. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12815,7 +12815,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 17, 1993, Diary entry 2819. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 17, 1993, Diary entry 2819. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12868,7 +12868,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3290. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3290. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12921,7 +12921,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3301. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3301. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -12974,7 +12974,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, April 20, 1993, Diary entry 3194. NARA Catalog ID 101784486. Clinton Digital Library item 94929.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, April 20, 1993, Diary entry 3194. NARA Catalog ID 101784486. Clinton Digital Library item 94929.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13027,7 +13027,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 15, 1993, Diary entry 7333. NARA Catalog ID 101784486. Clinton Digital Library item 94933.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, June 15, 1993, Diary entry 7333. NARA Catalog ID 101784486. Clinton Digital Library item 94933.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13080,7 +13080,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 2, 1993, Diary entry 7976. NARA Catalog ID 101784486. Clinton Digital Library item 94936.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 2, 1993, Diary entry 7976. NARA Catalog ID 101784486. Clinton Digital Library item 94936.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -13133,7 +13133,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 27, 1993, Diary entry 9463. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 27, 1993, Diary entry 9463. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -13186,7 +13186,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, October 5, 1993, Diary entry 8405. NARA Catalog ID 101784486. Clinton Digital Library item 94938.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, October 5, 1993, Diary entry 8405. NARA Catalog ID 101784486. Clinton Digital Library item 94938.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -13239,7 +13239,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 6, 1993, Diary entry 12843. NARA Catalog ID 101784486. Clinton Digital Library item 94942.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 6, 1993, Diary entry 12843. NARA Catalog ID 101784486. Clinton Digital Library item 94942.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13292,7 +13292,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 12, 1993, Diary entry 10234. NARA Catalog ID 101784486. Clinton Digital Library item 94942.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 12, 1993, Diary entry 10234. NARA Catalog ID 101784486. Clinton Digital Library item 94942.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13345,7 +13345,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14264. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14264. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
     "sections": [
       "NATO and European Security"
     ],
@@ -13395,7 +13395,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14263. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14263. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
     "sections": [
       "NATO and European Security"
     ],
@@ -13445,7 +13445,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14266. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 3, 1994, Diary entry 14266. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
     "sections": [
       "NATO and European Security"
     ],
@@ -13495,7 +13495,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 31, 1994, Diary entry 14923. NARA Catalog ID 101784486. Clinton Digital Library item 94945.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 31, 1994, Diary entry 14923. NARA Catalog ID 101784486. Clinton Digital Library item 94945.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13548,7 +13548,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 10, 1994, Diary entry 11820. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 10, 1994, Diary entry 11820. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -13601,7 +13601,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 20, 1994, Diary entry 12169. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 20, 1994, Diary entry 12169. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -13654,7 +13654,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 12, 1994, Diary entry 19540. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 12, 1994, Diary entry 19540. NARA Catalog ID 101784486. Clinton Digital Library item 94950.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13707,7 +13707,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, June 3, 1994, Diary entry 14774. NARA Catalog ID 101784486. Clinton Digital Library item 94953.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, June 3, 1994, Diary entry 14774. NARA Catalog ID 101784486. Clinton Digital Library item 94953.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -13760,7 +13760,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, August 25, 1994, Diary entry 16517. NARA Catalog ID 101784486. Clinton Digital Library item 94955.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, August 25, 1994, Diary entry 16517. NARA Catalog ID 101784486. Clinton Digital Library item 94955.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13813,7 +13813,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 5, 1994, Diary entry 20724. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 5, 1994, Diary entry 20724. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -13866,7 +13866,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 3, 1995, Diary entry 23268. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 3, 1995, Diary entry 23268. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13919,7 +13919,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 9, 1995, Diary entry 23542. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 9, 1995, Diary entry 23542. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -13972,7 +13972,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, March 16, 1995, Diary entry 25381. NARA Catalog ID 101784486. Clinton Digital Library item 94965.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, March 16, 1995, Diary entry 25381. NARA Catalog ID 101784486. Clinton Digital Library item 94965.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -14025,7 +14025,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, March 17, 1995, Diary entry 25424. NARA Catalog ID 101784486. Clinton Digital Library item 94965.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, March 17, 1995, Diary entry 25424. NARA Catalog ID 101784486. Clinton Digital Library item 94965.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -14078,7 +14078,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 4, 1995, Diary entry 29265. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 4, 1995, Diary entry 29265. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -14131,7 +14131,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 10, 1995, Diary entry 29764. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 10, 1995, Diary entry 29764. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -14184,7 +14184,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 11, 1995, Diary entry 30028. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, May 11, 1995, Diary entry 30028. NARA Catalog ID 101784486. Clinton Digital Library item 94969.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -14237,7 +14237,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, January 26, 1996, Diary entry 28081. NARA Catalog ID 101784486. Clinton Digital Library item 94978.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 6, 2013-0549-F, January 26, 1996, Diary entry 28081. NARA Catalog ID 101784486. Clinton Digital Library item 94978.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -14290,7 +14290,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 7, 1996, Diary entry 29959. NARA Catalog ID 101784486. Clinton Digital Library item 94982.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 7, 1996, Diary entry 29959. NARA Catalog ID 101784486. Clinton Digital Library item 94982.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -14343,7 +14343,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 5, 1996, Diary entry 30882. NARA Catalog ID 101784486. Clinton Digital Library item 94984.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 5, 1996, Diary entry 30882. NARA Catalog ID 101784486. Clinton Digital Library item 94984.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -14396,7 +14396,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, November 14, 1996, Diary entry 32350. NARA Catalog ID 101784486. Clinton Digital Library item 94988.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, November 14, 1996, Diary entry 32350. NARA Catalog ID 101784486. Clinton Digital Library item 94988.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -14449,7 +14449,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, February 28, 1997, Diary entry 33382. NARA Catalog ID 101784486. Clinton Digital Library item 94991.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, February 28, 1997, Diary entry 33382. NARA Catalog ID 101784486. Clinton Digital Library item 94991.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -14502,7 +14502,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 21, 1997, Diary entry 35460. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 21, 1997, Diary entry 35460. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -14555,7 +14555,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 30, 1997, Diary entry 37302. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, October 30, 1997, Diary entry 37302. NARA Catalog ID 101784486. Clinton Digital Library item 94999.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -14608,7 +14608,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, November 15, 1997, Diary entry 37581. NARA Catalog ID 101784486. Clinton Digital Library item 95000.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, November 15, 1997, Diary entry 37581. NARA Catalog ID 101784486. Clinton Digital Library item 95000.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -14661,7 +14661,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 1, 1998, Diary entry 38666. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 1, 1998, Diary entry 38666. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -14714,7 +14714,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47470. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47470. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -14767,7 +14767,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47478. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47478. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -14820,7 +14820,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 6, 1998, Diary entry 48440. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 6, 1998, Diary entry 48440. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -14873,7 +14873,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 6, 1998, Diary entry 48448. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 6, 1998, Diary entry 48448. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -14926,7 +14926,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50572. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50572. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -14979,7 +14979,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50593. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50593. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15032,7 +15032,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50599. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, March 17, 1998, Diary entry 50599. NARA Catalog ID 101784486. Clinton Digital Library item 95007.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15085,7 +15085,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 6, 1998, Diary entry 39600. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, April 6, 1998, Diary entry 39600. NARA Catalog ID 101784486. Clinton Digital Library item 95008.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -15138,7 +15138,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 4, 1998, Diary entry 39832. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 4, 1998, Diary entry 39832. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -15191,7 +15191,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 12, 1998, Diary entry 39930. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 12, 1998, Diary entry 39930. NARA Catalog ID 101784486. Clinton Digital Library item 95010.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -15244,7 +15244,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 23, 1998, Diary entry 40030. NARA Catalog ID 101784486. Clinton Digital Library item 95011.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, May 23, 1998, Diary entry 40030. NARA Catalog ID 101784486. Clinton Digital Library item 95011.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15297,7 +15297,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 16, 1998, Diary entry 40339. NARA Catalog ID 101784486. Clinton Digital Library item 95013.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 16, 1998, Diary entry 40339. NARA Catalog ID 101784486. Clinton Digital Library item 95013.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -15350,7 +15350,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 8, 1998, Diary entry 55444. NARA Catalog ID 101784486. Clinton Digital Library item 95014.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, July 8, 1998, Diary entry 55444. NARA Catalog ID 101784486. Clinton Digital Library item 95014.",
     "sections": [
       "NATO and European Security"
     ],
@@ -15400,7 +15400,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 20, 1998, Diary entry 41137. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 20, 1998, Diary entry 41137. NARA Catalog ID 101784486. Clinton Digital Library item 95017.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15453,7 +15453,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59429. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59429. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15506,7 +15506,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59440. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59440. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15559,7 +15559,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59460. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59460. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15612,7 +15612,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59479. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59479. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15665,7 +15665,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59488. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 4, 1998, Diary entry 59488. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15718,7 +15718,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 12, 1998, Diary entry 41741. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 12, 1998, Diary entry 41741. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -15771,7 +15771,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 21, 1998, Diary entry 60123. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 21, 1998, Diary entry 60123. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15824,7 +15824,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 30, 1998, Diary entry 42162. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 30, 1998, Diary entry 42162. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15877,7 +15877,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 16, 1998, Diary entry 42493. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 16, 1998, Diary entry 42493. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -15930,7 +15930,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 4, 1998, Diary entry 63199. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 4, 1998, Diary entry 63199. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
     "sections": [
       "NATO and European Security"
     ],
@@ -15980,7 +15980,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43063. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43063. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16033,7 +16033,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43066. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 14, 1998, Diary entry 43066. NARA Catalog ID 101784486. Clinton Digital Library item 95023.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16086,7 +16086,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 68226. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 68226. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16139,7 +16139,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 68227. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 4, 1999, Diary entry 68227. NARA Catalog ID 101784486. Clinton Digital Library item 95028.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16192,7 +16192,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70569. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70569. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16245,7 +16245,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70574. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70574. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16298,7 +16298,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 24, 1999, Diary entry 45147. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 24, 1999, Diary entry 45147. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -16351,7 +16351,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 31, 1999, Diary entry 71241. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 31, 1999, Diary entry 71241. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16404,7 +16404,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 3, 1999, Diary entry 45343. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 3, 1999, Diary entry 45343. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16457,7 +16457,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 18, 1999, Diary entry 45535. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 18, 1999, Diary entry 45535. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -16510,7 +16510,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 18, 1999, Diary entry 45542. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 18, 1999, Diary entry 45542. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -16563,7 +16563,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 21, 1999, Diary entry 72192. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 21, 1999, Diary entry 72192. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16616,7 +16616,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72210. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72210. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "NATO and European Security"
     ],
@@ -16669,7 +16669,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72231. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72231. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16722,7 +16722,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 25, 1999, Diary entry 45676. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 25, 1999, Diary entry 45676. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -16775,7 +16775,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46522. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46522. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -16828,7 +16828,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46527. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 27, 1999, Diary entry 46527. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -16881,7 +16881,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 31, 1999, Diary entry 46462. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 31, 1999, Diary entry 46462. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -16934,7 +16934,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 8, 1999, Diary entry 46592. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 8, 1999, Diary entry 46592. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -16987,7 +16987,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 17, 1999, Diary entry 74752. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 17, 1999, Diary entry 74752. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17040,7 +17040,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 18, 1999, Diary entry 74823. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 18, 1999, Diary entry 74823. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17093,7 +17093,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 1, 1999, Diary entry 47006. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 1, 1999, Diary entry 47006. NARA Catalog ID 101784486. Clinton Digital Library item 95038.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17146,7 +17146,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 27, 1999, Diary entry 76045. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 27, 1999, Diary entry 76045. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17199,7 +17199,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 19, 1999, Diary entry 53596. NARA Catalog ID 101784486. Clinton Digital Library item 95046.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 19, 1999, Diary entry 53596. NARA Catalog ID 101784486. Clinton Digital Library item 95046.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17252,7 +17252,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 19, 1999, Diary entry 53635. NARA Catalog ID 101784486. Clinton Digital Library item 95046.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 19, 1999, Diary entry 53635. NARA Catalog ID 101784486. Clinton Digital Library item 95046.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17305,7 +17305,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 23, 1999, Diary entry 54756. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 23, 1999, Diary entry 54756. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17358,7 +17358,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, December 31, 1999, Diary entry 51114. NARA Catalog ID 101784486. Clinton Digital Library item 95050.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, December 31, 1999, Diary entry 51114. NARA Catalog ID 101784486. Clinton Digital Library item 95050.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17411,7 +17411,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61302. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61302. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17464,7 +17464,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 9, 2000, Diary entry 65154. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, May 9, 2000, Diary entry 65154. NARA Catalog ID 101784486. Clinton Digital Library item 95060.",
     "sections": [
       "Central and Eastern Europe"
     ],
@@ -17517,7 +17517,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 4, 2000, Diary entry 67112. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 4, 2000, Diary entry 67112. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17570,7 +17570,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 5, 2000, Diary entry 67140. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 5, 2000, Diary entry 67140. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17623,7 +17623,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 13, 2000, Diary entry 67636. NARA Catalog ID 101784486. Clinton Digital Library item 95064.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 13, 2000, Diary entry 67636. NARA Catalog ID 101784486. Clinton Digital Library item 95064.",
     "sections": [
       "NATO and European Security"
     ],
@@ -17676,7 +17676,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 31, 2000, Diary entry 64595. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 31, 2000, Diary entry 64595. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17729,7 +17729,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, August 9, 2000, Diary entry 71902. NARA Catalog ID 101784486. Clinton Digital Library item 95068.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, August 9, 2000, Diary entry 71902. NARA Catalog ID 101784486. Clinton Digital Library item 95068.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -17782,7 +17782,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 7, 2000, Diary entry 72951. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 7, 2000, Diary entry 72951. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17835,7 +17835,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 30, 2000, Diary entry 67907. NARA Catalog ID 101784486. Clinton Digital Library item 95071.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 30, 2000, Diary entry 67907. NARA Catalog ID 101784486. Clinton Digital Library item 95071.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17888,7 +17888,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 20, 2000, Diary entry 68788. NARA Catalog ID 101784486. Clinton Digital Library item 95073.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, October 20, 2000, Diary entry 68788. NARA Catalog ID 101784486. Clinton Digital Library item 95073.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -17941,7 +17941,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 1, 2000, Diary entry 67054. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 1, 2000, Diary entry 67054. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -17995,7 +17995,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 3, 2000, Diary entry 67107. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, June 3, 2000, Diary entry 67107. NARA Catalog ID 101784486. Clinton Digital Library item 95063.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -18049,7 +18049,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 15, 1993, Diary entry 1278. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 15, 1993, Diary entry 1278. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -18099,7 +18099,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 15, 1993, Diary entry 1282. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, February 15, 1993, Diary entry 1282. NARA Catalog ID 101784486. Clinton Digital Library item 94925.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -18149,7 +18149,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 29, 1993, Diary entry 9532. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 29, 1993, Diary entry 9532. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18201,7 +18201,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 4, 1994, Diary entry 14292. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, January 4, 1994, Diary entry 14292. NARA Catalog ID 101784486. Clinton Digital Library item 94944.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18253,7 +18253,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 10, 1994, Diary entry 15549. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 10, 1994, Diary entry 15549. NARA Catalog ID 101784486. Clinton Digital Library item 94946.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18305,7 +18305,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 17, 1994, Diary entry 16014. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 17, 1994, Diary entry 16014. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18357,7 +18357,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, March 3, 1994, Diary entry 17153. NARA Catalog ID 101784486. Clinton Digital Library item 94948.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, March 3, 1994, Diary entry 17153. NARA Catalog ID 101784486. Clinton Digital Library item 94948.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18409,7 +18409,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, March 7, 1994, Diary entry 17340. NARA Catalog ID 101784486. Clinton Digital Library item 94948.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, March 7, 1994, Diary entry 17340. NARA Catalog ID 101784486. Clinton Digital Library item 94948.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18461,7 +18461,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 20, 1994, Diary entry 20011. NARA Catalog ID 101784486. Clinton Digital Library item 94951.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, April 20, 1994, Diary entry 20011. NARA Catalog ID 101784486. Clinton Digital Library item 94951.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18513,7 +18513,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, December 21, 1994, Diary entry 21592. NARA Catalog ID 101784486. Clinton Digital Library item 94960.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, December 21, 1994, Diary entry 21592. NARA Catalog ID 101784486. Clinton Digital Library item 94960.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18565,7 +18565,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, January 13, 1995, Diary entry 22356. NARA Catalog ID 101784486. Clinton Digital Library item 94961.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, January 13, 1995, Diary entry 22356. NARA Catalog ID 101784486. Clinton Digital Library item 94961.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18617,7 +18617,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 3, 1995, Diary entry 23266. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, February 3, 1995, Diary entry 23266. NARA Catalog ID 101784486. Clinton Digital Library item 94963.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18669,7 +18669,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, August 1, 1997, Diary entry 35786. NARA Catalog ID 101784486. Clinton Digital Library item 94997.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, August 1, 1997, Diary entry 35786. NARA Catalog ID 101784486. Clinton Digital Library item 94997.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18721,7 +18721,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 14, 1998, Diary entry 58947. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 14, 1998, Diary entry 58947. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18773,7 +18773,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 5, 1998, Diary entry 60659. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 5, 1998, Diary entry 60659. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -18825,7 +18825,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 30, 1998, Diary entry 42750. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 30, 1998, Diary entry 42750. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18875,7 +18875,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 2, 1998, Diary entry 42791. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 2, 1998, Diary entry 42791. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18925,7 +18925,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 7, 1998, Diary entry 43343. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 7, 1998, Diary entry 43343. NARA Catalog ID 101784486. Clinton Digital Library item 95024.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -18975,7 +18975,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 28, 1999, Diary entry 45257. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 28, 1999, Diary entry 45257. NARA Catalog ID 101784486. Clinton Digital Library item 95031.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19025,7 +19025,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 16, 1999, Diary entry 71930. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 16, 1999, Diary entry 71930. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19075,7 +19075,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 7, 1999, Diary entry 74282. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 7, 1999, Diary entry 74282. NARA Catalog ID 101784486. Clinton Digital Library item 95036.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -19127,7 +19127,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, June 10, 1999, Diary entry 46617. NARA Catalog ID 17368193. Clinton Digital Library item 36484.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, June 10, 1999, Diary entry 46617. NARA Catalog ID 17368193. Clinton Digital Library item 36484.",
     "sections": [
       "NATO and European Security"
     ],
@@ -19177,7 +19177,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 27, 1999, Diary entry 46959. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 27, 1999, Diary entry 46959. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19227,7 +19227,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 22, 1999, Diary entry 47290. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 22, 1999, Diary entry 47290. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19277,7 +19277,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 18, 2000, Diary entry 58676. NARA Catalog ID 101784486. Clinton Digital Library item 95054.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, February 18, 2000, Diary entry 58676. NARA Catalog ID 101784486. Clinton Digital Library item 95054.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -19329,7 +19329,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 28, 1994, Diary entry 16695. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 28, 1994, Diary entry 16695. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19382,7 +19382,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 19, 1999, Diary entry 69131. NARA Catalog ID 101784486. Clinton Digital Library item 95029.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, February 19, 1999, Diary entry 69131. NARA Catalog ID 101784486. Clinton Digital Library item 95029.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19435,7 +19435,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 16, 1999, Diary entry 74661. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 16, 1999, Diary entry 74661. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19488,7 +19488,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 1, 1997, Diary entry 34464. NARA Catalog ID 101784486. Clinton Digital Library item 94994.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 1, 1997, Diary entry 34464. NARA Catalog ID 101784486. Clinton Digital Library item 94994.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19540,7 +19540,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, October 13, 1999, Diary entry 48417. NARA Catalog ID 101784486. Clinton Digital Library item 95043.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, October 13, 1999, Diary entry 48417. NARA Catalog ID 101784486. Clinton Digital Library item 95043.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -19592,7 +19592,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3293. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 26, 1993, Diary entry 3293. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19641,7 +19641,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, May 1, 1993, Diary entry 5109. NARA Catalog ID 101784486. Clinton Digital Library item 94930.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, May 1, 1993, Diary entry 5109. NARA Catalog ID 101784486. Clinton Digital Library item 94930.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19690,7 +19690,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 20, 1994, Diary entry 16116. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, February 20, 1994, Diary entry 16116. NARA Catalog ID 101784486. Clinton Digital Library item 94947.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19739,7 +19739,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 1, 1994, Diary entry 20489. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 4, 2013-0549-F, December 1, 1994, Diary entry 20489. NARA Catalog ID 101784486. Clinton Digital Library item 94959.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19788,7 +19788,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 15, 1998, Diary entry 54166. NARA Catalog ID 101784486. Clinton Digital Library item 95012.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 15, 1998, Diary entry 54166. NARA Catalog ID 101784486. Clinton Digital Library item 95012.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19837,7 +19837,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 2, 1999, Diary entry 71295. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 2, 1999, Diary entry 71295. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19886,7 +19886,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 13, 1999, Diary entry 71807. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 13, 1999, Diary entry 71807. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -19935,7 +19935,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 5, 1999, Diary entry 73191. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 5, 1999, Diary entry 73191. NARA Catalog ID 101784486. Clinton Digital Library item 95034.",
     "sections": [
       "NATO and European Security"
     ],
@@ -19984,7 +19984,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 25, 1999, Diary entry 73968. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, May 25, 1999, Diary entry 73968. NARA Catalog ID 101784486. Clinton Digital Library item 95035.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20033,7 +20033,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 22, 1999, Diary entry 75039. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 22, 1999, Diary entry 75039. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20082,7 +20082,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 29, 1999, Diary entry 76239. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 29, 1999, Diary entry 76239. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20131,7 +20131,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 30, 1999, Diary entry 76243. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, July 30, 1999, Diary entry 76243. NARA Catalog ID 101784486. Clinton Digital Library item 95039.",
     "sections": [
       "Balkans and Kosovo"
     ],
@@ -20180,7 +20180,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 23, 1999, Diary entry 54753. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, November 23, 1999, Diary entry 54753. NARA Catalog ID 101784486. Clinton Digital Library item 95047.",
     "sections": [
       "NATO and European Security"
     ],
@@ -20229,7 +20229,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 22, 2000, Diary entry 70748. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 22, 2000, Diary entry 70748. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
     "sections": [
       "EU, OSCE, and Summits"
     ],
@@ -20282,7 +20282,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, January 12, 1995, Diary entry 22249. NARA Catalog ID 101784486. Clinton Digital Library item 94961.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 5, 2013-0549-F, January 12, 1995, Diary entry 22249. NARA Catalog ID 101784486. Clinton Digital Library item 94961.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -20334,7 +20334,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, May 3, 1993, Diary entry 5176. NARA Catalog ID 101784486. Clinton Digital Library item 94930.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, May 3, 1993, Diary entry 5176. NARA Catalog ID 101784486. Clinton Digital Library item 94930.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20385,7 +20385,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 22, 1993, Diary entry 8992. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2013-0549-F, September 22, 1993, Diary entry 8992. NARA Catalog ID 101784486. Clinton Digital Library item 94937.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20436,7 +20436,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, November 2, 1993, Diary entry 11271. NARA Catalog ID 101784486. Clinton Digital Library item 94940.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, November 2, 1993, Diary entry 11271. NARA Catalog ID 101784486. Clinton Digital Library item 94940.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20487,7 +20487,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 17, 1993, Diary entry 13439. NARA Catalog ID 101784486. Clinton Digital Library item 94943.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 3, 2013-0549-F, December 17, 1993, Diary entry 13439. NARA Catalog ID 101784486. Clinton Digital Library item 94943.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20538,7 +20538,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 19, 1996, Diary entry 30195. NARA Catalog ID 101784486. Clinton Digital Library item 94982.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, May 19, 1996, Diary entry 30195. NARA Catalog ID 101784486. Clinton Digital Library item 94982.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20589,7 +20589,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 21, 1997, Diary entry 35454. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, July 21, 1997, Diary entry 35454. NARA Catalog ID 101784486. Clinton Digital Library item 94996.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20640,7 +20640,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 4, 1998, Diary entry 38679. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 4, 1998, Diary entry 38679. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20691,7 +20691,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47452. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 5, 1998, Diary entry 47452. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20742,7 +20742,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 7, 1998, Diary entry 41540. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 7, 1998, Diary entry 41540. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20793,7 +20793,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 7, 1998, Diary entry 41577. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 7, 1998, Diary entry 41577. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20844,7 +20844,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 10, 1998, Diary entry 42932. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 10, 1998, Diary entry 42932. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20895,7 +20895,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 2, 2000, Diary entry 51167. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 2, 2000, Diary entry 51167. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20946,7 +20946,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 16, 2000, Diary entry 61264. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 16, 2000, Diary entry 61264. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -20997,7 +20997,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 18, 1993, Diary entry 2869. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 1, 2013-0549-F, March 18, 1993, Diary entry 2869. NARA Catalog ID 101784486. Clinton Digital Library item 94927.",
     "sections": [
       "Central and Eastern Europe",
       "Russia Cross-Reference"
@@ -21049,7 +21049,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 74947. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 21, 1999, Diary entry 74947. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Western Europe Bilateral",
       "EU, OSCE, and Summits"
@@ -21101,7 +21101,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, November 5, 1996, Diary entry 32117. NARA Catalog ID 101784486. Clinton Digital Library item 94988.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, November 5, 1996, Diary entry 32117. NARA Catalog ID 101784486. Clinton Digital Library item 94988.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -21151,7 +21151,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 12, 1998, Diary entry 38820. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, February 12, 1998, Diary entry 38820. NARA Catalog ID 101784486. Clinton Digital Library item 95004.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21201,7 +21201,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59463. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, September 3, 1998, Diary entry 59463. NARA Catalog ID 101784486. Clinton Digital Library item 95018.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21251,7 +21251,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70589. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70589. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21301,7 +21301,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70590. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, March 17, 1999, Diary entry 70590. NARA Catalog ID 101784486. Clinton Digital Library item 95030.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21351,7 +21351,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 1, 1999, Diary entry 45315. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 1, 1999, Diary entry 45315. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21401,7 +21401,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 9, 1999, Diary entry 45424. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 9, 1999, Diary entry 45424. NARA Catalog ID 101784486. Clinton Digital Library item 95032.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21451,7 +21451,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 12, 2000, Diary entry 56987. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 12, 2013-0549-F, January 12, 2000, Diary entry 56987. NARA Catalog ID 101784486. Clinton Digital Library item 95051.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21501,7 +21501,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61299. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61299. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21551,7 +21551,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61300. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 17, 2000, Diary entry 61300. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21601,7 +21601,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 18, 2000, Diary entry 56373. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 13, 2013-0549-F, March 18, 2000, Diary entry 56373. NARA Catalog ID 101784486. Clinton Digital Library item 95056.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21651,7 +21651,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 13, 2000, Diary entry 73087. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, September 13, 2000, Diary entry 73087. NARA Catalog ID 101784486. Clinton Digital Library item 95070.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21701,7 +21701,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 6, 1997, Diary entry 34748. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 7, 2013-0549-F, January 6, 1997, Diary entry 34748. NARA Catalog ID 101784486. Clinton Digital Library item 94990.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -21754,7 +21754,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, January 30, 1998, Diary entry 46741. NARA Catalog ID 101784486. Clinton Digital Library item 95003.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 8, 2013-0549-F, January 30, 1998, Diary entry 46741. NARA Catalog ID 101784486. Clinton Digital Library item 95003.",
     "sections": [
       "NATO and European Security"
     ],
@@ -21803,7 +21803,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 18, 1998, Diary entry 54285. NARA Catalog ID 101784486. Clinton Digital Library item 95013.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, June 18, 1998, Diary entry 54285. NARA Catalog ID 101784486. Clinton Digital Library item 95013.",
     "sections": [
       "NATO and European Security"
     ],
@@ -21852,7 +21852,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 5, 1998, Diary entry 58401. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 9, 2013-0549-F, August 5, 1998, Diary entry 58401. NARA Catalog ID 101784486. Clinton Digital Library item 95016.",
     "sections": [
       "NATO and European Security"
     ],
@@ -21901,7 +21901,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, September 15, 1998, Diary entry 59971. NARA Catalog ID 17368189. Clinton Digital Library item 36481.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 2, 2010-0083-F, September 15, 1998, Diary entry 59971. NARA Catalog ID 17368189. Clinton Digital Library item 36481.",
     "sections": [
       "NATO and European Security"
     ],
@@ -21950,7 +21950,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 20, 1998, Diary entry 60091. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, September 20, 1998, Diary entry 60091. NARA Catalog ID 101784486. Clinton Digital Library item 95019.",
     "sections": [
       "NATO and European Security"
     ],
@@ -21999,7 +21999,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 6, 1998, Diary entry 60939. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 6, 1998, Diary entry 60939. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22048,7 +22048,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 8, 1998, Diary entry 61344. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 8, 1998, Diary entry 61344. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22097,7 +22097,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 8, 1998, Diary entry 61373. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 8, 1998, Diary entry 61373. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22146,7 +22146,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 14, 1998, Diary entry 61712. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 14, 1998, Diary entry 61712. NARA Catalog ID 101784486. Clinton Digital Library item 95020.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22195,7 +22195,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 21, 1998, Diary entry 62085. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, October 21, 1998, Diary entry 62085. NARA Catalog ID 101784486. Clinton Digital Library item 95021.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22244,7 +22244,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 4, 1998, Diary entry 63164. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, November 4, 1998, Diary entry 63164. NARA Catalog ID 101784486. Clinton Digital Library item 95022.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22293,7 +22293,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 18, 1998, Diary entry 65624. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 10, 2013-0549-F, December 18, 1998, Diary entry 65624. NARA Catalog ID 101784486. Clinton Digital Library item 95025.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22342,7 +22342,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72224. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 22, 1999, Diary entry 72224. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22391,7 +22391,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72229. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72229. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "Western Europe Bilateral"
     ],
@@ -22444,7 +22444,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72227. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72227. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22493,7 +22493,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72238. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, April 23, 1999, Diary entry 72238. NARA Catalog ID 101784486. Clinton Digital Library item 95033.",
     "sections": [
       "NATO and European Security"
     ],
@@ -22542,7 +22542,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 19, 1999, Diary entry 74873. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 11, 2013-0549-F, June 19, 1999, Diary entry 74873. NARA Catalog ID 101784486. Clinton Digital Library item 95037.",
     "sections": [
       "Russia Cross-Reference"
     ],
@@ -22595,7 +22595,7 @@ window.CLINTON_EUROPE_POTENTIAL_DOCUMENTS = [
     "category": "",
     "releaseStatus": "",
     "digitalObjects": 1,
-    "sourceNote": "Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 22, 2000, Diary entry 70736. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
+    "sourceNote": "William J. Clinton Presidential Library, Clinton Presidential Records, Presidential Daily Diary, Ellen McCathran, Box 14, 2013-0549-F, July 22, 2000, Diary entry 70736. NARA Catalog ID 101784486. Clinton Digital Library item 95067.",
     "sections": [
       "EU, OSCE, and Summits"
     ],
