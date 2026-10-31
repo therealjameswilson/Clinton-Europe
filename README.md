@@ -51,6 +51,16 @@ matching filtered working set.
 
 ## Data
 
+The October 30, 2026 State FOIA posting is integrated as 27 pending substantive
+presidential/ministerial contacts and three distinct related-source leads.
+See `reports/october-30-release-review.md` and its JSON audit for the exact
+reviewed physical pages, historical/transmission dates, compiler rationale,
+cross-volume use and unresolved evidence. This focused addition is not an
+exhaustive selection of the release. Existing local decisions retain their IDs
+and storage keys. The harvest/rebuild scripts preserve these separately reviewed
+State FOIA records; the Clinton Library source-note normalizer leaves their
+source-specific notes intact.
+
 Static volume anchors live in `data/volumes.js`. Candidate records live in
 `data/records.json`, with a generated `data/records.js` mirror so `index.html`
 can render directly from GitHub Pages or from the filesystem. Key public

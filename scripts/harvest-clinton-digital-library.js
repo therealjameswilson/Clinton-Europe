@@ -416,6 +416,15 @@ async function main() {
     }
   }
 
+  // This harvester refreshes Clinton Library items only. Keep separately reviewed
+  // State FOIA additions and their stable IDs/source evidence across refreshes.
+  try {
+    const existing = JSON.parse(await fs.readFile(path.join(DATA_DIR, "records.json"), "utf8"));
+    records.push(...existing.filter((record) => record.releaseEvidence));
+  } catch (error) {
+    if (error.code !== "ENOENT") throw error;
+  }
+
   records.sort(
     (a, b) =>
       sectionRank(a.section) - sectionRank(b.section) ||

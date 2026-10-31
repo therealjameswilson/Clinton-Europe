@@ -308,6 +308,13 @@ function main() {
     }
   ];
 
+  // Preserve document-specific release review work while refreshing aggregates.
+  const previousGapsPath = path.join(ROOT, "data/compiler-gaps.json");
+  if (fs.existsSync(previousGapsPath)) {
+    const previous = readJson("data/compiler-gaps.json");
+    gaps.push(...(previous.gaps || []).filter((gap) => gap.id.startsWith("oct2026-")));
+  }
+
   const data = {
     generatedAt: new Date().toISOString(),
     summary: {

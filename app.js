@@ -281,7 +281,7 @@ function byChronology(a, b) {
 }
 
 function chronologyYear(record) {
-  const date = chronologyDate(record);
+  const date = record.sortDate || record.date || "";
   return /^\d{4}/.test(date) ? date.slice(0, 4) : "Date pending";
 }
 
@@ -1078,6 +1078,11 @@ function exportCurrentRecords() {
     { label: "source_note_status", value: (record) => record.sourceNoteStatus },
     { label: "source_note_issues", value: (record) => record.sourceNoteIssues || [] },
     { label: "source_note", value: (record) => record.sourceNote },
+    { label: "release_identity", value: (record) => record.releaseEvidence?.identityKey || "" },
+    { label: "physical_pages", value: (record) => record.releaseEvidence?.pages || [] },
+    { label: "compiler_use", value: (record) => record.releaseEvidence?.compilerUse || "" },
+    { label: "date_evidence", value: (record) => record.releaseEvidence?.dateEvidence || "" },
+    { label: "evidence_gaps", value: (record) => record.releaseEvidence?.gap || "" },
     { label: "item_url", value: (record) => record.itemUrl },
     { label: "pdf_url", value: (record) => record.pdfUrl },
     { label: "collection_url", value: (record) => record.collectionUrl }
@@ -3159,6 +3164,7 @@ function createPotentialDocumentRow(item, index) {
   sourceTrail.append(summary, collection, queries);
 
   body.append(title, sourceLine, note, meta, topics, sourceTrail);
+  if (item.releaseEvidence) body.append(createReleasePageLinks(item.releaseEvidence));
 
   const links = document.createElement("div");
   links.className = "record-links";
@@ -3245,6 +3251,21 @@ function updatePotentialDocumentsView() {
   renderPotentialDocuments(filtered);
 }
 
+function createReleasePageLinks(evidence) {
+  const panel = document.createElement("p");
+  panel.className = "record-source-line";
+  panel.append("Reviewed physical PDF pages: ");
+  (evidence.pages || []).forEach((page, index) => {
+    if (index) panel.append(" · ");
+    const link = document.createElement("a");
+    link.href = `${evidence.pdfUrl}#page=${page}`;
+    link.rel = "noreferrer";
+    link.textContent = String(page);
+    panel.append(link);
+  });
+  return panel;
+}
+
 function createRecordRow(record) {
   const row = document.createElement("article");
   row.className = "record-row";
@@ -3318,6 +3339,7 @@ function createRecordRow(record) {
   sourceNote.append(summary, createSourceCheckPanel(record), sourceText, provenance, issues, subjects);
 
   body.append(title, sourceLine, note, meta, topics, flags, createSelectionControl(record), createSameDayContextPanel(record), sourceNote);
+  if (record.releaseEvidence) body.append(createReleasePageLinks(record.releaseEvidence));
 
   const links = document.createElement("div");
   links.className = "record-links";

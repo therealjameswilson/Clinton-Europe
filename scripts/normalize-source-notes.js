@@ -10,7 +10,7 @@ const REPORT_MD_PATH = path.join(ROOT, "reports", "source-note-style-audit.md");
 
 function main() {
   const records = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
-  const normalized = records.map((record) => normalizeRecord(record));
+  const normalized = records.map((record) => record.releaseEvidence ? record : normalizeRecord(record));
   const audit = buildStyleAudit(normalized);
   const json = `${JSON.stringify(normalized, null, 2)}\n`;
 

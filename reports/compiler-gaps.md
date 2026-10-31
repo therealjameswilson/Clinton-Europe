@@ -1,12 +1,12 @@
 # Clinton Europe Compiler Gaps
 
-Generated: 2026-06-03T02:17:17.046Z
+Generated: 2026-10-31T00:10:28.784Z
 
 ## Summary
 
-- 8 compiler gaps identified.
-- 2 critical gaps; 4 high gaps; 2 medium gaps.
-- 436 Clinton Library candidate records, 90 public statements, and 1317 potential NARA/FOIA source leads reviewed.
+- 9 compiler gaps identified.
+- 2 critical gaps; 5 high gaps; 2 medium gaps.
+- 463 Clinton Library candidate records, 90 public statements, and 1320 potential NARA/FOIA source leads reviewed.
 
 ## Gaps
 
@@ -17,13 +17,13 @@ Area: Source Integrity
 The memcon and telcon rows now carry URL-free FRUS provenance scaffolds, but Digital Library release/item identifiers are only public provenance controls. A record should not become a final FRUS citation until the PDF cover sheet and finding aid confirm the exact archival path plus original classification, distribution, drafting, and approval data.
 
 Evidence:
-- 0 of 436 Clinton Library candidate records have complete published-style source notes ready for compiler review.
-- 429 records have FRUS provenance scaffolds that still need archival verification.
+- 0 of 463 Clinton Library candidate records have complete published-style source notes ready for compiler review.
+- 456 records have FRUS provenance scaffolds that still need archival verification.
 - 436 records preserve Digital Library release/item IDs as provenance controls rather than final archival paths.
 - 7 records still need core source-note metadata such as a release identifier.
-- 436 of 436 Clinton Library candidate records carry the source-note review queue.
+- 463 of 463 Clinton Library candidate records carry the source-note review queue.
 - 10 Clinton Library candidate records do not have direct PDF links yet.
-- 436 records are also marked for cross-volume placement review.
+- 463 records are also marked for cross-volume placement review.
 
 Next steps:
 - Open the PDF cover sheets and finding-aid targets for high-level contacts first and normalize the archival citation path.
@@ -37,7 +37,7 @@ Area: Chronology Control
 The FRUS volumes are chronological. Undated NARA and FOIA leads can distort volume placement, especially for Bosnia/Kosovo records that may fall on either side of the 1996/1997 volume boundary.
 
 Evidence:
-- 215 of 1317 potential source leads have no normalized year.
+- 215 of 1320 potential source leads have no normalized year.
 - 172 undated leads are in Balkans and Kosovo.
 - 1146 potential leads are medium priority, so date normalization is needed before down-selecting.
 
@@ -53,9 +53,9 @@ Area: Volume Placement
 Volume XXII captures high-level contacts across the whole administration, while Volumes XXIII and XXIV divide policy by date. The current data correctly flags overlap, but the compiler still has to decide which high-level contacts become source texts and which remain cross-references.
 
 Evidence:
-- 436 records map to Volume XXII.
-- 171 records map to Volume XXIII and 265 map to Volume XXIV.
-- 1022 potential source leads also touch Volume XXII, with 790 touching XXIII and 917 touching XXIV.
+- 463 records map to Volume XXII.
+- 177 records map to Volume XXIII and 286 map to Volume XXIV.
+- 1024 potential source leads also touch Volume XXII, with 791 touching XXIII and 919 touching XXIV.
 
 Next steps:
 - Create a keeper list for head-of-state/head-of-government contacts that deserve full-text treatment in XXII.
@@ -101,8 +101,8 @@ Area: Western Europe Bilateral
 The record layer is strong for the United Kingdom, France, Germany, and Northern Ireland, but it does not yet demonstrate adequate bilateral coverage for several Western European partners that may matter for NATO, EU, Balkans, and summit diplomacy.
 
 Evidence:
-- Clinton Library records by section: United Kingdom 128, Germany 62, France 54, Italy 4.
-- Search hits in records: Spain 1, Netherlands 0, Belgium 0, Portugal 0.
+- Clinton Library records by section: United Kingdom 132, Germany 67, France 59, Italy 8.
+- Search hits in records: Spain 3, Netherlands 2, Belgium 4, Portugal 1.
 - Northern Ireland is visible with 12 records, 234 potential leads, and 14 public statements.
 
 Next steps:
@@ -141,3 +141,20 @@ Next steps:
 - Define an inclusion test: use Russia/FSU documents only when they directly carry NATO, Ukraine, Balkans/Kosovo, or European-security policy.
 - Flag purely bilateral U.S.-Russia material for cross-reference rather than full inclusion.
 - Coordinate any Russia/FSU document selections with the relevant FRUS Russia/FSU volume boundaries.
+
+### High: Reconcile source copies and unresolved contact dates
+
+Area: October 30 release
+
+Extracted text is a documentary lead, not a facsimile-verified source note. Two contacts have conflicting day dates; a cover, unofficial translation and policy worksheet must not become additional meetings.
+
+Evidence:
+- 27 substantive presidential/ministerial contacts reviewed at the cited physical page spans; 3 related source leads remain distinct.
+- Dini February 16/17, 1997 and Cook October 6/7, 1998 remain undated in the core chronology.
+- NATO–Russia Understanding: body January 27, 1997; catalog June 4, 2018.
+- Kohl January 13 transmittal contains no dialogue; French original and unofficial English translation are separate source objects.
+
+Next steps:
+- Compare original facsimiles and archival copies, verify source-note classification/distribution/drafting, and retrieve referenced attachments.
+- Resolve disputed dates against schedules without overwriting the preserved catalog dates.
+- Decide full text, extract, cross-reference or omission at the compiler selection control.

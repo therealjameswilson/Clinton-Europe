@@ -25613,6 +25613,2836 @@ window.CLINTON_EUROPE_RECORDS = [
       "archival-container-folder-pending",
       "classification-distribution-drafting-pending"
     ]
+  },
+  {
+    "id": "state-oct2026-6378d4378d58bd662029",
+    "itemId": "C09000004",
+    "title": "SECRETARY CHRISTOPHER'S FEBRUARY 26 MEETING WITH UK FOREIGN SECRETARY HURD",
+    "type": "Ministerial conversation",
+    "date": "1993-02-26",
+    "sortDate": "1993-02-26",
+    "dateText": "1993-02-26",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "United Kingdom"
+    ],
+    "section": "United Kingdom",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "policyVolumeId": "frus1993-00v23",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "United Kingdom"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf",
+      "caseNumber": "M-2017-11710",
+      "documentId": "C09000004"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11710, document C09000004, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Christopher and Hurd discuss renewed Middle East negotiations, humanitarian air drops in Bosnia, and the place of NATO under UN auspices in implementing a peace settlement. Compiler use: Establish the early U.S.–UK approach to NATO implementation and French reservations; cross-reference XV for Bosnia and XVII for alliance policy. Date evidence: Meeting date is stated in the subject and summary on physical p. 1; catalog date March 3 is the cable date. Evidence gaps: Compare the February 10 announcement and Hurd’s account of his Paris discussions; this is a U.S. report of a British report of French views. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11710",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Meeting date is stated in the subject and summary on physical p. 1; catalog date March 3 is the cable date. Compare the February 10 announcement and Hurd’s account of his Paris discussions; this is a U.S. report of a British report of French views.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "6378d4378d58bd662029",
+      "date": "1993-02-26",
+      "country": "United Kingdom",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Christopher and Hurd discuss renewed Middle East negotiations, humanitarian air drops in Bosnia, and the place of NATO under UN auspices in implementing a peace settlement.",
+      "compilerUse": "Establish the early U.S.–UK approach to NATO implementation and French reservations; cross-reference XV for Bosnia and XVII for alliance policy.",
+      "gap": "Compare the February 10 announcement and Hurd’s account of his Paris discussions; this is a U.S. report of a British report of French views.",
+      "dateEvidence": "Meeting date is stated in the subject and summary on physical p. 1; catalog date March 3 is the cable date.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf",
+      "documentId": "C09000004",
+      "caseNumber": "M-2017-11710",
+      "catalogDate": "1993-03-03",
+      "originalTitle": "SECRETARY CHRISTOPHER'S FEBRUARY 26 MEETING WITH UK FOREIGN SECRETARY HURD",
+      "postedDate": "2026-10-30",
+      "identityKey": "6378d4378d58bd662029|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf",
+      "policyVolumeId": "frus1993-00v23",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v23"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 3,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11710/DOC_0C09000004/C09000004.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-e96df74ec29c3433d071",
+    "itemId": "C09000001",
+    "title": "PRESIDENT'S 2/28 TELCON WITH CHANCELLOR KOHL (9603211)",
+    "type": "Presidential telephone conversation",
+    "date": "1996-02-28",
+    "sortDate": "1996-02-28",
+    "dateText": "1996-02-28",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Germany"
+    ],
+    "section": "Germany",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "policyVolumeId": "frus1993-00v23",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Germany"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11966",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11966, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2, 3, 4, 5. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3, 4, 5: Kohl briefs Clinton on Yeltsin, the Russian election and Chechnya; they discuss coordinating NATO enlargement without a Russian veto and managing relations with Moscow. Compiler use: A direct presidential exchange connects German diplomacy and NATO enlargement with Russian election policy; cross-reference XVII and XVIII. Date evidence: Physical p. 1 dates the telephone conversation February 28, 1996; March 6 is transmission, not the contact. Evidence gaps: Kohl’s account of Yeltsin is secondhand within this direct Clinton–Kohl conversation; compare the underlying German–Russian meeting and existing Clinton Library copies. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11966",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 dates the telephone conversation February 28, 1996; March 6 is transmission, not the contact. Kohl’s account of Yeltsin is secondhand within this direct Clinton–Kohl conversation; compare the underlying German–Russian meeting and existing Clinton Library copies.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "e96df74ec29c3433d071",
+      "date": "1996-02-28",
+      "country": "Germany",
+      "kind": "Presidential telephone conversation",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "summary": "Kohl briefs Clinton on Yeltsin, the Russian election and Chechnya; they discuss coordinating NATO enlargement without a Russian veto and managing relations with Moscow.",
+      "compilerUse": "A direct presidential exchange connects German diplomacy and NATO enlargement with Russian election policy; cross-reference XVII and XVIII.",
+      "gap": "Kohl’s account of Yeltsin is secondhand within this direct Clinton–Kohl conversation; compare the underlying German–Russian meeting and existing Clinton Library copies.",
+      "dateEvidence": "Physical p. 1 dates the telephone conversation February 28, 1996; March 6 is transmission, not the contact.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11966",
+      "catalogDate": "1996-03-06",
+      "originalTitle": "PRESIDENT'S 2/28 TELCON WITH CHANCELLOR KOHL (9603211)",
+      "postedDate": "2026-10-30",
+      "identityKey": "e96df74ec29c3433d071|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v23",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v23"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 6,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf#page=4",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11966/DOC_0C09000001/C09000001.pdf#page=5",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-18f6f671ea7585eba621",
+    "itemId": "C09000001",
+    "title": "LETTER FROM PRESIDENT CLINTON TO PRIME MINISTER JOHN MAJOR (5/5 9614139)",
+    "type": "Presidential letter",
+    "date": "1996-08-07",
+    "sortDate": "1996-08-07",
+    "dateText": "1996-08-07",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11887/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11887/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "United Kingdom"
+    ],
+    "section": "United Kingdom",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "policyVolumeId": "frus1993-00v23",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "United Kingdom"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11887/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11887",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11887, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2: Clinton tells Major that British and EU views weighed in his decision to suspend Title III lawsuits under Helms–Burton for six months, and seeks a common approach to Cuba. Compiler use: Document the bilateral management of a U.S.–EU sanctions dispute; pair with the December Christopher–Matutes discussion and the later U.S.–EU talks. Date evidence: The enclosed letter is dated August 7 on physical p. 2; August 14 is cable transmission. Evidence gaps: Obtain Major’s incoming letter and the signed original promised by pouch; do not equate this cable text with the signed copy. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11887",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. The enclosed letter is dated August 7 on physical p. 2; August 14 is cable transmission. Obtain Major’s incoming letter and the signed original promised by pouch; do not equate this cable text with the signed copy.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11887/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "18f6f671ea7585eba621",
+      "date": "1996-08-07",
+      "country": "United Kingdom",
+      "kind": "Presidential letter",
+      "pages": [
+        1,
+        2
+      ],
+      "summary": "Clinton tells Major that British and EU views weighed in his decision to suspend Title III lawsuits under Helms–Burton for six months, and seeks a common approach to Cuba.",
+      "compilerUse": "Document the bilateral management of a U.S.–EU sanctions dispute; pair with the December Christopher–Matutes discussion and the later U.S.–EU talks.",
+      "gap": "Obtain Major’s incoming letter and the signed original promised by pouch; do not equate this cable text with the signed copy.",
+      "dateEvidence": "The enclosed letter is dated August 7 on physical p. 2; August 14 is cable transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11887/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11887",
+      "catalogDate": "1996-08-14",
+      "originalTitle": "LETTER FROM PRESIDENT CLINTON TO PRIME MINISTER JOHN MAJOR (5/5 9614139)",
+      "postedDate": "2026-10-30",
+      "identityKey": "18f6f671ea7585eba621|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11887/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v23",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v23"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 3,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11887/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11887/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-b91a648db88767c80a4c",
+    "itemId": "C09000003",
+    "title": "August 28, 1996 Letter From Jacques Chirac To William J. Clinton",
+    "type": "Presidential letter — French original",
+    "date": "1996-08-28",
+    "sortDate": "1996-08-28",
+    "dateText": "1996-08-28",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "France"
+    ],
+    "section": "France",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "policyVolumeId": "frus1993-00v23",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "France"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf",
+      "caseNumber": "M-2017-11890",
+      "documentId": "C09000003"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11890, document C09000003, October 30, 2026 posting. Physical PDF pp. 1, 2, 3, 4. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3, 4: Chirac proposes NATO command adaptation and European defense responsibilities, connects enlargement with arrangements for Russia and Ukraine, and advocates coherence with EU enlargement. Compiler use: Recover the French position on European commands, enlargement and a security framework before the 1997 summit; cross-reference XVII and the separate English translation. Date evidence: Dated August 28, 1996 on physical p. 1; French original and translation remain separate source objects. Evidence gaps: French OCR contains errors. Verify wording against the facsimile and the separately released unofficial translation; retrieve Clinton’s August 14 letter cited by Chirac. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11890",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Dated August 28, 1996 on physical p. 1; French original and translation remain separate source objects. French OCR contains errors. Verify wording against the facsimile and the separately released unofficial translation; retrieve Clinton’s August 14 letter cited by Chirac.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "b91a648db88767c80a4c",
+      "date": "1996-08-28",
+      "country": "France",
+      "kind": "Presidential letter — French original",
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "summary": "Chirac proposes NATO command adaptation and European defense responsibilities, connects enlargement with arrangements for Russia and Ukraine, and advocates coherence with EU enlargement.",
+      "compilerUse": "Recover the French position on European commands, enlargement and a security framework before the 1997 summit; cross-reference XVII and the separate English translation.",
+      "gap": "French OCR contains errors. Verify wording against the facsimile and the separately released unofficial translation; retrieve Clinton’s August 14 letter cited by Chirac.",
+      "dateEvidence": "Dated August 28, 1996 on physical p. 1; French original and translation remain separate source objects.",
+      "related": [
+        "39b821b0934c9a3706a6"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf",
+      "documentId": "C09000003",
+      "caseNumber": "M-2017-11890",
+      "catalogDate": "1996-08-28",
+      "originalTitle": "August 28, 1996 Letter From Jacques Chirac To William J. Clinton",
+      "postedDate": "2026-10-30",
+      "identityKey": "b91a648db88767c80a4c|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf",
+      "policyVolumeId": "frus1993-00v23",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v23"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 4,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000003/C09000003.pdf#page=4",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-7e7a2a87be23d93c074c",
+    "itemId": "C09000006",
+    "title": "SECRETARY'S MEETING WITH UK FOREIGN SECRETARY RIFKIND, 12/10/96, NATO, BRUSSELS, BELGIUM",
+    "type": "Ministerial conversation",
+    "date": "1996-12-10",
+    "sortDate": "1996-12-10",
+    "dateText": "1996-12-10",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "United Kingdom"
+    ],
+    "section": "United Kingdom",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "policyVolumeId": "frus1993-00v23",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "United Kingdom"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf",
+      "caseNumber": "M-2017-11708",
+      "documentId": "C09000006"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11708, document C09000006, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Christopher and Rifkind assess Bosnia peace implementation and agree to maintain pressure on Milošević to respect Serbian election results; their discussion also covers the UN secretary-general succession. Compiler use: Link the London implementation conference to U.S.–UK policy toward Serbian opposition, with a policy placement in XXIII and post-1995 Balkans context. Date evidence: Physical p. 1 explicitly gives December 10, 1996; catalog December 11 is reporting metadata. Evidence gaps: This is after XV’s 1993–95 span. Review the remaining cable sections before deciding full-text extent. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11708",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 explicitly gives December 10, 1996; catalog December 11 is reporting metadata. This is after XV’s 1993–95 span. Review the remaining cable sections before deciding full-text extent.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "7e7a2a87be23d93c074c",
+      "date": "1996-12-10",
+      "country": "United Kingdom",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Christopher and Rifkind assess Bosnia peace implementation and agree to maintain pressure on Milošević to respect Serbian election results; their discussion also covers the UN secretary-general succession.",
+      "compilerUse": "Link the London implementation conference to U.S.–UK policy toward Serbian opposition, with a policy placement in XXIII and post-1995 Balkans context.",
+      "gap": "This is after XV’s 1993–95 span. Review the remaining cable sections before deciding full-text extent.",
+      "dateEvidence": "Physical p. 1 explicitly gives December 10, 1996; catalog December 11 is reporting metadata.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf",
+      "documentId": "C09000006",
+      "caseNumber": "M-2017-11708",
+      "catalogDate": "1996-12-11",
+      "originalTitle": "SECRETARY'S MEETING WITH UK FOREIGN SECRETARY RIFKIND, 12/10/96, NATO, BRUSSELS, BELGIUM",
+      "postedDate": "2026-10-30",
+      "identityKey": "7e7a2a87be23d93c074c|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf",
+      "policyVolumeId": "frus1993-00v23",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v23"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 7,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000006/C09000006.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-a8d625077849b50f5156",
+    "itemId": "C09000005",
+    "title": "SECRETARY CHRISTOPHER'S 12/11 MEETING WITH SPANISH FOREIGN MINISTER MATUTES AT NATO HEADQUARTERS, BRUSSELS, BELGIUM",
+    "type": "Ministerial conversation",
+    "date": "1996-12-11",
+    "sortDate": "1996-12-11",
+    "dateText": "1996-12-11",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000005/C09000005.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000005/C09000005.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Spain"
+    ],
+    "section": "Spain",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "policyVolumeId": "frus1993-00v23",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Spain"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000005/C09000005.pdf",
+      "caseNumber": "M-2017-11708",
+      "documentId": "C09000005"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11708, document C09000005, October 30, 2026 posting. Physical PDF pp. 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 2, 3: Christopher and Matutes discuss the Madrid summit, Spain’s entry into NATO’s integrated military structure, AFSOUTH, and the connection between EU policy on Cuba and Helms–Burton. Compiler use: Add a Spanish ministerial perspective to a record set otherwise dominated by larger allies; connect sanctions policy, transatlantic dialogue and NATO adaptation. Date evidence: Physical p. 2 gives the December 11 meeting; catalog December 14 is transmission. Evidence gaps: Compare follow-up summit scheduling and EU Cuba policy records; review remaining cable sections before final selection. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11708",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 2 gives the December 11 meeting; catalog December 14 is transmission. Compare follow-up summit scheduling and EU Cuba policy records; review remaining cable sections before final selection.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000005/C09000005.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "a8d625077849b50f5156",
+      "date": "1996-12-11",
+      "country": "Spain",
+      "kind": "Ministerial conversation",
+      "pages": [
+        2,
+        3
+      ],
+      "summary": "Christopher and Matutes discuss the Madrid summit, Spain’s entry into NATO’s integrated military structure, AFSOUTH, and the connection between EU policy on Cuba and Helms–Burton.",
+      "compilerUse": "Add a Spanish ministerial perspective to a record set otherwise dominated by larger allies; connect sanctions policy, transatlantic dialogue and NATO adaptation.",
+      "gap": "Compare follow-up summit scheduling and EU Cuba policy records; review remaining cable sections before final selection.",
+      "dateEvidence": "Physical p. 2 gives the December 11 meeting; catalog December 14 is transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000005/C09000005.pdf",
+      "documentId": "C09000005",
+      "caseNumber": "M-2017-11708",
+      "catalogDate": "1996-12-14",
+      "originalTitle": "SECRETARY CHRISTOPHER'S 12/11 MEETING WITH SPANISH FOREIGN MINISTER MATUTES AT NATO HEADQUARTERS, BRUSSELS, BELGIUM",
+      "postedDate": "2026-10-30",
+      "identityKey": "a8d625077849b50f5156|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000005/C09000005.pdf",
+      "policyVolumeId": "frus1993-00v23",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v23"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 7,
+      "pageEvidence": [
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000005/C09000005.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11708/DOC_0C09000005/C09000005.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-1368dc6b0da3da97e95f",
+    "itemId": "C09000002",
+    "title": "Telcon with German Chancellor Helmut Kohl",
+    "type": "Presidential telephone conversation",
+    "date": "1997-01-06",
+    "sortDate": "1997-01-06",
+    "dateText": "1997-01-06",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Germany"
+    ],
+    "section": "Germany",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Germany"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf",
+      "caseNumber": "M-2017-11957",
+      "documentId": "C09000002"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11957, document C09000002, October 30, 2026 posting. Physical PDF pp. 1, 2, 3, 4. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3, 4: Kohl reports his meeting with Yeltsin and asks for coordinated personal diplomacy by Clinton, Kohl, Chirac and Major. Clinton agrees to send Talbott to Bonn and sets limits: no veto, no delay, and no excluded prospective members. Compiler use: A decision-level source for the allied diplomatic sequence leading to the NATO–Russia agreement; pair with Chirac’s January 30 call and XVIII’s Russian record. Date evidence: The body’s date/time block on physical p. 1 gives January 6, 1997. Evidence gaps: The January 13 transmittal is a separate cover, not another call. Compare the January Bonn follow-up and Russian-side records. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11957",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. The body’s date/time block on physical p. 1 gives January 6, 1997. The January 13 transmittal is a separate cover, not another call. Compare the January Bonn follow-up and Russian-side records.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "1368dc6b0da3da97e95f",
+      "date": "1997-01-06",
+      "country": "Germany",
+      "kind": "Presidential telephone conversation",
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "summary": "Kohl reports his meeting with Yeltsin and asks for coordinated personal diplomacy by Clinton, Kohl, Chirac and Major. Clinton agrees to send Talbott to Bonn and sets limits: no veto, no delay, and no excluded prospective members.",
+      "compilerUse": "A decision-level source for the allied diplomatic sequence leading to the NATO–Russia agreement; pair with Chirac’s January 30 call and XVIII’s Russian record.",
+      "gap": "The January 13 transmittal is a separate cover, not another call. Compare the January Bonn follow-up and Russian-side records.",
+      "dateEvidence": "The body’s date/time block on physical p. 1 gives January 6, 1997.",
+      "related": [
+        "0d66ae11f6ee51b96c51",
+        "e9a1c7aae66cfa6181b8"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf",
+      "documentId": "C09000002",
+      "caseNumber": "M-2017-11957",
+      "catalogDate": "1997-01-06",
+      "originalTitle": "Telcon with German Chancellor Helmut Kohl",
+      "postedDate": "2026-10-30",
+      "identityKey": "1368dc6b0da3da97e95f|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 4,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000002/C09000002.pdf#page=4",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-e9a1c7aae66cfa6181b8",
+    "itemId": "C09000001",
+    "title": "Telcon with French President Chirac and William J. Clinton",
+    "type": "Presidential telephone conversation",
+    "date": "1997-01-30",
+    "sortDate": "1997-01-30",
+    "dateText": "1997-01-30",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "France"
+    ],
+    "section": "France",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "France"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11904",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11904, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2, 4, 5, 6. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 4, 5, 6: Clinton and Chirac coordinate before Chirac’s Moscow trip: a NATO–Russia political agreement, the enlargement timetable, a possible five-power meeting, and French concerns about NATO command arrangements. Compiler use: Use the exchange to test allied unity and differences over legal form and command reform; cross-reference the January 27 Understanding, XVII and XVIII. Date evidence: Physical p. 1 dates the call January 30, 1997. Evidence gaps: The release explicitly flags portions illegible. Review the facsimile before quotation, especially damaged text on physical pp. 5–6; obtain the post-Moscow readout. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11904",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 dates the call January 30, 1997. The release explicitly flags portions illegible. Review the facsimile before quotation, especially damaged text on physical pp. 5–6; obtain the post-Moscow readout.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "e9a1c7aae66cfa6181b8",
+      "date": "1997-01-30",
+      "country": "France",
+      "kind": "Presidential telephone conversation",
+      "pages": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "summary": "Clinton and Chirac coordinate before Chirac’s Moscow trip: a NATO–Russia political agreement, the enlargement timetable, a possible five-power meeting, and French concerns about NATO command arrangements.",
+      "compilerUse": "Use the exchange to test allied unity and differences over legal form and command reform; cross-reference the January 27 Understanding, XVII and XVIII.",
+      "gap": "The release explicitly flags portions illegible. Review the facsimile before quotation, especially damaged text on physical pp. 5–6; obtain the post-Moscow readout.",
+      "dateEvidence": "Physical p. 1 dates the call January 30, 1997.",
+      "related": [
+        "1368dc6b0da3da97e95f",
+        "b2f66bc6c85c99136c0a"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11904",
+      "catalogDate": "1997-01-30",
+      "originalTitle": "Telcon with French President Chirac and William J. Clinton",
+      "postedDate": "2026-10-30",
+      "identityKey": "e9a1c7aae66cfa6181b8|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 7,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "local-ocr",
+          "qualityWarnings": [
+            "machine-ocr-not-human-verified",
+            "source-duplicate-text-layer-replaced-with-rendered-ocr"
+          ]
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf#page=4",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf#page=5",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 6,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11904/DOC_0C09000001/C09000001.pdf#page=6",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-261ce124d3595e1fa665",
+    "itemId": "C09000002",
+    "title": "THE SECRETARY'S MEETING WITH ROMANO PRODI, ITALIAN PRIME MINISTER, FEBRUARY 16, 1997, ROME, ITALY",
+    "type": "Ministerial–head-of-government conversation",
+    "date": "1997-02-16",
+    "sortDate": "1997-02-16",
+    "dateText": "1997-02-16",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Italy"
+    ],
+    "section": "Italy",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Italy"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf",
+      "caseNumber": "M-2017-11784",
+      "documentId": "C09000002"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11784, document C09000002, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Prodi discuss NATO enlargement, Italian support for Slovenia and Romania, Russia’s position, AFSOUTH, and the need for a balance between northern and southern Europe. Compiler use: Establish the Italian case before the Madrid decision, then compare Prodi’s June conversation with Clinton; cross-reference XVII. Date evidence: Physical p. 1 expressly dates the meeting February 16, 1997; February 18 is cable transmission. Evidence gaps: The ministerial report also summarizes Bosnia, Iran and UN reform; review its remaining sections before selecting extracts. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11784",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 expressly dates the meeting February 16, 1997; February 18 is cable transmission. The ministerial report also summarizes Bosnia, Iran and UN reform; review its remaining sections before selecting extracts.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "261ce124d3595e1fa665",
+      "date": "1997-02-16",
+      "country": "Italy",
+      "kind": "Ministerial–head-of-government conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Prodi discuss NATO enlargement, Italian support for Slovenia and Romania, Russia’s position, AFSOUTH, and the need for a balance between northern and southern Europe.",
+      "compilerUse": "Establish the Italian case before the Madrid decision, then compare Prodi’s June conversation with Clinton; cross-reference XVII.",
+      "gap": "The ministerial report also summarizes Bosnia, Iran and UN reform; review its remaining sections before selecting extracts.",
+      "dateEvidence": "Physical p. 1 expressly dates the meeting February 16, 1997; February 18 is cable transmission.",
+      "related": [
+        "b75aea6f80fc7096e3b7"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf",
+      "documentId": "C09000002",
+      "caseNumber": "M-2017-11784",
+      "catalogDate": "1997-02-18",
+      "originalTitle": "THE SECRETARY'S MEETING WITH ROMANO PRODI, ITALIAN PRIME MINISTER, FEBRUARY 16, 1997, ROME, ITALY",
+      "postedDate": "2026-10-30",
+      "identityKey": "261ce124d3595e1fa665|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 8,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000002/C09000002.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-fd62d9d70f69053d7197",
+    "itemId": "C09000001",
+    "title": "SECRETARY'S MEETING WITH LAMBERTO DINI, ITALIAN FOREIGN MINISTER, FEBRUARY 16, 1997, ROME, ITALY",
+    "type": "Ministerial conversation — date unresolved",
+    "date": "",
+    "sortDate": "",
+    "dateText": "Date unresolved — see evidence",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Italy"
+    ],
+    "section": "Italy",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Italy"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11784",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11784, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Dini discuss NATO enlargement and consultation with Russia, Slovenia, the Albanian crisis, Brčko, Turkey, and U.S.–EU differences over Helms–Burton. Compiler use: A substantive bilateral contact useful for the early-1997 policy comparison, with the meeting day kept unresolved until reconciliation. Date evidence: Date conflict: subject on physical p. 1 says February 16, 1997; body paragraph 4 on physical p. 2 says February 17, 1997. Catalog February 18 is cable date. Evidence gaps: The subject says February 16 but paragraph 4 on physical p. 2 says February 17. Retain both and check the Secretary’s schedule. The preceding one-on-one discussion needs its own record. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume",
+      "date-missing"
+    ],
+    "releaseId": "M-2017-11784",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Date conflict: subject on physical p. 1 says February 16, 1997; body paragraph 4 on physical p. 2 says February 17, 1997. Catalog February 18 is cable date. The subject says February 16 but paragraph 4 on physical p. 2 says February 17. Retain both and check the Secretary’s schedule. The preceding one-on-one discussion needs its own record.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending",
+      "date-conflict"
+    ],
+    "releaseEvidence": {
+      "id": "fd62d9d70f69053d7197",
+      "date": "",
+      "country": "Italy",
+      "kind": "Ministerial conversation — date unresolved",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Dini discuss NATO enlargement and consultation with Russia, Slovenia, the Albanian crisis, Brčko, Turkey, and U.S.–EU differences over Helms–Burton.",
+      "compilerUse": "A substantive bilateral contact useful for the early-1997 policy comparison, with the meeting day kept unresolved until reconciliation.",
+      "gap": "The subject says February 16 but paragraph 4 on physical p. 2 says February 17. Retain both and check the Secretary’s schedule. The preceding one-on-one discussion needs its own record.",
+      "dateEvidence": "Date conflict: subject on physical p. 1 says February 16, 1997; body paragraph 4 on physical p. 2 says February 17, 1997. Catalog February 18 is cable date.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11784",
+      "catalogDate": "1997-02-18",
+      "originalTitle": "SECRETARY'S MEETING WITH LAMBERTO DINI, ITALIAN FOREIGN MINISTER, FEBRUARY 16, 1997, ROME, ITALY",
+      "postedDate": "2026-10-30",
+      "identityKey": "fd62d9d70f69053d7197|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 9,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11784/DOC_0C09000001/C09000001.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-1d74998cf560865b0fe9",
+    "itemId": "C09000001",
+    "title": "SECRETARY'S MEETING WITH KLAUS KINKEL, GERMAN FOREIGN MINISTER FEBRUARY 17, 1997, BONN, GERMANY",
+    "type": "Ministerial conversation",
+    "date": "1997-02-17",
+    "sortDate": "1997-02-17",
+    "dateText": "1997-02-17",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Germany"
+    ],
+    "section": "Germany",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Germany"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11783",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11783, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Kinkel discuss reaching agreement with Russia before enlargement, NATO and EU prospects for Baltic states, likely first entrants, and Bosnia refugee pressures. Compiler use: Compare German preferences with Italian and U.S. positions immediately before Moscow negotiations; distinguish NATO accession from EU accession. Date evidence: Physical p. 1 states February 17, 1997; February 20 is transmission. Evidence gaps: Kinkel reports Russian positions; corroborate with the Russian talks. Review the later bilateral agenda before deciding documentary extent. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11783",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 states February 17, 1997; February 20 is transmission. Kinkel reports Russian positions; corroborate with the Russian talks. Review the later bilateral agenda before deciding documentary extent.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "1d74998cf560865b0fe9",
+      "date": "1997-02-17",
+      "country": "Germany",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Kinkel discuss reaching agreement with Russia before enlargement, NATO and EU prospects for Baltic states, likely first entrants, and Bosnia refugee pressures.",
+      "compilerUse": "Compare German preferences with Italian and U.S. positions immediately before Moscow negotiations; distinguish NATO accession from EU accession.",
+      "gap": "Kinkel reports Russian positions; corroborate with the Russian talks. Review the later bilateral agenda before deciding documentary extent.",
+      "dateEvidence": "Physical p. 1 states February 17, 1997; February 20 is transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11783",
+      "catalogDate": "1997-02-20",
+      "originalTitle": "SECRETARY'S MEETING WITH KLAUS KINKEL, GERMAN FOREIGN MINISTER FEBRUARY 17, 1997, BONN, GERMANY",
+      "postedDate": "2026-10-30",
+      "identityKey": "1d74998cf560865b0fe9|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 7,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11783/DOC_0C09000001/C09000001.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-7f843f381f0ea69809fb",
+    "itemId": "C09000001",
+    "title": "SECRETARYWS MEETING WITH HANS VAN MIERLO, DUTCH FOREIGN MINISTER, MAY 28, 1997, THE HAGUE",
+    "type": "Ministerial conversation",
+    "date": "1997-05-28",
+    "sortDate": "1997-05-28",
+    "dateText": "1997-05-28",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Netherlands"
+    ],
+    "section": "Netherlands",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Netherlands"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11720",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11720, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright presses accelerated Dayton implementation, police capacity, open cities, independent media and war-crimes accountability; Van Mierlo worries about renewed fighting and they discuss the High Representative succession. Compiler use: Trace U.S.–Dutch coordination of civilian implementation and SFOR policy as a 1997 Europe lead, separate from XV’s core 1993–95 chronology. Date evidence: The date/place line on physical p. 2 gives May 28, 1997; June 12 is reporting date. Evidence gaps: The discussion anticipates decisions and does not demonstrate their implementation; seek the ensuing High Representative appointment and SFOR decisions. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11720",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. The date/place line on physical p. 2 gives May 28, 1997; June 12 is reporting date. The discussion anticipates decisions and does not demonstrate their implementation; seek the ensuing High Representative appointment and SFOR decisions.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "7f843f381f0ea69809fb",
+      "date": "1997-05-28",
+      "country": "Netherlands",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright presses accelerated Dayton implementation, police capacity, open cities, independent media and war-crimes accountability; Van Mierlo worries about renewed fighting and they discuss the High Representative succession.",
+      "compilerUse": "Trace U.S.–Dutch coordination of civilian implementation and SFOR policy as a 1997 Europe lead, separate from XV’s core 1993–95 chronology.",
+      "gap": "The discussion anticipates decisions and does not demonstrate their implementation; seek the ensuing High Representative appointment and SFOR decisions.",
+      "dateEvidence": "The date/place line on physical p. 2 gives May 28, 1997; June 12 is reporting date.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11720",
+      "catalogDate": "1997-06-12",
+      "originalTitle": "SECRETARYWS MEETING WITH HANS VAN MIERLO, DUTCH FOREIGN MINISTER, MAY 28, 1997, THE HAGUE",
+      "postedDate": "2026-10-30",
+      "identityKey": "7f843f381f0ea69809fb|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 6,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11720/DOC_0C09000001/C09000001.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-cd566648dde3287d6429",
+    "itemId": "C09000002",
+    "title": "SECRETARY'S MEETING WITH JAIME GAMA, PORTUGUESE FOREIGN MINISTER, MAY 29, 1997, SINTRA, PORTUGAL",
+    "type": "Ministerial conversation",
+    "date": "1997-05-29",
+    "sortDate": "1997-05-29",
+    "dateText": "1997-05-29",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Portugal"
+    ],
+    "section": "Portugal",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Portugal"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf",
+      "caseNumber": "M-2017-11724",
+      "documentId": "C09000002"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11724, document C09000002, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Gama assess the NATO–Ukraine Charter, enlargement standards and an open door, Portuguese participation in European monetary integration and NATO partnerships. Compiler use: Add Portugal’s substantive position to the Madrid preparatory sequence and connect EU and NATO agendas; cross-reference XVII. Date evidence: Physical p. 1 dates the contact May 29, 1997; June 4 is reporting metadata. Evidence gaps: This is marked a corrected cable. Preserve its identity and compare the original if located; other portions address Congo and East Timor. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11724",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 dates the contact May 29, 1997; June 4 is reporting metadata. This is marked a corrected cable. Preserve its identity and compare the original if located; other portions address Congo and East Timor.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "cd566648dde3287d6429",
+      "date": "1997-05-29",
+      "country": "Portugal",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Gama assess the NATO–Ukraine Charter, enlargement standards and an open door, Portuguese participation in European monetary integration and NATO partnerships.",
+      "compilerUse": "Add Portugal’s substantive position to the Madrid preparatory sequence and connect EU and NATO agendas; cross-reference XVII.",
+      "gap": "This is marked a corrected cable. Preserve its identity and compare the original if located; other portions address Congo and East Timor.",
+      "dateEvidence": "Physical p. 1 dates the contact May 29, 1997; June 4 is reporting metadata.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf",
+      "documentId": "C09000002",
+      "caseNumber": "M-2017-11724",
+      "catalogDate": "1997-06-04",
+      "originalTitle": "SECRETARY'S MEETING WITH JAIME GAMA, PORTUGUESE FOREIGN MINISTER, MAY 29, 1997, SINTRA, PORTUGAL",
+      "postedDate": "2026-10-30",
+      "identityKey": "cd566648dde3287d6429|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 5,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11724/DOC_0C09000002/C09000002.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-b75aea6f80fc7096e3b7",
+    "itemId": "C09000001",
+    "title": "MEMORANDUM OF CONVERSATION BETWEEN THE PRESIDENT AND ITALIAN PRIME MINISTER PRODI ON JUNE 20,1997.",
+    "type": "Presidential conversation",
+    "date": "1997-06-20",
+    "sortDate": "1997-06-20",
+    "dateText": "1997-06-20",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Italy"
+    ],
+    "section": "Italy",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Italy"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11722",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11722, document C09000001, October 30, 2026 posting. Physical PDF pp. 2, 3, 4, 5, 6, 7, 8. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 2, 3, 4, 5, 6, 7, 8: Clinton and Prodi discuss Dayton implementation and Albania, then disagree over the first NATO enlargement group. Prodi argues for Romania and Slovenia and describes limits to EU integration after Amsterdam; Clinton explains ratification constraints and an open-door signal. Compiler use: A direct presidential record connecting Italian regional priorities, the Madrid choice and the Amsterdam outcome. Pair with the February Albright–Prodi meeting and XVII’s enlargement file. Date evidence: The body on physical p. 2 dates the meeting June 20, 1997, in Denver; July 9 is cable transmission. Evidence gaps: Compare the White House original and other Denver meetings. The evidence cited covers physical pp. 2–8; selection of the full cable remains pending. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11722",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. The body on physical p. 2 dates the meeting June 20, 1997, in Denver; July 9 is cable transmission. Compare the White House original and other Denver meetings. The evidence cited covers physical pp. 2–8; selection of the full cable remains pending.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "b75aea6f80fc7096e3b7",
+      "date": "1997-06-20",
+      "country": "Italy",
+      "kind": "Presidential conversation",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "summary": "Clinton and Prodi discuss Dayton implementation and Albania, then disagree over the first NATO enlargement group. Prodi argues for Romania and Slovenia and describes limits to EU integration after Amsterdam; Clinton explains ratification constraints and an open-door signal.",
+      "compilerUse": "A direct presidential record connecting Italian regional priorities, the Madrid choice and the Amsterdam outcome. Pair with the February Albright–Prodi meeting and XVII’s enlargement file.",
+      "gap": "Compare the White House original and other Denver meetings. The evidence cited covers physical pp. 2–8; selection of the full cable remains pending.",
+      "dateEvidence": "The body on physical p. 2 dates the meeting June 20, 1997, in Denver; July 9 is cable transmission.",
+      "related": [
+        "261ce124d3595e1fa665"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11722",
+      "catalogDate": "1997-07-09",
+      "originalTitle": "MEMORANDUM OF CONVERSATION BETWEEN THE PRESIDENT AND ITALIAN PRIME MINISTER PRODI ON JUNE 20,1997.",
+      "postedDate": "2026-10-30",
+      "identityKey": "b75aea6f80fc7096e3b7|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 12,
+      "pageEvidence": [
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf#page=4",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf#page=5",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 6,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf#page=6",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 7,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf#page=7",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 8,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11722/DOC_0C09000001/C09000001.pdf#page=8",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-908ad9a6d20bc0599111",
+    "itemId": "C09000002",
+    "title": "SECRETARY'S MEETING WITH LUXEMBOURG EU PRESIDENCY FOREIGN MINISTER JACQUES POOS AND EUROPEAN COMMISSIONER SIR LEON BRITTAN, JULY 7, 1997, MADRID",
+    "type": "Ministerial U.S.–EU conversation",
+    "date": "1997-07-07",
+    "sortDate": "1997-07-07",
+    "dateText": "1997-07-07",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [],
+    "section": "NATO and EU",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "NATO and EU"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf",
+      "caseNumber": "M-2017-11725",
+      "documentId": "C09000002"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11725, document C09000002, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright, Luxembourg foreign minister Poos and Commissioner Brittan discuss the New Transatlantic Agenda, summit deliverables, mutual recognition agreements and disagreements over Iran-related sanctions. Compiler use: Supply an EU institutional counterpoint to NATO-heavy coverage: connect the summit process with trade and sanctions coordination. Date evidence: Physical p. 1 gives July 7, 1997; catalog July 10 is transmission. Evidence gaps: Recover summit deliverables and referenced mutual recognition agreements. Review later sections on Cuba, enlargement and regional issues before final selection. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11725",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 gives July 7, 1997; catalog July 10 is transmission. Recover summit deliverables and referenced mutual recognition agreements. Review later sections on Cuba, enlargement and regional issues before final selection.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "908ad9a6d20bc0599111",
+      "date": "1997-07-07",
+      "country": "NATO and EU",
+      "kind": "Ministerial U.S.–EU conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright, Luxembourg foreign minister Poos and Commissioner Brittan discuss the New Transatlantic Agenda, summit deliverables, mutual recognition agreements and disagreements over Iran-related sanctions.",
+      "compilerUse": "Supply an EU institutional counterpoint to NATO-heavy coverage: connect the summit process with trade and sanctions coordination.",
+      "gap": "Recover summit deliverables and referenced mutual recognition agreements. Review later sections on Cuba, enlargement and regional issues before final selection.",
+      "dateEvidence": "Physical p. 1 gives July 7, 1997; catalog July 10 is transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf",
+      "documentId": "C09000002",
+      "caseNumber": "M-2017-11725",
+      "catalogDate": "1997-07-10",
+      "originalTitle": "SECRETARY'S MEETING WITH LUXEMBOURG EU PRESIDENCY FOREIGN MINISTER JACQUES POOS AND EUROPEAN COMMISSIONER SIR LEON BRITTAN, JULY 7, 1997, MADRID",
+      "postedDate": "2026-10-30",
+      "identityKey": "908ad9a6d20bc0599111|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 8,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11725/DOC_0C09000002/C09000002.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-1e6acc56e828164ad653",
+    "itemId": "C09000001",
+    "title": "SECRETARY ALBRIGHT'S MEETING WITH FRENCH FOREIGN MINISTER VEDRINE, DECEMBER 16, BRUSSELS, BELGIUM",
+    "type": "Ministerial conversation",
+    "date": "1997-12-16",
+    "sortDate": "1997-12-16",
+    "dateText": "1997-12-16",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11727/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11727/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "France"
+    ],
+    "section": "France",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "France"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11727/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11727",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11727, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2: Albright and Védrine discuss a possible follow-on force in Bosnia, a larger European share of military and police burdens, and French objections involving the ICTY. Compiler use: Document U.S.–French negotiation of sustained Bosnia involvement and burden-sharing at the end of 1997; cross-reference XVII and post-1995 Balkans material. Date evidence: Physical p. 1 explicitly dates the meeting December 16, 1997; December 23 is transmission. Evidence gaps: The summary says a U.S. decision had not yet been made. Do not treat proposals as adopted force policy; examine the detailed Bosnia sections before selection. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11727",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 explicitly dates the meeting December 16, 1997; December 23 is transmission. The summary says a U.S. decision had not yet been made. Do not treat proposals as adopted force policy; examine the detailed Bosnia sections before selection.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11727/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "1e6acc56e828164ad653",
+      "date": "1997-12-16",
+      "country": "France",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2
+      ],
+      "summary": "Albright and Védrine discuss a possible follow-on force in Bosnia, a larger European share of military and police burdens, and French objections involving the ICTY.",
+      "compilerUse": "Document U.S.–French negotiation of sustained Bosnia involvement and burden-sharing at the end of 1997; cross-reference XVII and post-1995 Balkans material.",
+      "gap": "The summary says a U.S. decision had not yet been made. Do not treat proposals as adopted force policy; examine the detailed Bosnia sections before selection.",
+      "dateEvidence": "Physical p. 1 explicitly dates the meeting December 16, 1997; December 23 is transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11727/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11727",
+      "catalogDate": "1997-12-23",
+      "originalTitle": "SECRETARY ALBRIGHT'S MEETING WITH FRENCH FOREIGN MINISTER VEDRINE, DECEMBER 16, BRUSSELS, BELGIUM",
+      "postedDate": "2026-10-30",
+      "identityKey": "1e6acc56e828164ad653|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11727/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 9,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11727/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11727/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-08496fdf9abe827f0b29",
+    "itemId": "C09000001",
+    "title": "SECRETARY'S MEETING WITH GERMAN FOREIGN MINISTER KINKEL, MARCH 8, 1998",
+    "type": "Ministerial conversation",
+    "date": "1998-03-08",
+    "sortDate": "1998-03-08",
+    "dateText": "1998-03-08",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Germany"
+    ],
+    "section": "Germany",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Germany"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11732",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11732, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Kinkel consider concrete pressure on Milošević as the Kosovo crisis grows, including proposed sanctions and measurable conditions for easing them; the conversation also covers Bosnia. Compiler use: Show the early U.S.–German deliberations preceding the March Contact Group meeting; compare proposals here with subsequent collective decisions. Date evidence: Physical p. 1 dates the meeting March 8, 1998; March 18 is cable transmission. Evidence gaps: These are proposed measures, not proof all were adopted. Review the remainder of Kinkel’s response and the March 9 Contact Group record. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11732",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 dates the meeting March 8, 1998; March 18 is cable transmission. These are proposed measures, not proof all were adopted. Review the remainder of Kinkel’s response and the March 9 Contact Group record.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "08496fdf9abe827f0b29",
+      "date": "1998-03-08",
+      "country": "Germany",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Kinkel consider concrete pressure on Milošević as the Kosovo crisis grows, including proposed sanctions and measurable conditions for easing them; the conversation also covers Bosnia.",
+      "compilerUse": "Show the early U.S.–German deliberations preceding the March Contact Group meeting; compare proposals here with subsequent collective decisions.",
+      "gap": "These are proposed measures, not proof all were adopted. Review the remainder of Kinkel’s response and the March 9 Contact Group record.",
+      "dateEvidence": "Physical p. 1 dates the meeting March 8, 1998; March 18 is cable transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11732",
+      "catalogDate": "1998-03-18",
+      "originalTitle": "SECRETARY'S MEETING WITH GERMAN FOREIGN MINISTER KINKEL, MARCH 8, 1998",
+      "postedDate": "2026-10-30",
+      "identityKey": "08496fdf9abe827f0b29|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 9,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11732/DOC_0C09000001/C09000001.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-0ad05cf1735e353f51de",
+    "itemId": "C09000005",
+    "title": "SECRETARY'S MEETING WITH FOREIGN MINISTERS KINKEL, COOK, AND VEDRINE ON MAY 28,1998",
+    "type": "Quadrilateral ministerial conversation",
+    "date": "1998-05-28",
+    "sortDate": "1998-05-28",
+    "dateText": "1998-05-28",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [],
+    "section": "NATO and EU",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "NATO and EU"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf",
+      "caseNumber": "M-2017-11735",
+      "documentId": "C09000005"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11735, document C09000005, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright, Kinkel, Cook and Védrine discuss Kosovo pressure, Russian involvement without a veto over planning, military risk, and coordination over Turkey, Greece and Cyprus. Compiler use: Place the four-power diplomatic channel alongside NATO and Contact Group records, connecting policy choices to the participants’ concerns. Date evidence: Physical p. 1 dates the meeting May 28, 1998; June 4 is reporting date. Evidence gaps: The cable’s summary is itself substantive but selection requires reading the full nine-page report and the referenced Contact Group and PJC meetings. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11735",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 dates the meeting May 28, 1998; June 4 is reporting date. The cable’s summary is itself substantive but selection requires reading the full nine-page report and the referenced Contact Group and PJC meetings.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "0ad05cf1735e353f51de",
+      "date": "1998-05-28",
+      "country": "NATO and EU",
+      "kind": "Quadrilateral ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright, Kinkel, Cook and Védrine discuss Kosovo pressure, Russian involvement without a veto over planning, military risk, and coordination over Turkey, Greece and Cyprus.",
+      "compilerUse": "Place the four-power diplomatic channel alongside NATO and Contact Group records, connecting policy choices to the participants’ concerns.",
+      "gap": "The cable’s summary is itself substantive but selection requires reading the full nine-page report and the referenced Contact Group and PJC meetings.",
+      "dateEvidence": "Physical p. 1 dates the meeting May 28, 1998; June 4 is reporting date.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf",
+      "documentId": "C09000005",
+      "caseNumber": "M-2017-11735",
+      "catalogDate": "1998-06-04",
+      "originalTitle": "SECRETARY'S MEETING WITH FOREIGN MINISTERS KINKEL, COOK, AND VEDRINE ON MAY 28,1998",
+      "postedDate": "2026-10-30",
+      "identityKey": "0ad05cf1735e353f51de|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 9,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11735/DOC_0C09000005/C09000005.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-7c5e6ba308b5be805340",
+    "itemId": "C09000001",
+    "title": "SECRETARYVS OCTOBER 6, 1998 CONVERSATION WITH BRITISH FS COOK",
+    "type": "Ministerial telephone conversation — date conflict",
+    "date": "",
+    "sortDate": "",
+    "dateText": "Date unresolved — see evidence",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "United Kingdom"
+    ],
+    "section": "United Kingdom",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "United Kingdom"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf",
+      "caseNumber": "M-2017-11751",
+      "documentId": "C09000001"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11751, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Cook discuss Holbrooke’s participation in a Contact Group meeting, the status of his talks, and the credibility of a Kosovo verification force. Compiler use: Compare the British–U.S. planning channel with NATO and Russian diplomacy during the October 1998 crisis. Date evidence: Physical p. 1 conflicts internally: October 6 in subject, October 7 in introductory paragraph and formal date line. Catalog October 8 is transmission. Evidence gaps: Subject says October 6; introduction and telcon date line say October 7. A redacted paragraph remains unavailable. Do not infer its contents. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume",
+      "date-missing"
+    ],
+    "releaseId": "M-2017-11751",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 conflicts internally: October 6 in subject, October 7 in introductory paragraph and formal date line. Catalog October 8 is transmission. Subject says October 6; introduction and telcon date line say October 7. A redacted paragraph remains unavailable. Do not infer its contents.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending",
+      "date-conflict"
+    ],
+    "releaseEvidence": {
+      "id": "7c5e6ba308b5be805340",
+      "date": "",
+      "country": "United Kingdom",
+      "kind": "Ministerial telephone conversation — date conflict",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Cook discuss Holbrooke’s participation in a Contact Group meeting, the status of his talks, and the credibility of a Kosovo verification force.",
+      "compilerUse": "Compare the British–U.S. planning channel with NATO and Russian diplomacy during the October 1998 crisis.",
+      "gap": "Subject says October 6; introduction and telcon date line say October 7. A redacted paragraph remains unavailable. Do not infer its contents.",
+      "dateEvidence": "Physical p. 1 conflicts internally: October 6 in subject, October 7 in introductory paragraph and formal date line. Catalog October 8 is transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11751",
+      "catalogDate": "1998-10-08",
+      "originalTitle": "SECRETARYVS OCTOBER 6, 1998 CONVERSATION WITH BRITISH FS COOK",
+      "postedDate": "2026-10-30",
+      "identityKey": "7c5e6ba308b5be805340|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 3,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11751/DOC_0C09000001/C09000001.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-f14b7702f1b3bcb2c4d8",
+    "itemId": "C09000002",
+    "title": "SECRETARYTS MEETING WITH HUBERT VEDRINE, FRENCH FOREIGN MINISTER, JANUARY 29, 1999",
+    "type": "Ministerial conversation",
+    "date": "1999-01-29",
+    "sortDate": "1999-01-29",
+    "dateText": "1999-01-29",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "France"
+    ],
+    "section": "France",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "France"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf",
+      "caseNumber": "M-2017-11757",
+      "documentId": "C09000002"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11757, document C09000002, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Védrine discuss preparations for the Washington NATO summit and a French request to welcome Saint-Malo, alongside bilateral consultation over Iraq, trade and Kosovo. Compiler use: Connect the European defense initiative with summit planning and U.S.–French coordination; cross-reference XVII and later ESDI discussions. Date evidence: Physical p. 1 dates the London meeting January 29, 1999; February 4 is transmission. Evidence gaps: Follow the Saint-Malo request into the negotiated summit text; the summary alone does not show a final U.S. acceptance. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11757",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 dates the London meeting January 29, 1999; February 4 is transmission. Follow the Saint-Malo request into the negotiated summit text; the summary alone does not show a final U.S. acceptance.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "f14b7702f1b3bcb2c4d8",
+      "date": "1999-01-29",
+      "country": "France",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Védrine discuss preparations for the Washington NATO summit and a French request to welcome Saint-Malo, alongside bilateral consultation over Iraq, trade and Kosovo.",
+      "compilerUse": "Connect the European defense initiative with summit planning and U.S.–French coordination; cross-reference XVII and later ESDI discussions.",
+      "gap": "Follow the Saint-Malo request into the negotiated summit text; the summary alone does not show a final U.S. acceptance.",
+      "dateEvidence": "Physical p. 1 dates the London meeting January 29, 1999; February 4 is transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf",
+      "documentId": "C09000002",
+      "caseNumber": "M-2017-11757",
+      "catalogDate": "1999-02-04",
+      "originalTitle": "SECRETARYTS MEETING WITH HUBERT VEDRINE, FRENCH FOREIGN MINISTER, JANUARY 29, 1999",
+      "postedDate": "2026-10-30",
+      "identityKey": "f14b7702f1b3bcb2c4d8|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 6,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11757/DOC_0C09000002/C09000002.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-91499eb25f846903bae1",
+    "itemId": "C09000003",
+    "title": "SECRETARY ALBRIGHT'S APRIL 12 MEETING WITH FM FISCHER OF GERMANY IN BRUSSELS",
+    "type": "Ministerial conversation",
+    "date": "1999-04-12",
+    "sortDate": "1999-04-12",
+    "dateText": "1999-04-12",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Germany"
+    ],
+    "section": "Germany",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Germany"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf",
+      "caseNumber": "M-2017-11764",
+      "documentId": "C09000003"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11764, document C09000003, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Fischer proposes bringing Russia into a UN Security Council initiative and a conditional bombing pause over Kosovo; Albright probes compliance conditions and the risks of restarting the air campaign. Compiler use: Compare a German political initiative with U.S. military and diplomatic conditions during the air campaign, then cross-reference the next day’s Russia talks. Date evidence: Physical p. 1 gives April 12, 1999; April 23 is cable transmission. Evidence gaps: Keep this proposal separate from an adopted NATO decision; compare the contemporaneous French meeting and Oslo talks. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11764",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 gives April 12, 1999; April 23 is cable transmission. Keep this proposal separate from an adopted NATO decision; compare the contemporaneous French meeting and Oslo talks.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "91499eb25f846903bae1",
+      "date": "1999-04-12",
+      "country": "Germany",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Fischer proposes bringing Russia into a UN Security Council initiative and a conditional bombing pause over Kosovo; Albright probes compliance conditions and the risks of restarting the air campaign.",
+      "compilerUse": "Compare a German political initiative with U.S. military and diplomatic conditions during the air campaign, then cross-reference the next day’s Russia talks.",
+      "gap": "Keep this proposal separate from an adopted NATO decision; compare the contemporaneous French meeting and Oslo talks.",
+      "dateEvidence": "Physical p. 1 gives April 12, 1999; April 23 is cable transmission.",
+      "related": [
+        "c8121501465c49eaa2a7"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf",
+      "documentId": "C09000003",
+      "caseNumber": "M-2017-11764",
+      "catalogDate": "1999-04-23",
+      "originalTitle": "SECRETARY ALBRIGHT'S APRIL 12 MEETING WITH FM FISCHER OF GERMANY IN BRUSSELS",
+      "postedDate": "2026-10-30",
+      "identityKey": "91499eb25f846903bae1|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 6,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000003/C09000003.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-c8121501465c49eaa2a7",
+    "itemId": "C09000007",
+    "title": "SECRETARY ALBRIGHT'S APRIL 12 MEETING WITH FM VEDRINE OF FRANCE IN BRUSSELS",
+    "type": "Ministerial conversation",
+    "date": "1999-04-12",
+    "sortDate": "1999-04-12",
+    "dateText": "1999-04-12",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000007/C09000007.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000007/C09000007.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "France"
+    ],
+    "section": "France",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "France"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000007/C09000007.pdf",
+      "caseNumber": "M-2017-11764",
+      "documentId": "C09000007"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11764, document C09000007, October 30, 2026 posting. Physical PDF pp. 1, 2. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2: Albright outlines thinking on Kosovo as an internationally protected area with a NATO-led force and OSCE/EU civilian roles; Védrine opposes independence and partition and stresses Russian participation. Compiler use: Pair with the same-day Fischer exchange to distinguish allied negotiating positions on a political settlement and the legal basis for NATO action. Date evidence: Physical p. 1 gives April 12, 1999; April 23 is transmission. Evidence gaps: These are developing ideas, not an agreed settlement. Review detailed passages and later decisions before writing an outcome narrative. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11764",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 gives April 12, 1999; April 23 is transmission. These are developing ideas, not an agreed settlement. Review detailed passages and later decisions before writing an outcome narrative.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000007/C09000007.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "c8121501465c49eaa2a7",
+      "date": "1999-04-12",
+      "country": "France",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2
+      ],
+      "summary": "Albright outlines thinking on Kosovo as an internationally protected area with a NATO-led force and OSCE/EU civilian roles; Védrine opposes independence and partition and stresses Russian participation.",
+      "compilerUse": "Pair with the same-day Fischer exchange to distinguish allied negotiating positions on a political settlement and the legal basis for NATO action.",
+      "gap": "These are developing ideas, not an agreed settlement. Review detailed passages and later decisions before writing an outcome narrative.",
+      "dateEvidence": "Physical p. 1 gives April 12, 1999; April 23 is transmission.",
+      "related": [
+        "91499eb25f846903bae1"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000007/C09000007.pdf",
+      "documentId": "C09000007",
+      "caseNumber": "M-2017-11764",
+      "catalogDate": "1999-04-23",
+      "originalTitle": "SECRETARY ALBRIGHT'S APRIL 12 MEETING WITH FM VEDRINE OF FRANCE IN BRUSSELS",
+      "postedDate": "2026-10-30",
+      "identityKey": "c8121501465c49eaa2a7|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000007/C09000007.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 8,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000007/C09000007.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11764/DOC_0C09000007/C09000007.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-87d3f76441976d8f8a4d",
+    "itemId": "C09000005",
+    "title": "SECRETARY'S BILATERAL WITH ITALIAN FOREIGN MINISTER DINI, FLORENCE NAC MINISTERIAL",
+    "type": "Ministerial conversation",
+    "date": "2000-05-24",
+    "sortDate": "2000-05-24",
+    "dateText": "2000-05-24",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000005/C09000005.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000005/C09000005.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Italy"
+    ],
+    "section": "Italy",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Italy"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000005/C09000005.pdf",
+      "caseNumber": "M-2017-11780",
+      "documentId": "C09000005"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11780, document C09000005, October 30, 2026 posting. Physical PDF pp. 1, 2. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2: Dini tells Albright Italy will not support lifting the oil ban after Belgrade’s crackdown; the meeting also links Italian cooperation to EU financing for KEDO and regional diplomacy. Compiler use: Document U.S.–Italian coordination on Serbia and the wider use of EU institutions in bilateral cooperation at the close of the period. Date evidence: Physical p. 1 gives May 24, 2000; June 6 is transmission. Evidence gaps: Distinguish Dini’s commitment from subsequent EU action; seek the sanctions decision and KEDO funding follow-up. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11780",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 gives May 24, 2000; June 6 is transmission. Distinguish Dini’s commitment from subsequent EU action; seek the sanctions decision and KEDO funding follow-up.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000005/C09000005.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "87d3f76441976d8f8a4d",
+      "date": "2000-05-24",
+      "country": "Italy",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2
+      ],
+      "summary": "Dini tells Albright Italy will not support lifting the oil ban after Belgrade’s crackdown; the meeting also links Italian cooperation to EU financing for KEDO and regional diplomacy.",
+      "compilerUse": "Document U.S.–Italian coordination on Serbia and the wider use of EU institutions in bilateral cooperation at the close of the period.",
+      "gap": "Distinguish Dini’s commitment from subsequent EU action; seek the sanctions decision and KEDO funding follow-up.",
+      "dateEvidence": "Physical p. 1 gives May 24, 2000; June 6 is transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000005/C09000005.pdf",
+      "documentId": "C09000005",
+      "caseNumber": "M-2017-11780",
+      "catalogDate": "2000-06-06",
+      "originalTitle": "SECRETARY'S BILATERAL WITH ITALIAN FOREIGN MINISTER DINI, FLORENCE NAC MINISTERIAL",
+      "postedDate": "2026-10-30",
+      "identityKey": "87d3f76441976d8f8a4d|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000005/C09000005.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 4,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000005/C09000005.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000005/C09000005.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-2a9e24415bbc4fc83bac",
+    "itemId": "C09000008",
+    "title": "SECRETARY'S MAY 25 MEETING WITH DUTCH FM VAN AARTSEN, FLORENCE, ITALY",
+    "type": "Ministerial conversation",
+    "date": "2000-05-25",
+    "sortDate": "2000-05-25",
+    "dateText": "2000-05-25",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Netherlands"
+    ],
+    "section": "Netherlands",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Netherlands"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf",
+      "caseNumber": "M-2017-11780",
+      "documentId": "C09000008"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11780, document C09000008, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Van Aartsen discuss economic and political support for Montenegro, restraint over military planning, and Dutch efforts to balance NATO–EU relations in ESDI. Compiler use: Connect a smaller ally’s role in Balkan policy with the institutional defense debate and distinguish contingency discussion from an approved plan. Date evidence: Physical p. 1 gives May 25, 2000; June 6 is transmission. Evidence gaps: Dobbins says the key-ally discussions did not produce contingency plans; preserve that qualification and seek EU aid and Feira follow-up. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11780",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 gives May 25, 2000; June 6 is transmission. Dobbins says the key-ally discussions did not produce contingency plans; preserve that qualification and seek EU aid and Feira follow-up.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "2a9e24415bbc4fc83bac",
+      "date": "2000-05-25",
+      "country": "Netherlands",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Van Aartsen discuss economic and political support for Montenegro, restraint over military planning, and Dutch efforts to balance NATO–EU relations in ESDI.",
+      "compilerUse": "Connect a smaller ally’s role in Balkan policy with the institutional defense debate and distinguish contingency discussion from an approved plan.",
+      "gap": "Dobbins says the key-ally discussions did not produce contingency plans; preserve that qualification and seek EU aid and Feira follow-up.",
+      "dateEvidence": "Physical p. 1 gives May 25, 2000; June 6 is transmission.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf",
+      "documentId": "C09000008",
+      "caseNumber": "M-2017-11780",
+      "catalogDate": "2000-06-06",
+      "originalTitle": "SECRETARY'S MAY 25 MEETING WITH DUTCH FM VAN AARTSEN, FLORENCE, ITALY",
+      "postedDate": "2026-10-30",
+      "identityKey": "2a9e24415bbc4fc83bac|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 4,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000008/C09000008.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-6511099fa74686361c4e",
+    "itemId": "C09000010",
+    "title": "SECRETARY'S MAY 25 MEETING WITH SPANISH FM PIQUE, FLORENCE, ITALY",
+    "type": "Ministerial conversation",
+    "date": "2000-05-25",
+    "sortDate": "2000-05-25",
+    "dateText": "2000-05-25",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [
+      "Spain"
+    ],
+    "section": "Spain",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "Spain"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf",
+      "caseNumber": "M-2017-11780",
+      "documentId": "C09000010"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11780, document C09000010, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright and Piqué discuss Kosovo/Bosnia force needs, NATO–EU links and non-EU allies in ESDI, and renewal of the bilateral base agreement including Rota. Compiler use: Link Spain’s bilateral defense relationship to European force contributions and the NATO–EU institutional question. Date evidence: Physical p. 1 gives May 25, 2000; June 5 is reporting date. Evidence gaps: The cable’s summary and paragraph 5 give different Civil Guard numbers (150 and 130); do not harmonize them without corroboration. Check the base-negotiation outcome. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11780",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 gives May 25, 2000; June 5 is reporting date. The cable’s summary and paragraph 5 give different Civil Guard numbers (150 and 130); do not harmonize them without corroboration. Check the base-negotiation outcome.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "6511099fa74686361c4e",
+      "date": "2000-05-25",
+      "country": "Spain",
+      "kind": "Ministerial conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright and Piqué discuss Kosovo/Bosnia force needs, NATO–EU links and non-EU allies in ESDI, and renewal of the bilateral base agreement including Rota.",
+      "compilerUse": "Link Spain’s bilateral defense relationship to European force contributions and the NATO–EU institutional question.",
+      "gap": "The cable’s summary and paragraph 5 give different Civil Guard numbers (150 and 130); do not harmonize them without corroboration. Check the base-negotiation outcome.",
+      "dateEvidence": "Physical p. 1 gives May 25, 2000; June 5 is reporting date.",
+      "related": [],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf",
+      "documentId": "C09000010",
+      "caseNumber": "M-2017-11780",
+      "catalogDate": "2000-06-05",
+      "originalTitle": "SECRETARY'S MAY 25 MEETING WITH SPANISH FM PIQUE, FLORENCE, ITALY",
+      "postedDate": "2026-10-30",
+      "identityKey": "6511099fa74686361c4e|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 4,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11780/DOC_0C09000010/C09000010.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-fd7e3932609b7134ff95",
+    "itemId": "C09000005",
+    "title": "OFFICIAL-INFORMAL: SECRETARY ALBRIGHT'S DECEMBER 13 DINNER WITH SECRETARY GENERAL ROBERTSON AND EU HIGH REPRESENTATIVE SOLANA: ESDI",
+    "type": "Ministerial institutional conversation",
+    "date": "2000-12-13",
+    "sortDate": "2000-12-13",
+    "dateText": "2000-12-13",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [],
+    "section": "NATO and EU",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "NATO and EU"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf",
+      "caseNumber": "M-2017-11781",
+      "documentId": "C09000005"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11781, document C09000005, October 30, 2026 posting. Physical PDF pp. 1, 2, 3. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2, 3: Albright, Robertson and Solana discuss the blockage over EU access to NATO planning, Turkish concerns about Cyprus and the Aegean, and French positions on permanent NATO–EU arrangements. Compiler use: Use the end-of-period ESDI negotiations to connect bilateral positions with the emerging NATO–EU machinery; cross-reference XVII. Date evidence: Physical pp. 1–2 identify the December 13, 2000 dinner; December 19 is reporting date. Evidence gaps: Official-informal transmission of one segment of the dinner. Russia/enlargement is reported separately and is not a duplicate of this ESDI discussion. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11781",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical pp. 1–2 identify the December 13, 2000 dinner; December 19 is reporting date. Official-informal transmission of one segment of the dinner. Russia/enlargement is reported separately and is not a duplicate of this ESDI discussion.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "fd7e3932609b7134ff95",
+      "date": "2000-12-13",
+      "country": "NATO and EU",
+      "kind": "Ministerial institutional conversation",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "summary": "Albright, Robertson and Solana discuss the blockage over EU access to NATO planning, Turkish concerns about Cyprus and the Aegean, and French positions on permanent NATO–EU arrangements.",
+      "compilerUse": "Use the end-of-period ESDI negotiations to connect bilateral positions with the emerging NATO–EU machinery; cross-reference XVII.",
+      "gap": "Official-informal transmission of one segment of the dinner. Russia/enlargement is reported separately and is not a duplicate of this ESDI discussion.",
+      "dateEvidence": "Physical pp. 1–2 identify the December 13, 2000 dinner; December 19 is reporting date.",
+      "related": [
+        "14f609a56dd9038e0b78"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf",
+      "documentId": "C09000005",
+      "caseNumber": "M-2017-11781",
+      "catalogDate": "2000-12-19",
+      "originalTitle": "OFFICIAL-INFORMAL: SECRETARY ALBRIGHT'S DECEMBER 13 DINNER WITH SECRETARY GENERAL ROBERTSON AND EU HIGH REPRESENTATIVE SOLANA: ESDI",
+      "postedDate": "2026-10-30",
+      "identityKey": "fd7e3932609b7134ff95|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 9,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf#page=1",
+          "method": "local-ocr",
+          "qualityWarnings": [
+            "machine-ocr-not-human-verified",
+            "source-duplicate-text-layer-replaced-with-rendered-ocr"
+          ]
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000005/C09000005.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-14f609a56dd9038e0b78",
+    "itemId": "C09000002",
+    "title": "SECRETARY ALBRIGHT'S DECEMBER 13 DINNER WITH NATO SECRETARY GENERAL ROBERTSON AND EU HIGH REPRESENTATIVE SOLANA BRUSSELS, BELGIUM",
+    "type": "Ministerial institutional conversation — separate segment",
+    "date": "2000-12-13",
+    "sortDate": "2000-12-13",
+    "dateText": "2000-12-13",
+    "collection": "State FOIA — October 30, 2026 release",
+    "collectionUrl": "https://october-30-2026-document-release.jagwilson.chatgpt.site/",
+    "itemUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000002/C09000002.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000002/C09000002.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "countries": [],
+    "section": "NATO and EU",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "policyVolumeId": "frus1993-00v24",
+    "subjects": [],
+    "topics": [
+      "October 30 release",
+      "High-level contact",
+      "NATO and EU"
+    ],
+    "source": {
+      "name": "U.S. Department of State FOIA Library",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000002/C09000002.pdf",
+      "caseNumber": "M-2017-11781",
+      "documentId": "C09000002"
+    },
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11781, document C09000002, October 30, 2026 posting. Physical PDF pp. 1, 2. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "notes": "October 30 release. Physical PDF pp. 1, 2: Albright, Robertson and Solana discuss engagement with Russia, the military liaison mission, concerns over Putin and preparations for further NATO enlargement. Compiler use: Keep this separate dinner segment alongside the ESDI report; cross-reference XVII and XVIII for the Russian and enlargement aspects. Date evidence: Physical p. 1 dates the dinner December 13, 2000; December 27 is reporting date. Evidence gaps: The cable explicitly says ESDI and Kosovo are in separate telegrams; the Kosovo segment is a follow-up search lead. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "queues": [
+      "source-note",
+      "cross-volume"
+    ],
+    "releaseId": "M-2017-11781",
+    "provenanceNote": "October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open. Physical p. 1 dates the dinner December 13, 2000; December 27 is reporting date. The cable explicitly says ESDI and Kosovo are in separate telegrams; the Kosovo segment is a follow-up search lead.",
+    "provenanceLinks": [
+      "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000002/C09000002.pdf",
+      "https://october-30-2026-document-release.jagwilson.chatgpt.site/"
+    ],
+    "sourceNoteStatus": "FRUS provenance scaffold; extracted-text evidence reviewed",
+    "sourceNoteIssues": [
+      "archival-container-folder-pending",
+      "classification-distribution-drafting-pending",
+      "facsimile-verification-pending"
+    ],
+    "releaseEvidence": {
+      "id": "14f609a56dd9038e0b78",
+      "date": "2000-12-13",
+      "country": "NATO and EU",
+      "kind": "Ministerial institutional conversation — separate segment",
+      "pages": [
+        1,
+        2
+      ],
+      "summary": "Albright, Robertson and Solana discuss engagement with Russia, the military liaison mission, concerns over Putin and preparations for further NATO enlargement.",
+      "compilerUse": "Keep this separate dinner segment alongside the ESDI report; cross-reference XVII and XVIII for the Russian and enlargement aspects.",
+      "gap": "The cable explicitly says ESDI and Kosovo are in separate telegrams; the Kosovo segment is a follow-up search lead.",
+      "dateEvidence": "Physical p. 1 dates the dinner December 13, 2000; December 27 is reporting date.",
+      "related": [
+        "fd7e3932609b7134ff95"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000002/C09000002.pdf",
+      "documentId": "C09000002",
+      "caseNumber": "M-2017-11781",
+      "catalogDate": "2000-12-27",
+      "originalTitle": "SECRETARY ALBRIGHT'S DECEMBER 13 DINNER WITH NATO SECRETARY GENERAL ROBERTSON AND EU HIGH REPRESENTATIVE SOLANA BRUSSELS, BELGIUM",
+      "postedDate": "2026-10-30",
+      "identityKey": "14f609a56dd9038e0b78|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000002/C09000002.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 6,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000002/C09000002.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11781/DOC_0C09000002/C09000002.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
   }
-]
-;
+];

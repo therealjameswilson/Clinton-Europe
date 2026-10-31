@@ -71854,5 +71854,285 @@
       "UNKNOWN",
       "Strobe Talbott FOIA"
     ]
+  },
+  {
+    "id": "state-oct2026-39b821b0934c9a3706a6",
+    "title": "English Translation of August 28, 1996 Letter From Jacques Chirac To William J. Clinton",
+    "date": "1996-08-28",
+    "sourceType": "Unofficial translation",
+    "sourceRepository": "U.S. Department of State FOIA Library",
+    "sourceCollection": "October 30, 2026 posting",
+    "sourceRuns": [
+      "October 30 release"
+    ],
+    "sourceReports": [
+      "reports/october-30-release-review.md"
+    ],
+    "priority": "High",
+    "identifier": "M-2017-11890 / C09000001",
+    "catalogUrl": "",
+    "sourceUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf",
+    "digitalObjectUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "digitalObjects": 1,
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11890, document C09000001, October 30, 2026 posting. Physical PDF pp. 1, 2, 3, 4. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "sections": [
+      "France"
+    ],
+    "section": "France",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v23"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIII"
+    ],
+    "matchedQueries": [
+      "Physical p. 1 supplies the August 28, 1996 letter date.",
+      "Translation accuracy and handwritten insertions require facsimile comparison."
+    ],
+    "summary": "October 30 release. Physical PDF pp. 1, 2, 3, 4: Separate English translation of Chirac’s August 28 letter on NATO command adaptation, enlargement and European security. It identifies itself as unofficial. Compiler use: Collate wording with the French original; count as a separate source copy of the same contact, not a second presidential exchange. Date evidence: Physical p. 1 supplies the August 28, 1996 letter date. Evidence gaps: Translation accuracy and handwritten insertions require facsimile comparison. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "topics": [
+      "October 30 release",
+      "Unofficial translation",
+      "France"
+    ],
+    "releaseEvidence": {
+      "id": "39b821b0934c9a3706a6",
+      "date": "1996-08-28",
+      "country": "France",
+      "kind": "Unofficial translation",
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "summary": "Separate English translation of Chirac’s August 28 letter on NATO command adaptation, enlargement and European security. It identifies itself as unofficial.",
+      "compilerUse": "Collate wording with the French original; count as a separate source copy of the same contact, not a second presidential exchange.",
+      "gap": "Translation accuracy and handwritten insertions require facsimile comparison.",
+      "dateEvidence": "Physical p. 1 supplies the August 28, 1996 letter date.",
+      "related": [
+        "b91a648db88767c80a4c"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11890",
+      "catalogDate": "1996-08-28",
+      "originalTitle": "English Translation of August 28, 1996 Letter From Jacques Chirac To William J. Clinton",
+      "postedDate": "2026-10-30",
+      "identityKey": "39b821b0934c9a3706a6|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v23",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v23"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 4,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf#page=2",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf#page=3",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11890/DOC_0C09000001/C09000001.pdf#page=4",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-0d66ae11f6ee51b96c51",
+    "title": "Memorandum of Telephone Conversation Between the President and German Chancellor Helmut Kohl",
+    "date": "1997-01-13",
+    "sourceType": "Transmittal only — attachment lead",
+    "sourceRepository": "U.S. Department of State FOIA Library",
+    "sourceCollection": "October 30, 2026 posting",
+    "sourceRuns": [
+      "October 30 release"
+    ],
+    "sourceReports": [
+      "reports/october-30-release-review.md"
+    ],
+    "priority": "High",
+    "identifier": "M-2017-11957 / C09000001",
+    "catalogUrl": "",
+    "sourceUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000001/C09000001.pdf",
+    "digitalObjectUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000001/C09000001.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000001/C09000001.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "digitalObjects": 1,
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11957, document C09000001, October 30, 2026 posting. Physical PDF pp. 1. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "sections": [
+      "Germany"
+    ],
+    "section": "Germany",
+    "volumeIds": [
+      "frus1993-00v22",
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXII",
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "January 13, 1997 is the cover date on physical p. 1.",
+      "Tab A is not included in this PDF; correlate with 1368dc6b0da3da97e95f before claiming an attachment match."
+    ],
+    "summary": "October 30 release. Physical PDF pp. 1: Sens transmits a Clinton–Kohl telcon for the Secretary’s information and specifies NODIS distribution. This one-page PDF contains no dialogue. Compiler use: Reconcile the archival and distribution chain with the separately released January 6 telcon; do not treat January 13 as another contact. Date evidence: January 13, 1997 is the cover date on physical p. 1. Evidence gaps: Tab A is not included in this PDF; correlate with 1368dc6b0da3da97e95f before claiming an attachment match. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "topics": [
+      "October 30 release",
+      "Transmittal only — attachment lead",
+      "Germany"
+    ],
+    "releaseEvidence": {
+      "id": "0d66ae11f6ee51b96c51",
+      "date": "1997-01-13",
+      "country": "Germany",
+      "kind": "Transmittal only — attachment lead",
+      "pages": [
+        1
+      ],
+      "summary": "Sens transmits a Clinton–Kohl telcon for the Secretary’s information and specifies NODIS distribution. This one-page PDF contains no dialogue.",
+      "compilerUse": "Reconcile the archival and distribution chain with the separately released January 6 telcon; do not treat January 13 as another contact.",
+      "gap": "Tab A is not included in this PDF; correlate with 1368dc6b0da3da97e95f before claiming an attachment match.",
+      "dateEvidence": "January 13, 1997 is the cover date on physical p. 1.",
+      "related": [
+        "1368dc6b0da3da97e95f"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000001/C09000001.pdf",
+      "documentId": "C09000001",
+      "caseNumber": "M-2017-11957",
+      "catalogDate": "1997-01-13",
+      "originalTitle": "Memorandum of Telephone Conversation Between the President and German Chancellor Helmut Kohl",
+      "postedDate": "2026-10-30",
+      "identityKey": "0d66ae11f6ee51b96c51|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000001/C09000001.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v22",
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 1,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11957/DOC_0C09000001/C09000001.pdf#page=1",
+          "method": "embedded-pdf-text",
+          "qualityWarnings": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-oct2026-b2f66bc6c85c99136c0a",
+    "title": "A NATO-Russia Understanding",
+    "date": "1997-01-27",
+    "sourceType": "Policy worksheet — date conflict",
+    "sourceRepository": "U.S. Department of State FOIA Library",
+    "sourceCollection": "October 30, 2026 posting",
+    "sourceRuns": [
+      "October 30 release"
+    ],
+    "sourceReports": [
+      "reports/october-30-release-review.md"
+    ],
+    "priority": "High",
+    "identifier": "M-2017-11963 / C09000002",
+    "catalogUrl": "",
+    "sourceUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11963/DOC_0C09000002/C09000002.pdf",
+    "digitalObjectUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11963/DOC_0C09000002/C09000002.pdf",
+    "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11963/DOC_0C09000002/C09000002.pdf",
+    "releaseStatus": "Public FOIA copy; selection pending",
+    "digitalObjects": 1,
+    "sourceNote": "Source: U.S. Department of State FOIA Library, case M-2017-11963, document C09000002, October 30, 2026 posting. Physical PDF pp. 1, 2. Full PDF URL and hashed release identity retained as provenance controls, not archival container/folder evidence. Original classification, distribution, drafting and archival-copy comparison require verification.",
+    "sections": [
+      "NATO and EU"
+    ],
+    "section": "NATO and EU",
+    "volumeIds": [
+      "frus1993-00v24"
+    ],
+    "volumeLabels": [
+      "Volume XXIV"
+    ],
+    "matchedQueries": [
+      "Heading on physical p. 1: January 27, 1997. Catalog documentDate: 2018-06-04.",
+      "Catalog/body date conflict remains explicit. Table columns and annotations are vulnerable to OCR order errors; establish authorship, version and facsimile reading before attributing positions or treating any entry as agreement."
+    ],
+    "summary": "October 30 release. Physical PDF pp. 1, 2: A NATO–Russia Understanding and scorecard juxtapose positions on forces, consultation, legal form and enlargement. The first page is headed January 27, 1997, while the catalog document date is June 4, 2018. Compiler use: Use as a policy comparison lead for the January 1997 negotiating sequence; cross-reference XVII, XVIII and the January 30 Clinton–Chirac call. It is not itself a high-level contact. Date evidence: Heading on physical p. 1: January 27, 1997. Catalog documentDate: 2018-06-04. Evidence gaps: Catalog/body date conflict remains explicit. Table columns and annotations are vulnerable to OCR order errors; establish authorship, version and facsimile reading before attributing positions or treating any entry as agreement. October 30, 2026 is the posting date, not the historical date. Evidence is the release microsite’s extracted page text (embedded text or OCR), not a facsimile-verified transcription. Physical PDF page numbers are used. All additions remain pending compiler selection; archival box/folder, original-copy comparison, and source-note verification remain open.",
+    "topics": [
+      "October 30 release",
+      "Policy worksheet — date conflict",
+      "NATO and EU"
+    ],
+    "releaseEvidence": {
+      "id": "b2f66bc6c85c99136c0a",
+      "date": "1997-01-27",
+      "country": "NATO and EU",
+      "kind": "Policy worksheet — date conflict",
+      "pages": [
+        1,
+        2
+      ],
+      "summary": "A NATO–Russia Understanding and scorecard juxtapose positions on forces, consultation, legal form and enlargement. The first page is headed January 27, 1997, while the catalog document date is June 4, 2018.",
+      "compilerUse": "Use as a policy comparison lead for the January 1997 negotiating sequence; cross-reference XVII, XVIII and the January 30 Clinton–Chirac call. It is not itself a high-level contact.",
+      "gap": "Catalog/body date conflict remains explicit. Table columns and annotations are vulnerable to OCR order errors; establish authorship, version and facsimile reading before attributing positions or treating any entry as agreement.",
+      "dateEvidence": "Heading on physical p. 1: January 27, 1997. Catalog documentDate: 2018-06-04.",
+      "related": [
+        "e9a1c7aae66cfa6181b8"
+      ],
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11963/DOC_0C09000002/C09000002.pdf",
+      "documentId": "C09000002",
+      "caseNumber": "M-2017-11963",
+      "catalogDate": "2018-06-04",
+      "originalTitle": "A NATO-Russia Understanding",
+      "postedDate": "2026-10-30",
+      "identityKey": "b2f66bc6c85c99136c0a|https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11963/DOC_0C09000002/C09000002.pdf",
+      "policyVolumeId": "frus1993-00v24",
+      "volumeIds": [
+        "frus1993-00v24"
+      ],
+      "selectionStatus": "Pending compiler selection",
+      "pageCount": 2,
+      "pageEvidence": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11963/DOC_0C09000002/C09000002.pdf#page=1",
+          "method": "local-ocr",
+          "qualityWarnings": [
+            "machine-ocr-not-human-verified",
+            "source-duplicate-text-layer-replaced-with-rendered-ocr"
+          ]
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026/M-2017-11963/DOC_0C09000002/C09000002.pdf#page=2",
+          "method": "local-ocr",
+          "qualityWarnings": [
+            "machine-ocr-not-human-verified",
+            "source-duplicate-text-layer-replaced-with-rendered-ocr"
+          ]
+        }
+      ]
+    }
   }
 ]

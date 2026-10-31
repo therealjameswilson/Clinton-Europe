@@ -307,6 +307,14 @@ async function main() {
     }
   }
 
+  // Release copies, covers and date-conflict worksheets are curated separately
+  // from the generic search reports; rebuilding those reports must retain them.
+  try {
+    const existing = JSON.parse(await fs.readFile(path.join(DATA_DIR, "potential-documents.json"), "utf8"));
+    for (const item of existing.filter((item) => item.releaseEvidence)) merged.set(item.id, item);
+  } catch (error) {
+    if (error.code !== "ENOENT") throw error;
+  }
   const documents = [...merged.values()].sort(byPriorityScoreDate);
   const report = {
     generatedAt: new Date().toISOString(),
