@@ -2429,8 +2429,12 @@ async function copyText(text) {
   field.style.top = "0";
   document.body.append(field);
   field.select();
-  const copied = document.execCommand("copy");
-  field.remove();
+  let copied;
+  try {
+    copied = document.execCommand("copy");
+  } finally {
+    field.remove();
+  }
   if (!copied) throw new Error("Copy command unavailable");
   return true;
 }
@@ -2859,6 +2863,140 @@ function createLibraryStatusControl(lead) {
   return wrap;
 }
 
+let libraryCitationAuditPromise;
+
+function loadLibraryCitationAudit() {
+  if (!libraryCitationAuditPromise) {
+    libraryCitationAuditPromise = fetch("data/clinton-presidential-citation-matches.json?v=20261031")
+      .then((response) => {
+        if (!response.ok) throw new Error("Citation audit unavailable");
+        return response.json();
+      })
+      .then((audit) => {
+        if (audit.schemaVersion !== 1 || !audit.matchesByLeadId) throw new Error("Citation audit format unavailable");
+        return audit;
+      })
+      .catch((error) => {
+        libraryCitationAuditPromise = undefined;
+        throw error;
+      });
+  }
+  return libraryCitationAuditPromise;
+}
+
+function citationParagraph(text, className = "") {
+  const paragraph = document.createElement("p");
+  paragraph.className = className;
+  paragraph.textContent = text;
+  return paragraph;
+}
+
+function citationSourceLink(text, url) {
+  const link = document.createElement("a");
+  link.href = url;
+  link.textContent = text;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  return link;
+}
+
+function createLibraryCitationRow(candidate, match, lead) {
+  const card = document.createElement("section");
+  card.className = "library-citation-candidate";
+  const heading = document.createElement("h4");
+  heading.textContent = `Folder citation stem · ${candidate.id}`;
+  const label = document.createElement("label");
+  label.className = "library-citation-label";
+  label.textContent = "Plain Source: line — verify against the document before use";
+  const source = document.createElement("textarea");
+  source.className = "library-citation-source";
+  source.readOnly = true;
+  source.rows = 4;
+  source.value = candidate.note;
+  source.setAttribute("aria-label", `Source line for canonical row ${candidate.id}`);
+  label.append(source);
+  const actions = document.createElement("div");
+  actions.className = "library-citation-actions";
+  const copy = document.createElement("button");
+  copy.type = "button";
+  copy.className = "copy-button";
+  copy.textContent = "Copy Source line";
+  const status = citationParagraph("", "library-citation-status");
+  status.setAttribute("role", "status");
+  copy.addEventListener("click", async () => {
+    try {
+      await copyText(candidate.note);
+      status.textContent = "Source line copied. Citation level and review metadata are not included.";
+    } catch {
+      source.focus();
+      source.select();
+      status.textContent = "Automatic copy is unavailable. The Source line is selected; use your device’s Copy command.";
+    }
+  });
+  actions.append(copy, citationSourceLink("View canonical row ↗", `https://therealjameswilson.github.io/clinton-2013-0185-source-notes/?id=${encodeURIComponent(candidate.id)}`));
+  const evidence = citationParagraph(`Canonical location: ${candidate.loc}. Existing lead: Part ${lead.part}, page ${lead.page}, line ${lead.line}. OA/ID ${candidate.oa} is an identifier from the finding aid, not a verified physical box number.`, "library-citation-evidence");
+  card.append(heading, label, actions, status, evidence);
+  if (Number(candidate.p) !== Number(lead.part) || Number(candidate.pg) !== Number(lead.page)) {
+    card.append(citationParagraph("Location differs: the canonical row and the existing lead have different part/page locations. Check both before using this stem.", "library-citation-warning"));
+  }
+  if (candidate.flags?.length) card.append(citationParagraph(`Source review flags: ${candidate.flags.join("; ")}`, "library-citation-warning"));
+  if (candidate.rest?.length) card.append(citationParagraph(`Finding-aid restriction markers: ${candidate.rest.join("; ")}. These markers do not establish original classification or declassification status.`, "library-citation-warning"));
+  const catalog = citationParagraph(candidate.nmsg || "No file-unit NAID is asserted by this source.", "library-citation-evidence");
+  if (candidate.nurl) catalog.append(document.createTextNode(" "), citationSourceLink(`Catalog ${candidate.nlevel || "provenance"} link ↗`, candidate.nurl));
+  card.append(catalog);
+  return card;
+}
+
+function createLibraryCitationDetails(lead) {
+  const details = document.createElement("details");
+  details.className = "library-citation-details";
+  const summary = document.createElement("summary");
+  summary.textContent = "Check copyable presidential-record citation stem";
+  const content = document.createElement("div");
+  content.className = "library-citation-content";
+  const status = citationParagraph("Citation evidence loads when this section opens.");
+  status.setAttribute("role", "status");
+  content.append(status);
+  details.append(summary, content);
+  let loaded = false;
+  let loading = false;
+  details.addEventListener("toggle", async () => {
+    if (!details.open || loaded || loading) return;
+    loading = true;
+    status.textContent = "Loading the canonical folder-stem cross-check…";
+    try {
+      const audit = await loadLibraryCitationAudit();
+      const match = audit.matchesByLeadId[lead.id];
+      if (!match) throw new Error("No audit result for this lead");
+      const rows = match.canonicalRows || [];
+      summary.textContent = match.status === "unique-exact-folder-stem"
+        ? "Exact folder-stem match · not a verified item citation"
+        : match.status === "ambiguous-exact-folder-stem"
+          ? `${rows.length} candidate rows · unresolved folder-stem match`
+          : "No exact folder-stem match in the checked collection";
+      content.replaceChildren(citationParagraph(match.matchBasis));
+      if (rows.length) {
+        content.append(citationParagraph("Folder-level evidence only. This cross-check verifies no individual document citations. Preserve stronger existing item citations and State Department FOIA provenance.", "library-citation-warning"));
+        if (rows.length > 1) content.append(citationParagraph("All candidate row IDs are retained below. No row has been selected automatically; repeated note text and a matching page do not resolve the ambiguity.", "library-citation-warning"));
+        rows.forEach((candidate) => content.append(createLibraryCitationRow(candidate, match, lead)));
+      } else {
+        content.append(citationParagraph("No citation has been inferred. Search the complete collection and verify repository, office/series, OA/ID and folder against the item; a title, date or OA/ID alone is insufficient."));
+        content.append(citationSourceLink("Search the complete Clinton collection ↗", "https://therealjameswilson.github.io/clinton-2013-0185-source-notes/"));
+      }
+      const version = citationParagraph(`Checked input: ${audit.sourceVersion.entryCount.toLocaleString()} rows, generated ${audit.sourceVersion.generatedAt}. `, "library-citation-evidence");
+      version.append(citationSourceLink("Download cross-check, source hash and match rules", "data/clinton-presidential-citation-matches.json"));
+      content.append(version);
+      loaded = true;
+    } catch {
+      status.textContent = "Citation evidence could not load. Close and reopen this section to retry, or use the complete collection link.";
+      if (!content.querySelector("a")) content.append(citationSourceLink("Open the complete Clinton collection ↗", "https://therealjameswilson.github.io/clinton-2013-0185-source-notes/"));
+    } finally {
+      loading = false;
+    }
+  });
+  return details;
+}
+
 function createLibraryLeadRow(lead) {
   const row = document.createElement("article");
   row.className = "document-row library-row";
@@ -2896,7 +3034,7 @@ function createLibraryLeadRow(lead) {
     10
   );
 
-  body.append(title, sourceLine, note, meta, createLibraryStatusControl(lead));
+  body.append(title, sourceLine, note, meta, createLibraryStatusControl(lead), createLibraryCitationDetails(lead));
 
   const links = document.createElement("div");
   links.className = "record-links";

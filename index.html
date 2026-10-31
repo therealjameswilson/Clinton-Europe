@@ -8,7 +8,7 @@
       name="description"
       content="A compiler-facing research desk for FRUS 1993-2000 Volumes XXII, XXIII, and XXIV on Clinton-era Europe."
     />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=citations-20261031-v1" />
     <style id="compiler-network-style">
       .compiler-network {
         border-bottom: 1px solid rgba(31, 41, 51, 0.14);
@@ -524,9 +524,19 @@
         </div>
         <p class="records-intro">
           The 2013-0185-M finding-aid parts are parsed into high-yield pull clusters,
-          box/OA targets, and searchable folder leads. The goal is to spend reading-room
+          OA/ID targets, and searchable folder leads. The goal is to spend reading-room
           time on decision files, trip books, briefing books, and dense Europe staff runs
           before lower-yield context files.
+        </p>
+        <p class="library-citation-overview">
+          The presidential-record citation cross-check covers all 2,875 leads:
+          1,539 have one exact folder-stem match, 16 have multiple candidate rows,
+          and 1,320 have no exact match. These are <strong>folder citation stems,
+          not verified individual-document citations</strong> (0 item citations verified).
+          Open a lead’s citation section to copy its plain Source: line and inspect
+          review flags, restriction markers and location differences separately.
+          OA/ID values are finding-aid identifiers, not verified physical box numbers.
+          <a href="data/clinton-presidential-citation-matches.json">Download the complete cross-check and source version</a>.
         </p>
         <div id="library-overview-root" class="library-overview-root" aria-live="polite">
           <p class="loading">Loading Clinton Library research plan...</p>
@@ -661,7 +671,7 @@
   <script src="data/potential-documents.js?v=20261031"></script>
   <script src="data/compiler-gaps.js?v=20261031"></script>
     <script src="data/clinton-library-research.js"></script>
-  <script src="app.js?v=20261031"></script>
+  <script src="app.js?v=citations-20261031-v1"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");
@@ -729,5 +739,11 @@
         });
       })();
     </script>
-  </body>
+  <section data-presidential-citations data-citation-era="clinton" aria-label="Presidential-record citation resources">
+  <h2>Presidential-record citation resources</h2>
+  <p>Search and copy source-note stems. Folder and series matches are not verified document citations; preserve stronger item citations and State Department FOIA provenance.</p>
+  <p><a href="https://therealjameswilson.github.io/bush41-nsc-source-notes/">Bush 41: 70,432 canonical entries</a> · <a href="https://therealjameswilson.github.io/clinton-2013-0185-source-notes/">Clinton: 42,413 finding-aid rows</a></p>
+</section>
+<script defer src="https://therealjameswilson.github.io/Compiler-Assist/assets/presidential-citations.js?v=20261031" data-era="clinton"></script>
+</body>
 </html>

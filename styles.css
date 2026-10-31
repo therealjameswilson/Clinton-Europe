@@ -1628,6 +1628,106 @@ dd {
   opacity: 0.56;
 }
 
+.library-citation-overview {
+  max-width: 85ch;
+  padding: 14px 16px;
+  border-left: 3px solid var(--blue);
+  background: rgba(23, 50, 77, 0.05);
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+.library-citation-details {
+  min-width: 0;
+  margin-top: 14px;
+  padding: 10px 12px;
+  border: 1px solid rgba(23, 50, 77, 0.18);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.65);
+  font-size: 0.84rem;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+
+.library-citation-details > summary {
+  cursor: pointer;
+  color: var(--blue);
+  font-weight: 800;
+  min-height: 28px;
+}
+
+.library-citation-content p {
+  margin: 10px 0;
+}
+
+.library-citation-warning {
+  padding-left: 10px;
+  border-left: 3px solid #aa7d3d;
+}
+
+.library-citation-candidate {
+  min-width: 0;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(23, 50, 77, 0.16);
+}
+
+.library-citation-candidate h4 {
+  margin: 0 0 10px;
+  color: var(--blue);
+  font-size: 0.86rem;
+}
+
+.library-citation-label {
+  display: block;
+  font-weight: 700;
+}
+
+.library-citation-source {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  min-height: 106px;
+  margin-top: 6px;
+  padding: 9px 10px;
+  border: 1px solid rgba(23, 50, 77, 0.3);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.86rem;
+  font-weight: 400;
+  line-height: 1.55;
+  resize: vertical;
+}
+
+.library-citation-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 14px;
+  margin-top: 8px;
+}
+
+.library-citation-actions .copy-button {
+  min-height: 44px;
+}
+
+.library-citation-details :is(button, a, textarea, summary):focus-visible {
+  outline: 3px solid #b77622;
+  outline-offset: 3px;
+}
+
+.library-citation-status {
+  min-height: 1.5em;
+  font-weight: 700;
+}
+
+.library-citation-evidence {
+  font-size: 0.78rem;
+}
+
 .record-source-note p {
   margin: 8px 0 0;
   overflow-wrap: anywhere;
